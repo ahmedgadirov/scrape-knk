@@ -1,0 +1,13 @@
+cat > config.json << 'EOF'
+{
+  "threads": 2,
+  "max_retries": 2,
+  "base_delay": 2.0,
+  "max_delay": 4.0,
+  "timeout": 8,
+  "page_load_timeout": 20,
+  "headless": false,
+  "restart_after": 20,
+  "human_scroll": false
+}
+EOF

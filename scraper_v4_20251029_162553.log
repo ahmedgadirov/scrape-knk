@@ -1,0 +1,8 @@
+2025-10-29 16:25:53,845 - WARNING - MainThread - Could not load urls.json: Illegal trailing comma before end of array: line 252 column 101 (char 20228)
+2025-10-29 16:25:53,846 - INFO - MainThread - Total URLs: 2, Pending: 2, Threads: 3
+2025-10-29 16:25:53,846 - ERROR - Worker-1 - Failed to create driver: cannot import name 'ChromeType' from 'webdriver_manager.core.utils' (/home/ahmd/Documents/scrape-knk/venv/lib/python3.13/site-packages/webdriver_manager/core/utils.py)
+2025-10-29 16:25:53,846 - ERROR - Worker-2 - Failed to create driver: cannot import name 'ChromeType' from 'webdriver_manager.core.utils' (/home/ahmd/Documents/scrape-knk/venv/lib/python3.13/site-packages/webdriver_manager/core/utils.py)
+2025-10-29 16:25:53,847 - ERROR - Worker-3 - Failed to create driver: cannot import name 'ChromeType' from 'webdriver_manager.core.utils' (/home/ahmd/Documents/scrape-knk/venv/lib/python3.13/site-packages/webdriver_manager/core/utils.py)
+2025-10-29 16:25:53,847 - ERROR - Worker-1 - Initial driver creation failed, worker exiting.
+2025-10-29 16:25:53,847 - ERROR - Worker-2 - Initial driver creation failed, worker exiting.
+2025-10-29 16:25:53,847 - ERROR - Worker-3 - Initial driver creation failed, worker exiting.

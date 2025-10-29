@@ -1,0 +1,119 @@
+2025-10-29 16:15:15,098 - WARNING - MainThread - Could not load urls.json: Illegal trailing comma before end of array: line 252 column 101 (char 20228)
+2025-10-29 16:15:15,098 - INFO - MainThread - Total URLs: 2, Pending: 2, Threads: 3
+2025-10-29 16:15:15,099 - INFO - Worker-1 - ====== WebDriver manager ======
+2025-10-29 16:15:15,099 - INFO - Worker-2 - ====== WebDriver manager ======
+2025-10-29 16:15:15,099 - INFO - Worker-3 - ====== WebDriver manager ======
+2025-10-29 16:15:15,135 - INFO - Worker-2 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:15:15,136 - INFO - Worker-3 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:15:15,140 - INFO - Worker-1 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:15:15,613 - INFO - Worker-1 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-10-29 16:15:15,616 - INFO - Worker-3 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-10-29 16:15:15,618 - INFO - Worker-2 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-10-29 16:15:15,957 - INFO - Worker-3 - Driver downloading response is 200
+2025-10-29 16:15:15,960 - INFO - Worker-2 - Driver downloading response is 200
+2025-10-29 16:15:15,974 - INFO - Worker-1 - Driver downloading response is 200
+2025-10-29 16:15:22,173 - INFO - Worker-1 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:15:23,018 - INFO - Worker-1 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:15:23,245 - INFO - Worker-2 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:15:23,389 - INFO - Worker-3 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:15:23,457 - INFO - Worker-1 - Driver has been saved in cache [/home/ahmd/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-10-29 16:15:23,493 - ERROR - Worker-1 - Failed to create driver: Message: unknown error: cannot find Chrome binary
+Stacktrace:
+#0 0x5571251f04e3 <unknown>
+#1 0x557124f1fc76 <unknown>
+#2 0x557124f46757 <unknown>
+#3 0x557124f45029 <unknown>
+#4 0x557124f83ccc <unknown>
+#5 0x557124f8347f <unknown>
+#6 0x557124f7ade3 <unknown>
+#7 0x557124f502dd <unknown>
+#8 0x557124f5134e <unknown>
+#9 0x5571251b03e4 <unknown>
+#10 0x5571251b43d7 <unknown>
+#11 0x5571251beb20 <unknown>
+#12 0x5571251b5023 <unknown>
+#13 0x5571251831aa <unknown>
+#14 0x5571251d96b8 <unknown>
+#15 0x5571251d9847 <unknown>
+#16 0x5571251e9243 <unknown>
+#17 0x7f81fea969cb <unknown>
+#18 0x7f81feb1aa0c <unknown>
+
+2025-10-29 16:15:23,494 - ERROR - Worker-1 - Initial driver creation failed, worker exiting.
+2025-10-29 16:15:23,735 - INFO - Worker-2 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:15:23,873 - INFO - Worker-3 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:15:24,090 - INFO - Worker-2 - Driver has been saved in cache [/home/ahmd/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-10-29 16:15:24,113 - ERROR - Worker-2 - Failed to create driver: Message: unknown error: cannot find Chrome binary
+Stacktrace:
+#0 0x55b56ef324e3 <unknown>
+#1 0x55b56ec61c76 <unknown>
+#2 0x55b56ec88757 <unknown>
+#3 0x55b56ec87029 <unknown>
+#4 0x55b56ecc5ccc <unknown>
+#5 0x55b56ecc547f <unknown>
+#6 0x55b56ecbcde3 <unknown>
+#7 0x55b56ec922dd <unknown>
+#8 0x55b56ec9334e <unknown>
+#9 0x55b56eef23e4 <unknown>
+#10 0x55b56eef63d7 <unknown>
+#11 0x55b56ef00b20 <unknown>
+#12 0x55b56eef7023 <unknown>
+#13 0x55b56eec51aa <unknown>
+#14 0x55b56ef1b6b8 <unknown>
+#15 0x55b56ef1b847 <unknown>
+#16 0x55b56ef2b243 <unknown>
+#17 0x7f67296969cb <unknown>
+#18 0x7f672971aa0c <unknown>
+
+2025-10-29 16:15:24,113 - ERROR - Worker-2 - Initial driver creation failed, worker exiting.
+2025-10-29 16:15:24,336 - INFO - Worker-3 - Driver has been saved in cache [/home/ahmd/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-10-29 16:15:24,361 - ERROR - Worker-3 - Failed to create driver: Message: unknown error: cannot find Chrome binary
+Stacktrace:
+#0 0x55d75cdfe4e3 <unknown>
+#1 0x55d75cb2dc76 <unknown>
+#2 0x55d75cb54757 <unknown>
+#3 0x55d75cb53029 <unknown>
+#4 0x55d75cb91ccc <unknown>
+#5 0x55d75cb9147f <unknown>
+#6 0x55d75cb88de3 <unknown>
+#7 0x55d75cb5e2dd <unknown>
+#8 0x55d75cb5f34e <unknown>
+#9 0x55d75cdbe3e4 <unknown>
+#10 0x55d75cdc23d7 <unknown>
+#11 0x55d75cdccb20 <unknown>
+#12 0x55d75cdc3023 <unknown>
+#13 0x55d75cd911aa <unknown>
+#14 0x55d75cde76b8 <unknown>
+#15 0x55d75cde7847 <unknown>
+#16 0x55d75cdf7243 <unknown>
+#17 0x7fee068969cb <unknown>
+#18 0x7fee0691aa0c <unknown>
+
+2025-10-29 16:15:24,361 - ERROR - Worker-3 - Initial driver creation failed, worker exiting.
+2025-10-29 16:16:10,400 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:10,831 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:11,150 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:11,453 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:11,688 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:11,916 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:12,099 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:12,286 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:12,885 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:12,928 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:12,966 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,007 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,046 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,087 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,126 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,166 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,206 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,246 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,286 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,326 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,367 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:13,406 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:19,423 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:19,599 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:19,780 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:19,965 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:16:20,146 - INFO - MainThread - SIGINT received, will stop after current tasks.

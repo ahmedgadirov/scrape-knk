@@ -1,0 +1,104 @@
+2025-10-29 16:19:44,662 - WARNING - MainThread - Could not load urls.json: Illegal trailing comma before end of array: line 252 column 101 (char 20228)
+2025-10-29 16:19:44,662 - INFO - MainThread - Total URLs: 2, Pending: 2, Threads: 3
+2025-10-29 16:19:44,663 - INFO - Worker-1 - ====== WebDriver manager ======
+2025-10-29 16:19:44,663 - INFO - Worker-2 - ====== WebDriver manager ======
+2025-10-29 16:19:44,663 - INFO - Worker-3 - ====== WebDriver manager ======
+2025-10-29 16:19:44,686 - INFO - Worker-1 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:19:44,687 - INFO - Worker-3 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:19:44,690 - INFO - Worker-2 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:19:45,148 - INFO - Worker-1 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-10-29 16:19:45,143 - INFO - Worker-2 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-10-29 16:19:45,154 - INFO - Worker-3 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-10-29 16:19:45,570 - INFO - Worker-3 - Driver downloading response is 200
+2025-10-29 16:19:45,575 - INFO - Worker-2 - Driver downloading response is 200
+2025-10-29 16:19:45,579 - INFO - Worker-1 - Driver downloading response is 200
+2025-10-29 16:19:52,502 - INFO - Worker-3 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:19:52,998 - INFO - Worker-2 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:19:53,342 - INFO - Worker-3 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:19:53,638 - INFO - Worker-2 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:19:53,772 - INFO - Worker-3 - Driver has been saved in cache [/home/ahmd/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-10-29 16:19:54,028 - INFO - Worker-1 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:19:54,066 - INFO - Worker-2 - Driver has been saved in cache [/home/ahmd/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-10-29 16:19:54,074 - ERROR - Worker-3 - Failed to create driver: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 141.0.7390.122 with binary path /usr/sbin/chromium; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5588769784e3 <unknown>
+#1 0x5588766a7c76 <unknown>
+#2 0x5588766d504a <unknown>
+#3 0x5588766d04a1 <unknown>
+#4 0x5588766cd029 <unknown>
+#5 0x55887670bccc <unknown>
+#6 0x55887670b47f <unknown>
+#7 0x558876702de3 <unknown>
+#8 0x5588766d82dd <unknown>
+#9 0x5588766d934e <unknown>
+#10 0x5588769383e4 <unknown>
+#11 0x55887693c3d7 <unknown>
+#12 0x558876946b20 <unknown>
+#13 0x55887693d023 <unknown>
+#14 0x55887690b1aa <unknown>
+#15 0x5588769616b8 <unknown>
+#16 0x558876961847 <unknown>
+#17 0x558876971243 <unknown>
+#18 0x7fbc410969cb <unknown>
+#19 0x7fbc4111aa0c <unknown>
+
+2025-10-29 16:19:54,075 - ERROR - Worker-3 - Initial driver creation failed, worker exiting.
+2025-10-29 16:19:54,344 - ERROR - Worker-2 - Failed to create driver: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 141.0.7390.122 with binary path /usr/sbin/chromium; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x560229f024e3 <unknown>
+#1 0x560229c31c76 <unknown>
+#2 0x560229c5f04a <unknown>
+#3 0x560229c5a4a1 <unknown>
+#4 0x560229c57029 <unknown>
+#5 0x560229c95ccc <unknown>
+#6 0x560229c9547f <unknown>
+#7 0x560229c8cde3 <unknown>
+#8 0x560229c622dd <unknown>
+#9 0x560229c6334e <unknown>
+#10 0x560229ec23e4 <unknown>
+#11 0x560229ec63d7 <unknown>
+#12 0x560229ed0b20 <unknown>
+#13 0x560229ec7023 <unknown>
+#14 0x560229e951aa <unknown>
+#15 0x560229eeb6b8 <unknown>
+#16 0x560229eeb847 <unknown>
+#17 0x560229efb243 <unknown>
+#18 0x7fb4874969cb <unknown>
+#19 0x7fb48751aa0c <unknown>
+
+2025-10-29 16:19:54,344 - ERROR - Worker-2 - Initial driver creation failed, worker exiting.
+2025-10-29 16:19:54,345 - INFO - Worker-1 - Get LATEST chromedriver version for google-chrome
+2025-10-29 16:19:54,777 - INFO - Worker-1 - Driver has been saved in cache [/home/ahmd/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-10-29 16:19:55,108 - ERROR - Worker-1 - Failed to create driver: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 141.0.7390.122 with binary path /usr/sbin/chromium; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x563ee027e4e3 <unknown>
+#1 0x563edffadc76 <unknown>
+#2 0x563edffdb04a <unknown>
+#3 0x563edffd64a1 <unknown>
+#4 0x563edffd3029 <unknown>
+#5 0x563ee0011ccc <unknown>
+#6 0x563ee001147f <unknown>
+#7 0x563ee0008de3 <unknown>
+#8 0x563edffde2dd <unknown>
+#9 0x563edffdf34e <unknown>
+#10 0x563ee023e3e4 <unknown>
+#11 0x563ee02423d7 <unknown>
+#12 0x563ee024cb20 <unknown>
+#13 0x563ee0243023 <unknown>
+#14 0x563ee02111aa <unknown>
+#15 0x563ee02676b8 <unknown>
+#16 0x563ee0267847 <unknown>
+#17 0x563ee0277243 <unknown>
+#18 0x7f64240969cb <unknown>
+#19 0x7f642411aa0c <unknown>
+
+2025-10-29 16:19:55,108 - ERROR - Worker-1 - Initial driver creation failed, worker exiting.
+2025-10-29 16:20:36,627 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:20:36,873 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:20:37,040 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:20:37,222 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:20:37,417 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:20:37,605 - INFO - MainThread - SIGINT received, will stop after current tasks.

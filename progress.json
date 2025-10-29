@@ -1,0 +1,37 @@
+{
+  "completed": [
+    "https://kontakt.az/adapter-apple-35w-dual-usb-c-power-a2676-mw2k3zm-a",
+    "https://kontakt.az/adapter-apple-30w-usb-c-power-a2164-mw2g3zm-a"
+  ],
+  "failed": [],
+  "results": [
+    {
+      "url": "https://kontakt.az/adapter-apple-35w-dual-usb-c-power-a2676-mw2k3zm-a",
+      "title": "Adapter Apple 35W Dual USB-C Power A2676 / MW2K3ZM/A",
+      "sku": "SKU:TM-DG-ACS-1109-AP-0327",
+      "brand": "Apple",
+      "category": null,
+      "price": "164.99",
+      "discount": "5",
+      "availability": "In Stock",
+      "specifications": "{\"Brend\": \"Apple\", \"Girişlər\": \"USB Type-C\", \"Güc\": \"35 Vt\", \"Uyğunluq\": \"Apple Watch, MacBook, iPhone, iPad\", \"Komplektasiya\": \"Adapter\", \"Rəng\": \"Ağ\", \"Amper\": \"3 А\"}",
+      "images": "https://kontakt.az/media/catalog/product/cache/a252e3db3d11365dd1457895056a5f34/t/m/tm-dg-acs-1109-ap-0327_2.png|https://kontakt.az/media/catalog/product/cache/a252e3db3d11365dd1457895056a5f34/t/m/tm-dg-acs-1109-ap-0327_1.png|https://kontakt.az/media/catalog/product/cache/a252e3db3d11365dd1457895056a5f34/t/m/tm-dg-acs-1109-ap-0327_10.png",
+      "scraped_at": "2025-10-29T16:29:29.592973"
+    },
+    {
+      "url": "https://kontakt.az/adapter-apple-30w-usb-c-power-a2164-mw2g3zm-a",
+      "title": "Adapter Apple 30W USB-C Power A2164 / MW2G3ZM/A",
+      "sku": "SKU:TM-DG-ACS-1109-AP-0326",
+      "brand": "Apple",
+      "category": null,
+      "price": "119.99",
+      "discount": "30",
+      "availability": "Pre-order / Out of Stock",
+      "specifications": "{\"Brend\": \"Apple\", \"Girişlər\": \"USB Type-C\", \"Güc\": \"30 Vt\", \"Uyğunluq\": \"MacBook Air, iPhone, iPad Pro\", \"Komplektasiya\": \"Adapter\", \"Rəng\": \"Ağ\", \"Amper\": \"3 А\"}",
+      "images": "https://kontakt.az/media/catalog/product/cache/a252e3db3d11365dd1457895056a5f34/t/m/tm-dg-acs-1109-ap-0326_1.png|https://kontakt.az/media/catalog/product/cache/a252e3db3d11365dd1457895056a5f34/t/m/tm-dg-acs-1109-ap-0326_2.png|https://kontakt.az/media/catalog/product/cache/a252e3db3d11365dd1457895056a5f34/t/m/tm-dg-acs-1109-ap-0326_8.png",
+      "scraped_at": "2025-10-29T16:29:30.419127"
+    }
+  ],
+  "pos": 2,
+  "timestamp": "2025-10-29T16:29:36.049630"
+}

@@ -400,7 +400,7 @@ def transform_row(row):
 
 def main():
     """Main transformation function"""
-    input_file = 'kontakt_products_enhanced_20251028_213233.csv'
+    input_file = 'kontakt_products_v3_20251029_175836.csv'
     
     # Check if input file exists
     if not os.path.exists(input_file):

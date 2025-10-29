@@ -1,0 +1,1057 @@
+2025-10-29 15:42:15,906 - INFO - ✅ WebDriver created successfully
+2025-10-29 15:42:15,907 - INFO - 🔍 Scraping [1] (attempt 1): adapter-apple-30w-usb-c-power-a2164-mw2g3zm-a
+2025-10-29 15:42:23,525 - INFO - ✅ [1/500] Adapter Apple 30W USB-C Power A2164 / MW2G3ZM/A
+2025-10-29 15:42:27,719 - INFO - 🔍 Scraping [2] (attempt 1): adapter-apple-35w-dual-usb-c-power-a2676-mw2k3zm-a
+2025-10-29 15:42:32,608 - INFO - ✅ [2/500] Adapter Apple 35W Dual USB-C Power A2676 / MW2K3ZM
+2025-10-29 15:42:37,135 - INFO - 🔍 Scraping [3] (attempt 1): adapter-apple-96w-usb-c-mx0j2zm-a
+2025-10-29 15:42:42,483 - INFO - ✅ [3/500] Apple 96W USB-C Adapter MX0J2ZM/A/MW2L3ZM/A
+2025-10-29 15:42:47,734 - INFO - 🔍 Scraping [4] (attempt 1): adapter-apple-dual-usb-c-mnwp3zm-a
+2025-10-29 15:42:52,520 - INFO - ✅ [4/500] Adapter Apple 35W Dual USB-C MNWP3ZM/A
+2025-10-29 15:42:59,559 - INFO - 🔍 Scraping [5] (attempt 1): apple-12w-power-adapter-md836
+2025-10-29 15:43:03,958 - INFO - ✅ [5/500] Apple 12W Power Adapter Md836
+2025-10-29 15:43:10,909 - INFO - 🔍 Scraping [6] (attempt 1): apple-12w-usb-adapter-mgn03za-a
+2025-10-29 15:43:15,975 - INFO - ✅ [6/500] Apple 12W USB Adapter MGN03ZA/A
+2025-10-29 15:43:20,015 - INFO - 🔍 Scraping [7] (attempt 1): apple-140w-usb-c-power-adapter-mlyu3zm-a
+2025-10-29 15:43:24,529 - INFO - ✅ [7/500] APPLE 140W USB-C POWER ADAPTER MLYU3ZM/A/MW2M3ZM/A
+2025-10-29 15:43:30,308 - INFO - 🔍 Scraping [8] (attempt 1): apple-20w-usb-c-adapter-mhje3zm-a
+2025-10-29 15:43:35,568 - INFO - ✅ [8/500] Adapter Apple 20W USB-C MHJE3ZM/A / MUVV3ZM/A / MD
+2025-10-29 15:43:40,468 - INFO - 🔍 Scraping [9] (attempt 1): apple-30w-usb-c-adapter-macbook-12
+2025-10-29 15:43:45,993 - INFO - ✅ [9/500] Apple 30W Usb-C Adapter Macbook 12
+2025-10-29 15:43:50,568 - INFO - 🔍 Scraping [10] (attempt 1): apple-40mm-black-unity-sport-band-m-l-muq63zm-a
+2025-10-29 15:43:54,906 - INFO - ✅ [10/500] Kəmər Apple Black Unity Sport Band M/L / MUQ63ZM/A
+2025-10-29 15:44:02,600 - INFO - 🔍 Scraping [11] (attempt 1): apple-41-mm-evergreen-magnetic-link-m-l-mtj63zm-a
+2025-10-29 15:44:07,155 - INFO - ✅ [11/500] Apple 41 mm Evergreen Magnetic Link M/L / MTJ63ZM/
+2025-10-29 15:44:14,384 - INFO - 🔍 Scraping [12] (attempt 1): apple-41-mm-silver-milanese-loop-ml753zm-a
+2025-10-29 15:44:20,477 - INFO - ✅ [12/500] Kəmər Apple Silver Milanese Loop / ML753ZM/A
+2025-10-29 15:44:24,876 - INFO - 🔍 Scraping [13] (attempt 1): apple-41-mm-taupe-magnetic-link-mtj83zm-a
+2025-10-29 15:44:29,194 - INFO - ✅ [13/500] Kəmər Apple Taupe Magnetic Link / MTJ83ZM/A
+2025-10-29 15:44:35,320 - INFO - 🔍 Scraping [14] (attempt 1): apple-41mm-black-black-nike-sport-band-mpgn3zm
+2025-10-29 15:44:41,068 - INFO - ✅ [14/500] Apple 41mm Black/Black Nike Sport Band / MPGN3ZM
+2025-10-29 15:44:47,822 - INFO - 🔍 Scraping [15] (attempt 1): apple-41mm-blue-flame-nike-sport-band-m-l-muuu3zm-
+2025-10-29 15:44:52,237 - INFO - ✅ [15/500] Kəmər Apple Blue Flame Nike Sport Band M/L / MUUU3
+2025-10-29 15:44:59,416 - INFO - 🔍 Scraping [16] (attempt 1): apple-41mm-cargo-khaki-nike-sport-band-m-l-muuw3zm
+2025-10-29 15:45:03,941 - INFO - ✅ [16/500] Kəmər Apple Cargo Khaki Nike Sport Band M/L / MUUW
+2025-10-29 15:45:09,304 - INFO - 🔍 Scraping [17] (attempt 1): apple-41mm-clay-sport-band-m-l-mt3a3zm-a
+2025-10-29 15:45:14,832 - INFO - ✅ [17/500] Kəmər Apple Clay Sport Band M/L / MT3A3ZM/A
+2025-10-29 15:45:20,593 - INFO - 🔍 Scraping [18] (attempt 1): apple-41mm-desert-stone-nike-sport-band-m-l-muur3z
+2025-10-29 15:45:27,455 - INFO - ✅ [18/500] Apple 41mm Desert Stone Nike Sport Band M/L / MUUR
+2025-10-29 15:45:34,540 - INFO - 🔍 Scraping [19] (attempt 1): apple-41mm-gold-milanese-loop-ml733zm-a
+2025-10-29 15:45:39,345 - INFO - ✅ [19/500] Kəmər Apple Gold Milanese Loop / ML733ZM/A
+2025-10-29 15:45:46,613 - INFO - 🔍 Scraping [20] (attempt 1): apple-41mm-light-pink-sport-band-m-l-mt303zm-a
+2025-10-29 15:45:51,610 - INFO - ✅ [20/500] Apple 41mm Light Pink Sport Band M/L / MT303ZM/A
+2025-10-29 15:45:58,948 - INFO - 🔍 Scraping [21] (attempt 1): apple-41mm-magic-ember-nike-sport-band-m-l-muuy3zm
+2025-10-29 15:46:04,105 - INFO - ✅ [21/500] Kəmər Apple Magic Ember Nike Sport Band M/L / MUUY
+2025-10-29 15:46:10,436 - INFO - 🔍 Scraping [22] (attempt 1): apple-41mm-midnight-sky-nike-sport-band-m-l-muup3z
+2025-10-29 15:46:15,908 - INFO - ✅ [22/500] Apple 41mm Midnight Sky Nike Sport Band M/L / MUUP
+2025-10-29 15:46:22,462 - INFO - 🔍 Scraping [23] (attempt 1): apple-41mm-midnight-sport-band-m-l-mt2t3zm-a
+2025-10-29 15:46:27,411 - INFO - ✅ [23/500] Apple 41mm Midnight Sport Band M/L / MT2T3ZM/A
+2025-10-29 15:46:33,834 - INFO - 🔍 Scraping [24] (attempt 1): apple-41mm-mulberry-sport-band-m-l-mt343zm-a
+2025-10-29 15:46:38,893 - INFO - ✅ [24/500] Apple 41mm Mulberry Sport Band  M/L / MT343ZM/A
+2025-10-29 15:46:45,561 - INFO - 🔍 Scraping [25] (attempt 1): apple-41mm-pride-edition-sport-band-m-l-muq23zm-a
+2025-10-29 15:46:49,738 - INFO - ✅ [25/500] Kəmər Apple Pride Edition Sport Band M/L / MUQ23ZM
+2025-10-29 15:46:56,846 - INFO - 🔍 Scraping [26] (attempt 1): apple-41mm-pure-platinum-nike-sport-band-m-l-muul3
+2025-10-29 15:46:56,847 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 15:46:57,340 - INFO - ✅ WebDriver created successfully
+2025-10-29 15:47:05,125 - INFO - ✅ [26/500] Kəmər Apple Pure Platinum Nike Sport Band M/L / MU
+2025-10-29 15:47:12,527 - INFO - 🔍 Scraping [27] (attempt 1): apple-41mm-starlight-sport-band-m-l-mt2v3zm-a
+2025-10-29 15:47:17,896 - INFO - ✅ [27/500] Apple 41mm Starlight Sport Band M/L / MT2V3ZM/A
+2025-10-29 15:47:25,049 - INFO - 🔍 Scraping [28] (attempt 1): apple-41mm-storm-blue-sport-band-m-l-mt2x3zm-a
+2025-10-29 15:47:31,208 - INFO - ✅ [28/500] Kəmər Apple Storm Blue Sport Band M/L / MT2X3ZM/A
+2025-10-29 15:47:36,835 - INFO - 🔍 Scraping [29] (attempt 1): apple-41mm-winter-blue-sport-band-m-l-mt363zm-a
+2025-10-29 15:47:41,429 - INFO - ✅ [29/500] Apple 41mm Winter Blue Sport Band M/L / MT363ZM/A
+2025-10-29 15:47:47,943 - INFO - 🔍 Scraping [30] (attempt 1): apple-42-mm-blue-cloud-sport-loop-mxkx3zm-a
+2025-10-29 15:47:53,350 - INFO - ✅ [30/500] Apple 42 mm Blue Cloud Sport Loop MXKX3ZM/A
+2025-10-29 15:47:57,962 - INFO - 🔍 Scraping [31] (attempt 1): apple-42-mm-ink-sport-loop-mxkw3zm-a
+2025-10-29 15:48:02,969 - INFO - ✅ [31/500] Apple 42 mm İnk Sport Loop MXKW3ZM/A
+2025-10-29 15:48:09,790 - INFO - 🔍 Scraping [32] (attempt 1): apple-42-mm-ultramarine-sport-loop-mxl03zm-a
+2025-10-29 15:48:16,296 - INFO - ✅ [32/500] Apple 42 mm Ultramarine Sport Loop MXL03ZM/A
+2025-10-29 15:48:21,063 - INFO - 🔍 Scraping [33] (attempt 1): apple-42mm-black-sport-band-s-m-mxlj3zm-a
+2025-10-29 15:48:26,122 - INFO - ✅ [33/500] Kəmər Apple Black Sport Band S/M MXLJ3ZM/A
+2025-10-29 15:48:31,386 - INFO - 🔍 Scraping [34] (attempt 1): apple-42mm-blue-flame-nike-sport-band-s-m-myjw3zm-
+2025-10-29 15:48:35,857 - INFO - ✅ [34/500] Kəmər Apple Blue Flame Nike Sport Band S/M / MYJW3
+2025-10-29 15:48:41,087 - INFO - 🔍 Scraping [35] (attempt 1): apple-42mm-cargo-khaki-nike-sport-band-s-m-myjy3zm
+2025-10-29 15:48:45,111 - INFO - ✅ [35/500] Kəmər Apple Cargo Khaki Nike Sport Band S/M / MYJY
+2025-10-29 15:48:51,087 - INFO - 🔍 Scraping [36] (attempt 1): apple-42mm-denim-sport-band-s-m-mxle3zm-a
+2025-10-29 15:48:56,104 - INFO - ✅ [36/500] Kəmər Apple Denim Sport Band S/M / MXLE3ZM/A
+2025-10-29 15:49:02,564 - INFO - 🔍 Scraping [37] (attempt 1): apple-42mm-desert-stone-nike-sport-band-s-m-myjr3z
+2025-10-29 15:49:08,407 - INFO - ✅ [37/500] Kəmər Apple Desert Stone Nike Sport Band S/M / MYJ
+2025-10-29 15:49:12,834 - INFO - 🔍 Scraping [38] (attempt 1): apple-42mm-gold-milanese-loop-mxmn3zm-a
+2025-10-29 15:49:22,925 - INFO - ✅ [38/500] Kəmər Apple Gold Milanese Loop / MXMN3ZM/A
+2025-10-29 15:49:27,938 - INFO - 🔍 Scraping [39] (attempt 1): apple-42mm-light-blush-sport-band-s-m-mxln3zm-a
+2025-10-29 15:49:37,591 - INFO - ✅ [39/500] Kəmər Apple Light Blush Sport Band S/M MXLN3ZM/A
+2025-10-29 15:49:43,837 - INFO - 🔍 Scraping [40] (attempt 1): apple-42mm-magic-ember-nike-sport-band-s-m-myl23zm
+2025-10-29 15:49:53,244 - INFO - ✅ [40/500] Kəmər Apple Magic Ember Nike Sport Band S/M / MYL2
+2025-10-29 15:49:59,572 - INFO - 🔍 Scraping [41] (attempt 1): apple-42mm-midnight-sky-nike-sport-band-s-m-myjp3z
+2025-10-29 15:50:07,950 - INFO - ✅ [41/500] Kəmər Apple Midnight Sky Nike Sport Band S/M / MYJ
+2025-10-29 15:50:14,340 - INFO - 🔍 Scraping [42] (attempt 1): apple-42mm-natural-milanese-loop-mxmm3zm-a
+2025-10-29 15:50:24,084 - INFO - ✅ [42/500] Kəmər Apple Natural Milanese Loop / MXMM3ZM/A
+2025-10-29 15:50:29,512 - INFO - 🔍 Scraping [43] (attempt 1): apple-42mm-plum-sport-band-s-m-mxlc3zm-a
+2025-10-29 15:50:38,372 - INFO - ✅ [43/500] Kəmər Apple Plum Sport Band S/M / MXLC3ZM/A
+2025-10-29 15:50:43,407 - INFO - 🔍 Scraping [44] (attempt 1): apple-42mm-plum-sport-loop-mxky3zm-a
+2025-10-29 15:50:50,867 - INFO - ✅ [44/500] Kəmər Apple Plum Sport Loop / MXKY3ZM/A
+2025-10-29 15:50:56,744 - INFO - 🔍 Scraping [45] (attempt 1): apple-42mm-pure-platinum-nike-sport-band-s-m-myjm3
+2025-10-29 15:51:01,629 - INFO - ✅ [45/500] Kəmər Apple Pure Platinum Nike Sport Band S/M / MY
+2025-10-29 15:51:09,126 - INFO - 🔍 Scraping [46] (attempt 1): apple-42mm-slate-milanese-loop-mxmp3zm-a
+2025-10-29 15:51:19,658 - INFO - ✅ [46/500] Kəmər Apple Slate Milanese Loop / MXMP3ZM/A
+2025-10-29 15:51:25,676 - INFO - 🔍 Scraping [47] (attempt 1): apple-42mm-starlight-sport-band-s-m-mxll3zm-a
+2025-10-29 15:51:34,671 - INFO - ✅ [47/500] Kəmər Apple Starlight Sport Band S/M / MXLL3ZM/A
+2025-10-29 15:51:40,800 - INFO - 🔍 Scraping [48] (attempt 1): apple-42mm-stone-gray-s-m-mxlg3zm-a
+2025-10-29 15:51:49,992 - INFO - ✅ [48/500] Kəmər Apple Stone Gray S/M / MXLG3ZM/A
+2025-10-29 15:51:56,859 - INFO - 🔍 Scraping [49] (attempt 1): apple-42mm-volt-splash-nike-sport-band-s-m-mxu53zm
+2025-10-29 15:52:06,365 - INFO - ✅ [49/500] Kəmər Apple Volt Splash Nike Sport Band S/M / MXU5
+2025-10-29 15:52:12,714 - INFO - 🔍 Scraping [50] (attempt 1): apple-44-mm-black-unity-sport-band-m-l-muq83zm-a
+2025-10-29 15:52:23,259 - INFO - ✅ [50/500] Kəmər Apple Black Unity Sport Band M/L / MUQ83ZM/A
+2025-10-29 15:52:31,021 - INFO - 🔍 Scraping [51] (attempt 1): apple-45-mm-black-black-nike-sport-band-mph43zm-a
+2025-10-29 15:52:31,022 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 15:52:31,491 - INFO - ✅ WebDriver created successfully
+2025-10-29 15:52:43,185 - INFO - ✅ [51/500] Kəmər Apple Black/Black Nike Sport Band / MPH43ZM/
+2025-10-29 15:52:49,385 - INFO - 🔍 Scraping [52] (attempt 1): apple-45-mm-black-summit-white-nike-sport-loop-mpj
+2025-10-29 15:52:56,817 - INFO - ✅ [52/500] Kəmər Apple Black/Summit White Nike Sport Loop / M
+2025-10-29 15:53:04,120 - INFO - 🔍 Scraping [53] (attempt 1): apple-45-mm-silver-milanese-loop-ml783zm-a
+2025-10-29 15:53:11,319 - INFO - ✅ [53/500] Kəmər Apple Silver Milanese Loop / ML783ZM/A
+2025-10-29 15:53:15,365 - INFO - 🔍 Scraping [54] (attempt 1): apple-45-mm-storm-blue-sport-loop-mplg3zm-a
+2025-10-29 15:53:23,485 - INFO - ✅ [54/500] Kəmər Apple Storm Blue Sport Loop / MPLG3ZM/A
+2025-10-29 15:53:29,986 - INFO - 🔍 Scraping [55] (attempt 1): apple-45-mm-umber-leather-link-s-m-mp853zm-a
+2025-10-29 15:53:38,514 - INFO - ✅ [55/500] Kəmər Apple Umber Leather Link S/M / MP853ZM/A
+2025-10-29 15:53:42,561 - INFO - 🔍 Scraping [56] (attempt 1): apple-45mm-blue-flame-nike-sport-band-m-l-muv93zm-
+2025-10-29 15:53:46,780 - INFO - ✅ [56/500] Kəmər Apple Blue Flame Nike Sport Band M/L / MUV93
+2025-10-29 15:53:52,019 - INFO - 🔍 Scraping [57] (attempt 1): apple-45mm-cargo-khaki-nike-sport-band-m-l-muvd3zm
+2025-10-29 15:53:59,635 - INFO - ✅ [57/500] Apple 45mm Cargo Khaki Nike Sport Band M/L / MUVD3
+2025-10-29 15:54:06,531 - INFO - 🔍 Scraping [58] (attempt 1): apple-45mm-clay-sport-band-m-l-mt493zm-a
+2025-10-29 15:54:20,275 - INFO - ✅ [58/500] Kəmər Apple Clay Sport Band M/L / MT493ZM/A
+2025-10-29 15:54:26,664 - INFO - 🔍 Scraping [59] (attempt 1): apple-45mm-desert-stone-nike-sport-band-m-l-muv73z
+2025-10-29 15:54:37,166 - INFO - ✅ [59/500] Kəmər Apple Desert Stone Nike Sport Band M/L / MUV
+2025-10-29 15:54:44,646 - INFO - 🔍 Scraping [60] (attempt 1): apple-45mm-gold-milanese-loop-ml763zm-a
+2025-10-29 15:54:52,431 - INFO - ✅ [60/500] Kəmər Apple Gold Milanese Loop / ML763ZM/A
+2025-10-29 15:54:58,942 - INFO - 🔍 Scraping [61] (attempt 1): apple-45mm-graphite-milanese-loop-ml773zm-a
+2025-10-29 15:55:08,813 - INFO - ✅ [61/500] Kəmər Apple Graphite Milanese Loop / ML773ZM/A
+2025-10-29 15:55:13,437 - INFO - 🔍 Scraping [62] (attempt 1): apple-45mm-ink-leather-link-s-m-mp873zm-a
+2025-10-29 15:55:23,807 - INFO - ✅ [62/500] Kəmər Apple Ink Leather Link S/M / MP873ZM/A
+2025-10-29 15:55:27,974 - INFO - 🔍 Scraping [63] (attempt 1): apple-45mm-light-pink-sport-band-m-l-mt3v3zm-a
+2025-10-29 15:55:37,566 - INFO - ✅ [63/500] Apple 45mm Light Pink Sport Band M/L / MT3V3ZM/A
+2025-10-29 15:55:42,220 - INFO - 🔍 Scraping [64] (attempt 1): apple-45mm-magic-ember-nike-sport-band-m-l-muvf3zm
+2025-10-29 15:55:50,755 - INFO - ✅ [64/500] Kəmər Apple Magic Ember Nike Sport Band M/L / MUVF
+2025-10-29 15:55:56,403 - INFO - 🔍 Scraping [65] (attempt 1): apple-45mm-midnight-sky-nike-sport-band-m-l-muv53z
+2025-10-29 15:56:01,595 - INFO - ✅ [65/500] Kəmər Apple Midnight Sky Nike Sport Band M/L / MUV
+2025-10-29 15:56:07,399 - INFO - 🔍 Scraping [66] (attempt 1): apple-45mm-midnight-sport-band-m-l-mt3f3zm-a
+2025-10-29 15:56:15,614 - INFO - ✅ [66/500] Apple 45mm Midnight Sport Band M/L / MT3F3ZM/A
+2025-10-29 15:56:20,540 - INFO - 🔍 Scraping [67] (attempt 1): apple-45mm-mulberry-sport-band-m-l-mt403zm-a
+2025-10-29 15:56:28,334 - INFO - ✅ [67/500] Apple 45mm Mulberry Sport Band M/L / MT403ZM/A
+2025-10-29 15:56:34,204 - INFO - 🔍 Scraping [68] (attempt 1): apple-45mm-pride-edition-sport-band-m-l-muq43zm-a
+2025-10-29 15:56:39,684 - INFO - ✅ [68/500] Kəmər Apple Pride Edition Sport Band M/L / MUQ43ZM
+2025-10-29 15:56:44,174 - INFO - 🔍 Scraping [69] (attempt 1): apple-45mm-pure-platinum-nike-sport-band-m-l-muv13
+2025-10-29 15:56:52,652 - INFO - ✅ [69/500] Kəmər Apple Pure Platinum Nike Sport Band M/L / MU
+2025-10-29 15:56:58,615 - INFO - 🔍 Scraping [70] (attempt 1): apple-45mm-starlight-sport-band-m-l-mt3k3zm-a
+2025-10-29 15:57:07,231 - INFO - ✅ [70/500] Apple 45mm Starlight Sport Band M/L / MT3K3ZM/A
+2025-10-29 15:57:12,922 - INFO - 🔍 Scraping [71] (attempt 1): apple-45mm-storm-blue-sport-band-m-l-mt3r3zm-a
+2025-10-29 15:57:24,082 - INFO - ✅ [71/500] Kəmər Apple Storm Blue Sport Band M/L / MT3R3ZM/A
+2025-10-29 15:57:30,211 - INFO - 🔍 Scraping [72] (attempt 1): apple-45mm-summit-white-black-nike-sport-loop-mpj0
+2025-10-29 15:57:39,378 - INFO - ✅ [72/500] Kəmər Apple Summit White/Black Nike Sport Loop/ MP
+2025-10-29 15:57:43,474 - INFO - 🔍 Scraping [73] (attempt 1): apple-45mm-winter-blue-sport-band-m-l-mt443zm-a
+2025-10-29 15:57:51,352 - INFO - ✅ [73/500] Apple 45mm Winter Blue Sport Band M/L / MT443ZM/A
+2025-10-29 15:57:57,632 - INFO - 🔍 Scraping [74] (attempt 1): apple-45w-magsafe-2-adapter-macbook-air-13-md592
+2025-10-29 15:58:05,512 - INFO - ✅ [74/500] Apple 45W MagSafe 2 Adapter MacBook Air 13 MD592
+2025-10-29 15:58:10,943 - INFO - 🔍 Scraping [75] (attempt 1): apple-45w-magsafe-power-adapter-mc747z-a
+2025-10-29 15:58:19,346 - INFO - ✅ [75/500] Adapter Apple MagSafe 45W MC747Z/A
+2025-10-29 15:58:25,321 - INFO - 🔍 Scraping [76] (attempt 1): apple-46-mm-gold-milanese-loop-s-m-mc7k4zm-a
+2025-10-29 15:58:25,321 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 15:58:25,740 - INFO - ✅ WebDriver created successfully
+2025-10-29 15:58:33,017 - INFO - ✅ [76/500] Apple 46 mm Gold Milanese Loop S/M / MC7K4ZM/A
+2025-10-29 15:58:37,996 - INFO - 🔍 Scraping [77] (attempt 1): apple-46-mm-slate-milanese-loop-s-m-mc7l4zm-a
+2025-10-29 15:58:45,677 - INFO - ✅ [77/500] Apple 46 mm Slate Milanese Loop S/M / MC7L4ZM/A
+2025-10-29 15:58:51,338 - INFO - 🔍 Scraping [78] (attempt 1): apple-46mm-black-sport-band-s-m-mxm23zm-a
+2025-10-29 15:59:00,546 - INFO - ✅ [78/500] Kəmər Apple 46mm Black Sport Band S/M / MXM23ZM/A
+2025-10-29 15:59:06,939 - INFO - 🔍 Scraping [79] (attempt 1): apple-46mm-blue-cloud-sport-loop-mxl53zm-a
+2025-10-29 15:59:14,880 - INFO - ✅ [79/500] Kəmər Apple Blue Cloud Sport Loop / MXL53ZM/A
+2025-10-29 15:59:21,392 - INFO - 🔍 Scraping [80] (attempt 1): apple-46mm-blue-flame-nike-sport-band-s-m-myla3zm-
+2025-10-29 15:59:29,463 - INFO - ✅ [80/500] Kəmər Apple Blue Flame Nike Sport Band S/M / MYLA3
+2025-10-29 15:59:36,364 - INFO - 🔍 Scraping [81] (attempt 1): apple-46mm-cargo-khaki-nike-sport-band-s-m-myld3zm
+2025-10-29 15:59:46,529 - INFO - ✅ [81/500] Kəmər Apple Cargo Khaki Nike Sport Band S/M / MYLD
+2025-10-29 15:59:53,443 - INFO - 🔍 Scraping [82] (attempt 1): apple-46mm-denim-sport-band-s-m-mxlv3zm-a
+2025-10-29 16:00:01,812 - INFO - ✅ [82/500] Kəmər Apple Denim Sport Band S/M / MXLV3ZM/A
+2025-10-29 16:00:07,729 - INFO - 🔍 Scraping [83] (attempt 1): apple-46mm-desert-stone-nike-sport-band-s-m-myl83z
+2025-10-29 16:00:22,642 - INFO - ✅ [83/500] Kəmər Apple Desert Stone Nike Sport Band S/M / MYL
+2025-10-29 16:00:29,601 - INFO - 🔍 Scraping [84] (attempt 1): apple-46mm-ink-sport-loop-mxl33zm-a
+2025-10-29 16:00:39,930 - INFO - ✅ [84/500] Kəmər Apple Ink Sport Loop / MXL33ZM/A
+2025-10-29 16:00:45,768 - INFO - 🔍 Scraping [85] (attempt 1): apple-46mm-lake-green-sport-band-s-m-mxlq3zm-a
+2025-10-29 16:00:55,922 - INFO - ✅ [85/500] Kəmər Apple Lake Green Sport Band S/M / MXLQ3ZM/A
+2025-10-29 16:01:01,218 - INFO - 🔍 Scraping [86] (attempt 1): apple-46mm-lake-green-sport-loop-mxl83zm-a
+2025-10-29 16:01:10,695 - INFO - ✅ [86/500] Kəmər Apple Lake Green Sport Loop / MXL83ZM/A
+2025-10-29 16:01:15,227 - INFO - 🔍 Scraping [87] (attempt 1): apple-46mm-magic-ember-nike-sport-band-s-m-mylf3zm
+2025-10-29 16:01:24,431 - INFO - ✅ [87/500] Kəmər Apple Magic Ember Nike Sport Band S/M / MYLF
+2025-10-29 16:01:30,112 - INFO - 🔍 Scraping [88] (attempt 1): apple-46mm-midnight-sky-nike-sport-band-s-m-myl63z
+2025-10-29 16:01:39,570 - INFO - ✅ [88/500] Kəmər Apple Midnight Sky Nike Sport Band S/M / MYL
+2025-10-29 16:01:45,218 - INFO - 🔍 Scraping [89] (attempt 1): apple-46mm-plum-sport-band-s-m-mxlt3zm-a
+2025-10-29 16:01:53,564 - INFO - ✅ [89/500] Kəmər Apple Plum Sport Band S/M / MXLT3ZM/A
+2025-10-29 16:02:00,480 - INFO - 🔍 Scraping [90] (attempt 1): apple-46mm-plum-sport-loop-mxl63zm-a
+2025-10-29 16:02:09,156 - INFO - ✅ [90/500] Kəmər Apple Plum Sport Loop / MXL63ZM/A
+2025-10-29 16:02:14,792 - INFO - 🔍 Scraping [91] (attempt 1): apple-46mm-pure-platinum-nike-sport-band-s-m-myl43
+2025-10-29 16:02:23,855 - INFO - ✅ [91/500] Kəmər Apple 46mm Pure Platinum Nike Sport Band S/M
+2025-10-29 16:02:29,315 - INFO - 🔍 Scraping [92] (attempt 1): apple-46mm-slate-milanese-loop-s-m-mc7l4zm-a
+2025-10-29 16:02:37,590 - INFO - ✅ [92/500] Kəmər Apple Slate Milanese Loop S/M / MC7L4ZM/A
+2025-10-29 16:02:41,663 - INFO - 🔍 Scraping [93] (attempt 1): apple-46mm-starlight-sport-band-s-m-mxm63zm-a
+2025-10-29 16:02:49,981 - INFO - ✅ [93/500] Kəmər Apple Starlight Sport Band  S/M / MXM63ZM/A
+2025-10-29 16:02:57,608 - INFO - 🔍 Scraping [94] (attempt 1): apple-46mm-stone-gray-sport-band-s-m-mxlx3zm-a
+2025-10-29 16:03:05,740 - INFO - ✅ [94/500] Kəmər Apple Stone Gray Sport Band S/M / MXLX3ZM/A
+2025-10-29 16:03:09,813 - INFO - 🔍 Scraping [95] (attempt 1): apple-46mm-ultramarine-sport-loop-mxl73zm-a
+2025-10-29 16:03:18,486 - INFO - ✅ [95/500] Kəmər Apple Ultramarine Sport Loop / MXL73ZM/A
+2025-10-29 16:03:23,094 - INFO - 🔍 Scraping [96] (attempt 1): apple-46mm-volt-splash-nike-sport-band-s-m-mxu73zm
+2025-10-29 16:03:31,742 - INFO - ✅ [96/500] Kəmər Apple Volt Splash Nike Sport Band S/M / MXU7
+2025-10-29 16:03:39,133 - INFO - 🔍 Scraping [97] (attempt 1): apple-49-mm-blue-alphine-loop-medium-mt5l3zm-a
+2025-10-29 16:03:48,248 - INFO - ✅ [97/500] Kəmər Apple Blue Alphine Loop Medium / MT5L3ZM/A
+2025-10-29 16:03:54,578 - INFO - 🔍 Scraping [98] (attempt 1): apple-49-mm-midnight-ocean-band-extension-mqef3zm-
+2025-10-29 16:04:03,248 - INFO - ✅ [98/500] Apple 49 mm Midnight Ocean Band Extension / MQEF3Z
+2025-10-29 16:04:08,675 - INFO - 🔍 Scraping [99] (attempt 1): apple-49-mm-orange-alpine-loop-small-mqdy3zm-a
+2025-10-29 16:04:17,241 - INFO - ✅ [99/500] Kəmər Apple Orange Alpine Loop Small / MQDY3ZM/A
+2025-10-29 16:04:21,389 - INFO - 🔍 Scraping [100] (attempt 1): apple-49-mm-orange-beige-trail-loop-m-l-mt5x3zm-a
+2025-10-29 16:04:29,741 - INFO - ✅ [100/500] Kəmər Apple Orange/Beige Trail Loop M/L / MT5X3ZM/
+2025-10-29 16:04:37,703 - INFO - 🔍 Scraping [101] (attempt 1): apple-49-mm-starlight-alpine-loop-small-mqe53zm-a
+2025-10-29 16:04:37,703 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 16:04:38,091 - INFO - ✅ WebDriver created successfully
+2025-10-29 16:04:49,650 - INFO - ✅ [101/500] Apple 49 mm Starlight Alpine Loop Small / MQE53ZM/
+2025-10-29 16:04:53,943 - INFO - 🔍 Scraping [102] (attempt 1): apple-49mm-black-ocean-band-natural-titanium-finis
+2025-10-29 16:05:02,358 - INFO - ✅ [102/500] Kəmər Apple Black Ocean Band Natural Titanium Fini
+2025-10-29 16:05:09,525 - INFO - 🔍 Scraping [103] (attempt 1): apple-49mm-black-titanium-milanese-loop-m-mxkg3zm-
+2025-10-29 16:05:23,378 - INFO - ✅ [103/500] Kəmər Apple Black Titanium Milanese Loop M MXKG3ZM
+2025-10-29 16:05:29,972 - INFO - 🔍 Scraping [104] (attempt 1): apple-49mm-blue-black-trail-loop-m-l-mt623zm-a
+2025-10-29 16:05:41,270 - INFO - ✅ [104/500] Apple 49mm Blue/black Trail Loop M/L / MT623ZM/A
+2025-10-29 16:05:47,691 - INFO - 🔍 Scraping [105] (attempt 1): apple-49mm-green-gray-trail-loop-m-l-mt603zm-a
+2025-10-29 16:05:56,805 - INFO - ✅ [105/500] Kəmər Apple Green/Gray Trail Loop M/L / MT603ZM/A
+2025-10-29 16:06:01,829 - INFO - 🔍 Scraping [106] (attempt 1): apple-49mm-ice-blue-ocean-natural-titanium-finish-
+2025-10-29 16:06:08,908 - INFO - ✅ [106/500] Kəmər Apple Ice Blue Ocean Band Natural Titanium F
+2025-10-29 16:06:16,607 - INFO - 🔍 Scraping [107] (attempt 1): apple-49mm-indigo-alpine-loop-medium-mt5q3zm-a
+2025-10-29 16:06:26,658 - INFO - ✅ [107/500] Kəmər Apple Indigo Alpine Loop Medium / MT5Q3ZM/A
+2025-10-29 16:06:32,551 - INFO - 🔍 Scraping [108] (attempt 1): apple-49mm-navy-ocean-band-natural-titanium-finish
+2025-10-29 16:06:41,482 - INFO - ✅ [108/500] Kəmər Apple Navy Ocean Band Natural Titanium Finis
+2025-10-29 16:06:45,837 - INFO - 🔍 Scraping [109] (attempt 1): apple-49mm-olive-alpine-loop-medium-mt5u3zm-a
+2025-10-29 16:06:55,022 - INFO - ✅ [109/500] Kəmər Apple Olive Alpine Loop Medium / MT5U3ZM/A
+2025-10-29 16:06:59,054 - INFO - 🔍 Scraping [110] (attempt 1): apple-5w-power-adapter-md813-original
+2025-10-29 16:07:07,461 - INFO - ✅ [110/500] Apple 5W Power Adapter Md813 Original
+2025-10-29 16:07:15,434 - INFO - 🔍 Scraping [111] (attempt 1): apple-5w-power-adapter-mgn13zm-a
+2025-10-29 16:07:25,854 - INFO - ✅ [111/500] Apple 5W Power Adapter Mgn13Zm/A
+2025-10-29 16:07:33,376 - INFO - 🔍 Scraping [112] (attempt 1): apple-60w-magsafe-2-adapter-macbook-pro-15-md565
+2025-10-29 16:07:41,060 - INFO - ✅ [112/500] Apple 60W Magsafe 2 Adapter Macbook Pro 15 MD565
+2025-10-29 16:07:45,911 - INFO - 🔍 Scraping [113] (attempt 1): apple-60w-magsafe-power-adapter-mc461z-a
+2025-10-29 16:07:52,480 - INFO - ✅ [113/500] Apple 60W MagSafe Power Adapter MC461Z/A
+2025-10-29 16:07:58,132 - INFO - 🔍 Scraping [114] (attempt 1): apple-61w-usb-c-adapter-macbook-pro-13-mrw22
+2025-10-29 16:08:06,921 - INFO - ✅ [114/500] Apple 61W USB-C Adapter MacBook Pro 13 MRW22
+2025-10-29 16:08:14,315 - INFO - 🔍 Scraping [115] (attempt 1): apple-67w-usb-c-power-adapter-mku63zm-a
+2025-10-29 16:08:22,496 - INFO - ✅ [115/500] Apple 67W USB-C Power Adapter MKU63ZM/A
+2025-10-29 16:08:27,251 - INFO - 🔍 Scraping [116] (attempt 1): apple-70w-usb-c-power-adapter-mqln3zm-a
+2025-10-29 16:08:32,130 - INFO - ✅ [116/500] APPLE 70W USB-C POWER ADAPTER / MQLN3ZM/A/MXN53ZM/
+2025-10-29 16:08:37,353 - INFO - 🔍 Scraping [117] (attempt 1): apple-85w-magsafe-2-power-adapter-md506z-a
+2025-10-29 16:08:44,948 - INFO - ✅ [117/500] Adapter Apple 85W MagSafe 2 MD506Z/A/MYH83Z/A
+2025-10-29 16:08:50,294 - INFO - 🔍 Scraping [118] (attempt 1): apple-85w-magsafe-power-adapter-mc556z-b
+2025-10-29 16:08:58,745 - INFO - ✅ [118/500] Apple 85W MagSafe Power Adapter MC556Z/B
+2025-10-29 16:09:06,528 - INFO - 🔍 Scraping [119] (attempt 1): apple-airtag-1-pack-mx532ru-a
+2025-10-29 16:09:14,350 - INFO - ✅ [119/500] Apple Airtag 1 Pack MX532RU/A
+2025-10-29 16:09:19,967 - INFO - 🔍 Scraping [120] (attempt 1): apple-airtag-4-pack-mx542ru-a
+2025-10-29 16:09:27,317 - INFO - ✅ [120/500] Apple AirTag 4 Pack MX542RU/A
+2025-10-29 16:09:31,765 - INFO - 🔍 Scraping [121] (attempt 1): apple-airtag-finewoven-key-ring-black-mt2h3zm-a
+2025-10-29 16:09:38,211 - INFO - ✅ [121/500] Apple Airtag Finewoven Key Ring Black MT2H3ZM/A
+2025-10-29 16:09:43,404 - INFO - 🔍 Scraping [122] (attempt 1): apple-airtag-finewoven-key-ring-coral-mt2m3zm-a
+2025-10-29 16:09:50,892 - INFO - ✅ [122/500] Apple Airtag Finewoven Key Ring Coral MT2M3ZM/A
+2025-10-29 16:09:56,719 - INFO - 🔍 Scraping [123] (attempt 1): apple-airtag-finewoven-key-ring-mulberry-mt2j3zm-a
+2025-10-29 16:10:03,292 - INFO - ✅ [123/500] Apple Airtag Finewoven Key Ring Mulberry MT2J3ZM/A
+2025-10-29 16:10:09,518 - INFO - 🔍 Scraping [124] (attempt 1): apple-airtag-finewoven-key-ring-pacific-blue-mt2k3
+2025-10-29 16:10:18,494 - INFO - ✅ [124/500] Apple Airtag Finewoven Key Ring Pacific Blue MT2K3
+2025-10-29 16:10:23,750 - INFO - 🔍 Scraping [125] (attempt 1): apple-airtag-finewoven-key-ring-taupe-mt2l3zm-a
+2025-10-29 16:10:29,707 - INFO - ✅ [125/500] Apple Airtag Finewoven Key Ring Taupe MT2L3ZM/A
+2025-10-29 16:10:36,995 - INFO - 🔍 Scraping [126] (attempt 1): apple-airtag-leather-key-ring-baltic-blue-mhj23zm-
+2025-10-29 16:10:36,995 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 16:10:37,429 - INFO - ✅ WebDriver created successfully
+2025-10-29 16:10:48,920 - INFO - ✅ [126/500] Apple Airtag Leather Key Ring Baltic Blue / MHJ23Z
+2025-10-29 16:10:56,530 - INFO - 🔍 Scraping [127] (attempt 1): apple-airtag-leather-key-ring-brown-mmfa3zm-a
+2025-10-29 16:11:03,535 - INFO - ✅ [127/500] Apple Airtag Leather Key Ring Brown / MMFA3ZM/A
+2025-10-29 16:11:10,296 - INFO - 🔍 Scraping [128] (attempt 1): apple-airtag-leather-key-ring-midnight-mmf93zm-a
+2025-10-29 16:11:18,649 - INFO - ✅ [128/500] Apple Airtag Leather Key Ring Midnight/MMF93ZM/A
+2025-10-29 16:11:24,618 - INFO - 🔍 Scraping [129] (attempt 1): apple-airtag-leather-key-ring-red-mk103zm-a
+2025-10-29 16:11:32,725 - INFO - ✅ [129/500] Apple Airtag Leather Key Ring Red / MK103ZM/A
+2025-10-29 16:11:39,410 - INFO - 🔍 Scraping [130] (attempt 1): apple-airtag-leather-key-ring-saddle-brown-mx4m2zm
+2025-10-29 16:11:47,670 - INFO - ✅ [130/500] Apple Airtag Leather Key Ring Saddle Brown / MX4M2
+2025-10-29 16:11:55,389 - INFO - 🔍 Scraping [131] (attempt 1): apple-airtag-leather-key-ring-wisteria-mmfc3zm-a
+2025-10-29 16:12:03,283 - INFO - ✅ [131/500] Apple Airtag Leather Key Ring Wisteria / MMFC3ZM/A
+2025-10-29 16:12:10,803 - INFO - 🔍 Scraping [132] (attempt 1): apple-airtag-loop-deep-navy-mhj03zm-a
+2025-10-29 16:12:27,586 - INFO - ✅ [132/500] Apple Airtag Loop Deep Navy / Mhj03Zm/A
+2025-10-29 16:12:32,291 - INFO - 🔍 Scraping [133] (attempt 1): apple-airtag-loop-electric-orange-mk0x3zm-a
+2025-10-29 16:12:39,112 - INFO - ✅ [133/500] Apple Airtag Loop Electric Orange / Mk0X3Zm/A
+2025-10-29 16:12:43,123 - INFO - 🔍 Scraping [134] (attempt 1): apple-airtag-loop-pink-citrus-mlyy3zm-a
+2025-10-29 16:12:50,780 - INFO - ✅ [134/500] Apple Airtag Loop Pink Citrus MLYY3ZM/A
+2025-10-29 16:12:57,337 - INFO - 🔍 Scraping [135] (attempt 1): apple-airtag-loop-white-mx4f2zm-a
+2025-10-29 16:13:05,454 - INFO - ✅ [135/500] Apple Airtag Loop White MX4F2ZM/A
+2025-10-29 16:13:12,327 - INFO - 🔍 Scraping [136] (attempt 1): apple-band-40-mm-sport-band-cornflower-mv692zm-a
+2025-10-29 16:13:33,581 - INFO - ✅ [136/500] Kəmər Apple Sport Band (cornflower)/ MV692ZM/A
+2025-10-29 16:13:39,737 - INFO - 🔍 Scraping [137] (attempt 1): apple-band-40-mm-sport-loop-cornflower-mv9e2zm-a
+2025-10-29 16:13:48,753 - INFO - ✅ [137/500] Kəmər Apple Sport loop (cornflower)  / MV9E2ZM/A
+2025-10-29 16:13:54,627 - INFO - 🔍 Scraping [138] (attempt 1): apple-band-40-mm-sport-loop-olive-mjfu3zm-a
+2025-10-29 16:14:03,611 - INFO - ✅ [138/500] Kəmər Apple Sport Loop (Olive) /MJFU3ZM/A
+2025-10-29 16:14:11,138 - INFO - 🔍 Scraping [139] (attempt 1): apple-band-40-mm-sport-loop-sunflower-mjft3zm-a
+2025-10-29 16:14:20,281 - INFO - ✅ [139/500] Kəmər Apple Sport Loop (Sunflower) / MJFT3ZM/A
+2025-10-29 16:14:24,698 - INFO - 🔍 Scraping [140] (attempt 1): apple-band-40mm-nike-sport-band-anthracite-black-m
+2025-10-29 16:14:42,439 - INFO - ✅ [140/500] Kəmər Apple Nike Sport band (anthracite/black) / M
+2025-10-29 16:14:50,036 - INFO - 🔍 Scraping [141] (attempt 1): apple-band-42-mm-women-nylon-blue-mqvu2zm-a
+2025-10-29 16:14:59,832 - INFO - ✅ [141/500] Apple Band 42 mm Women Nylon (Blue)  MQVU2ZM/A
+2025-10-29 16:15:06,293 - INFO - 🔍 Scraping [142] (attempt 1): apple-band-42-mm-woven-nylon-black-mqvr2zm-a
+2025-10-29 16:15:15,599 - INFO - ✅ [142/500] Kəmər Apple woven nylon (black) / MQVR2ZM/A
+2025-10-29 16:15:22,182 - INFO - 🔍 Scraping [143] (attempt 1): apple-band-44-mm-sport-loop-olive-mjg13zm-a
+2025-10-29 16:15:35,201 - INFO - ✅ [143/500] Apple Band 44 mm Sport Loop (Olive) /MJG13ZM/A
+2025-10-29 16:15:39,866 - INFO - 🔍 Scraping [144] (attempt 1): apple-band-44mm-nike-sport-band-hasta-silver-mj6k3
+2025-10-29 16:15:48,661 - INFO - ✅ [144/500] Kəmər Apple Nike Sport Band (Hasta/Silver)/MJ6K3ZM
+2025-10-29 16:15:54,301 - INFO - 🔍 Scraping [145] (attempt 1): apple-bundle
+2025-10-29 16:15:59,796 - INFO - ✅ [145/500] Apple Bundle
+2025-10-29 16:16:06,665 - INFO - 🔍 Scraping [146] (attempt 1): apple-homepod
+2025-10-29 16:16:17,206 - INFO - ✅ [146/500] Apple homepod
+2025-10-29 16:16:25,093 - INFO - 🔍 Scraping [147] (attempt 1): apple-homepod-mini
+2025-10-29 16:16:41,603 - INFO - ✅ [147/500] Apple homepod mini
+2025-10-29 16:16:46,504 - INFO - 🔍 Scraping [148] (attempt 1): apple-homepod-mini-my5g2ll-a-space-gray
+2025-10-29 16:16:57,395 - INFO - ✅ [148/500] Apple HomePod Mini MY5G2LL/A Space Gray
+2025-10-29 16:17:02,698 - INFO - 🔍 Scraping [149] (attempt 1): apple-imac-21-5-mrt32
+2025-10-29 16:17:12,301 - INFO - ✅ [149/500] Apple iMac 21.5" MRT32
+2025-10-29 16:17:18,928 - INFO - 🔍 Scraping [150] (attempt 1): apple-imac-24-mgpc3ru-a-silver
+2025-10-29 16:17:30,051 - INFO - ✅ [150/500] Monoblok Apple iMac 24 MGPC3RU/A Silver
+2025-10-29 16:17:36,823 - INFO - 🔍 Scraping [151] (attempt 1): apple-imac-24-mgpm3ru-a-pink
+2025-10-29 16:17:36,824 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 16:17:37,296 - INFO - ✅ WebDriver created successfully
+2025-10-29 16:17:55,455 - INFO - ✅ [151/500] Monoblok Apple iMac 24 MGPM3RU/A Pink
+2025-10-29 16:17:59,815 - INFO - 🔍 Scraping [152] (attempt 1): apple-imac-24-mjv93ru-a-blue
+2025-10-29 16:18:09,773 - INFO - ✅ [152/500] Apple iMac 24 MJV93RU/A Blue
+2025-10-29 16:18:14,238 - INFO - 🔍 Scraping [153] (attempt 1): apple-imac-24-zkmjv83ru-a-green
+2025-10-29 16:18:26,696 - INFO - ✅ [153/500] Monoblok Apple iMac 24 ZKMJV83RU/A Green
+2025-10-29 16:18:30,898 - INFO - 🔍 Scraping [154] (attempt 1): apple-imac-27-mxwu2ru-a
+2025-10-29 16:18:41,556 - INFO - ✅ [154/500] Apple iMac 27 MXWU2RU/A
+2025-10-29 16:18:48,397 - INFO - 🔍 Scraping [155] (attempt 1): apple-ipad-air-2019-wi-fi-64gb-space-grey
+2025-10-29 16:18:58,794 - INFO - ✅ [155/500] Apple iPad Air (2019) Wi-Fi 64Gb Space Grey
+2025-10-29 16:19:03,739 - INFO - 🔍 Scraping [156] (attempt 1): apple-iphone-16-pro-max
+2025-10-29 16:19:19,241 - INFO - ✅ [156/500] iPhone 16 Pro Max
+2025-10-29 16:19:23,507 - INFO - 🔍 Scraping [157] (attempt 1): apple-iphone-lightning-dock-black
+2025-10-29 16:19:33,070 - INFO - ✅ [157/500] Apple iPhone Lightning Dock Black
+2025-10-29 16:19:39,755 - INFO - 🔍 Scraping [158] (attempt 1): apple-iphone-lightning-dock-silver
+2025-10-29 16:19:47,736 - INFO - ✅ [158/500] Apple iPhone Lightning Dock Silver
+2025-10-29 16:19:53,722 - INFO - 🔍 Scraping [159] (attempt 1): apple-lightning-to-3-5mm-audio-cable-1-2m-mxk22zm-
+2025-10-29 16:20:03,741 - INFO - ✅ [159/500] Apple Lightning to 3.5mm Audio Cable 1.2m MXK22ZM/
+2025-10-29 16:20:09,575 - INFO - 🔍 Scraping [160] (attempt 1): apple-lightning-to-av-adapter-md826
+2025-10-29 16:20:19,035 - INFO - ✅ [160/500] Apple Lightning To Av Adapter MD826
+2025-10-29 16:20:25,203 - INFO - 🔍 Scraping [161] (attempt 1): apple-lightning-to-headphone-jack-adapter-mmx62zm-
+2025-10-29 16:20:32,903 - INFO - ✅ [161/500] Apple Lightning to Headphone Jack Adapter MMX62ZM/
+2025-10-29 16:20:40,363 - INFO - 🔍 Scraping [162] (attempt 1): apple-lightning-to-usb-3-camera-adapter-model-a161
+2025-10-29 16:20:48,584 - INFO - ✅ [162/500] Ötürücü Apple Lightning To USB 3 Camera Adapter Mo
+2025-10-29 16:20:55,399 - INFO - 🔍 Scraping [163] (attempt 1): apple-lightning-usb-cable-0-5m-me291
+2025-10-29 16:21:04,814 - INFO - ✅ [163/500] Naqil Apple USB Type-A to Lightning 0.5 m ME291
+2025-10-29 16:21:12,799 - INFO - 🔍 Scraping [164] (attempt 1): apple-lightning-usb-cable-1m-mxly2
+2025-10-29 16:21:24,200 - INFO - ✅ [164/500] Naqil Apple USB Type-A to Lightning 1 m MXLY2 / MU
+2025-10-29 16:21:29,328 - INFO - 🔍 Scraping [165] (attempt 1): apple-lightning-usb-cable-2m-md819-original
+2025-10-29 16:21:38,467 - INFO - ✅ [165/500] Naqil Apple USB Type-A to Lightning 2 m MD819
+2025-10-29 16:21:45,802 - INFO - 🔍 Scraping [166] (attempt 1): apple-mac-mini-mmfk3ru-a
+2025-10-29 16:21:54,484 - INFO - ✅ [166/500] Sistem bloku Apple Mac Mini M2 MMFK3RU/A
+2025-10-29 16:21:59,162 - INFO - 🔍 Scraping [167] (attempt 1): apple-mac-studio-mqh73ru-a
+2025-10-29 16:22:07,180 - INFO - ✅ [167/500] Apple Mac Studio MQH73RU/A
+2025-10-29 16:22:12,978 - INFO - 🔍 Scraping [168] (attempt 1): apple-macbook-air-13-mvfm2
+2025-10-29 16:22:32,579 - INFO - ✅ [168/500] Apple MacBook Air 13 MVFM2
+2025-10-29 16:22:39,608 - INFO - 🔍 Scraping [169] (attempt 1): apple-macbook-air-13-mwtj2ua-a
+2025-10-29 16:22:52,748 - INFO - ✅ [169/500] Apple MacBook Air 13 MWTJ2UA/A
+2025-10-29 16:23:00,005 - INFO - 🔍 Scraping [170] (attempt 1): apple-macbook-air-13-zkz15y000kq-starlight
+2025-10-29 16:23:10,267 - INFO - ✅ [170/500] Notbuk Apple MacBook Air 13 M2 Starlight ZKZ15Y000
+2025-10-29 16:23:14,514 - INFO - 🔍 Scraping [171] (attempt 1): apple-macbook-air-13-zkz160000kq-midnight
+2025-10-29 16:23:26,815 - INFO - ✅ [171/500] Notbuk Apple MacBook Air 13 M2 Midnight ZKZ160000K
+2025-10-29 16:23:33,891 - INFO - 🔍 Scraping [172] (attempt 1): apple-macbook-air13-zkz15s000mp-space-grey
+2025-10-29 16:23:44,287 - INFO - ✅ [172/500] Notbuk Apple MacBook Air 13 M2 Space Gray ZKZ15S00
+2025-10-29 16:23:48,539 - INFO - 🔍 Scraping [173] (attempt 1): apple-macbook-pro-13-zkz11b0004p-space-gray
+2025-10-29 16:23:59,848 - INFO - ✅ [173/500] Notbuk Apple MacBook Pro 13 M1 Space Gray ZKZ11B00
+2025-10-29 16:24:04,049 - INFO - 🔍 Scraping [174] (attempt 1): apple-macbook-pro-13-zkz11b0004v-space-gray
+2025-10-29 16:24:15,226 - INFO - ✅ [174/500] Notbuk Apple MacBook Pro 13 M1 Space Gray ZKZ11B00
+2025-10-29 16:24:20,531 - INFO - 🔍 Scraping [175] (attempt 1): apple-macbook-pro-14-mphk3ru-a-silver
+2025-10-29 16:24:31,855 - INFO - ✅ [175/500] Notbuk Apple MacBook Pro 14 M2 Max Silver MPHK3RU/
+2025-10-29 16:24:38,804 - INFO - 🔍 Scraping [176] (attempt 1): apple-macbook-pro-14-mrx43ru-a-space-black
+2025-10-29 16:24:38,805 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 16:24:42,383 - INFO - ✅ WebDriver created successfully
+2025-10-29 16:24:53,488 - INFO - ✅ [176/500] Notbuk Apple MacBook Pro 14 M3 Pro Space Black MRX
+2025-10-29 16:25:00,722 - INFO - 🔍 Scraping [177] (attempt 1): apple-macbook-pro-16-mk1f3ru-a-silver
+2025-10-29 16:25:12,682 - INFO - ✅ [177/500] Notbuk Apple MacBook Pro 16 M1 Pro Silver MK1F3RU/
+2025-10-29 16:25:19,562 - INFO - 🔍 Scraping [178] (attempt 1): apple-macbook-pro-16-mvvl2ru-a
+2025-10-29 16:25:31,374 - INFO - ✅ [178/500] Apple Macbook Pro 16 MVVL2RU/A
+2025-10-29 16:25:37,720 - INFO - 🔍 Scraping [179] (attempt 1): apple-magic-keyboard-2-mla22
+2025-10-29 16:25:46,942 - INFO - ✅ [179/500] Klaviatura Apple Magic 2 MLA22
+2025-10-29 16:25:52,262 - INFO - 🔍 Scraping [180] (attempt 1): apple-magic-keyboard-folio-for-ipad-10th-gen-a2695
+2025-10-29 16:26:01,880 - INFO - ✅ [180/500] Klaviatura Apple Magic Folio for iPad A2695 / MQDP
+2025-10-29 16:26:07,302 - INFO - 🔍 Scraping [181] (attempt 1): apple-magic-keyboard-w-touch-id-and-numeric-keypad
+2025-10-29 16:26:24,878 - INFO - ✅ [181/500] Klaviatura Apple Magic with Touch ID And Numeric K
+2025-10-29 16:26:29,402 - INFO - 🔍 Scraping [182] (attempt 1): apple-magic-keyboard-w-touch-id-english-black-mmmr
+2025-10-29 16:26:38,778 - INFO - ✅ [182/500] Klaviatura Apple Magic with Touch ID English Black
+2025-10-29 16:26:46,494 - INFO - 🔍 Scraping [183] (attempt 1): apple-magic-keyboard-w-touch-id-silver-mk293rs-a
+2025-10-29 16:26:54,484 - INFO - ✅ [183/500] Klaviatura Apple Magic with Touch ID Silver MK293R
+2025-10-29 16:27:01,633 - INFO - 🔍 Scraping [184] (attempt 1): apple-magic-keyboard-with-numeric-keypad-space-gra
+2025-10-29 16:27:13,988 - INFO - ✅ [184/500] Klaviatura Apple Magic with Numeric Keypad Space G
+2025-10-29 16:27:21,963 - INFO - 🔍 Scraping [185] (attempt 1): apple-magic-keyboard-with-touch-id-mmmr3rs-a
+2025-10-29 16:27:30,331 - INFO - ✅ [185/500] Klaviatura Apple Magic with Touch ID MMMR3RS/A
+2025-10-29 16:27:35,539 - INFO - 🔍 Scraping [186] (attempt 1): apple-magic-mouse-2
+2025-10-29 16:27:45,439 - INFO - ✅ [186/500] Apple Magic Mouse 2
+2025-10-29 16:27:50,907 - INFO - 🔍 Scraping [187] (attempt 1): apple-magic-mouse-2-space-gray
+2025-10-29 16:27:59,646 - INFO - ✅ [187/500] Apple Magic Mouse 2 Space Gray
+2025-10-29 16:28:04,695 - INFO - 🔍 Scraping [188] (attempt 1): apple-magic-mouse-black-mmmq3zm-a
+2025-10-29 16:28:17,915 - INFO - ✅ [188/500] Mouse Apple Magic MMMQ3ZM/A/MXK63ZM/A Black
+2025-10-29 16:28:23,705 - INFO - 🔍 Scraping [189] (attempt 1): apple-magic-mouse-mk2e3
+2025-10-29 16:28:32,393 - INFO - ✅ [189/500] Apple Magic mouse MK2E3
+2025-10-29 16:28:37,873 - INFO - 🔍 Scraping [190] (attempt 1): apple-magic-trackpad-2
+2025-10-29 16:28:46,139 - INFO - ✅ [190/500] Apple Magic Trackpad 2
+2025-10-29 16:28:52,793 - INFO - 🔍 Scraping [191] (attempt 1): apple-magic-trackpad-2-mk2d3zm-a
+2025-10-29 16:28:58,946 - INFO - ✅ [191/500] Apple Magic Trackpad 2 MK2D3ZM/A
+2025-10-29 16:29:05,081 - INFO - 🔍 Scraping [192] (attempt 1): apple-magic-trackpad-black-mmmp3zm-a
+2025-10-29 16:29:14,375 - INFO - ✅ [192/500] Apple Magic Trackpad Black / MMMP3ZM/A
+2025-10-29 16:29:20,308 - INFO - 🔍 Scraping [193] (attempt 1): apple-magsafe-battery-pack-mjwy3zm-a
+2025-10-29 16:29:29,871 - INFO - ✅ [193/500] Apple MagSafe Battery Pack  MJWY3ZM/A
+2025-10-29 16:29:34,489 - INFO - 🔍 Scraping [194] (attempt 1): apple-magsafe-charger-mhxh3zm-a
+2025-10-29 16:29:43,595 - INFO - ✅ [194/500] Apple MagSafe Charger MHXH3ZM/A
+2025-10-29 16:29:48,852 - INFO - 🔍 Scraping [195] (attempt 1): apple-magsafe-duo-charger-mhxf3zm-a
+2025-10-29 16:29:57,676 - INFO - ✅ [195/500] Apple MagSafe Duo Charger MHXF3ZM/A
+2025-10-29 16:30:02,061 - INFO - 🔍 Scraping [196] (attempt 1): apple-pencil-1st-gen-mqly3zm-a
+2025-10-29 16:30:09,630 - INFO - ✅ [196/500] APPLE PENCIL 1ST GEN MQLY3ZM/A/MYQW3ZM/A
+2025-10-29 16:30:14,242 - INFO - 🔍 Scraping [197] (attempt 1): apple-pencil-pro-mx2d3qn-a
+2025-10-29 16:30:20,784 - INFO - ✅ [197/500] Apple Pencil Pro MX2D3QN/A
+2025-10-29 16:30:24,854 - INFO - 🔍 Scraping [198] (attempt 1): apple-pencil-tips-2gen-mlun2zm-a
+2025-10-29 16:30:32,375 - INFO - ✅ [198/500] TIPS 4 PACK FOR APPLE PENCIL 2GEN / MLUN2ZM/A/MX76
+2025-10-29 16:30:40,068 - INFO - 🔍 Scraping [199] (attempt 1): apple-polishing-cloth
+2025-10-29 16:30:48,486 - INFO - ✅ [199/500] APPLE POLISHING CLOTH MM6F3ZM/A/MW693ZM/A
+2025-10-29 16:30:52,780 - INFO - 🔍 Scraping [200] (attempt 1): apple-studio-display-27-mmyw3ru-a
+2025-10-29 16:31:02,857 - INFO - ✅ [200/500] Apple Studio Display 27 MMYW3RU/A
+2025-10-29 16:31:09,652 - INFO - 🔍 Scraping [201] (attempt 1): apple-studio-display-27-zkmk0u3rua
+2025-10-29 16:31:09,652 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 16:31:10,214 - INFO - ✅ WebDriver created successfully
+2025-10-29 16:31:24,179 - INFO - ✅ [201/500] Monitor Apple Studio Display 27 ZKMK0U3RUA
+2025-10-29 16:31:28,414 - INFO - 🔍 Scraping [202] (attempt 1): apple-thunderbolt-3-usb-c-cable-0-8m-mq4h2zm-a
+2025-10-29 16:31:36,957 - INFO - ✅ [202/500] Naqil Apple Thunderbolt 3 USB Type-C to USB Type-C
+2025-10-29 16:31:43,333 - INFO - 🔍 Scraping [203] (attempt 1): apple-thunderbolt-4-pro-cable-3m-mwp02zm-a
+2025-10-29 16:31:52,035 - INFO - ✅ [203/500] Naqil Apple Thunderbolt 4 USB Type-C to USB Type-C
+2025-10-29 16:31:59,602 - INFO - 🔍 Scraping [204] (attempt 1): apple-thunderbolt-4-usb-c-pro-cable-1-8m-mn713zm-a
+2025-10-29 16:32:09,062 - INFO - ✅ [204/500] Naqil Apple Thunderbolt 4 USB Type-C to USB Type-C
+2025-10-29 16:32:13,178 - INFO - 🔍 Scraping [205] (attempt 1): apple-thunderbolt-4-usb-c-pro-cable-mu883zm-a
+2025-10-29 16:32:22,795 - INFO - ✅ [205/500] Naqil Apple Thunderbolt 4 USB Type-C to USB Type-C
+2025-10-29 16:32:27,523 - INFO - 🔍 Scraping [206] (attempt 1): apple-tv-4k-128-gb-mn893ru-a
+2025-10-29 16:32:33,821 - INFO - ✅ [206/500] Apple TV 4K 128 GB MN893RU/A
+2025-10-29 16:32:38,347 - INFO - 🔍 Scraping [207] (attempt 1): apple-tv-4k-32gb-mqd22
+2025-10-29 16:32:45,695 - INFO - ✅ [207/500] Apple TV 4K 32GB MQD22
+2025-10-29 16:32:53,305 - INFO - 🔍 Scraping [208] (attempt 1): apple-tv-4k-64-gb-mn873ru-a
+2025-10-29 16:33:01,775 - INFO - ✅ [208/500] Apple TV 4K 64 GB MN873RU/A
+2025-10-29 16:33:06,272 - INFO - 🔍 Scraping [209] (attempt 1): apple-tv-remote-mjfn3zm-a
+2025-10-29 16:33:17,072 - INFO - ✅ [209/500] Apple TV Remote MJFN3ZM/A
+2025-10-29 16:33:22,623 - INFO - 🔍 Scraping [210] (attempt 1): apple-tv-remote-mnc83zm-a
+2025-10-29 16:33:31,831 - INFO - ✅ [210/500] Apple TV Remote MNC83ZM/A
+2025-10-29 16:33:39,144 - INFO - 🔍 Scraping [211] (attempt 1): apple-tv-remote-mqge2
+2025-10-29 16:33:46,238 - INFO - ✅ [211/500] Apple Tv Remote Mqge2
+2025-10-29 16:33:52,507 - INFO - 🔍 Scraping [212] (attempt 1): apple-usb-c-charge-cable-1-m-mm093zm-a
+2025-10-29 16:34:01,454 - INFO - ✅ [212/500] Naqil Apple USB Type-C to USB Type-C 1 m MM093ZM/A
+2025-10-29 16:34:08,545 - INFO - 🔍 Scraping [213] (attempt 1): apple-usb-c-charge-cable-1m-muf72zm-a
+2025-10-29 16:34:19,098 - INFO - ✅ [213/500] Naqil Apple USB Type-C to USB Type-C 1 m MUF72ZM/A
+2025-10-29 16:34:26,374 - INFO - 🔍 Scraping [214] (attempt 1): apple-usb-c-charge-cable-2m-mll82zm-a
+2025-10-29 16:34:34,614 - INFO - ✅ [214/500] Naqil Apple USB Type-C to USB Type-C 2 m MLL82ZM/A
+2025-10-29 16:34:40,536 - INFO - 🔍 Scraping [215] (attempt 1): apple-usb-c-charge-cable-mu2g3zm-a
+2025-10-29 16:34:50,563 - INFO - ✅ [215/500] Naqil Apple USB Type-C to USB Type-C 2 m 240W 2G3Z
+2025-10-29 16:34:56,856 - INFO - 🔍 Scraping [216] (attempt 1): apple-usb-c-digital-av-multiport-adapter
+2025-10-29 16:35:05,958 - INFO - ✅ [216/500] APPLE USB-C DİGİTAL AV MULTİPORT ADAPTER MUF82ZM/A
+2025-10-29 16:35:12,814 - INFO - 🔍 Scraping [217] (attempt 1): apple-usb-c-to-headphone-jack-adapter-mu7e2zm-a
+2025-10-29 16:35:22,356 - INFO - ✅ [217/500] Ötürücü Apple USB-C To Headphone Jack Adapter MU7E
+2025-10-29 16:35:29,795 - INFO - 🔍 Scraping [218] (attempt 1): apple-usb-c-to-lightning-adapter-muqx3zm-a
+2025-10-29 16:35:37,680 - INFO - ✅ [218/500] Apple USB-C to Lightning Adapter / MUQX3ZM/A
+2025-10-29 16:35:42,711 - INFO - 🔍 Scraping [219] (attempt 1): apple-usb-c-to-lightning-cable-1m-mm0a3zm-a
+2025-10-29 16:35:51,053 - INFO - ✅ [219/500] Naqil Apple USB Type-C to Lightning 1 m MM0A3ZM/A 
+2025-10-29 16:35:56,448 - INFO - 🔍 Scraping [220] (attempt 1): apple-usb-c-to-lightning-cable-1m-mx0k2zm-a
+2025-10-29 16:36:05,471 - INFO - ✅ [220/500] Naqil Apple USB Type-C to Lightning 1 m MX0K2ZM/A
+2025-10-29 16:36:10,813 - INFO - 🔍 Scraping [221] (attempt 1): apple-usb-c-to-lightning-cable-2m-mqgh2zm-a
+2025-10-29 16:36:20,973 - INFO - ✅ [221/500] Naqil Apple USB Type-C to Lightning 2 m MQGH2ZM/A 
+2025-10-29 16:36:25,149 - INFO - 🔍 Scraping [222] (attempt 1): apple-usb-c-to-magsafe-3-cable-2-m-mlyv3zm-a
+2025-10-29 16:36:35,569 - INFO - ✅ [222/500] APPLE USB-C TO MAGSAFE 3 CABLE 2M MLYV3ZM/A/MW613Z
+2025-10-29 16:36:42,856 - INFO - 🔍 Scraping [223] (attempt 1): apple-usb-c-to-sd-card-reader-model-a2082-mw653zm-
+2025-10-29 16:36:55,146 - INFO - ✅ [223/500] Ötürücü Apple USB-C To SD Card Reader Model A2082 
+2025-10-29 16:36:59,156 - INFO - 🔍 Scraping [224] (attempt 1): apple-usb-c-to-usb-adapter
+2025-10-29 16:37:08,385 - INFO - ✅ [224/500] APPLE USB-C TO USB ADAPTER MJ1M2ZM/A/MW5L3ZM/A
+2025-10-29 16:37:14,428 - INFO - 🔍 Scraping [225] (attempt 1): apple-usb-c-woven-charge-cable-1m-mqkj3zm-a
+2025-10-29 16:37:25,438 - INFO - ✅ [225/500] Naqil Apple USB Type-C to USB Type-C 1 m MQKJ3ZM/A
+2025-10-29 16:37:31,213 - INFO - 🔍 Scraping [226] (attempt 1): apple-usb-multi-drive-md564
+2025-10-29 16:37:31,213 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 16:37:31,753 - INFO - ✅ WebDriver created successfully
+2025-10-29 16:37:43,167 - INFO - ✅ [226/500] Apple USB Multi Drive MD564
+2025-10-29 16:37:48,741 - INFO - 🔍 Scraping [227] (attempt 1): apple-watch-3-42-mm-space-grey-mtf32gk-a
+2025-10-29 16:37:59,062 - INFO - ✅ [227/500] Apple Watch 3 42 mm Space Grey MTF32GK/A
+2025-10-29 16:38:05,964 - INFO - 🔍 Scraping [228] (attempt 1): apple-watch-6-40mm-red-m00a3gk-a
+2025-10-29 16:38:17,718 - INFO - ✅ [228/500] Apple Watch 6 40mm Red/ M00A3GK/A
+2025-10-29 16:38:25,276 - INFO - 🔍 Scraping [229] (attempt 1): apple-watch-6-40mm-silver-mg283gk-a
+2025-10-29 16:38:33,481 - INFO - ✅ [229/500] Apple Watch 6 40mm Silver/ MG283GK/A
+2025-10-29 16:38:38,466 - INFO - 🔍 Scraping [230] (attempt 1): apple-watch-6-40mm-space-grey-mg133gk-a
+2025-10-29 16:38:47,470 - INFO - ✅ [230/500] Apple Watch 6 40mm Space Grey/ MG133GK/A
+2025-10-29 16:38:53,714 - INFO - 🔍 Scraping [231] (attempt 1): apple-watch-6-44-mm-red-m00m3gk-a
+2025-10-29 16:39:02,914 - INFO - ✅ [231/500] Apple Watch 6 44 mm Red/ M00M3GK/A
+2025-10-29 16:39:07,445 - INFO - 🔍 Scraping [232] (attempt 1): apple-watch-6-44mm-gold-m00e3gk-a
+2025-10-29 16:39:16,938 - INFO - ✅ [232/500] Apple Watch 6 44mm Gold/ M00E3GK/A
+2025-10-29 16:39:24,304 - INFO - 🔍 Scraping [233] (attempt 1): apple-watch-7-41-mm-blue-mkn13rb-a
+2025-10-29 16:39:34,719 - INFO - ✅ [233/500] Apple Watch 7 41 mm Blue MKN13RB/A
+2025-10-29 16:39:40,423 - INFO - 🔍 Scraping [234] (attempt 1): apple-watch-7-41-mm-green-mkn03
+2025-10-29 16:39:50,712 - INFO - ✅ [234/500] Apple Watch 7 41 mm Green MKN03
+2025-10-29 16:39:57,961 - INFO - 🔍 Scraping [235] (attempt 1): apple-watch-7-41-mm-midnight-mkmx3rb-a
+2025-10-29 16:40:06,971 - INFO - ✅ [235/500] Apple Watch 7 41 mm Midnight MKMX3RB/A
+2025-10-29 16:40:14,837 - INFO - 🔍 Scraping [236] (attempt 1): apple-watch-7-41-mm-red-mkn23
+2025-10-29 16:40:23,443 - INFO - ✅ [236/500] Apple Watch 7 41 mm Red MKN23
+2025-10-29 16:40:29,805 - INFO - 🔍 Scraping [237] (attempt 1): apple-watch-7-41-mm-starlight-mkmy3rb-a
+2025-10-29 16:40:37,892 - INFO - ✅ [237/500] Apple Watch 7 41 mm Starlight MKMY3RB/A
+2025-10-29 16:40:43,328 - INFO - 🔍 Scraping [238] (attempt 1): apple-watch-7-45-mm-blue-mkn83rb-a
+2025-10-29 16:40:52,465 - INFO - ✅ [238/500] Apple Watch 7 45 mm Blue MKN83RB/A
+2025-10-29 16:40:59,366 - INFO - 🔍 Scraping [239] (attempt 1): apple-watch-7-45-mm-green-mkn73rb-a
+2025-10-29 16:41:08,110 - INFO - ✅ [239/500] Apple Watch 7 45 mm Green MKN73RB/A
+2025-10-29 16:41:14,255 - INFO - 🔍 Scraping [240] (attempt 1): apple-watch-7-45-mm-midnight-mkn53rb-a
+2025-10-29 16:41:22,986 - INFO - ✅ [240/500] Apple Watch 7 45 mm Midnight MKN53RB/A
+2025-10-29 16:41:29,463 - INFO - 🔍 Scraping [241] (attempt 1): apple-watch-7-45-mm-red-mkn93rb-a
+2025-10-29 16:41:38,666 - INFO - ✅ [241/500] Apple Watch 7 45 mm Red MKN93RB/A
+2025-10-29 16:41:44,703 - INFO - 🔍 Scraping [242] (attempt 1): apple-watch-7-45-mm-starlight-mkn63rb-a
+2025-10-29 16:41:57,361 - INFO - ✅ [242/500] Apple watch 7 45 mm Starlight MKN63RB/A
+2025-10-29 16:42:05,166 - INFO - 🔍 Scraping [243] (attempt 1): apple-watch-8-41-mm-starlight-aluminium-mnp63rb-a
+2025-10-29 16:42:15,957 - INFO - ✅ [243/500] Apple Watch 8 41 mm Starlight Aluminium / MNP63RB/
+2025-10-29 16:42:22,741 - INFO - 🔍 Scraping [244] (attempt 1): apple-watch-8-41mm-midnight-aluminium-mnp53rb-a
+2025-10-29 16:42:34,370 - INFO - ✅ [244/500] Apple Watch 8 41mm Midnight Aluminium MNP53RB/A
+2025-10-29 16:42:41,570 - INFO - 🔍 Scraping [245] (attempt 1): apple-watch-8-41mm-silver-aluminium-mp6k3rb-a
+2025-10-29 16:42:50,592 - INFO - ✅ [245/500] Apple Watch 8 41mm Silver Aluminium / MP6K3RB/A
+2025-10-29 16:42:58,331 - INFO - 🔍 Scraping [246] (attempt 1): apple-watch-8-45-mm-midnight-aluminium-mnp13rb-a
+2025-10-29 16:43:10,313 - INFO - ✅ [246/500] Apple Watch 8 45 mm Midnight Aluminium / MNP13RB/A
+2025-10-29 16:43:16,965 - INFO - 🔍 Scraping [247] (attempt 1): apple-watch-8-45-mm-silver-aluminium-mp6n3rb-a
+2025-10-29 16:43:26,986 - INFO - ✅ [247/500] Apple Watch 8 45 mm Silver Aluminium / MP6N3RB/A
+2025-10-29 16:43:33,276 - INFO - 🔍 Scraping [248] (attempt 1): apple-watch-8-45-mm-starlight-aluminium-mnp23rb-a
+2025-10-29 16:43:42,325 - INFO - ✅ [248/500] Apple Watch 8 45 mm Starlight Aluminium / MNP23RB/
+2025-10-29 16:43:49,602 - INFO - 🔍 Scraping [249] (attempt 1): apple-watch-9-41-mm-midnight-aluminium-case-midnig
+2025-10-29 16:43:57,170 - INFO - ✅ [249/500] Apple Watch 9 41 mm Midnight W/Midnight Sport Band
+2025-10-29 16:44:02,079 - INFO - 🔍 Scraping [250] (attempt 1): apple-watch-9-41-mm-midnight-aluminium-case-midnig
+2025-10-29 16:44:12,157 - INFO - ✅ [250/500] Smart saat Apple Watch 9 41mm MR8W3QI/A Midnight
+2025-10-29 16:44:16,311 - INFO - 🔍 Scraping [251] (attempt 1): apple-watch-9-41-mm-pink-aluminium-case-pink-sport
+2025-10-29 16:44:16,312 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 16:44:16,801 - INFO - ✅ WebDriver created successfully
+2025-10-29 16:44:29,068 - INFO - ✅ [251/500] Apple Watch 9 41 mm Pink W/Light Pink Sport Band M
+2025-10-29 16:44:35,973 - INFO - 🔍 Scraping [252] (attempt 1): apple-watch-9-41-mm-pink-w-light-pink-sport-band-s
+2025-10-29 16:44:44,304 - INFO - ✅ [252/500] Apple Watch 9 41 mm Pink W/Light Pink Sport Band S
+2025-10-29 16:44:50,249 - INFO - 🔍 Scraping [253] (attempt 1): apple-watch-9-41-mm-silver-alluminium-w-blue-sport
+2025-10-29 16:44:59,380 - INFO - ✅ [253/500] Apple Watch 9 41 mm Silver Alluminium W/Blue Sport
+2025-10-29 16:45:06,978 - INFO - 🔍 Scraping [254] (attempt 1): apple-watch-9-41-mm-silver-aluminium-w-storm-blue-
+2025-10-29 16:45:16,631 - INFO - ✅ [254/500] Apple Watch 9 41 mm Silver Aluminium W/Storm Blue 
+2025-10-29 16:45:23,701 - INFO - 🔍 Scraping [255] (attempt 1): apple-watch-9-41-mm-starlight-aluminium-case-starl
+2025-10-29 16:45:33,199 - INFO - ✅ [255/500] Apple Watch 9 41 mm Starlight W/Starlight Sport Ba
+2025-10-29 16:45:38,661 - INFO - 🔍 Scraping [256] (attempt 1): apple-watch-9-41-mm-starlight-aluminium-case-starl
+2025-10-29 16:45:47,282 - INFO - ✅ [256/500] Apple Watch 9 41 mm Starlight W/Starlight Sport Ba
+2025-10-29 16:45:51,585 - INFO - 🔍 Scraping [257] (attempt 1): apple-watch-9-41-mm-starlight-w-starlight-sport-ba
+2025-10-29 16:46:00,071 - INFO - ✅ [257/500] Apple Watch 9 41 mm Starlight W/Starlight Sport Ba
+2025-10-29 16:46:07,712 - INFO - 🔍 Scraping [258] (attempt 1): apple-watch-9-45-mm-midnight-aluminium-case-midnig
+2025-10-29 16:46:17,765 - INFO - ✅ [258/500] Apple Watch 9 45 mm Midnight W/Midnight Sport Band
+2025-10-29 16:46:22,026 - INFO - 🔍 Scraping [259] (attempt 1): apple-watch-9-45-mm-midnight-w-midnight-sport-band
+2025-10-29 16:46:30,571 - INFO - ✅ [259/500] Apple Watch 9 45 mm Midnight W/Midnight Sport Band
+2025-10-29 16:46:35,260 - INFO - 🔍 Scraping [260] (attempt 1): apple-watch-9-45-mm-product-red-aluminium-case-pro
+2025-10-29 16:46:43,458 - INFO - ✅ [260/500] Apple Watch 9 45 mm W/(PRODUCT)RED Sport Band S/M 
+2025-10-29 16:46:51,426 - INFO - 🔍 Scraping [261] (attempt 1): apple-watch-9-45-mm-silver-aluminium-case-storm-bl
+2025-10-29 16:47:00,696 - INFO - ✅ [261/500] Apple Watch 9 45 mm Silver Wstorm Blue Sport Band 
+2025-10-29 16:47:07,072 - INFO - 🔍 Scraping [262] (attempt 1): apple-watch-9-45-mm-silver-wstorm-blue-sport-band-
+2025-10-29 16:47:22,369 - INFO - ✅ [262/500] Apple Watch 9 45 mm Silver Wstorm Blue Sport Band 
+2025-10-29 16:47:30,040 - INFO - 🔍 Scraping [263] (attempt 1): apple-watch-9-45-mm-starlight-aluminium-case-starl
+2025-10-29 16:47:39,087 - INFO - ✅ [263/500] Apple Watch 9 45 mm W/Starlight Sport Band M/L  MR
+2025-10-29 16:47:47,019 - INFO - 🔍 Scraping [264] (attempt 1): apple-watch-magnetic-charging-cable-1m-mx2e2zm-a
+2025-10-29 16:47:56,018 - INFO - ✅ [264/500] Apple Watch Magnetic Charging Cable 1 m MX2E2ZM/A
+2025-10-29 16:48:01,478 - INFO - 🔍 Scraping [265] (attempt 1): apple-watch-magnetic-fast-charging-usb-c-cable-1-m
+2025-10-29 16:48:11,114 - INFO - ✅ [265/500] Apple Watch Magnetic Fast  Charging USB-C Cable 1 
+2025-10-29 16:48:18,650 - INFO - 🔍 Scraping [266] (attempt 1): apple-watch-magnetic-fast-charging-usb-c-cable-1m-
+2025-10-29 16:48:28,235 - INFO - ✅ [266/500] Apple Watch Magnetic Fast Charging USB-C Cable 1M 
+2025-10-29 16:48:35,866 - INFO - 🔍 Scraping [267] (attempt 1): apple-watch-nike-6-44mm-space-grey-mg173gk-a
+2025-10-29 16:48:46,807 - INFO - ✅ [267/500] Apple Watch Nike 6 44mm Space Grey/ MG173GK/A
+2025-10-29 16:48:53,695 - INFO - 🔍 Scraping [268] (attempt 1): apple-watch-se-2-40-mm-silver-aluminium-sport-band
+2025-10-29 16:49:03,821 - INFO - ✅ [268/500] Apple Watch SE 2 40 mm Silver Aluminium Sport Band
+2025-10-29 16:49:11,157 - INFO - 🔍 Scraping [269] (attempt 1): apple-watch-se-2-40-mm-starlight-w-starlight-sport
+2025-10-29 16:49:19,922 - INFO - ✅ [269/500] Apple Watch SE 2 40 mm Starlight W/Starlight Sport
+2025-10-29 16:49:26,965 - INFO - 🔍 Scraping [270] (attempt 1): apple-watch-se-2-40mm-starlight-w-starlight-sport-
+2025-10-29 16:49:36,011 - INFO - ✅ [270/500] Smart saat Apple Watch SE 2 40mm MXEG3QI/A Starlig
+2025-10-29 16:49:43,829 - INFO - 🔍 Scraping [271] (attempt 1): apple-watch-se-2-44-mm-midnight-aluminium-sport-lo
+2025-10-29 16:49:55,620 - INFO - ✅ [271/500] Apple Watch SE 2 44 mm Midnight Aluminium Sport Lo
+2025-10-29 16:50:00,954 - INFO - 🔍 Scraping [272] (attempt 1): apple-watch-se-2-44-mm-midnight-w-midnight-sport-b
+2025-10-29 16:50:11,427 - INFO - ✅ [272/500] Apple Watch SE 2 44 mm Midnight W/Midnight Sport B
+2025-10-29 16:50:16,284 - INFO - 🔍 Scraping [273] (attempt 1): apple-watch-se-2-44-mm-silver-wstorm-blue-sport-ba
+2025-10-29 16:50:27,016 - INFO - ✅ [273/500] Apple Watch SE 2 44 mm Silver Wstorm Blue Sport Ba
+2025-10-29 16:50:32,615 - INFO - 🔍 Scraping [274] (attempt 1): apple-watch-se-2-44-mm-starlight-w-starlight-sport
+2025-10-29 16:50:46,655 - INFO - ✅ [274/500] Apple Watch SE 2 44 mm Starlight W/Starlight Sport
+2025-10-29 16:50:52,390 - INFO - 🔍 Scraping [275] (attempt 1): apple-watch-se-2-44mm-midnght-w-midnght-sport-band
+2025-10-29 16:51:01,434 - INFO - ✅ [275/500] Smart saat Apple Watch SE 2 44mm MXEK3QI/A Midnght
+2025-10-29 16:51:09,258 - INFO - 🔍 Scraping [276] (attempt 1): apple-watch-se-2-44mm-starlight-sport-band-m-l-mxe
+2025-10-29 16:51:09,259 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 16:51:09,728 - INFO - ✅ WebDriver created successfully
+2025-10-29 16:51:21,352 - INFO - ✅ [276/500] Smart saat Apple Watch SE 2 44mm MXEV3QI/A Starlig
+2025-10-29 16:51:29,340 - INFO - 🔍 Scraping [277] (attempt 1): apple-watch-se-40-mm-gold
+2025-10-29 16:51:39,165 - INFO - ✅ [277/500] Apple Watch SE 40 mm Gold
+2025-10-29 16:51:45,714 - INFO - 🔍 Scraping [278] (attempt 1): apple-watch-se-40-mm-midnight-aluminium-case-midni
+2025-10-29 16:51:58,334 - INFO - ✅ [278/500] Apple Watch SE 2 40 mm Midnight W/Midnight Sport B
+2025-10-29 16:52:03,556 - INFO - 🔍 Scraping [279] (attempt 1): apple-watch-se-40-mm-midnight-case-midnight-sport-
+2025-10-29 16:52:12,816 - INFO - ✅ [279/500] Apple Watch SE 2 40 mm Midnight W/Midnight Sport B
+2025-10-29 16:52:18,555 - INFO - 🔍 Scraping [280] (attempt 1): apple-watch-se-40-mm-silver
+2025-10-29 16:52:26,884 - INFO - ✅ [280/500] Apple Watch Se 40 Mm Silver
+2025-10-29 16:52:31,501 - INFO - 🔍 Scraping [281] (attempt 1): apple-watch-se-40-mm-silver-aluminium-mnjv3rb-a
+2025-10-29 16:52:44,201 - INFO - ✅ [281/500] Apple Watch SE 2 40 mm Silver Aluminium / MNJV3RB/
+2025-10-29 16:52:51,659 - INFO - 🔍 Scraping [282] (attempt 1): apple-watch-se-40-mm-space-grey
+2025-10-29 16:53:00,293 - INFO - ✅ [282/500] Apple Watch SE 40 mm Space Grey
+2025-10-29 16:53:06,190 - INFO - 🔍 Scraping [283] (attempt 1): apple-watch-se-40-mm-starlight-aluminium-case-star
+2025-10-29 16:53:34,871 - ERROR - ❌ Unexpected error: 'NoneType' object is not subscriptable
+2025-10-29 16:53:34,871 - INFO - 🔍 Scraping [284] (attempt 1): apple-watch-se-40-mm-starlight-aluminium-case-star
+2025-10-29 16:53:54,923 - ERROR - ❌ Page load timeout: https://kontakt.az/apple-watch-se-40-mm-starlight-aluminium-case-starlight-sport-band-m-l
+2025-10-29 16:53:58,767 - INFO - 🔍 Scraping [284] (attempt 2): apple-watch-se-40-mm-starlight-aluminium-case-star
+2025-10-29 16:54:18,781 - ERROR - ❌ Page load timeout: https://kontakt.az/apple-watch-se-40-mm-starlight-aluminium-case-starlight-sport-band-m-l
+2025-10-29 16:54:24,402 - INFO - 🔍 Scraping [284] (attempt 3): apple-watch-se-40-mm-starlight-aluminium-case-star
+2025-10-29 16:54:29,330 - INFO - ✅ [284/500] Apple Watch SE 2 40 mm Starlight W/Starlight  Spor
+2025-10-29 16:54:35,517 - INFO - 🔍 Scraping [285] (attempt 1): apple-watch-se-40mm-midnight-aluminium-mnjt3rb-a
+2025-10-29 16:54:55,566 - ERROR - ❌ Page load timeout: https://kontakt.az/apple-watch-se-40mm-midnight-aluminium-mnjt3rb-a
+2025-10-29 16:55:01,524 - INFO - 🔍 Scraping [285] (attempt 2): apple-watch-se-40mm-midnight-aluminium-mnjt3rb-a
+2025-10-29 16:55:21,573 - ERROR - ❌ Page load timeout: https://kontakt.az/apple-watch-se-40mm-midnight-aluminium-mnjt3rb-a
+2025-10-29 16:55:26,308 - INFO - 🔍 Scraping [285] (attempt 3): apple-watch-se-40mm-midnight-aluminium-mnjt3rb-a
+2025-10-29 16:55:31,079 - INFO - ✅ [285/500] Apple Watch SE 2 40mm Midnight Aluminium / MNJT3RB
+2025-10-29 16:55:38,495 - INFO - 🔍 Scraping [286] (attempt 1): apple-watch-se-40mm-midnight-w-midnight-sport-band
+2025-10-29 16:55:46,346 - INFO - ✅ [286/500] Smart saat Apple Watch SE 40mm MXE73QI/A Midnight
+2025-10-29 16:55:52,258 - INFO - 🔍 Scraping [287] (attempt 1): apple-watch-se-40mm-silver-w-denim-sport-band-s-m-
+2025-10-29 16:56:01,224 - INFO - ✅ [287/500] Apple Watch SE 40mm Silver W/Denim Sport Band S/M 
+2025-10-29 16:56:06,530 - INFO - 🔍 Scraping [288] (attempt 1): apple-watch-se-40mm-starlight-aluminium-mnjp3rb-a
+2025-10-29 16:56:26,579 - ERROR - ❌ Page load timeout: https://kontakt.az/apple-watch-se-40mm-starlight-aluminium-mnjp3rb-a
+2025-10-29 16:56:32,388 - INFO - 🔍 Scraping [288] (attempt 2): apple-watch-se-40mm-starlight-aluminium-mnjp3rb-a
+2025-10-29 16:56:47,089 - INFO - ✅ [288/500] Apple Watch SE 2 40mm Starlight Aluminium / MNJP3R
+2025-10-29 16:56:54,025 - INFO - 🔍 Scraping [289] (attempt 1): apple-watch-se-40mm-starlight-w-starlight-sport-ba
+2025-10-29 16:57:01,414 - INFO - ✅ [289/500] Apple Watch SE 40mm Starlight W/Starlight Sport Ba
+2025-10-29 16:57:05,827 - INFO - 🔍 Scraping [290] (attempt 1): apple-watch-se-40mm-starlight-w-starlight-sport-ba
+2025-10-29 16:57:25,882 - ERROR - ❌ Page load timeout: https://kontakt.az/apple-watch-se-40mm-starlight-w-starlight-sport-band-s-m-mxef3qi-a-68f73d80e7453-promo
+2025-10-29 16:57:29,769 - INFO - 🔍 Scraping [290] (attempt 2): apple-watch-se-40mm-starlight-w-starlight-sport-ba
+2025-10-29 16:57:49,823 - ERROR - ❌ Page load timeout: https://kontakt.az/apple-watch-se-40mm-starlight-w-starlight-sport-band-s-m-mxef3qi-a-68f73d80e7453-promo
+2025-10-29 16:57:53,745 - INFO - 🔍 Scraping [290] (attempt 3): apple-watch-se-40mm-starlight-w-starlight-sport-ba
+2025-10-29 16:58:22,853 - ERROR - ❌ Unexpected error: 'NoneType' object is not subscriptable
+2025-10-29 16:58:22,867 - INFO - 🔍 Scraping [291] (attempt 1): apple-watch-se-44-mm-gold-mkq53rb-a
+2025-10-29 16:58:33,043 - INFO - ✅ [291/500] Apple Watch SE 44 mm Gold MKQ53RB/A
+2025-10-29 16:58:39,862 - INFO - 🔍 Scraping [292] (attempt 1): apple-watch-se-44-mm-midnight-aluminium-case-midni
+2025-10-29 16:58:49,183 - INFO - ✅ [292/500] Apple Watch SE 2 44 mm Midnight W/Midnight Sport B
+2025-10-29 16:58:56,388 - INFO - 🔍 Scraping [293] (attempt 1): apple-watch-se-44-mm-midnight-aluminium-mnk03rb-a
+2025-10-29 16:59:16,436 - ERROR - ❌ Page load timeout: https://kontakt.az/apple-watch-se-44-mm-midnight-aluminium-mnk03rb-a
+2025-10-29 16:59:20,053 - INFO - 🔍 Scraping [293] (attempt 2): apple-watch-se-44-mm-midnight-aluminium-mnk03rb-a
+2025-10-29 16:59:40,111 - ERROR - ❌ Page load timeout: https://kontakt.az/apple-watch-se-44-mm-midnight-aluminium-mnk03rb-a
+2025-10-29 16:59:43,245 - INFO - 🔍 Scraping [293] (attempt 3): apple-watch-se-44-mm-midnight-aluminium-mnk03rb-a
+2025-10-29 16:59:50,109 - INFO - ✅ [293/500] Apple Watch SE 2 44 mm Midnight Aluminium / MNK03R
+2025-10-29 16:59:54,882 - INFO - 🔍 Scraping [294] (attempt 1): apple-watch-se-44-mm-silver
+2025-10-29 17:00:06,709 - INFO - ✅ [294/500] Apple Watch Se 44 Mm Silver
+2025-10-29 17:00:12,433 - INFO - 🔍 Scraping [295] (attempt 1): apple-watch-se-44-mm-space-grey
+2025-10-29 17:00:23,126 - INFO - ✅ [295/500] Apple Watch SE 44 mm Space Grey
+2025-10-29 17:00:27,196 - INFO - 🔍 Scraping [296] (attempt 1): apple-watch-se-44-mm-starlight-aluminium-case-star
+2025-10-29 17:00:36,675 - INFO - ✅ [296/500] Apple Watch SE 2 44 mm Starlight W/Starlight Sport
+2025-10-29 17:00:41,867 - INFO - 🔍 Scraping [297] (attempt 1): apple-watch-se-44-mm-starlight-aluminium-case-star
+2025-10-29 17:00:50,762 - INFO - ✅ [297/500] Smart saat Apple Watch SE 2 44mm MRE53QI/A Starlig
+2025-10-29 17:00:56,032 - INFO - 🔍 Scraping [298] (attempt 1): apple-watch-se-44-mm-starlight-aluminium-mnjx3rb-a
+2025-10-29 17:01:00,677 - INFO - ✅ [298/500] Apple Watch SE 2 44 mm Starlight Aluminium / MNJX3
+2025-10-29 17:01:07,372 - INFO - 🔍 Scraping [299] (attempt 1): apple-watch-se-nike-44-mm-silver
+2025-10-29 17:01:21,340 - INFO - ✅ [299/500] Apple Watch SE Nike 44 mm Silver
+2025-10-29 17:01:28,116 - INFO - 🔍 Scraping [300] (attempt 1): apple-watch-se-nike-44-mm-space-grey
+2025-10-29 17:01:40,337 - INFO - ✅ [300/500] Apple Watch Se Nike 44 Mm Space Grey
+2025-10-29 17:01:46,832 - INFO - 🔍 Scraping [301] (attempt 1): apple-watch-series-10-42mm-jet-black-w-back-sport-
+2025-10-29 17:01:46,833 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 17:01:47,312 - INFO - ✅ WebDriver created successfully
+2025-10-29 17:02:01,012 - INFO - ✅ [301/500] Smart saat Apple Watch Series 10 42mm MWWE3QI/A Je
+2025-10-29 17:02:08,181 - INFO - 🔍 Scraping [302] (attempt 1): apple-watch-series-10-42mm-jet-black-w-ink-sport-l
+2025-10-29 17:02:25,699 - INFO - ✅ [302/500] Apple Watch Series 10 42mm Jet Black W/INK sport L
+2025-10-29 17:02:33,688 - INFO - 🔍 Scraping [303] (attempt 1): apple-watch-series-10-42mm-rose-gold-w-light-blush
+2025-10-29 17:02:45,701 - INFO - ✅ [303/500] Smart saat Apple Watch Series 10 42mm MWWH3QI/A Ro
+2025-10-29 17:02:52,815 - INFO - 🔍 Scraping [304] (attempt 1): apple-watch-series-10-42mm-silver-w-blue-cloud-spo
+2025-10-29 17:03:01,265 - INFO - ✅ [304/500] Smart saat Apple Watch Series 10 42mm MWWD3QI/A Si
+2025-10-29 17:03:06,260 - INFO - 🔍 Scraping [305] (attempt 1): apple-watch-series-10-42mm-silver-w-denim-sport-ba
+2025-10-29 17:03:15,053 - INFO - ✅ [305/500] Smart saat Apple Watch Series 10 42mm MWWA3QI/A Si
+2025-10-29 17:03:20,620 - INFO - 🔍 Scraping [306] (attempt 1): apple-watch-series-10-46mm-jet-black-w-black-sport
+2025-10-29 17:03:28,939 - INFO - ✅ [306/500] Smart saat Apple Watch Series 10 46mm MWWQ3QI/A Je
+2025-10-29 17:03:34,122 - INFO - 🔍 Scraping [307] (attempt 1): apple-watch-series-10-46mm-jet-black-w-ink-sport-l
+2025-10-29 17:03:42,961 - INFO - ✅ [307/500] Smart saat Apple Watch Series 10 46mm MWWR3QI/A Je
+2025-10-29 17:03:49,442 - INFO - 🔍 Scraping [308] (attempt 1): apple-watch-series-10-46mm-rose-gold-w-light-blush
+2025-10-29 17:03:58,528 - INFO - ✅ [308/500] Smart saat Apple Watch Series 10 46mm MWWU3QI/A Ro
+2025-10-29 17:04:03,382 - INFO - 🔍 Scraping [309] (attempt 1): apple-watch-series-10-46mm-rose-gold-w-plum-sport-
+2025-10-29 17:04:15,505 - INFO - ✅ [309/500] Smart saat Apple Watch Series 10 46mm MWWV3QI/A Ro
+2025-10-29 17:04:22,266 - INFO - 🔍 Scraping [310] (attempt 1): apple-watch-series-10-46mm-silver-w-blue-cloud-spo
+2025-10-29 17:04:32,595 - INFO - ✅ [310/500] Smart saat Apple Watch Series 10 46mm MWWN3QI/A Si
+2025-10-29 17:04:37,472 - INFO - 🔍 Scraping [311] (attempt 1): apple-watch-series-10-46mm-silver-w-denim-sport-ba
+2025-10-29 17:04:47,333 - INFO - ✅ [311/500] Smart saat Apple Watch 10 46mm MWWM3QI/A Silver
+2025-10-29 17:04:54,492 - INFO - 🔍 Scraping [312] (attempt 1): apple-watch-ultra-2-49-mm-titanium-case-blue-alpin
+2025-10-29 17:05:02,689 - INFO - ✅ [312/500] Apple Watch Ultra 2 49 mm Titanium W/Blue Alpine B
+2025-10-29 17:05:09,579 - INFO - 🔍 Scraping [313] (attempt 1): apple-watch-ultra-2-49-mm-titanium-case-blue-black
+2025-10-29 17:05:20,992 - INFO - ✅ [313/500] Apple Watch Ultra 2 49 mm Titanium W/Blue/Black Tr
+2025-10-29 17:05:27,991 - INFO - 🔍 Scraping [314] (attempt 1): apple-watch-ultra-2-49-mm-titanium-case-blue-ocean
+2025-10-29 17:05:37,484 - INFO - ✅ [314/500] Apple Watch Ultra 2 49 mm Titanium Blue Ocean Band
+2025-10-29 17:05:45,059 - INFO - 🔍 Scraping [315] (attempt 1): apple-watch-ultra-2-49-mm-titanium-case-green-grey
+2025-10-29 17:05:55,201 - INFO - ✅ [315/500] Apple Watch Ultra 2 49 mm Titanium W/Green/Grey Tr
+2025-10-29 17:06:02,881 - INFO - 🔍 Scraping [316] (attempt 1): apple-watch-ultra-2-49-mm-titanium-case-indigo-alp
+2025-10-29 17:06:15,583 - INFO - ✅ [316/500] Apple Watch Ultra 2 49 mm Titanium W/Indigo Alpine
+2025-10-29 17:06:20,758 - INFO - 🔍 Scraping [317] (attempt 1): apple-watch-ultra-2-49-mm-titanium-case-olive-alpi
+2025-10-29 17:06:29,867 - INFO - ✅ [317/500] Smart saat Apple Watch Ultra 2 49mm MREY3RB/A Tita
+2025-10-29 17:06:37,836 - INFO - 🔍 Scraping [318] (attempt 1): apple-watch-ultra-2-49-mm-titanium-case-orange-bei
+2025-10-29 17:06:47,762 - INFO - ✅ [318/500] Smart saat Apple Watch Ultra 2 49mm MRF23RB/A Tita
+2025-10-29 17:06:53,041 - INFO - 🔍 Scraping [319] (attempt 1): apple-watch-ultra-2-49-mm-titanium-case-orange-oce
+2025-10-29 17:07:03,811 - INFO - ✅ [319/500] Apple Watch Ultra 2 49 mm Titanium W/Orange Ocean 
+2025-10-29 17:07:10,579 - INFO - 🔍 Scraping [320] (attempt 1): apple-watch-ultra-2-49-mm-titanium-case-white-ocea
+2025-10-29 17:07:21,095 - INFO - ✅ [320/500] Apple Watch Ultra 2 49 mm Titanium W/White Ocean B
+2025-10-29 17:07:25,874 - INFO - 🔍 Scraping [321] (attempt 1): apple-watch-ultra-2-49-mm-titanium-w-blue-black-tr
+2025-10-29 17:07:34,963 - INFO - ✅ [321/500] Apple Watch Ultra 2 49 mm Titanium W/Blue/Black Tr
+2025-10-29 17:07:42,738 - INFO - 🔍 Scraping [322] (attempt 1): apple-watch-ultra-2-49-mm-titanium-w-green-grey-tr
+2025-10-29 17:07:52,299 - INFO - ✅ [322/500] Apple Watch Ultra 2 49 mm Titanium W/Green/Grey Tr
+2025-10-29 17:07:58,155 - INFO - 🔍 Scraping [323] (attempt 1): apple-watch-ultra-2-49-mm-titanium-w-olive-alpine-
+2025-10-29 17:08:07,218 - INFO - ✅ [323/500] Apple Watch Ultra 2 49 mm Titanium W/Olive Alpine 
+2025-10-29 17:08:15,029 - INFO - 🔍 Scraping [324] (attempt 1): apple-watch-ultra-2-cellular-49mm-black-w-black-oc
+2025-10-29 17:08:25,908 - INFO - ✅ [324/500] Smart saat Apple Watch Ultra 2 49mm Cellular MX4P3
+2025-10-29 17:08:31,768 - INFO - 🔍 Scraping [325] (attempt 1): apple-watch-ultra-2-cellular-49mm-black-w-black-ti
+2025-10-29 17:08:39,115 - INFO - ✅ [325/500] Smart saat Apple Watch Ultra 2 49mm Cellular MX5U3
+2025-10-29 17:08:46,704 - INFO - 🔍 Scraping [326] (attempt 1): apple-watch-ultra-2-cellular-49mm-black-w-black-tr
+2025-10-29 17:08:46,705 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 17:08:47,228 - INFO - ✅ WebDriver created successfully
+2025-10-29 17:09:01,884 - INFO - ✅ [326/500] Smart saat Apple Watch Ultra 2 49mm Cellular MX4V3
+2025-10-29 17:09:06,329 - INFO - 🔍 Scraping [327] (attempt 1): apple-watch-ultra-2-cellular-49mm-black-w-black-tr
+2025-10-29 17:09:19,706 - INFO - ✅ [327/500] Apple Watch Ultra 2 Cellular 49mm Black W/Black Tr
+2025-10-29 17:09:24,721 - INFO - 🔍 Scraping [328] (attempt 1): apple-watch-ultra-2-cellular-49mm-black-w-dark-gre
+2025-10-29 17:09:35,356 - INFO - ✅ [328/500] Smart saat Apple Watch Ultra 2 49mm Cellular MX4T3
+2025-10-29 17:09:40,648 - INFO - 🔍 Scraping [329] (attempt 1): apple-watch-ultra-2-cellular-49mm-black-w-dark-gre
+2025-10-29 17:09:55,948 - INFO - ✅ [329/500] Apple Watch Ultra 2 Cellular 49mm Black W/Dark Gre
+2025-10-29 17:10:03,618 - INFO - 🔍 Scraping [330] (attempt 1): apple-watch-ultra-2-cellular-49mm-natural-w-blue-t
+2025-10-29 17:10:14,594 - INFO - ✅ [330/500] Smart saat Apple Watch Ultra 2 49mm Cellular MX4L3
+2025-10-29 17:10:19,361 - INFO - 🔍 Scraping [331] (attempt 1): apple-watch-ultra-2-cellular-49mm-natural-w-natura
+2025-10-29 17:10:32,422 - INFO - ✅ [331/500] Smart saat Apple Watch Ultra 2 49mm Cellular MX5R3
+2025-10-29 17:10:38,450 - INFO - 🔍 Scraping [332] (attempt 1): apple-watch-ultra-2-cellular-49mm-natural-w-navy-o
+2025-10-29 17:10:46,623 - INFO - ✅ [332/500] Smart saat Apple Watch Ultra 2 49mm Cellular MX4D3
+2025-10-29 17:10:54,084 - INFO - 🔍 Scraping [333] (attempt 1): apple-watch-ultra-2-cellular-49mm-natural-w-tan-al
+2025-10-29 17:11:03,396 - INFO - ✅ [333/500] Smart saat Apple Watch Ultra 2 49mm Cellular MX4F3
+2025-10-29 17:11:07,816 - INFO - 🔍 Scraping [334] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-black-grey
+2025-10-29 17:11:20,635 - INFO - ✅ [334/500] Apple Watch Ultra 49 mm Titanium Case W/Black /Gre
+2025-10-29 17:11:24,851 - INFO - 🔍 Scraping [335] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-black-grey
+2025-10-29 17:11:34,617 - INFO - ✅ [335/500] Apple Watch Ultra 49 mm Titanium Case W/Black /Gre
+2025-10-29 17:11:41,917 - INFO - 🔍 Scraping [336] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-blue-grey-
+2025-10-29 17:11:51,172 - INFO - ✅ [336/500] Apple Watch Ultra 49 mm Titanium Case W/Blue/Grey 
+2025-10-29 17:11:55,183 - INFO - 🔍 Scraping [337] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-blue-grey-
+2025-10-29 17:12:03,937 - INFO - ✅ [337/500] Apple Watch Ultra 49 mm Titanium Case W/Blue/Grey 
+2025-10-29 17:12:09,389 - INFO - 🔍 Scraping [338] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-green-alpi
+2025-10-29 17:12:20,887 - INFO - ✅ [338/500] Apple Watch Ultra 49 mm Titanium Case W/Green Alpi
+2025-10-29 17:12:25,637 - INFO - 🔍 Scraping [339] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-green-alpi
+2025-10-29 17:12:40,097 - INFO - ✅ [339/500] Apple Watch Ultra 49 mm Titanium Case W/Green Alpi
+2025-10-29 17:12:44,741 - INFO - 🔍 Scraping [340] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-green-alpi
+2025-10-29 17:12:58,562 - INFO - ✅ [340/500] Apple Watch Ultra 49 mm Titanium Case W/Green Alpi
+2025-10-29 17:13:04,518 - INFO - 🔍 Scraping [341] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-midnight-o
+2025-10-29 17:13:23,280 - INFO - ✅ [341/500] Apple Watch Ultra 49 mm Titanium Case W/Midnight O
+2025-10-29 17:13:30,529 - INFO - 🔍 Scraping [342] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-orange-alp
+2025-10-29 17:13:39,495 - INFO - ✅ [342/500] Apple Watch Ultra 49 mm Titanium Case W/Orange Alp
+2025-10-29 17:13:45,871 - INFO - 🔍 Scraping [343] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-orange-alp
+2025-10-29 17:13:56,469 - INFO - ✅ [343/500] Apple Watch Ultra 49 mm Titanium Case W/Orange Alp
+2025-10-29 17:14:02,263 - INFO - 🔍 Scraping [344] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-starlight-
+2025-10-29 17:14:13,099 - INFO - ✅ [344/500] Apple Watch Ultra 49 mm Titanium Case W/Starlight 
+2025-10-29 17:14:19,206 - INFO - 🔍 Scraping [345] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-starlight-
+2025-10-29 17:14:29,690 - INFO - ✅ [345/500] Apple Watch Ultra 49 mm Titanium Case W/Starlight 
+2025-10-29 17:14:36,219 - INFO - 🔍 Scraping [346] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-yellow-bei
+2025-10-29 17:14:45,616 - INFO - ✅ [346/500] Apple Watch Ultra 49 mm Titanium Case W/Yellow/Bei
+2025-10-29 17:14:51,712 - INFO - 🔍 Scraping [347] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-yellow-bei
+2025-10-29 17:14:59,491 - INFO - ✅ [347/500] Apple Watch Ultra 49 mm Titanium Case W/Yellow/Bei
+2025-10-29 17:15:05,461 - INFO - 🔍 Scraping [348] (attempt 1): apple-watch-ultra-49-mm-titanium-case-w-yellow-oce
+2025-10-29 17:15:15,596 - INFO - ✅ [348/500] Apple Watch Ultra 49 mm Titanium Case W/Yellow Oce
+2025-10-29 17:15:23,379 - INFO - 🔍 Scraping [349] (attempt 1): apple-watch-ultra-49mm-titanium-case-w-orange-alpi
+2025-10-29 17:15:31,997 - INFO - ✅ [349/500] Apple Watch Ultra 49mm Titanium case W/Orange Alpi
+2025-10-29 17:15:39,658 - INFO - 🔍 Scraping [350] (attempt 1): apple-watch-ultra-49mm-titanium-case-w-white-ocean
+2025-10-29 17:15:48,414 - INFO - ✅ [350/500] Apple Watch Ultra 49mm Titanium Case W/White Ocean
+2025-10-29 17:15:56,096 - INFO - 🔍 Scraping [351] (attempt 1): apple-world-travel-adapter-kit-md837zm-a
+2025-10-29 17:15:56,097 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 17:15:56,579 - INFO - ✅ WebDriver created successfully
+2025-10-29 17:16:08,573 - INFO - ✅ [351/500] Apple World Travel Adapter Kit MD837ZM/A
+2025-10-29 17:16:14,021 - INFO - 🔍 Scraping [352] (attempt 1): blue-apple-airpods-2-liquid-silicone-protect-case-
+2025-10-29 17:16:26,737 - INFO - ✅ [352/500] Blue Apple Airpods 2 Liquid Silicone Protect Case 
+2025-10-29 17:16:33,683 - INFO - 🔍 Scraping [353] (attempt 1): blueo-apple-airpods-2-liquid-silicone-protect-case
+2025-10-29 17:16:44,791 - INFO - ✅ [353/500] Blueo Apple Airpods 2 Liquid Silicone Protect Case
+2025-10-29 17:16:52,059 - INFO - 🔍 Scraping [354] (attempt 1): blueo-apple-airpods-2-liquid-silicone-protect-case
+2025-10-29 17:17:02,953 - INFO - ✅ [354/500] Blueo Apple Airpods 2 Liquid Silicone Protect Case
+2025-10-29 17:17:10,075 - INFO - 🔍 Scraping [355] (attempt 1): blueo-apple-airpods-2-liquid-silicone-protect-case
+2025-10-29 17:17:19,172 - INFO - ✅ [355/500] Blueo Apple Airpods 2 Liquid Silicone Protect Case
+2025-10-29 17:17:23,241 - INFO - 🔍 Scraping [356] (attempt 1): blueo-apple-airpods-2-liquid-silicone-protect-case
+2025-10-29 17:17:32,150 - INFO - ✅ [356/500] Blueo Apple Airpods 2 Liquid Silicone Protect Case
+2025-10-29 17:17:37,151 - INFO - 🔍 Scraping [357] (attempt 1): blueo-apple-airpods-2-liquid-silicone-protect-case
+2025-10-29 17:17:47,052 - INFO - ✅ [357/500] Blueo Apple AirPods 2 Liquid Silicone Protect Case
+2025-10-29 17:17:53,288 - INFO - 🔍 Scraping [358] (attempt 1): blueo-apple-airpods-2-liquid-silicone-protect-case
+2025-10-29 17:18:02,538 - INFO - ✅ [358/500] Blueo Apple AirPods 2 Liquid Silicone Protect Case
+2025-10-29 17:18:07,739 - INFO - 🔍 Scraping [359] (attempt 1): blueo-apple-airpods-pro-liquid-silicone-protect-ca
+2025-10-29 17:18:23,398 - INFO - ✅ [359/500] Blueo Apple AirPods Pro Liquid Silicone Protect Ca
+2025-10-29 17:18:29,404 - INFO - 🔍 Scraping [360] (attempt 1): charging-case-for-apple-airpods
+2025-10-29 17:18:38,020 - INFO - ✅ [360/500] Qulaqlıq korpusu Apple AirPods MR8U2RU/A
+2025-10-29 17:18:44,572 - INFO - 🔍 Scraping [361] (attempt 1): dezodorant-dove-apple-white-tea-250-ml-87171636767
+2025-10-29 17:18:51,422 - INFO - ✅ [361/500] Dezodorant Dove Apple&White tea 250 ml 87171636767
+2025-10-29 17:18:56,316 - INFO - 🔍 Scraping [362] (attempt 1): klaviatura-apple-magic-keyboard-mk2a3rs-a
+2025-10-29 17:19:05,731 - INFO - ✅ [362/500] Klaviatura Apple Magic MK2A3RS/A/MXCL3RS/A
+2025-10-29 17:19:12,662 - INFO - 🔍 Scraping [363] (attempt 1): klaviatura-apple-magic-keyboard-touch-id-mxk83rs-a
+2025-10-29 17:19:24,702 - INFO - ✅ [363/500] Klaviatura Apple Magic with Touch ID MXK83RS/A
+2025-10-29 17:19:30,187 - INFO - 🔍 Scraping [364] (attempt 1): klaviatura-apple-magic-keyboard-with-numeric-keypa
+2025-10-29 17:19:39,972 - INFO - ✅ [364/500] Klaviatura Apple Magic with Numeric Keypad Silver 
+2025-10-29 17:19:47,959 - INFO - 🔍 Scraping [365] (attempt 1): klaviatura-apple-magic-keyboard-with-touch-id-mxck
+2025-10-29 17:19:55,314 - INFO - ✅ [365/500] Klaviatura Apple Magic with Touch ID MXCK3RS/A
+2025-10-29 17:20:01,182 - INFO - 🔍 Scraping [366] (attempt 1): klaviatura-apple-magic-keyboard-with-touch-id-mxk7
+2025-10-29 17:20:11,140 - INFO - ✅ [366/500] Klaviatura Apple Magic with Touch ID MXK73RS/A
+2025-10-29 17:20:15,817 - INFO - 🔍 Scraping [367] (attempt 1): magic-trackpad-apple-a3120-mxk93zm-a-white
+2025-10-29 17:20:29,906 - INFO - ✅ [367/500] Magic Trackpad Apple A3120 / MXK93ZM/A White
+2025-10-29 17:20:37,820 - INFO - 🔍 Scraping [368] (attempt 1): magic-trackpad-apple-a3120-mxka3zm-a-black
+2025-10-29 17:20:45,895 - INFO - ✅ [368/500] Magic Trackpad Apple A3120 / MXKA3ZM/A Black
+2025-10-29 17:20:50,038 - INFO - 🔍 Scraping [369] (attempt 1): monitor-apple-imac-24-mqrd3ru-a-pink
+2025-10-29 17:20:58,023 - INFO - ✅ [369/500] Monitor Apple iMac 24 MQRD3RU/A Pink
+2025-10-29 17:21:05,705 - INFO - 🔍 Scraping [370] (attempt 1): monitor-apple-studio-display-27-mk0q3ru-a
+2025-10-29 17:21:20,771 - INFO - ✅ [370/500] Monitor Apple Studio Display 27 MK0Q3RU/A
+2025-10-29 17:21:27,220 - INFO - 🔍 Scraping [371] (attempt 1): monoblok-apple-imac-21-5-mhk23ru-a-silver
+2025-10-29 17:21:40,509 - INFO - ✅ [371/500] Monoblok Apple iMac 21.5" MHK23RU/A Silver
+2025-10-29 17:21:44,739 - INFO - 🔍 Scraping [372] (attempt 1): monoblok-apple-imac-24-mgpd3ru-a-silver
+2025-10-29 17:21:55,802 - INFO - ✅ [372/500] Monoblok Apple iMac 24'' MGPD3RU/A Silver
+2025-10-29 17:22:00,639 - INFO - 🔍 Scraping [373] (attempt 1): monoblok-apple-imac-24-mgph3ru-a-green
+2025-10-29 17:22:08,357 - INFO - ✅ [373/500] Monoblok Apple iMac 24" MGPH3RU/A Green
+2025-10-29 17:22:13,733 - INFO - 🔍 Scraping [374] (attempt 1): monoblok-apple-imac-24-mgpj3ru-a-green
+2025-10-29 17:22:22,754 - INFO - ✅ [374/500] Monoblok Apple iMac 24" MGPJ3RU/A Green
+2025-10-29 17:22:29,543 - INFO - 🔍 Scraping [375] (attempt 1): monoblok-apple-imac-24-mgpk3ru-a-blue
+2025-10-29 17:22:37,411 - INFO - ✅ [375/500] Monoblok Apple iMac 24 MGPK3RU/A Blue
+2025-10-29 17:22:44,245 - INFO - 🔍 Scraping [376] (attempt 1): monoblok-apple-imac-24-mgpl3ru-a-blue
+2025-10-29 17:22:44,246 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 17:22:44,687 - INFO - ✅ WebDriver created successfully
+2025-10-29 17:22:59,172 - INFO - ✅ [376/500] Monoblok Apple iMac 24" MGPL3RU/A Blue
+2025-10-29 17:23:05,766 - INFO - 🔍 Scraping [377] (attempt 1): monoblok-apple-imac-24-mgpn3ru-a-pink
+2025-10-29 17:23:21,424 - INFO - ✅ [377/500] Monoblok Apple iMac 24'' MGPN3RU/A Pink
+2025-10-29 17:23:26,534 - INFO - 🔍 Scraping [378] (attempt 1): monoblok-apple-imac-24-mgtf3ru-a-silver
+2025-10-29 17:23:34,480 - INFO - ✅ [378/500] Monoblok Apple iMac 24" MGTF3RU/A Silver
+2025-10-29 17:23:41,537 - INFO - 🔍 Scraping [379] (attempt 1): monoblok-apple-imac-24-mjva3ru-a-pink
+2025-10-29 17:23:48,391 - INFO - ✅ [379/500] Monoblok Apple iMac 24'' MJVA3RU/A Pink
+2025-10-29 17:23:56,281 - INFO - 🔍 Scraping [380] (attempt 1): monoblok-apple-imac-24-mqr93ru-a-silver
+2025-10-29 17:24:04,344 - INFO - ✅ [380/500] Monoblok Apple iMac 24 M3 MQR93RU/A Silver
+2025-10-29 17:24:09,638 - INFO - 🔍 Scraping [381] (attempt 1): monoblok-apple-imac-24-mqrc3ru-a-blue
+2025-10-29 17:24:17,468 - INFO - ✅ [381/500] Monoblok Apple iMac 24 MQRC3RU/A Blue
+2025-10-29 17:24:25,464 - INFO - 🔍 Scraping [382] (attempt 1): monoblok-apple-imac-24-mqrj3ru-a-silver
+2025-10-29 17:24:33,370 - INFO - ✅ [382/500] Monoblok Apple iMac 24 MQRJ3RU/A Silver
+2025-10-29 17:24:38,991 - INFO - 🔍 Scraping [383] (attempt 1): monoblok-apple-imac-24-mqrk3ru-a-silver
+2025-10-29 17:24:50,485 - INFO - ✅ [383/500] Monoblok Apple iMac 24 MQRK3RU/A Silver
+2025-10-29 17:24:58,033 - INFO - 🔍 Scraping [384] (attempt 1): monoblok-apple-imac-24-mqrn3ru-a-green
+2025-10-29 17:25:06,386 - INFO - ✅ [384/500] Monoblok Apple iMac 24 MQRN3RU/A Green
+2025-10-29 17:25:11,463 - INFO - 🔍 Scraping [385] (attempt 1): monoblok-apple-imac-24-mqrp3ru-a-green
+2025-10-29 17:25:22,129 - INFO - ✅ [385/500] Monoblok Apple iMac 24 M3 Green MQRP3RU/A
+2025-10-29 17:25:27,279 - INFO - 🔍 Scraping [386] (attempt 1): monoblok-apple-imac-24-mqrq3ru-a-blue
+2025-10-29 17:25:38,911 - INFO - ✅ [386/500] Monoblok Apple iMac 24 MQRQ3RU/A Blue
+2025-10-29 17:25:44,250 - INFO - 🔍 Scraping [387] (attempt 1): monoblok-apple-imac-24-mqrr3ru-a-blue
+2025-10-29 17:25:53,344 - INFO - ✅ [387/500] Monoblok Apple iMac 24 M3 Blue MQRR3RU/A
+2025-10-29 17:25:57,736 - INFO - 🔍 Scraping [388] (attempt 1): monoblok-apple-imac-24-mqrt3ru-a-pink
+2025-10-29 17:26:04,880 - INFO - ✅ [388/500] Monoblok Apple iMac 24'' MQRT3RU/A Pink
+2025-10-29 17:26:09,166 - INFO - 🔍 Scraping [389] (attempt 1): monoblok-apple-imac-24-mqru3ru-a-pink
+2025-10-29 17:26:19,877 - INFO - ✅ [389/500] Monoblok Apple iMac 24 MQRU3RU/A Pink
+2025-10-29 17:26:24,784 - INFO - 🔍 Scraping [390] (attempt 1): monoblok-apple-imac-24-mwuc3ru-a-silver
+2025-10-29 17:26:33,567 - INFO - ✅ [390/500] Monoblok Apple iMac 24 MWUC3RU/A Silver
+2025-10-29 17:26:40,918 - INFO - 🔍 Scraping [391] (attempt 1): monoblok-apple-imac-24-mwue3ru-a-green
+2025-10-29 17:26:53,039 - INFO - ✅ [391/500] Monoblok Apple iMac 24 M4 Green MWUE3RU/A
+2025-10-29 17:26:58,090 - INFO - 🔍 Scraping [392] (attempt 1): monoblok-apple-imac-24-mwuf3ru-a-blue
+2025-10-29 17:27:07,788 - INFO - ✅ [392/500] Monoblok Apple iMac 24 MWUF3RU/A Blue
+2025-10-29 17:27:14,360 - INFO - 🔍 Scraping [393] (attempt 1): monoblok-apple-imac-24-mwuv3ru-a-silver
+2025-10-29 17:27:26,201 - INFO - ✅ [393/500] Monoblok Apple iMac 24 MWUV3RU/A Silver
+2025-10-29 17:27:33,219 - INFO - 🔍 Scraping [394] (attempt 1): monoblok-apple-imac-24-mwv13ru-a-blue
+2025-10-29 17:27:41,633 - INFO - ✅ [394/500] Monoblok Apple iMac 24 MWV13RU/A Blue
+2025-10-29 17:27:46,909 - INFO - 🔍 Scraping [395] (attempt 1): monoblok-apple-imac-24-mwv33ru-a-blue
+2025-10-29 17:27:55,788 - INFO - ✅ [395/500] Monoblok Apple iMac 24 MWV33RU/A Blue
+2025-10-29 17:28:02,519 - INFO - 🔍 Scraping [396] (attempt 1): monoblok-apple-imac-24-silver-mcr24ru-a
+2025-10-29 17:28:10,606 - INFO - ✅ [396/500] Monoblok Apple iMac 24 Silver MCR24RU/A
+2025-10-29 17:28:15,215 - INFO - 🔍 Scraping [397] (attempt 1): monoblok-apple-imac-24-zkz132000bz-orange
+2025-10-29 17:28:22,771 - INFO - ✅ [397/500] Monoblok Apple iMac 24" ZKZ132000BZ Orange
+2025-10-29 17:28:27,683 - INFO - 🔍 Scraping [398] (attempt 1): monoblok-apple-imac-27-mxwt2ru-a
+2025-10-29 17:28:35,901 - INFO - ✅ [398/500] Monoblok Apple iMac 27 MXWT2RU/A
+2025-10-29 17:28:41,583 - INFO - 🔍 Scraping [399] (attempt 1): mouse-apple-magic-touch-surface-white-a3204-mxk53z
+2025-10-29 17:28:51,739 - INFO - ✅ [399/500] Mouse Apple Magic Touch Surface White A3204 / MXK5
+2025-10-29 17:28:56,414 - INFO - 🔍 Scraping [400] (attempt 1): naqil-apple-thunderbolt-5-usb-c-1-m-a3189-mc9c4zm-
+2025-10-29 17:29:03,470 - INFO - ✅ [400/500] Naqil Apple USB Type-C to Thunderbolt 5 1 m A3189 
+2025-10-29 17:29:09,318 - INFO - 🔍 Scraping [401] (attempt 1): naqil-apple-usb-type-c-1-m-a2795-mw493zm-a
+2025-10-29 17:29:09,319 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 17:29:13,300 - INFO - ✅ WebDriver created successfully
+2025-10-29 17:29:26,622 - INFO - ✅ [401/500] Naqil Apple USB Type-C 1 m A2795 / MW493ZM/A
+2025-10-29 17:29:31,026 - INFO - 🔍 Scraping [402] (attempt 1): naqil-ugreen-us304-70523-18w-3a-lightning-apple-mf
+2025-10-29 17:29:41,592 - INFO - ✅ [402/500] Naqil Ugreen US304-70523 USB Type-C to Lightning 1
+2025-10-29 17:29:46,960 - INFO - 🔍 Scraping [403] (attempt 1): notbuk-apple-macbook-air-13-m3-silver-mc8h4ru-a
+2025-10-29 17:29:58,485 - INFO - ✅ [403/500] Notbuk Apple MacBook Air 13 M3 Silver MC8H4RU/A
+2025-10-29 17:30:04,321 - INFO - 🔍 Scraping [404] (attempt 1): notbuk-apple-macbook-air-13-m4-midnight-mw123ru-a
+2025-10-29 17:30:19,974 - INFO - ✅ [404/500] Notbuk Apple MacBook Air 13 M4 Midnight MW123RU/A
+2025-10-29 17:30:26,074 - INFO - 🔍 Scraping [405] (attempt 1): notbuk-apple-macbook-air-13-m4-midnight-mw133ru-a
+2025-10-29 17:30:35,149 - INFO - ✅ [405/500] Notbuk Apple MacBook Air 13 M4 Midnight MW133RU/A
+2025-10-29 17:30:41,402 - INFO - 🔍 Scraping [406] (attempt 1): notbuk-apple-macbook-air-13-m4-silver-mw0w3ru-a
+2025-10-29 17:30:51,849 - INFO - ✅ [406/500] Notbuk Apple MacBook Air 13 M4 Silver MW0W3RU/A
+2025-10-29 17:30:57,378 - INFO - 🔍 Scraping [407] (attempt 1): notbuk-apple-macbook-air-13-m4-silver-mw0x3ru-a
+2025-10-29 17:31:07,692 - INFO - ✅ [407/500] Notbuk Apple MacBook Air 13 M4 Silver MW0X3RU/A
+2025-10-29 17:31:13,916 - INFO - 🔍 Scraping [408] (attempt 1): notbuk-apple-macbook-air-13-m4-sky-blue-mc6t4ru-a
+2025-10-29 17:31:23,712 - INFO - ✅ [408/500] Notbuk Apple MacBook Air 13 M4 Sky Blue MC6T4RU/A
+2025-10-29 17:31:31,288 - INFO - 🔍 Scraping [409] (attempt 1): notbuk-apple-macbook-air-13-m4-sky-blue-mc6u4ru-a
+2025-10-29 17:31:40,951 - INFO - ✅ [409/500] Notbuk Apple MacBook Air 13 M4 Sky Blue MC6U4RU/A
+2025-10-29 17:31:47,957 - INFO - 🔍 Scraping [410] (attempt 1): notbuk-apple-macbook-air-13-m4-starlight-mw0y3ru-a
+2025-10-29 17:31:57,497 - INFO - ✅ [410/500] Notbuk Apple MacBook Air 13 M4 Starlight MW0Y3RU/A
+2025-10-29 17:32:05,376 - INFO - 🔍 Scraping [411] (attempt 1): notbuk-apple-macbook-air-13-m4-starlight-mw103ru-a
+2025-10-29 17:32:15,655 - INFO - ✅ [411/500] Notbuk Apple MacBook Air 13 M4 Starlight MW103RU/A
+2025-10-29 17:32:21,571 - INFO - 🔍 Scraping [412] (attempt 1): notbuk-apple-macbook-air-13-mc7u4ru-a-space-grey
+2025-10-29 17:32:30,966 - INFO - ✅ [412/500] Notbuk Apple MacBook Air 13 M2 Space Gray MC7U4RU/
+2025-10-29 17:32:37,674 - INFO - 🔍 Scraping [413] (attempt 1): notbuk-apple-macbook-air-13-mc7v4ru-a-silver
+2025-10-29 17:32:47,233 - INFO - ✅ [413/500] Notbuk Apple MacBook Air 13 M3 Silver MC7V4RU/A
+2025-10-29 17:32:54,415 - INFO - 🔍 Scraping [414] (attempt 1): notbuk-apple-macbook-air-13-mc7w4ru-a-starlight
+2025-10-29 17:33:05,147 - INFO - ✅ [414/500] Notbuk Apple MacBook Air 13 M2 Starlight MC7W4RU/A
+2025-10-29 17:33:09,163 - INFO - 🔍 Scraping [415] (attempt 1): notbuk-apple-macbook-air-13-mc7x4ru-a-midnight
+2025-10-29 17:33:19,783 - INFO - ✅ [415/500] Notbuk Apple MacBook Air 13 M2 Midnight MC7X4RU/A
+2025-10-29 17:33:26,631 - INFO - 🔍 Scraping [416] (attempt 1): notbuk-apple-macbook-air-13-mc8g4ru-a-space-grey
+2025-10-29 17:33:40,139 - INFO - ✅ [416/500] Notbuk Apple MacBook Air 13 M3 Space Gray MC8G4RU/
+2025-10-29 17:33:44,830 - INFO - 🔍 Scraping [417] (attempt 1): notbuk-apple-macbook-air-13-mc8j4ru-a-starlight
+2025-10-29 17:33:55,734 - INFO - ✅ [417/500] Notbuk Apple MacBook Air 13 M3 Starlight MC8J4RU/A
+2025-10-29 17:34:03,534 - INFO - 🔍 Scraping [418] (attempt 1): notbuk-apple-macbook-air-13-mc8k4ru-a-midnight
+2025-10-29 17:34:13,987 - INFO - ✅ [418/500] Notbuk Apple MacBook Air 13 M3 Midnight MC8K4RU/A
+2025-10-29 17:34:20,915 - INFO - 🔍 Scraping [419] (attempt 1): notbuk-apple-macbook-air-13-mc8m4ru-a-space-grey
+2025-10-29 17:34:32,957 - INFO - ✅ [419/500] Notbuk Apple MacBook Air 13 M3 Space Gray MC8M4RU/
+2025-10-29 17:34:37,137 - INFO - 🔍 Scraping [420] (attempt 1): notbuk-apple-macbook-air-13-mc8n4ru-a-silver
+2025-10-29 17:34:48,512 - INFO - ✅ [420/500] Notbuk Apple MacBook Air 13 M3 Silver MC8N4RU/A
+2025-10-29 17:34:54,041 - INFO - 🔍 Scraping [421] (attempt 1): notbuk-apple-macbook-air-13-mc8p4ru-a-starlight
+2025-10-29 17:35:05,882 - INFO - ✅ [421/500] Notbuk Apple MacBook Air 13 M3 Starlight MC8P4RU/A
+2025-10-29 17:35:10,846 - INFO - 🔍 Scraping [422] (attempt 1): notbuk-apple-macbook-air-13-mgn63ll-a-space-gray
+2025-10-29 17:35:22,542 - INFO - ✅ [422/500] Notbuk Apple MacBook Air 13 M1 Space Gray MGN63LL/
+2025-10-29 17:35:27,024 - INFO - 🔍 Scraping [423] (attempt 1): notbuk-apple-macbook-air-13-mgn63ru-a-space-gray
+2025-10-29 17:35:31,844 - INFO - ✅ [423/500] Notbuk Apple MacBook Air 13 M1 Space Gray MGN63RU/
+2025-10-29 17:35:39,063 - INFO - 🔍 Scraping [424] (attempt 1): notbuk-apple-macbook-air-13-mgn73ru-a-space-gray
+2025-10-29 17:35:54,121 - INFO - ✅ [424/500] Notbuk Apple MacBook Air 13 MGN73RU/A Space Gray
+2025-10-29 17:36:01,980 - INFO - 🔍 Scraping [425] (attempt 1): notbuk-apple-macbook-air-13-mgna3ua-a-silver
+2025-10-29 17:36:12,015 - INFO - ✅ [425/500] Notbuk Apple MacBook Air 13 M1 Silver MGNA3UA/A
+2025-10-29 17:36:19,175 - INFO - 🔍 Scraping [426] (attempt 1): notbuk-apple-macbook-air-13-mgnd3ru-a-gold
+2025-10-29 17:36:19,175 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 17:36:19,639 - INFO - ✅ WebDriver created successfully
+2025-10-29 17:36:30,900 - INFO - ✅ [426/500] Notbuk Apple MacBook Air 13 M1 Gold MGND3RU/A
+2025-10-29 17:36:36,773 - INFO - 🔍 Scraping [427] (attempt 1): notbuk-apple-macbook-air-13-mrxn3ru-a-space-gray
+2025-10-29 17:36:45,611 - INFO - ✅ [427/500] Notbuk Apple MacBook Air 13 M3 Space Gray MRXN3RU/
+2025-10-29 17:36:53,028 - INFO - 🔍 Scraping [428] (attempt 1): notbuk-apple-macbook-air-13-mrxp3ru-a-space-gray
+2025-10-29 17:37:04,827 - INFO - ✅ [428/500] Notbuk Apple MacBook Air 13 Space Gray MRXP3RU/A
+2025-10-29 17:37:09,965 - INFO - 🔍 Scraping [429] (attempt 1): notbuk-apple-macbook-air-13-mrxq3ru-a-silver
+2025-10-29 17:37:25,686 - INFO - ✅ [429/500] Notbuk Apple MacBook Air 13 Silver MRXQ3RU/A
+2025-10-29 17:37:30,024 - INFO - 🔍 Scraping [430] (attempt 1): notbuk-apple-macbook-air-13-mrxr3ru-a-silver
+2025-10-29 17:37:41,069 - INFO - ✅ [430/500] Notbuk Apple MacBook Air 13 M3 Silver MRXR3RU/A
+2025-10-29 17:37:47,264 - INFO - 🔍 Scraping [431] (attempt 1): notbuk-apple-macbook-air-13-mrxt3ru-a-starlight
+2025-10-29 17:38:04,817 - INFO - ✅ [431/500] Notbuk Apple MacBook Air 13 MRXT3RU/A Starlight
+2025-10-29 17:38:10,718 - INFO - 🔍 Scraping [432] (attempt 1): notbuk-apple-macbook-air-13-mrxu3ru-a-starlight
+2025-10-29 17:38:20,106 - INFO - ✅ [432/500] Notbuk Apple MacBook Air 13 M3 Starlight MRXU3RU/A
+2025-10-29 17:38:26,719 - INFO - 🔍 Scraping [433] (attempt 1): notbuk-apple-macbook-air-13-mrxv3ru-a-midnight
+2025-10-29 17:38:36,525 - INFO - ✅ [433/500] Notbuk Apple MacBook Air 13 M3 Midnight MRXV3RU/A
+2025-10-29 17:38:44,069 - INFO - 🔍 Scraping [434] (attempt 1): notbuk-apple-macbook-air-13-mrxw3ru-a-midnight
+2025-10-29 17:38:52,115 - INFO - ✅ [434/500] Notbuk Apple MacBook Air 13 M3 Midnight MRXW3RU/A
+2025-10-29 17:38:57,527 - INFO - 🔍 Scraping [435] (attempt 1): notbuk-apple-macbook-air-13-zkz160000lc-midnight
+2025-10-29 17:39:08,796 - INFO - ✅ [435/500] Notbuk Apple MacBook Air 13 ZKZ160000LC Midnight
+2025-10-29 17:39:16,621 - INFO - 🔍 Scraping [436] (attempt 1): notbuk-apple-macbook-air-15-m4-midnight-mw1l3ru-a
+2025-10-29 17:39:26,609 - INFO - ✅ [436/500] Notbuk Apple MacBook Air 15 M4 Midnight MW1L3RU/A
+2025-10-29 17:39:31,997 - INFO - 🔍 Scraping [437] (attempt 1): notbuk-apple-macbook-air-15-m4-midnight-mw1m3ru-a
+2025-10-29 17:39:45,028 - INFO - ✅ [437/500] Notbuk Apple MacBook Air 15 M4 Midnight MW1M3RU/A
+2025-10-29 17:39:50,216 - INFO - 🔍 Scraping [438] (attempt 1): notbuk-apple-macbook-air-15-m4-silver-mw1g3ru-a
+2025-10-29 17:40:00,603 - INFO - ✅ [438/500] Notbuk Apple MacBook Air 15 M4 Silver MW1G3RU/A
+2025-10-29 17:40:08,577 - INFO - 🔍 Scraping [439] (attempt 1): notbuk-apple-macbook-air-15-m4-silver-mw1h3ru-a
+2025-10-29 17:40:17,473 - INFO - ✅ [439/500] Notbuk Apple MacBook Air 15 M4 Silver MW1H3RU/A
+2025-10-29 17:40:24,103 - INFO - 🔍 Scraping [440] (attempt 1): notbuk-apple-macbook-air-15-m4-sky-blue-mc7a4ru-a
+2025-10-29 17:40:32,982 - INFO - ✅ [440/500] Notbuk Apple MacBook Air 15 M4 Sky Blue MC7A4RU/A
+2025-10-29 17:40:38,471 - INFO - 🔍 Scraping [441] (attempt 1): notbuk-apple-macbook-air-15-m4-sky-blue-mc7c4ru-a
+2025-10-29 17:40:50,352 - INFO - ✅ [441/500] Notbuk Apple MacBook Air 15 M4 Sky Blue MC7C4RU/A
+2025-10-29 17:40:56,010 - INFO - 🔍 Scraping [442] (attempt 1): notbuk-apple-macbook-air-15-m4-starlight-mw1j3ru-a
+2025-10-29 17:41:05,733 - INFO - ✅ [442/500] Notbuk Apple MacBook Air 15 M4 Starlight MW1J3RU/A
+2025-10-29 17:41:10,141 - INFO - 🔍 Scraping [443] (attempt 1): notbuk-apple-macbook-air-15-m4-starlight-mw1k3ru-a
+2025-10-29 17:41:20,904 - INFO - ✅ [443/500] Notbuk Apple MacBook Air 15 M4 Starlight MW1K3RU/A
+2025-10-29 17:41:26,118 - INFO - 🔍 Scraping [444] (attempt 1): notbuk-apple-macbook-air-15-mc9d4ru-a-space-grey
+2025-10-29 17:41:34,405 - INFO - ✅ [444/500] Notbuk Apple MacBook Air 15 M3 Space Gray MC9D4RU/
+2025-10-29 17:41:40,058 - INFO - 🔍 Scraping [445] (attempt 1): notbuk-apple-macbook-air-15-mc9e4ru-a-silver
+2025-10-29 17:41:48,043 - INFO - ✅ [445/500] Notbuk Apple MacBook Air 15 M3 Silver MC9E4RU/A
+2025-10-29 17:41:55,741 - INFO - 🔍 Scraping [446] (attempt 1): notbuk-apple-macbook-air-15-mc9g4ru-a-midnight
+2025-10-29 17:42:05,715 - INFO - ✅ [446/500] Notbuk Apple MacBook Air 15 M3 Midnight MC9G4RU/A
+2025-10-29 17:42:10,377 - INFO - 🔍 Scraping [447] (attempt 1): notbuk-apple-macbook-air-15-mc9h4ru-a-space-grey
+2025-10-29 17:42:18,638 - INFO - ✅ [447/500] Notbuk Apple MacBook Air 15 M3 Space Gray MC9H4RU/
+2025-10-29 17:42:24,328 - INFO - 🔍 Scraping [448] (attempt 1): notbuk-apple-macbook-air-15-mc9j4ru-a-silver
+2025-10-29 17:42:32,552 - INFO - ✅ [448/500] Notbuk Apple MacBook Air 15 M3 Silver MC9J4RU/A
+2025-10-29 17:42:40,073 - INFO - 🔍 Scraping [449] (attempt 1): notbuk-apple-macbook-air-15-mc9k4ru-a-starlight
+2025-10-29 17:42:49,170 - INFO - ✅ [449/500] Notbuk Apple MacBook Air 15 M3 Starlight MC9K4RU/A
+2025-10-29 17:42:55,960 - INFO - 🔍 Scraping [450] (attempt 1): notbuk-apple-macbook-air-15-mc9l4ru-a-midnight
+2025-10-29 17:43:06,175 - INFO - ✅ [450/500] Notbuk Apple MacBook Air 15 M3 Midnight MC9L4RU/A
+2025-10-29 17:43:10,425 - INFO - 🔍 Scraping [451] (attempt 1): notbuk-apple-macbook-air-15-mqkp3rua-space-grey
+2025-10-29 17:43:10,426 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 17:43:10,964 - INFO - ✅ WebDriver created successfully
+2025-10-29 17:43:24,683 - INFO - ✅ [451/500] Notbuk Apple MacBook Air 15 MQKP3RUA Space Grey
+2025-10-29 17:43:30,452 - INFO - 🔍 Scraping [452] (attempt 1): notbuk-apple-macbook-air-15-mqkq3rua-space-grey
+2025-10-29 17:43:47,531 - INFO - ✅ [452/500] Notbuk Apple MacBook Air 15 M2 Space Gray MQKQ3RU/
+2025-10-29 17:43:52,267 - INFO - 🔍 Scraping [453] (attempt 1): notbuk-apple-macbook-air-15-mqkr3rua-silver
+2025-10-29 17:44:03,371 - INFO - ✅ [453/500] Notbuk Apple Macbook Air 15 MQKR3RUA Silver
+2025-10-29 17:44:07,871 - INFO - 🔍 Scraping [454] (attempt 1): notbuk-apple-macbook-air-15-mqkt3ru-a-silver
+2025-10-29 17:44:19,131 - INFO - ✅ [454/500] Notbuk Apple MacBook Air 15 M2 Silver MQKT3RU/A
+2025-10-29 17:44:26,564 - INFO - 🔍 Scraping [455] (attempt 1): notbuk-apple-macbook-air-15-mqku3rua-starlight
+2025-10-29 17:44:37,253 - INFO - ✅ [455/500] Notbuk Apple Macbook Air 15 MQKU3RUA Starlight
+2025-10-29 17:44:41,301 - INFO - 🔍 Scraping [456] (attempt 1): notbuk-apple-macbook-air-15-mqkv3rua-starlight
+2025-10-29 17:44:52,977 - INFO - ✅ [456/500] Notbuk Apple MacBook Air 15 MQKV3RUA Starlight
+2025-10-29 17:44:57,904 - INFO - 🔍 Scraping [457] (attempt 1): notbuk-apple-macbook-air-15-mqkw3rua-midnight
+2025-10-29 17:45:08,349 - INFO - ✅ [457/500] Notbuk Apple MacBook Air 15 M2 MQKW3RUA Midnight
+2025-10-29 17:45:12,467 - INFO - 🔍 Scraping [458] (attempt 1): notbuk-apple-macbook-air-15-mqkx3rua-midnight
+2025-10-29 17:45:26,892 - INFO - ✅ [458/500] Notbuk Apple MacBook Air 15 M2 Midnight MQKX3RU/A
+2025-10-29 17:45:33,918 - INFO - 🔍 Scraping [459] (attempt 1): notbuk-apple-macbook-air-15-mrym3ru-a-space-gray
+2025-10-29 17:45:44,567 - INFO - ✅ [459/500] Notbuk Apple MacBook Air 15 M3 Space Gray MRYM3RU/
+2025-10-29 17:45:50,936 - INFO - 🔍 Scraping [460] (attempt 1): notbuk-apple-macbook-air-15-mryn3ru-a-space-gray
+2025-10-29 17:46:05,675 - INFO - ✅ [460/500] Notbuk Apple MacBook Air 15 Space Gray MRYN3RU/A
+2025-10-29 17:46:12,690 - INFO - 🔍 Scraping [461] (attempt 1): notbuk-apple-macbook-air-15-mryp3ru-a-silver
+2025-10-29 17:46:33,167 - INFO - ✅ [461/500] Notbuk Apple MacBook Air 15 Silver MRYP3RU/A
+2025-10-29 17:46:39,014 - INFO - 🔍 Scraping [462] (attempt 1): notbuk-apple-macbook-air-15-mryq3ru-a-silver
+2025-10-29 17:46:50,860 - INFO - ✅ [462/500] Notbuk Apple MacBook Air 15 Silver MRYQ3RU/A
+2025-10-29 17:46:57,302 - INFO - 🔍 Scraping [463] (attempt 1): notbuk-apple-macbook-air-15-mryr3ru-a-starlight
+2025-10-29 17:47:07,339 - INFO - ✅ [463/500] Notbuk Apple MacBook Air 15 M3 Starlight MRYR3RU/A
+2025-10-29 17:47:11,835 - INFO - 🔍 Scraping [464] (attempt 1): notbuk-apple-macbook-air-15-mryt3ru-a-starlight
+2025-10-29 17:47:26,102 - INFO - ✅ [464/500] Notbuk Apple MacBook Air 15 M3 Starlight MRYT3RU/A
+2025-10-29 17:47:34,006 - INFO - 🔍 Scraping [465] (attempt 1): notbuk-apple-macbook-air-15-mryu3ru-a-midnight
+2025-10-29 17:47:52,417 - INFO - ✅ [465/500] Notbuk Apple MacBook Air 15 MRYU3RU/A Midnight
+2025-10-29 17:48:00,129 - INFO - 🔍 Scraping [466] (attempt 1): notbuk-apple-macbook-air-15-mryv3ru-a-midnight
+2025-10-29 17:48:11,008 - INFO - ✅ [466/500] Notbuk Apple MacBook Air 15 M3 Midnight MRYV3RU/A
+2025-10-29 17:48:18,005 - INFO - 🔍 Scraping [467] (attempt 1): notbuk-apple-macbook-air-15-mxd13ru-a-space-grey
+2025-10-29 17:48:33,032 - INFO - ✅ [467/500] Notbuk Apple MacBook Air 15 M3 MXD13RU/A Space Gre
+2025-10-29 17:48:37,776 - INFO - 🔍 Scraping [468] (attempt 1): notbuk-apple-macbook-pro-13-mnej3ru-a-space-gray
+2025-10-29 17:48:54,173 - INFO - ✅ [468/500] Notbuk Apple MacBook Pro 13 M1 Space Gray MNEJ3RU/
+2025-10-29 17:49:00,043 - INFO - 🔍 Scraping [469] (attempt 1): notbuk-apple-macbook-pro-13-mnep3ru-a-silver
+2025-10-29 17:49:13,501 - INFO - ✅ [469/500] Notbuk Apple MacBook Pro 13 M2 Pro Silver MNEP3RU/
+2025-10-29 17:49:19,790 - INFO - 🔍 Scraping [470] (attempt 1): notbuk-apple-macbook-pro-13-mxk32ll-a
+2025-10-29 17:49:32,124 - INFO - ✅ [470/500] Notbuk Apple MacBook Pro 13 Space Gray MXK32LL/A
+2025-10-29 17:49:38,912 - INFO - 🔍 Scraping [471] (attempt 1): notbuk-apple-macbook-pro-13-myda2ru-a-silver
+2025-10-29 17:49:51,742 - INFO - ✅ [471/500] Notbuk Apple MacBook Pro 13 Silver MYDA2RU/A
+2025-10-29 17:49:59,273 - INFO - 🔍 Scraping [472] (attempt 1): notbuk-apple-macbook-pro-13-z16r0006v-space-gray
+2025-10-29 17:50:18,308 - INFO - ✅ [472/500] Notbuk Apple MacBook Pro 13 M2 Space Gray Z16R0006
+2025-10-29 17:50:25,591 - INFO - 🔍 Scraping [473] (attempt 1): notbuk-apple-macbook-pro-13-z16s00061-space-gray
+2025-10-29 17:50:38,713 - INFO - ✅ [473/500] Notbuk Apple MacBook Pro 13 Space Gray Z16S00061
+2025-10-29 17:50:43,506 - INFO - 🔍 Scraping [474] (attempt 1): notbuk-apple-macbook-pro-14-mcx04ru-a-space-black
+2025-10-29 17:50:54,875 - INFO - ✅ [474/500] Notbuk Apple MacBook Pro 14 M4 Space Black MCX04RU
+2025-10-29 17:51:00,585 - INFO - 🔍 Scraping [475] (attempt 1): notbuk-apple-macbook-pro-14-mcx14ru-a-silver
+2025-10-29 17:51:11,190 - INFO - ✅ [475/500] Notbuk Apple MacBook Pro 14 M4 Silver MCX14RU/A
+2025-10-29 17:51:16,446 - INFO - 🔍 Scraping [476] (attempt 1): notbuk-apple-macbook-pro-14-mde04ru-a-space-black
+2025-10-29 17:51:16,447 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 17:51:16,890 - INFO - ✅ WebDriver created successfully
+2025-10-29 17:51:36,414 - INFO - ✅ [476/500] Notbuk Apple MacBook Pro 14 MDE04RU/A Space Black
+2025-10-29 17:51:42,644 - INFO - 🔍 Scraping [477] (attempt 1): notbuk-apple-macbook-pro-14-mde14ru-a-space-black
+2025-10-29 17:51:48,653 - INFO - ✅ [477/500] Notbuk Apple MacBook Pro 14 MDE14RU/A Space Black
+2025-10-29 17:51:53,606 - INFO - 🔍 Scraping [478] (attempt 1): notbuk-apple-macbook-pro-14-mde34ru-a-space-black
+2025-10-29 17:51:59,448 - INFO - ✅ [478/500] Notbuk Apple MacBook Pro 14 MDE34RU/A Space Black
+2025-10-29 17:52:05,477 - INFO - 🔍 Scraping [479] (attempt 1): notbuk-apple-macbook-pro-14-mde44ru-a-silver
+2025-10-29 17:52:16,016 - INFO - ✅ [479/500] Notbuk Apple MacBook Pro 14 MDE44RU/A Silver
+2025-10-29 17:52:23,885 - INFO - 🔍 Scraping [480] (attempt 1): notbuk-apple-macbook-pro-14-mde54ru-a-silver
+2025-10-29 17:52:34,278 - INFO - ✅ [480/500] Notbuk Apple MacBook Pro 14 MDE54RU/A Silver
+2025-10-29 17:52:39,564 - INFO - 🔍 Scraping [481] (attempt 1): notbuk-apple-macbook-pro-14-mde64ru-a-silver
+2025-10-29 17:52:45,391 - INFO - ✅ [481/500] Notbuk Apple MacBook Pro 14 MDE64RU/A Silver
+2025-10-29 17:52:51,203 - INFO - 🔍 Scraping [482] (attempt 1): notbuk-apple-macbook-pro-14-mkgt3ru-a-silver
+2025-10-29 17:53:08,310 - INFO - ✅ [482/500] Notbuk Apple MacBook Pro 14 M1 Pro Silver MKGT3RU/
+2025-10-29 17:53:13,023 - INFO - 🔍 Scraping [483] (attempt 1): notbuk-apple-macbook-pro-14-mphf3ru-a-space-gray
+2025-10-29 17:53:25,568 - INFO - ✅ [483/500] Notbuk Apple MacBook Pro 14 M2 Pro Space Gray MPHF
+2025-10-29 17:53:30,451 - INFO - 🔍 Scraping [484] (attempt 1): notbuk-apple-macbook-pro-14-mphg3ru-a-space-gray
+2025-10-29 17:53:35,429 - INFO - ✅ [484/500] Notbuk Apple MacBook Pro 14 M2 Max Space Gray MPHG
+2025-10-29 17:53:41,202 - INFO - 🔍 Scraping [485] (attempt 1): notbuk-apple-macbook-pro-14-mphj3ru-a-silver
+2025-10-29 17:53:50,062 - INFO - ✅ [485/500] Notbuk Apple MacBook Pro 14 M2 Pro Silver MPHJ3RU/
+2025-10-29 17:53:55,858 - INFO - 🔍 Scraping [486] (attempt 1): notbuk-apple-macbook-pro-14-mr7j3ru-a-silver
+2025-10-29 17:54:08,575 - INFO - ✅ [486/500] Notbuk Apple MacBook Pro 14 MR7J3RU/A Silver
+2025-10-29 17:54:13,330 - INFO - 🔍 Scraping [487] (attempt 1): notbuk-apple-macbook-pro-14-mr7k3ru-a-silver
+2025-10-29 17:54:24,524 - INFO - ✅ [487/500] Notbuk Apple MacBook Pro 14 M3 Silver MR7K3RU/A
+2025-10-29 17:54:31,919 - INFO - 🔍 Scraping [488] (attempt 1): notbuk-apple-macbook-pro-14-mrx33ru-a-space-black
+2025-10-29 17:54:42,846 - INFO - ✅ [488/500] Notbuk Apple MacBook Pro 14 M3 Pro Space Black MRX
+2025-10-29 17:54:49,600 - INFO - 🔍 Scraping [489] (attempt 1): notbuk-apple-macbook-pro-14-mrx53ru-a-space-black
+2025-10-29 17:54:58,619 - INFO - ✅ [489/500] Notbuk Apple MacBook Pro 14 M3 Max Space Black MRX
+2025-10-29 17:55:06,535 - INFO - 🔍 Scraping [490] (attempt 1): notbuk-apple-macbook-pro-14-mrx63ru-a-silver
+2025-10-29 17:55:22,891 - INFO - ✅ [490/500] Notbuk Apple MacBook Pro 14 MRX63RU/A Silver
+2025-10-29 17:55:29,779 - INFO - 🔍 Scraping [491] (attempt 1): notbuk-apple-macbook-pro-14-mrx73ru-a-silver
+2025-10-29 17:55:43,768 - INFO - ✅ [491/500] Notbuk Apple MacBook Pro 14 M3 Pro Silver MRX73RU/
+2025-10-29 17:55:50,800 - INFO - 🔍 Scraping [492] (attempt 1): notbuk-apple-macbook-pro-14-mtl73ru-a-space-grey
+2025-10-29 17:55:59,345 - INFO - ✅ [492/500] Notbuk Apple MacBook Pro 14 M3 Space Gray MTL73RU/
+2025-10-29 17:56:05,180 - INFO - 🔍 Scraping [493] (attempt 1): notbuk-apple-macbook-pro-14-mtl83ru-a-space-grey
+2025-10-29 17:56:17,528 - INFO - ✅ [493/500] Notbuk Apple MacBook Pro 14 M3 Space Gray MTL83RU/
+2025-10-29 17:56:23,534 - INFO - 🔍 Scraping [494] (attempt 1): notbuk-apple-macbook-pro-14-mw2u3ru-a-space-black
+2025-10-29 17:56:42,190 - INFO - ✅ [494/500] Notbuk Apple MacBook Pro 14 M4 Space Black MW2U3RU
+2025-10-29 17:56:47,958 - INFO - 🔍 Scraping [495] (attempt 1): notbuk-apple-macbook-pro-14-mw2v3ru-a-space-black
+2025-10-29 17:57:00,652 - INFO - ✅ [495/500] Notbuk Apple MacBook Pro 14 M4 Space Black MW2V3RU
+2025-10-29 17:57:07,852 - INFO - 🔍 Scraping [496] (attempt 1): notbuk-apple-macbook-pro-14-mw2w3ru-a-silver
+2025-10-29 17:57:21,531 - INFO - ✅ [496/500] Notbuk Apple MacBook Pro 14 M4 Silver MW2W3RU/A
+2025-10-29 17:57:26,578 - INFO - 🔍 Scraping [497] (attempt 1): notbuk-apple-macbook-pro-14-mw2x3ru-a-silver
+2025-10-29 17:57:38,460 - INFO - ✅ [497/500] Notbuk Apple MacBook Pro 14 M4 Silver MW2X3RU/A
+2025-10-29 17:57:46,234 - INFO - 🔍 Scraping [498] (attempt 1): notbuk-apple-macbook-pro-14-mx2e3ru-a-silver
+2025-10-29 17:57:55,683 - INFO - ✅ [498/500] Notbuk Apple MacBook Pro 14 M4 Pro Silver MX2E3RU/
+2025-10-29 17:58:01,650 - INFO - 🔍 Scraping [499] (attempt 1): notbuk-apple-macbook-pro-14-mx2f3ru-a-silver
+2025-10-29 17:58:13,612 - INFO - ✅ [499/500] Notbuk Apple MacBook Pro 14 M4 Pro Silver MX2F3RU/
+2025-10-29 17:58:21,593 - INFO - 🔍 Scraping [500] (attempt 1): notbuk-apple-macbook-pro-14-mx2h3ru-a-space-black
+2025-10-29 17:58:30,346 - INFO - ✅ [500/500] Notbuk Apple MacBook Pro 14 M4 Pro Space Black MX2

@@ -1,0 +1,21 @@
+2025-10-29 16:37:18,451 - WARNING - MainThread - Could not load config.json: Expecting value: line 1 column 1 (char 0)
+2025-10-29 16:37:18,451 - INFO - MainThread - Loaded progress: 2 completed, 0 failed
+2025-10-29 16:37:18,451 - INFO - MainThread - Total URLs: 251, Pending: 251, Threads: 3
+2025-10-29 16:37:18,452 - INFO - MainThread - Running on Manjaro Linux with Chromium
+2025-10-29 16:37:18,452 - INFO - Worker-1 - Found browser binary at: /usr/bin/chromium
+2025-10-29 16:37:18,452 - INFO - Worker-2 - Found browser binary at: /usr/bin/chromium
+2025-10-29 16:37:18,452 - INFO - Worker-1 - Found chromedriver at: /usr/bin/chromedriver
+2025-10-29 16:37:18,452 - INFO - Worker-3 - Found browser binary at: /usr/bin/chromium
+2025-10-29 16:37:18,453 - INFO - Worker-2 - Found chromedriver at: /usr/bin/chromedriver
+2025-10-29 16:37:18,453 - INFO - Worker-3 - Found chromedriver at: /usr/bin/chromedriver
+2025-10-29 16:37:18,453 - INFO - Worker-1 - Using local chromedriver: /usr/bin/chromedriver
+2025-10-29 16:37:18,453 - INFO - Worker-2 - Using local chromedriver: /usr/bin/chromedriver
+2025-10-29 16:37:18,454 - INFO - Worker-3 - Using local chromedriver: /usr/bin/chromedriver
+2025-10-29 16:37:18,847 - INFO - Worker-1 - Created WebDriver with Chromium (UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...)
+2025-10-29 16:37:18,847 - INFO - Worker-1 - Scraping: https://kontakt.az/notbuk-apple-macbook-pro-14-mx2h3ru-a-space-black (attempt 1)
+2025-10-29 16:37:18,869 - INFO - Worker-3 - Created WebDriver with Chromium (UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...)
+2025-10-29 16:37:18,869 - INFO - Worker-3 - Scraping: https://kontakt.az/notbuk-apple-macbook-pro-14-mx2j3ru-a-space-black (attempt 1)
+2025-10-29 16:37:18,898 - INFO - Worker-2 - Created WebDriver with Chromium (UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...)
+2025-10-29 16:37:18,899 - INFO - Worker-2 - Scraping: https://kontakt.az/notbuk-apple-macbook-pro-14-mx2k3ru-a-space-black (attempt 1)
+2025-10-29 16:37:29,895 - INFO - Worker-1 - Scraping: https://kontakt.az/notbuk-apple-macbook-pro-14-z17g001bc-space-gray (attempt 1)
+2025-10-29 16:37:30,279 - INFO - Worker-3 - Scraping: https://kontakt.az/notbuk-apple-macbook-pro-14-z17g001bw-space-gray (attempt 1)

@@ -1,0 +1,35 @@
+2025-10-29 16:30:49,328 - INFO - MainThread - Loaded progress: 2 completed, 0 failed
+2025-10-29 16:30:49,328 - INFO - MainThread - Total URLs: 251, Pending: 251, Threads: 3
+2025-10-29 16:30:49,328 - INFO - MainThread - Running on Manjaro Linux with Chromium
+2025-10-29 16:30:49,329 - INFO - Worker-1 - Found browser binary at: /usr/bin/chromium
+2025-10-29 16:30:49,329 - INFO - Worker-1 - Found chromedriver at: /usr/bin/chromedriver
+2025-10-29 16:30:49,329 - INFO - Worker-2 - Found browser binary at: /usr/bin/chromium
+2025-10-29 16:30:49,329 - INFO - Worker-3 - Found browser binary at: /usr/bin/chromium
+2025-10-29 16:30:49,330 - INFO - Worker-2 - Found chromedriver at: /usr/bin/chromedriver
+2025-10-29 16:30:49,330 - INFO - Worker-3 - Found chromedriver at: /usr/bin/chromedriver
+2025-10-29 16:30:49,330 - INFO - Worker-1 - Using local chromedriver: /usr/bin/chromedriver
+2025-10-29 16:30:49,330 - INFO - Worker-2 - Using local chromedriver: /usr/bin/chromedriver
+2025-10-29 16:30:49,331 - INFO - Worker-3 - Using local chromedriver: /usr/bin/chromedriver
+2025-10-29 16:30:49,719 - INFO - Worker-1 - Created WebDriver with Chromium (UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...)
+2025-10-29 16:30:49,719 - INFO - Worker-1 - Scraping: https://kontakt.az/notbuk-apple-macbook-pro-14-mx2h3ru-a-space-black (attempt 1)
+2025-10-29 16:30:49,760 - INFO - Worker-3 - Created WebDriver with Chromium (UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...)
+2025-10-29 16:30:49,761 - INFO - Worker-3 - Scraping: https://kontakt.az/notbuk-apple-macbook-pro-14-mx2j3ru-a-space-black (attempt 1)
+2025-10-29 16:30:49,777 - INFO - Worker-2 - Created WebDriver with Chromium (UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...)
+2025-10-29 16:30:49,779 - INFO - Worker-2 - Scraping: https://kontakt.az/notbuk-apple-macbook-pro-14-mx2k3ru-a-space-black (attempt 1)
+2025-10-29 16:31:05,106 - INFO - Worker-1 - Scraping: https://kontakt.az/notbuk-apple-macbook-pro-14-z17g001bc-space-gray (attempt 1)
+2025-10-29 16:31:06,763 - INFO - Worker-3 - Scraping: https://kontakt.az/notbuk-apple-macbook-pro-14-z17g001bw-space-gray (attempt 1)
+2025-10-29 16:35:35,315 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:35,429 - INFO - MainThread - Stop event set - telling workers to finish.
+2025-10-29 16:35:36,907 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:37,418 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:37,759 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:37,949 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:38,549 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:38,589 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:38,629 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:38,669 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:38,710 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:38,750 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:38,791 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:38,832 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:35:38,871 - INFO - MainThread - SIGINT received, will stop after current tasks.

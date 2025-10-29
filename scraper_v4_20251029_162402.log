@@ -1,0 +1,14 @@
+2025-10-29 16:24:02,926 - WARNING - MainThread - Could not load urls.json: Illegal trailing comma before end of array: line 252 column 101 (char 20228)
+2025-10-29 16:24:02,926 - INFO - MainThread - Total URLs: 2, Pending: 2, Threads: 3
+2025-10-29 16:24:02,926 - ERROR - Worker-1 - Failed to create driver: name 'ChromeType' is not defined
+2025-10-29 16:24:02,927 - ERROR - Worker-2 - Failed to create driver: name 'ChromeType' is not defined
+2025-10-29 16:24:02,927 - ERROR - Worker-1 - Initial driver creation failed, worker exiting.
+2025-10-29 16:24:02,927 - ERROR - Worker-3 - Failed to create driver: name 'ChromeType' is not defined
+2025-10-29 16:24:02,927 - ERROR - Worker-3 - Initial driver creation failed, worker exiting.
+2025-10-29 16:24:02,927 - ERROR - Worker-2 - Initial driver creation failed, worker exiting.
+2025-10-29 16:24:17,521 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:24:17,943 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:24:18,248 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:24:18,597 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:24:18,926 - INFO - MainThread - SIGINT received, will stop after current tasks.
+2025-10-29 16:24:19,213 - INFO - MainThread - SIGINT received, will stop after current tasks.

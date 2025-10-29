@@ -1,0 +1,23 @@
+2025-10-29 16:29:17,033 - WARNING - MainThread - Could not load urls.json: Illegal trailing comma before end of array: line 252 column 101 (char 20228)
+2025-10-29 16:29:17,033 - INFO - MainThread - Total URLs: 2, Pending: 2, Threads: 3
+2025-10-29 16:29:17,033 - INFO - MainThread - Running on Manjaro Linux with Chromium
+2025-10-29 16:29:17,033 - INFO - Worker-1 - Found browser binary at: /usr/bin/chromium
+2025-10-29 16:29:17,034 - INFO - Worker-1 - Found chromedriver at: /usr/bin/chromedriver
+2025-10-29 16:29:17,034 - INFO - Worker-2 - Found browser binary at: /usr/bin/chromium
+2025-10-29 16:29:17,034 - INFO - Worker-3 - Found browser binary at: /usr/bin/chromium
+2025-10-29 16:29:17,034 - INFO - Worker-2 - Found chromedriver at: /usr/bin/chromedriver
+2025-10-29 16:29:17,034 - INFO - Worker-3 - Found chromedriver at: /usr/bin/chromedriver
+2025-10-29 16:29:17,034 - INFO - Worker-1 - Using local chromedriver: /usr/bin/chromedriver
+2025-10-29 16:29:17,035 - INFO - Worker-2 - Using local chromedriver: /usr/bin/chromedriver
+2025-10-29 16:29:17,035 - INFO - Worker-3 - Using local chromedriver: /usr/bin/chromedriver
+2025-10-29 16:29:17,422 - INFO - Worker-2 - Created WebDriver with Chromium (UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...)
+2025-10-29 16:29:17,423 - INFO - Worker-2 - Scraping: https://kontakt.az/adapter-apple-30w-usb-c-power-a2164-mw2g3zm-a (attempt 1)
+2025-10-29 16:29:17,457 - INFO - Worker-1 - Created WebDriver with Chromium (UA: Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKi...)
+2025-10-29 16:29:17,458 - INFO - Worker-1 - Scraping: https://kontakt.az/adapter-apple-35w-dual-usb-c-power-a2676-mw2k3zm-a (attempt 1)
+2025-10-29 16:29:17,464 - INFO - Worker-3 - Created WebDriver with Chromium (UA: Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKi...)
+2025-10-29 16:29:17,533 - INFO - Worker-3 - Worker finished
+2025-10-29 16:29:35,029 - INFO - Worker-2 - Worker finished
+2025-10-29 16:29:35,714 - INFO - Worker-1 - Worker finished
+2025-10-29 16:29:36,049 - INFO - MainThread - Saving final progress and CSV.
+2025-10-29 16:29:36,050 - INFO - MainThread - Wrote 2 results to kontakt_products_v4.csv
+2025-10-29 16:29:36,050 - INFO - MainThread - All done.

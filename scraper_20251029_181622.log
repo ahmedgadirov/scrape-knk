@@ -1,0 +1,523 @@
+2025-10-29 18:16:22,705 - INFO - ✅ WebDriver created successfully
+2025-10-29 18:16:22,705 - INFO - 🔍 Scraping [1] (attempt 1): notbuk-apple-macbook-pro-14-mx2h3ru-a-space-black
+2025-10-29 18:16:31,336 - INFO - ✅ [1/251] Notbuk Apple MacBook Pro 14 M4 Pro Space Black MX2
+2025-10-29 18:16:37,972 - INFO - 🔍 Scraping [2] (attempt 1): notbuk-apple-macbook-pro-14-mx2j3ru-a-space-black
+2025-10-29 18:16:46,663 - INFO - ✅ [2/251] Notbuk Apple MacBook Pro 14 M4 Pro Space Black MX2
+2025-10-29 18:16:52,000 - INFO - 🔍 Scraping [3] (attempt 1): notbuk-apple-macbook-pro-14-mx2k3ru-a-space-black
+2025-10-29 18:17:03,680 - INFO - ✅ [3/251] Notbuk Apple MacBook Pro 14 M4 Max Space Black MX2
+2025-10-29 18:17:09,504 - INFO - 🔍 Scraping [4] (attempt 1): notbuk-apple-macbook-pro-14-z17g001bc-space-gray
+2025-10-29 18:17:21,829 - INFO - ✅ [4/251] Notbuk Apple MacBook Pro 14 M2 Max Space Gray Z17G
+2025-10-29 18:17:27,836 - INFO - 🔍 Scraping [5] (attempt 1): notbuk-apple-macbook-pro-14-z17g001bw-space-gray
+2025-10-29 18:17:37,362 - INFO - ✅ [5/251] Notbuk Apple MacBook Pro 14 M2 Pro Space Gray Z17G
+2025-10-29 18:17:44,310 - INFO - 🔍 Scraping [6] (attempt 1): notbuk-apple-macbook-pro-16-mnw83ru-a-space-gray
+2025-10-29 18:17:53,592 - INFO - ✅ [6/251] Notbuk Apple MacBook Pro 16 M2 Pro Space Gray MNW8
+2025-10-29 18:18:00,220 - INFO - 🔍 Scraping [7] (attempt 1): notbuk-apple-macbook-pro-16-mnw93ru-a-space-gray
+2025-10-29 18:18:10,476 - INFO - ✅ [7/251] Notbuk Apple MacBook Pro 16 M2 Pro Space Gray MNW9
+2025-10-29 18:18:18,246 - INFO - 🔍 Scraping [8] (attempt 1): notbuk-apple-macbook-pro-16-mnwa3ru-a-space-gray
+2025-10-29 18:18:27,156 - INFO - ✅ [8/251] Notbuk Apple MacBook Pro 16 M2 Max Space Gray MNWA
+2025-10-29 18:18:33,060 - INFO - 🔍 Scraping [9] (attempt 1): notbuk-apple-macbook-pro-16-mnwc3ru-a-silver
+2025-10-29 18:18:43,657 - INFO - ✅ [9/251] Notbuk Apple MacBook Pro 16 M2 Max Silver MNWC3RU/
+2025-10-29 18:18:50,283 - INFO - 🔍 Scraping [10] (attempt 1): notbuk-apple-macbook-pro-16-mnwd3ru-a-silver
+2025-10-29 18:19:01,410 - INFO - ✅ [10/251] Notbuk Apple MacBook Pro 16 MNWD3RU/A Silver
+2025-10-29 18:19:06,382 - INFO - 🔍 Scraping [11] (attempt 1): notbuk-apple-macbook-pro-16-mnwe3ru-a-silver
+2025-10-29 18:19:17,989 - INFO - ✅ [11/251] Notbuk Apple MacBook Pro 16 M2 Max Silver MNWE3RU/
+2025-10-29 18:19:23,668 - INFO - 🔍 Scraping [12] (attempt 1): notbuk-apple-macbook-pro-16-mrw13ru-a-space-black
+2025-10-29 18:19:33,275 - INFO - ✅ [12/251] Notbuk Apple MacBook Pro 16 M3 Pro Space Black MRW
+2025-10-29 18:19:38,147 - INFO - 🔍 Scraping [13] (attempt 1): notbuk-apple-macbook-pro-16-mrw23ru-a-space-black
+2025-10-29 18:19:46,986 - INFO - ✅ [13/251] Notbuk Apple MacBook Pro 16 M3 Pro Space Black MRW
+2025-10-29 18:19:51,011 - INFO - 🔍 Scraping [14] (attempt 1): notbuk-apple-macbook-pro-16-mrw33ru-a-space-black
+2025-10-29 18:20:00,581 - INFO - ✅ [14/251] Notbuk Apple MacBook Pro 16 M3 Space Black MRW33RU
+2025-10-29 18:20:07,252 - INFO - 🔍 Scraping [15] (attempt 1): notbuk-apple-macbook-pro-16-mrw43ru-a-silver
+2025-10-29 18:20:19,739 - INFO - ✅ [15/251] Notbuk Apple MacBook Pro 16 M3 Pro Silver MRW43RU/
+2025-10-29 18:20:24,471 - INFO - 🔍 Scraping [16] (attempt 1): notbuk-apple-macbook-pro-16-mrw63ru-a-silver
+2025-10-29 18:20:34,055 - INFO - ✅ [16/251] Notbuk Apple MacBook Pro 16 M3 Pro Silver MRW63RU/
+2025-10-29 18:20:40,938 - INFO - 🔍 Scraping [17] (attempt 1): notbuk-apple-macbook-pro-16-mrw73ru-a-silver
+2025-10-29 18:20:50,275 - INFO - ✅ [17/251] Notbuk Apple MacBook Pro 16 M3 Max Silver MRW73RU/
+2025-10-29 18:20:55,358 - INFO - 🔍 Scraping [18] (attempt 1): notbuk-apple-macbook-pro-16-mx2t3ru-a-silver
+2025-10-29 18:21:06,350 - INFO - ✅ [18/251] Notbuk Apple MacBook Pro 16 M4 Pro Silver MX2T3RU/
+2025-10-29 18:21:12,267 - INFO - 🔍 Scraping [19] (attempt 1): notbuk-apple-macbook-pro-16-mx2u3ru-a-silver
+2025-10-29 18:21:23,327 - INFO - ✅ [19/251] Notbuk Apple MacBook Pro 16 M4 Pro Silver MX2U3RU/
+2025-10-29 18:21:30,325 - INFO - 🔍 Scraping [20] (attempt 1): notbuk-apple-macbook-pro-16-mx2x3ru-a-space-black
+2025-10-29 18:21:39,728 - INFO - ✅ [20/251] Notbuk Apple MacBook Pro 16 M4 Pro Space Black MX2
+2025-10-29 18:21:44,562 - INFO - 🔍 Scraping [21] (attempt 1): notbuk-apple-macbook-pro-16-mx2y3ru-a-space-black
+2025-10-29 18:21:51,718 - INFO - ✅ [21/251] Notbuk Apple MacBook Pro 16 M4 Pro Space Black MX2
+2025-10-29 18:21:55,896 - INFO - 🔍 Scraping [22] (attempt 1): notbuk-apple-macbook-pro-16-mx303ru-a-space-black
+2025-10-29 18:22:08,991 - INFO - ✅ [22/251] Notbuk Apple MacBook Pro 16 M4 Max Space Black MX3
+2025-10-29 18:22:15,569 - INFO - 🔍 Scraping [23] (attempt 1): notbuk-apple-macbook-pro-16-mx313ru-a-space-black
+2025-10-29 18:22:32,195 - INFO - ✅ [23/251] Notbuk Apple MacBook Pro 16 M4 Max Space Black MX3
+2025-10-29 18:22:36,562 - INFO - 🔍 Scraping [24] (attempt 1): notbuk-apple-macbook-pro-16-z174000gu-space-gray
+2025-10-29 18:22:47,047 - INFO - ✅ [24/251] Notbuk Apple MacBook Pro 16 M2 Pro Space Gray Z174
+2025-10-29 18:22:51,216 - INFO - 🔍 Scraping [25] (attempt 1): notbuk-apple-macbook-pro-16-z174000h5-space-gray
+2025-10-29 18:23:04,236 - INFO - ✅ [25/251] Notbuk Apple MacBook Pro 16 M2 Pro Space Gray Z174
+2025-10-29 18:23:08,788 - INFO - 🔍 Scraping [26] (attempt 1): notbuk-apple-macbook-pro-m4-max-silver-mx2g3ru-a
+2025-10-29 18:23:08,789 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 18:23:10,183 - INFO - ✅ WebDriver created successfully
+2025-10-29 18:23:24,841 - INFO - ✅ [26/251] Notbuk Apple MacBook Pro M4 Max Silver MX2G3RU/A
+2025-10-29 18:23:30,281 - INFO - 🔍 Scraping [27] (attempt 1): noutbuk-apple-macbook-air-13-mgn73ua-a-space-gray
+2025-10-29 18:23:43,195 - INFO - ✅ [27/251] Notbuk Apple Macbook Air 13" MGN73UA/A Space Gray
+2025-10-29 18:23:50,310 - INFO - 🔍 Scraping [28] (attempt 1): noutbuk-apple-macbook-air-13-mgn93ru-a-silver
+2025-10-29 18:24:00,890 - INFO - ✅ [28/251] Notbuk Apple MacBook Air 13 M1 Silver MGN93RU/A
+2025-10-29 18:24:08,871 - INFO - 🔍 Scraping [29] (attempt 1): noutbuk-apple-macbook-air-13-mgna3ru-a-silver
+2025-10-29 18:24:25,052 - INFO - ✅ [29/251] Notbuk Apple MacBook Air 13 M1 Silver MGNA3RU/A
+2025-10-29 18:24:32,602 - INFO - 🔍 Scraping [30] (attempt 1): noutbuk-apple-macbook-air-13-mgnd3ua-a-gold
+2025-10-29 18:24:44,096 - INFO - ✅ [30/251] Notbuk Apple MacBook Air 13 M1 Gold MGND3UA/A
+2025-10-29 18:24:49,514 - INFO - 🔍 Scraping [31] (attempt 1): noutbuk-apple-macbook-air-13-mgne3ru-a-gold
+2025-10-29 18:25:01,672 - INFO - ✅ [31/251] Notbuk Apple Macbook Air 13" Mgne3Ru/A Gold
+2025-10-29 18:25:07,529 - INFO - 🔍 Scraping [32] (attempt 1): noutbuk-apple-macbook-air-13-mlxw3ru-a-space-grey
+2025-10-29 18:25:17,871 - INFO - ✅ [32/251] Notbuk Apple MacBook Air 13 M2 Space Gray MLXW3RU/
+2025-10-29 18:25:23,299 - INFO - 🔍 Scraping [33] (attempt 1): noutbuk-apple-macbook-air-13-mlxy3ru-a-silver
+2025-10-29 18:25:32,602 - INFO - ✅ [33/251] Notbuk Apple MacBook Air 13 M2 Silver MLXY3RU/A
+2025-10-29 18:25:39,199 - INFO - 🔍 Scraping [34] (attempt 1): noutbuk-apple-macbook-air-13-mly03ru-a-silver
+2025-10-29 18:25:49,656 - INFO - ✅ [34/251] Notbuk Apple MacBook Air 13 M2 Silver MLY03RU/A
+2025-10-29 18:25:55,380 - INFO - 🔍 Scraping [35] (attempt 1): noutbuk-apple-macbook-air-13-mly13ru-a-starlight
+2025-10-29 18:26:04,942 - INFO - ✅ [35/251] Notbuk Apple MacBook Air 13 M2 Starlight MLY13RU/A
+2025-10-29 18:26:11,772 - INFO - 🔍 Scraping [36] (attempt 1): noutbuk-apple-macbook-air-13-mly23ru-a-starlight
+2025-10-29 18:26:24,552 - INFO - ✅ [36/251] Notbuk Apple MacBook Air 13" MLY23RU/A Starlight
+2025-10-29 18:26:31,512 - INFO - 🔍 Scraping [37] (attempt 1): noutbuk-apple-macbook-air-13-mly43ru-a-midnight
+2025-10-29 18:26:39,865 - INFO - ✅ [37/251] Notbuk Apple MacBook Air 13 M2 Midnight MLY43RU/A
+2025-10-29 18:26:44,926 - INFO - 🔍 Scraping [38] (attempt 1): noutbuk-apple-macbook-air-13-z1240004p-space-gray
+2025-10-29 18:26:55,249 - INFO - ✅ [38/251] Notbuk Apple MacBook Air 13 M1 Space Gray Z1240004
+2025-10-29 18:26:59,793 - INFO - 🔍 Scraping [39] (attempt 1): noutbuk-apple-macbook-air-13-zkz15s000nb-space-gra
+2025-10-29 18:27:15,248 - INFO - ✅ [39/251] Notbuk Apple MacBook Air 13 ZKZ15S000NB Space Gray
+2025-10-29 18:27:22,331 - INFO - 🔍 Scraping [40] (attempt 1): noutbuk-apple-macbook-air-13-zkz15w000ks-silver
+2025-10-29 18:27:32,541 - INFO - ✅ [40/251] Notbuk Apple MacBook Air 13 M2 Silver ZKZ15W000KS
+2025-10-29 18:27:38,436 - INFO - 🔍 Scraping [41] (attempt 1): noutbuk-apple-macbook-pro-13-mlxx3ru-a-space-grey
+2025-10-29 18:27:48,192 - INFO - ✅ [41/251] Notbuk Apple MacBook Air 13 M2 Space Gray MLXX3RU/
+2025-10-29 18:27:54,093 - INFO - 🔍 Scraping [42] (attempt 1): noutbuk-apple-macbook-pro-13-mly33ru-a-midnight
+2025-10-29 18:28:04,124 - INFO - ✅ [42/251] Notbuk Apple MacBook Air 13 M2 Midnight MLY33RU/A
+2025-10-29 18:28:08,297 - INFO - 🔍 Scraping [43] (attempt 1): noutbuk-apple-macbook-pro-13-mneq3ru-a-silver
+2025-10-29 18:28:21,203 - INFO - ✅ [43/251] Notbuk Apple MacBook Pro 13 M2 Silver MNEQ3RU/A
+2025-10-29 18:28:27,552 - INFO - 🔍 Scraping [44] (attempt 1): noutbuk-apple-macbook-pro-13-mr9q2
+2025-10-29 18:28:40,435 - INFO - ✅ [44/251] Notbuk Apple MacBook Pro 13 Space Gray MR9Q2
+2025-10-29 18:28:44,909 - INFO - 🔍 Scraping [45] (attempt 1): noutbuk-apple-macbook-pro-13-myd82ru-a-space-gray
+2025-10-29 18:28:57,062 - INFO - ✅ [45/251] Notbuk Apple MacBook Pro 13 M1 Space Gray MYD82RU/
+2025-10-29 18:29:01,098 - INFO - 🔍 Scraping [46] (attempt 1): noutbuk-apple-macbook-pro-13-myd92ru-a-space-gray
+2025-10-29 18:29:18,378 - INFO - ✅ [46/251] Notbuk Apple MacBook Pro 13 M1 Space Gray MYD92RU/
+2025-10-29 18:29:22,603 - INFO - 🔍 Scraping [47] (attempt 1): noutbuk-apple-macbook-pro-13-mydc2ru-a-silver
+2025-10-29 18:29:36,756 - INFO - ✅ [47/251] Notbuk Apple MacBook Pro 13 M1 Silver MYDC2RU/A
+2025-10-29 18:29:41,697 - INFO - 🔍 Scraping [48] (attempt 1): noutbuk-apple-macbook-pro-13-zkz11b0004t-space-gra
+2025-10-29 18:29:55,141 - INFO - ✅ [48/251] Notbuk Apple MacBook Pro 13 M1 Space Gray ZKZ11B00
+2025-10-29 18:30:01,763 - INFO - 🔍 Scraping [49] (attempt 1): noutbuk-apple-macbook-pro-13-zkz11c00030-space-gra
+2025-10-29 18:30:19,915 - INFO - ✅ [49/251] Notbuk Apple MacBook Pro 13 Space Gray ZKZ11C00030
+2025-10-29 18:30:24,272 - INFO - 🔍 Scraping [50] (attempt 1): noutbuk-apple-macbook-pro-14-mkgq3ru-a-space-gray
+2025-10-29 18:30:36,816 - INFO - ✅ [50/251] Notbuk Apple MacBook Pro 14 M1 Pro Space Gray MKGQ
+2025-10-29 18:30:44,412 - INFO - 🔍 Scraping [51] (attempt 1): noutbuk-apple-macbook-pro-14-mkgr3ru-a-silver
+2025-10-29 18:30:44,413 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 18:30:46,908 - INFO - ✅ WebDriver created successfully
+2025-10-29 18:31:05,536 - INFO - ✅ [51/251] Notbuk Apple MacBook Pro 14 M1 Pro Silver MKGR3RU/
+2025-10-29 18:31:12,347 - INFO - 🔍 Scraping [52] (attempt 1): noutbuk-apple-macbook-pro-16-mk193ru-a-space-gray
+2025-10-29 18:31:24,892 - INFO - ✅ [52/251] Notbuk Apple MacBook Pro 16 M1 Pro Space Gray
+2025-10-29 18:31:29,021 - INFO - 🔍 Scraping [53] (attempt 1): noutbuk-apple-macbook-pro-16-mk1e3ru-a-silver
+2025-10-29 18:31:41,902 - INFO - ✅ [53/251] Notbuk Apple MacBook Pro 16 M1 Pro Silver MK1E3RU/
+2025-10-29 18:31:48,089 - INFO - 🔍 Scraping [54] (attempt 1): noutbuk-apple-macbook-pro-16-mvvm2ru-a
+2025-10-29 18:31:59,614 - INFO - ✅ [54/251] Noutbuk Apple MacBook Pro 16 MVVM2RU/A
+2025-10-29 18:32:06,879 - INFO - 🔍 Scraping [55] (attempt 1): noutbuk-apple-macbook-pro13-mneh3ru-a-space-gray
+2025-10-29 18:32:17,368 - INFO - ✅ [55/251] Notbuk Apple MacBook Pro 13 M2 Pro Space Gray MNEH
+2025-10-29 18:32:21,716 - INFO - 🔍 Scraping [56] (attempt 1): oturucu-apple-mw2p3zm-a
+2025-10-29 18:32:30,799 - INFO - ✅ [56/251] Ötürücü Apple MW2P3ZM/A
+2025-10-29 18:32:36,004 - INFO - 🔍 Scraping [57] (attempt 1): apple
+2025-10-29 18:33:04,031 - ERROR - ❌ Unexpected error: 'NoneType' object is not subscriptable
+2025-10-29 18:33:04,031 - INFO - 🔍 Scraping [58] (attempt 1): porodo-powerbank-10000mah-magsafe-apple-watch-char
+2025-10-29 18:33:12,182 - INFO - ✅ [58/251] Power Bank Porodo 10000 mAh MagSafe + Apple Watch 
+2025-10-29 18:33:17,322 - INFO - 🔍 Scraping [59] (attempt 1): pul-kisesi-apple-iphone-finewoven-w-magsafe-mgh64z
+2025-10-29 18:33:24,343 - INFO - ✅ [59/251] Pul kisəsi Apple iPhone FineWoven W/MagSafe MGH64Z
+2025-10-29 18:33:29,227 - INFO - 🔍 Scraping [60] (attempt 1): pul-kisesi-apple-iphone-finewoven-w-magsafe-mgh74z
+2025-10-29 18:33:37,363 - INFO - ✅ [60/251] Pul kisəsi Apple iPhone FineWoven W/MagSafe MGH74Z
+2025-10-29 18:33:42,618 - INFO - 🔍 Scraping [61] (attempt 1): pul-kisesi-apple-iphone-finewoven-w-magsafe-mgh84z
+2025-10-29 18:33:49,567 - INFO - ✅ [61/251] Pul kisəsi Apple iPhone FineWoven W/MagSafe MGH84Z
+2025-10-29 18:33:53,726 - INFO - 🔍 Scraping [62] (attempt 1): pul-kisesi-apple-iphone-finewoven-w-magsafe-mgha4z
+2025-10-29 18:34:02,804 - INFO - ✅ [62/251] Pul kisəsi Apple iPhone FineWoven W/MagSafe MGHA4Z
+2025-10-29 18:34:08,803 - INFO - 🔍 Scraping [63] (attempt 1): pul-kisesi-apple-iphone-finewoven-wallet-w-magsafe
+2025-10-29 18:34:19,884 - INFO - ✅ [63/251] Pul kisəsi Apple iPhone Finewoven Wallet W/MagSafe
+2025-10-29 18:34:26,235 - INFO - 🔍 Scraping [64] (attempt 1): pul-kisesi-apple-iphone-finewoven-wallet-w-magsafe
+2025-10-29 18:34:35,295 - INFO - ✅ [64/251] Pul kisəsi Apple iPhone Finewoven Wallet W/MagSafe
+2025-10-29 18:34:40,782 - INFO - 🔍 Scraping [65] (attempt 1): pul-kisesi-apple-iphone-finewoven-wallet-w-magsafe
+2025-10-29 18:34:49,229 - INFO - ✅ [65/251] Pul kisəsi Apple iPhone Finewoven Wallet W/MagSafe
+2025-10-29 18:34:56,980 - INFO - 🔍 Scraping [66] (attempt 1): pul-kisesi-apple-iphone-finewoven-wallet-w-magsafe
+2025-10-29 18:35:05,726 - INFO - ✅ [66/251] Pul kisəsi Apple iPhone Finewoven Wallet W/MagSafe
+2025-10-29 18:35:10,321 - INFO - 🔍 Scraping [67] (attempt 1): qoruyucu-cercive-apple-iphone-air-bumper-mh004zm-a
+2025-10-29 18:35:19,669 - INFO - ✅ [67/251] Qoruyucu çərçivə Apple iPhone Air Bumper MH004ZM/A
+2025-10-29 18:35:25,193 - INFO - 🔍 Scraping [68] (attempt 1): qoruyucu-cercive-apple-iphone-air-bumper-mh024zm-a
+2025-10-29 18:35:34,312 - INFO - ✅ [68/251] Qoruyucu çərçivə Apple iPhone Air Bumper MH024ZM/A
+2025-10-29 18:35:38,691 - INFO - 🔍 Scraping [69] (attempt 1): qoruyucu-cercive-apple-iphone-air-bumper-mh044zm-a
+2025-10-29 18:35:47,386 - INFO - ✅ [69/251] Qoruyucu çərçivə Apple iPhone Air Bumper MH044ZM/A
+2025-10-29 18:35:53,132 - INFO - 🔍 Scraping [70] (attempt 1): qoruyucu-ortuk-apple-iphone-16-clear-case-w-magsaf
+2025-10-29 18:36:03,120 - INFO - ✅ [70/251] Qoruyucu örtük Apple iPhone 16 Clear Case W/MagSaf
+2025-10-29 18:36:09,559 - INFO - 🔍 Scraping [71] (attempt 1): qoruyucu-ortuk-apple-iphone-16-plus-clear-case-w-m
+2025-10-29 18:36:19,192 - INFO - ✅ [71/251] Qoruyucu örtük Apple iPhone 16 Plus Clear Case W/M
+2025-10-29 18:36:24,636 - INFO - 🔍 Scraping [72] (attempt 1): qoruyucu-ortuk-apple-iphone-16-plus-silicone-case-
+2025-10-29 18:36:32,290 - INFO - ✅ [72/251] Qoruyucu örtük Apple iPhone 16 Plus Silicone Case 
+2025-10-29 18:36:37,380 - INFO - 🔍 Scraping [73] (attempt 1): qoruyucu-ortuk-apple-iphone-16-plus-silicone-case-
+2025-10-29 18:36:47,572 - INFO - ✅ [73/251] Qoruyucu örtük Apple iPhone 16 Plus Silicone Case 
+2025-10-29 18:36:53,631 - INFO - 🔍 Scraping [74] (attempt 1): qoruyucu-ortuk-apple-iphone-16-plus-silicone-case-
+2025-10-29 18:37:03,714 - INFO - ✅ [74/251] Qoruyucu örtük Apple iPhone 16 Plus Silicone Case 
+2025-10-29 18:37:10,376 - INFO - 🔍 Scraping [75] (attempt 1): qoruyucu-ortuk-apple-iphone-16-plus-silicone-case-
+2025-10-29 18:37:21,569 - INFO - ✅ [75/251] Qoruyucu örtük Apple iPhone 16 Plus Silicone Case 
+2025-10-29 18:37:27,813 - INFO - 🔍 Scraping [76] (attempt 1): qoruyucu-ortuk-apple-iphone-16-plus-silicone-case-
+2025-10-29 18:37:27,813 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 18:37:28,831 - INFO - ✅ WebDriver created successfully
+2025-10-29 18:37:42,582 - INFO - ✅ [76/251] Qoruyucu örtük Apple iPhone 16 Plus Silicone Case 
+2025-10-29 18:37:48,012 - INFO - 🔍 Scraping [77] (attempt 1): qoruyucu-ortuk-apple-iphone-16-plus-silicone-case-
+2025-10-29 18:37:55,986 - INFO - ✅ [77/251] Qoruyucu örtük Apple iPhone 16 Plus Silicone Case 
+2025-10-29 18:38:02,983 - INFO - 🔍 Scraping [78] (attempt 1): qoruyucu-ortuk-apple-iphone-16-plus-silicone-case-
+2025-10-29 18:38:14,144 - INFO - ✅ [78/251] Qoruyucu örtük Apple iPhone 16 Plus Silicone Case 
+2025-10-29 18:38:18,524 - INFO - 🔍 Scraping [79] (attempt 1): qoruyucu-ortuk-apple-iphone-16-plus-silicone-case-
+2025-10-29 18:38:26,405 - INFO - ✅ [79/251] Qoruyucu örtük Apple iPhone 16 Plus Silicone Case 
+2025-10-29 18:38:34,299 - INFO - 🔍 Scraping [80] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-clear-case-w-ma
+2025-10-29 18:38:42,733 - INFO - ✅ [80/251] Qoruyucu örtük Apple iPhone 16 Pro Clear W/MagSafe
+2025-10-29 18:38:46,857 - INFO - 🔍 Scraping [81] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-max-clear-case-
+2025-10-29 18:38:57,180 - INFO - ✅ [81/251] Qoruyucu örtük Apple iPhone 16 Pro Max Clear Case 
+2025-10-29 18:39:01,311 - INFO - 🔍 Scraping [82] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-max-silicone-ca
+2025-10-29 18:39:10,823 - INFO - ✅ [82/251] Qoruyucu örtük Apple iPhone 16 Pro Max Silicone Ca
+2025-10-29 18:39:16,932 - INFO - 🔍 Scraping [83] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-max-silicone-ca
+2025-10-29 18:39:27,409 - INFO - ✅ [83/251] Qoruyucu örtük Apple iPhone 16 Pro Max Silicone Ca
+2025-10-29 18:39:33,750 - INFO - 🔍 Scraping [84] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-max-silicone-ca
+2025-10-29 18:39:42,561 - INFO - ✅ [84/251] Qoruyucu örtük Apple iPhone 16 Pro Max Silicone Ca
+2025-10-29 18:39:49,082 - INFO - 🔍 Scraping [85] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-max-silicone-ca
+2025-10-29 18:39:57,698 - INFO - ✅ [85/251] Qoruyucu örtük Apple iPhone 16 Pro Max Silicone Ca
+2025-10-29 18:40:05,694 - INFO - 🔍 Scraping [86] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-max-silicone-ca
+2025-10-29 18:40:18,080 - INFO - ✅ [86/251] Qoruyucu örtük Apple iPhone 16 Pro Max Silicone Ca
+2025-10-29 18:40:25,480 - INFO - 🔍 Scraping [87] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-max-silicone-ca
+2025-10-29 18:40:35,058 - INFO - ✅ [87/251] Qoruyucu örtük Apple iPhone 16 Pro Max Silicone Ca
+2025-10-29 18:40:41,714 - INFO - 🔍 Scraping [88] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-max-silicone-ca
+2025-10-29 18:40:51,029 - INFO - ✅ [88/251] Qoruyucu örtük Apple iPhone 16 Pro Max Silicone Ca
+2025-10-29 18:40:58,874 - INFO - 🔍 Scraping [89] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-max-silicone-ca
+2025-10-29 18:41:06,906 - INFO - ✅ [89/251] Qoruyucu örtük Apple iPhone 16 Pro Max Silicone Ca
+2025-10-29 18:41:13,504 - INFO - 🔍 Scraping [90] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-silicone-case-w
+2025-10-29 18:41:22,825 - INFO - ✅ [90/251] Qoruyucu örtük Apple iPhone 16 Pro Silicone Case W
+2025-10-29 18:41:29,535 - INFO - 🔍 Scraping [91] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-silicone-case-w
+2025-10-29 18:41:38,803 - INFO - ✅ [91/251] Qoruyucu örtük Apple iPhone 16 Pro Silicone Case W
+2025-10-29 18:41:44,450 - INFO - 🔍 Scraping [92] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-silicone-case-w
+2025-10-29 18:41:53,809 - INFO - ✅ [92/251] Qoruyucu örtük Apple iPhone 16 Pro Silicone Case W
+2025-10-29 18:42:01,160 - INFO - 🔍 Scraping [93] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-silicone-case-w
+2025-10-29 18:42:11,883 - INFO - ✅ [93/251] Qoruyucu örtük Apple iPhone 16 Pro Silicone Case W
+2025-10-29 18:42:18,069 - INFO - 🔍 Scraping [94] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-silicone-case-w
+2025-10-29 18:42:26,969 - INFO - ✅ [94/251] Qoruyucu örtük Apple iPhone 16 Pro Silicone Case W
+2025-10-29 18:42:33,892 - INFO - 🔍 Scraping [95] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-silicone-case-w
+2025-10-29 18:42:42,857 - INFO - ✅ [95/251] Qoruyucu örtük Apple iPhone 16 Pro Silicone Case W
+2025-10-29 18:42:49,040 - INFO - 🔍 Scraping [96] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-silicone-case-w
+2025-10-29 18:42:53,925 - INFO - ✅ [96/251] Qoruyucu örtük Apple iPhone 16 Pro Silicone Case W
+2025-10-29 18:43:01,907 - INFO - 🔍 Scraping [97] (attempt 1): qoruyucu-ortuk-apple-iphone-16-pro-silicone-case-w
+2025-10-29 18:43:11,458 - INFO - ✅ [97/251] Qoruyucu örtük Apple iPhone 16 Pro Silicone Case W
+2025-10-29 18:43:16,313 - INFO - 🔍 Scraping [98] (attempt 1): qoruyucu-ortuk-apple-iphone-16-silicone-case-w-mag
+2025-10-29 18:43:24,818 - INFO - ✅ [98/251] Qoruyucu örtük Apple iPhone 16 Silicone Case W/Mag
+2025-10-29 18:43:30,026 - INFO - 🔍 Scraping [99] (attempt 1): qoruyucu-ortuk-apple-iphone-16-silicone-case-w-mag
+2025-10-29 18:43:41,310 - INFO - ✅ [99/251] Qoruyucu örtük Apple iPhone 16 Silicone Case W/Mag
+2025-10-29 18:43:49,230 - INFO - 🔍 Scraping [100] (attempt 1): qoruyucu-ortuk-apple-iphone-16-silicone-case-w-mag
+2025-10-29 18:43:57,843 - INFO - ✅ [100/251] Qoruyucu örtük Apple iPhone 16 Silicone Case W/Mag
+2025-10-29 18:44:04,288 - INFO - 🔍 Scraping [101] (attempt 1): qoruyucu-ortuk-apple-iphone-16-silicone-case-w-mag
+2025-10-29 18:44:04,289 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 18:44:05,398 - INFO - ✅ WebDriver created successfully
+2025-10-29 18:44:21,435 - INFO - ✅ [101/251] Qoruyucu örtük Apple iPhone 16 Silicone Case W/Mag
+2025-10-29 18:44:27,288 - INFO - 🔍 Scraping [102] (attempt 1): qoruyucu-ortuk-apple-iphone-16-silicone-case-w-mag
+2025-10-29 18:44:34,151 - INFO - ✅ [102/251] Qoruyucu örtük Apple iPhone 16 Silicone Case W/Mag
+2025-10-29 18:44:40,717 - INFO - 🔍 Scraping [103] (attempt 1): qoruyucu-ortuk-apple-iphone-16-silicone-case-w-mag
+2025-10-29 18:44:48,930 - INFO - ✅ [103/251] Qoruyucu örtük Apple iPhone 16 Silicone Case W/Mag
+2025-10-29 18:44:55,624 - INFO - 🔍 Scraping [104] (attempt 1): qoruyucu-ortuk-apple-iphone-16-silicone-case-w-mag
+2025-10-29 18:45:04,412 - INFO - ✅ [104/251] Qoruyucu örtük Apple iPhone 16 Silicone Case W/Mag
+2025-10-29 18:45:08,639 - INFO - 🔍 Scraping [105] (attempt 1): qoruyucu-ortuk-apple-iphone-16-silicone-case-w-mag
+2025-10-29 18:45:19,757 - INFO - ✅ [105/251] Qoruyucu örtük Apple iPhone 16 Silicone Case W/Mag
+2025-10-29 18:45:25,022 - INFO - 🔍 Scraping [106] (attempt 1): qoruyucu-ortuk-apple-iphone-16e-silicone-case-blac
+2025-10-29 18:45:35,204 - INFO - ✅ [106/251] Qoruyucu örtük Apple iPhone 16e Silicone Case Blac
+2025-10-29 18:45:40,702 - INFO - 🔍 Scraping [107] (attempt 1): qoruyucu-ortuk-apple-iphone-16e-silicone-case-lake
+2025-10-29 18:45:51,063 - INFO - ✅ [107/251] Qoruyucu örtük Apple iPhone 16e Silicone Case Lake
+2025-10-29 18:45:57,744 - INFO - 🔍 Scraping [108] (attempt 1): qoruyucu-ortuk-apple-iphone-16e-silicone-case-whit
+2025-10-29 18:46:07,871 - INFO - ✅ [108/251] Qoruyucu örtük Apple iPhone 16e Silicone Case Whit
+2025-10-29 18:46:15,442 - INFO - 🔍 Scraping [109] (attempt 1): qoruyucu-ortuk-apple-iphone-16e-silicone-case-wint
+2025-10-29 18:46:25,499 - INFO - ✅ [109/251] Qoruyucu örtük Apple iPhone 16e Silicone Case Wint
+2025-10-29 18:46:32,552 - INFO - 🔍 Scraping [110] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-mgfm4zm-a-n
+2025-10-29 18:46:41,638 - INFO - ✅ [110/251] Qoruyucu örtük Apple iPhone 17 Pro Max W/MagSafe M
+2025-10-29 18:46:49,167 - INFO - 🔍 Scraping [111] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-mgfn4zm-a-p
+2025-10-29 18:46:58,552 - INFO - ✅ [111/251] Qoruyucu örtük Apple iPhone 17 Pro Max W/MagSafe M
+2025-10-29 18:47:06,185 - INFO - 🔍 Scraping [112] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-mgfp4zm-a-m
+2025-10-29 18:47:16,591 - INFO - ✅ [112/251] Qoruyucu örtük Apple iPhone 17 Pro Max W/MagSafe M
+2025-10-29 18:47:23,322 - INFO - 🔍 Scraping [113] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-mgfq4zm-a-t
+2025-10-29 18:47:31,414 - INFO - ✅ [113/251] Qoruyucu örtük Apple iPhone 17 Pro Max W/MagSafe M
+2025-10-29 18:47:37,820 - INFO - 🔍 Scraping [114] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-mgfr4zm-a-b
+2025-10-29 18:47:46,134 - INFO - ✅ [114/251] Qoruyucu örtük Apple iPhone 17 Pro Max W/MagSafe M
+2025-10-29 18:47:50,773 - INFO - 🔍 Scraping [115] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-mgfw4zm-a-c
+2025-10-29 18:47:59,465 - INFO - ✅ [115/251] Qoruyucu örtük Apple iPhone 17 Pro Max W/MagSafe M
+2025-10-29 18:48:06,529 - INFO - 🔍 Scraping [116] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-mgj84ll-a-e
+2025-10-29 18:48:15,475 - INFO - ✅ [116/251] Qoruyucu örtük Apple iPhone 17 Pro Max W/MagSafe a
+2025-10-29 18:48:21,676 - INFO - 🔍 Scraping [117] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-techwoven-w
+2025-10-29 18:48:30,007 - INFO - ✅ [117/251] Qoruyucu örtük Apple iPhone 17 Pro Max TechWoven W
+2025-10-29 18:48:36,455 - INFO - 🔍 Scraping [118] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-techwoven-w
+2025-10-29 18:48:46,246 - INFO - ✅ [118/251] Qoruyucu örtük Apple iPhone 17 Pro Max TechWoven W
+2025-10-29 18:48:53,199 - INFO - 🔍 Scraping [119] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-techwoven-w
+2025-10-29 18:49:02,622 - INFO - ✅ [119/251] Qoruyucu örtük Apple iPhone 17 Pro Max TechWoven W
+2025-10-29 18:49:10,354 - INFO - 🔍 Scraping [120] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-techwoven-w
+2025-10-29 18:49:18,350 - INFO - ✅ [120/251] Qoruyucu örtük Apple iPhone 17 Pro Max TechWoven W
+2025-10-29 18:49:24,520 - INFO - 🔍 Scraping [121] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-techwoven-w
+2025-10-29 18:49:34,065 - INFO - ✅ [121/251] Qoruyucu örtük Apple iPhone 17 Pro Max TechWoven W
+2025-10-29 18:49:41,486 - INFO - 🔍 Scraping [122] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-max-w-magsafe-m
+2025-10-29 18:49:52,163 - INFO - ✅ [122/251] Qoruyucu örtük Apple iPhone 17 Pro Max W/MagSafe M
+2025-10-29 18:49:56,845 - INFO - 🔍 Scraping [123] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-mgfe4zm-a-orang
+2025-10-29 18:50:10,350 - INFO - ✅ [123/251] Qoruyucu örtük Apple iPhone 17 Pro W/MagSafe MGFE4
+2025-10-29 18:50:17,267 - INFO - 🔍 Scraping [124] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-mgff4zm-a-neon-
+2025-10-29 18:50:24,972 - INFO - ✅ [124/251] Qoruyucu örtük Apple iPhone 17 Pro W/MagSafe MGFF4
+2025-10-29 18:50:32,265 - INFO - 🔍 Scraping [125] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-mgfg4zm-a-purpl
+2025-10-29 18:50:38,445 - INFO - ✅ [125/251] Qoruyucu örtük Apple iPhone 17 Pro W/MagSafe MGFG4
+2025-10-29 18:50:46,320 - INFO - 🔍 Scraping [126] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-mgfh4zm-a-midni
+2025-10-29 18:50:46,321 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 18:50:47,154 - INFO - ✅ WebDriver created successfully
+2025-10-29 18:50:56,233 - INFO - ✅ [126/251] Qoruyucu örtük Apple iPhone 17 Pro W/MagSafe MGFH4
+2025-10-29 18:51:03,112 - INFO - 🔍 Scraping [127] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-mgfj4zm-a-terra
+2025-10-29 18:51:09,204 - INFO - ✅ [127/251] Qoruyucu örtük Apple iPhone 17 Pro W/MagSafe MGFJ4
+2025-10-29 18:51:13,831 - INFO - 🔍 Scraping [128] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-mgfk4zm-a-black
+2025-10-29 18:51:23,766 - INFO - ✅ [128/251] Qoruyucu örtük Apple iPhone 17 Pro W/MagSafe MGFK4
+2025-10-29 18:51:28,828 - INFO - 🔍 Scraping [129] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-mgft4zm-a-clear
+2025-10-29 18:51:38,451 - INFO - ✅ [129/251] Qoruyucu örtük Apple iPhone 17 Pro W/MagSafe MGFT4
+2025-10-29 18:51:43,078 - INFO - 🔍 Scraping [130] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-techwoven-w-mag
+2025-10-29 18:51:51,258 - INFO - ✅ [130/251] Qoruyucu örtük Apple iPhone 17 Pro TechWoven W/Mag
+2025-10-29 18:51:56,280 - INFO - 🔍 Scraping [131] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-techwoven-w-mag
+2025-10-29 18:52:05,574 - INFO - ✅ [131/251] Qoruyucu örtük Apple iPhone 17 Pro TechWoven W/Mag
+2025-10-29 18:52:09,851 - INFO - 🔍 Scraping [132] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-techwoven-w-mag
+2025-10-29 18:52:19,109 - INFO - ✅ [132/251] Qoruyucu örtük Apple iPhone 17 Pro TechWoven W/Mag
+2025-10-29 18:52:26,274 - INFO - 🔍 Scraping [133] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-techwoven-w-mag
+2025-10-29 18:52:35,495 - INFO - ✅ [133/251] Qoruyucu örtük Apple iPhone 17 Pro TechWoven W/Mag
+2025-10-29 18:52:41,268 - INFO - 🔍 Scraping [134] (attempt 1): qoruyucu-ortuk-apple-iphone-17-pro-techwoven-w-mag
+2025-10-29 18:52:50,405 - INFO - ✅ [134/251] Qoruyucu örtük Apple iPhone 17 Pro TechWoven W/Mag
+2025-10-29 18:52:55,846 - INFO - 🔍 Scraping [135] (attempt 1): qoruyucu-ortuk-apple-iphone-17-w-magsafe-mgev4zm-a
+2025-10-29 18:53:04,150 - INFO - ✅ [135/251] Qoruyucu örtük Apple iPhone 17 W/MagSafe MGEV4ZM/A
+2025-10-29 18:53:08,422 - INFO - 🔍 Scraping [136] (attempt 1): qoruyucu-ortuk-apple-iphone-17-w-magsafe-mgew4zm-a
+2025-10-29 18:53:21,413 - INFO - ✅ [136/251] Qoruyucu örtük Apple iPhone 17 W/MagSafe MGEW4ZM/A
+2025-10-29 18:53:28,919 - INFO - 🔍 Scraping [137] (attempt 1): qoruyucu-ortuk-apple-iphone-17-w-magsafe-mgex4zm-a
+2025-10-29 18:53:38,388 - INFO - ✅ [137/251] Qoruyucu örtük Apple iPhone 17 W/MagSafe MGEX4ZM/A
+2025-10-29 18:53:43,926 - INFO - 🔍 Scraping [138] (attempt 1): qoruyucu-ortuk-apple-iphone-17-w-magsafe-mgf04zm-a
+2025-10-29 18:53:53,328 - INFO - ✅ [138/251] Qoruyucu örtük Apple iPhone 17 W/MagSafe MGF04ZM/A
+2025-10-29 18:53:59,607 - INFO - 🔍 Scraping [139] (attempt 1): qoruyucu-ortuk-apple-iphone-17-w-magsafe-mgf14zm-a
+2025-10-29 18:54:08,913 - INFO - ✅ [139/251] Qoruyucu örtük Apple iPhone 17 W/MagSafe MGF14ZM/A
+2025-10-29 18:54:16,077 - INFO - 🔍 Scraping [140] (attempt 1): qoruyucu-ortuk-apple-iphone-17-w-magsafe-mgf24zm-a
+2025-10-29 18:54:25,856 - INFO - ✅ [140/251] Qoruyucu örtük Apple iPhone 17 W/MagSafe MGF24ZM/A
+2025-10-29 18:54:32,498 - INFO - 🔍 Scraping [141] (attempt 1): qoruyucu-ortuk-apple-iphone-air-mgh24zm-a-shadow
+2025-10-29 18:54:41,508 - INFO - ✅ [141/251] Qoruyucu örtük Apple iPhone Air W/MagSafe MGH24ZM/
+2025-10-29 18:54:46,153 - INFO - 🔍 Scraping [142] (attempt 1): qoruyucu-ortuk-apple-iphone-air-mgh34zm-a-frost
+2025-10-29 18:54:56,041 - INFO - ✅ [142/251] Qoruyucu örtük Apple iPhone Air W/MagSafe MGH34ZM/
+2025-10-29 18:55:02,037 - INFO - 🔍 Scraping [143] (attempt 1): qoruyucu-ortuk-apple-smart-cover-for-ipad-10-2-eng
+2025-10-29 18:55:15,237 - INFO - ✅ [143/251] Qoruyucu örtük Apple Smart Cover For iPad 10.2 Eng
+2025-10-29 18:55:21,735 - INFO - 🔍 Scraping [144] (attempt 1): qoruyucu-ortuk-apple-smart-folio-for-ipad-a16-lemo
+2025-10-29 18:55:29,855 - INFO - ✅ [144/251] Qoruyucu örtük Apple Smart Folio For iPad (A16) Le
+2025-10-29 18:55:36,904 - INFO - 🔍 Scraping [145] (attempt 1): qoruyucu-ortuk-apple-smart-folio-for-ipad-a16-sky-
+2025-10-29 18:55:47,585 - INFO - ✅ [145/251] Qoruyucu örtük Apple Smart Folio For iPad (A16) Sk
+2025-10-29 18:55:52,566 - INFO - 🔍 Scraping [146] (attempt 1): qoruyucu-ortuk-apple-smart-folio-for-ipad-a16-wate
+2025-10-29 18:56:00,463 - INFO - ✅ [146/251] Qoruyucu örtük Apple Smart Folio For iPad (A16) Wa
+2025-10-29 18:56:06,354 - INFO - 🔍 Scraping [147] (attempt 1): qoruyucu-ortuk-apple-smart-folio-for-ipad-a16-whit
+2025-10-29 18:56:15,625 - INFO - ✅ [147/251] Qoruyucu örtük Apple Smart Folio For iPad (A16) Wh
+2025-10-29 18:56:22,449 - INFO - 🔍 Scraping [148] (attempt 1): qoruyucu-ortuk-apple-smart-folio-for-ipad-mini-6th
+2025-10-29 18:56:31,945 - INFO - ✅ [148/251] Qoruyucu örtük Apple Smart Folio For iPad Mini (6T
+2025-10-29 18:56:36,644 - INFO - 🔍 Scraping [149] (attempt 1): qoruyucu-ortuk-comma-joy-series-apple-ipad-air-11-
+2025-10-29 18:56:45,416 - INFO - ✅ [149/251] Qoruyucu örtük Comma Joy Series Apple iPad Air 11/
+2025-10-29 18:56:50,775 - INFO - 🔍 Scraping [150] (attempt 1): qoruyucu-ortuk-comma-joy-series-apple-ipad-air-13-
+2025-10-29 18:56:58,508 - INFO - ✅ [150/251] Qoruyucu örtük Comma Joy Series Apple iPad Air 13 
+2025-10-29 18:57:04,698 - INFO - 🔍 Scraping [151] (attempt 1): qoruyucu-ortuk-comma-joy-series-apple-ipad-pro-11-
+2025-10-29 18:57:04,699 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 18:57:05,740 - INFO - ✅ WebDriver created successfully
+2025-10-29 18:57:18,021 - INFO - ✅ [151/251] Qoruyucu örtük Comma Joy Series Apple iPad Pro 11 
+2025-10-29 18:57:25,583 - INFO - 🔍 Scraping [152] (attempt 1): qoruyucu-ortuk-comma-joy-series-apple-ipad-pro-11-
+2025-10-29 18:57:34,267 - INFO - ✅ [152/251] Qoruyucu örtük Comma Joy Series Apple iPad Pro 11 
+2025-10-29 18:57:41,124 - INFO - 🔍 Scraping [153] (attempt 1): qoruyucu-ortuk-comma-joy-series-apple-ipad-pro-11-
+2025-10-29 18:57:49,693 - INFO - ✅ [153/251] Qoruyucu örtük Comma Joy Series Apple iPad Pro 11 
+2025-10-29 18:57:55,012 - INFO - 🔍 Scraping [154] (attempt 1): qoruyucu-ortuk-comma-joy-series-apple-ipad-pro-13-
+2025-10-29 18:58:02,174 - INFO - ✅ [154/251] Qoruyucu örtük Comma Joy Series Apple iPad Pro 13 
+2025-10-29 18:58:09,379 - INFO - 🔍 Scraping [155] (attempt 1): qoruyucu-ortuk-comma-joy-series-apple-ipad-pro-13-
+2025-10-29 18:58:18,642 - INFO - ✅ [155/251] Qoruyucu örtük Comma Joy Series Apple iPad Pro 13 
+2025-10-29 18:58:22,972 - INFO - 🔍 Scraping [156] (attempt 1): qoruyucu-ortuk-comma-joy-series-apple-ipad-pro-13-
+2025-10-29 18:58:31,970 - INFO - ✅ [156/251] Qoruyucu örtük Comma Joy Series Apple iPad Pro 13 
+2025-10-29 18:58:36,578 - INFO - 🔍 Scraping [157] (attempt 1): qoruyucu-ortuk-comma-lingos-series-apple-ipad-air-
+2025-10-29 18:58:42,412 - INFO - ✅ [157/251] Qoruyucu örtük Comma Lingos Series Apple iPad Air 
+2025-10-29 18:58:49,387 - INFO - 🔍 Scraping [158] (attempt 1): qoruyucu-ortuk-comma-lingos-series-apple-ipad-air-
+2025-10-29 18:58:57,414 - INFO - ✅ [158/251] Qoruyucu örtük Comma Lingos Series Apple iPad Air 
+2025-10-29 18:59:02,454 - INFO - 🔍 Scraping [159] (attempt 1): qoruyucu-ortuk-comma-lingos-series-apple-ipad-air-
+2025-10-29 18:59:12,848 - INFO - ✅ [159/251] Qoruyucu örtük Comma Lingos Series Apple iPad Air 
+2025-10-29 18:59:20,239 - INFO - 🔍 Scraping [160] (attempt 1): qoruyucu-ortuk-comma-lingos-series-apple-ipad-air-
+2025-10-29 18:59:29,287 - INFO - ✅ [160/251] Qoruyucu örtük Comma Lingos Series Apple iPad Air 
+2025-10-29 18:59:37,153 - INFO - 🔍 Scraping [161] (attempt 1): qoruyucu-ortuk-comma-lingos-series-apple-ipad-air-
+2025-10-29 18:59:45,292 - INFO - ✅ [161/251] Qoruyucu örtük Comma Lingos Series Apple iPad Air 
+2025-10-29 18:59:52,968 - INFO - 🔍 Scraping [162] (attempt 1): qoruyucu-ortuk-comma-lingos-series-apple-ipad-air-
+2025-10-29 19:00:01,630 - INFO - ✅ [162/251] Qoruyucu örtük Comma Lingos Series Apple iPad Air 
+2025-10-29 19:00:08,750 - INFO - 🔍 Scraping [163] (attempt 1): qoruyucu-ortuk-comma-lingos-series-apple-ipad-air-
+2025-10-29 19:00:21,735 - INFO - ✅ [163/251] Qoruyucu örtük Comma Lingos Series Apple iPad Air 
+2025-10-29 19:00:27,060 - INFO - 🔍 Scraping [164] (attempt 1): qoruyucu-ortuk-comma-lingos-series-apple-ipad-pro-
+2025-10-29 19:00:35,866 - INFO - ✅ [164/251] Qoruyucu örtük Comma Lingos Series Apple iPad Pro 
+2025-10-29 19:00:42,846 - INFO - 🔍 Scraping [165] (attempt 1): qoruyucu-ortuk-comma-lingos-series-apple-ipad-pro-
+2025-10-29 19:00:51,320 - INFO - ✅ [165/251] Qoruyucu örtük Comma Lingos Series Apple iPad Pro 
+2025-10-29 19:00:57,420 - INFO - 🔍 Scraping [166] (attempt 1): qulaqliq-apple-airpods-2-mv7n2ru-a
+2025-10-29 19:01:06,376 - INFO - ✅ [166/251] Qulaqlıq Apple Airpods 2 MV7N2RU/A
+2025-10-29 19:01:12,668 - INFO - 🔍 Scraping [167] (attempt 1): qulaqliq-apple-airpods-3-mme73ru-a
+2025-10-29 19:01:29,554 - INFO - ✅ [167/251] Qulaqlıq Apple AirPods 3 MME73RU/A
+2025-10-29 19:01:34,749 - INFO - 🔍 Scraping [168] (attempt 1): qulaqliq-apple-airpods-3-w-lightning-charging-case
+2025-10-29 19:01:44,405 - INFO - ✅ [168/251] Qulaqlıq Apple Airpods 3 MPNY3RU/A W/Lightning Cha
+2025-10-29 19:01:51,094 - INFO - 🔍 Scraping [169] (attempt 1): qulaqliq-apple-airpods-4-mxp63ze-a
+2025-10-29 19:01:55,916 - INFO - ✅ [169/251] Qulaqlıq Apple AirPods 4 MXP63ZE/A
+2025-10-29 19:02:02,645 - INFO - 🔍 Scraping [170] (attempt 1): qulaqliq-apple-airpods-4-w-anc-mxp93ze-a
+2025-10-29 19:02:08,369 - INFO - ✅ [170/251] Qulaqlıq Apple AirPods 4 W/ANC MXP93ZE/A
+2025-10-29 19:02:12,469 - INFO - 🔍 Scraping [171] (attempt 1): qulaqliq-apple-airpods-max-green-mgyn3ru-a
+2025-10-29 19:02:23,460 - INFO - ✅ [171/251] Qulaqlıq Apple Airpods Max Green MGYN3RU/A
+2025-10-29 19:02:29,148 - INFO - 🔍 Scraping [172] (attempt 1): qulaqliq-apple-airpods-max-mgym3ru-a-pink
+2025-10-29 19:02:40,887 - INFO - ✅ [172/251] Qulaqlıq Apple Airpods Max MGYM3RU/A Pink
+2025-10-29 19:02:48,375 - INFO - 🔍 Scraping [173] (attempt 1): qulaqliq-apple-airpods-max-mgym3ru-a-sky-blue
+2025-10-29 19:02:57,999 - INFO - ✅ [173/251] Qulaqlıq Apple Airpods Max Sky Blue MGYM3RU/A
+2025-10-29 19:03:04,415 - INFO - 🔍 Scraping [174] (attempt 1): qulaqliq-apple-airpods-max-silver-mgyj3ru-a
+2025-10-29 19:03:20,592 - INFO - ✅ [174/251] Qulaqlıq Apple AirPods Max MGYJ3RU/A Silver
+2025-10-29 19:03:27,216 - INFO - 🔍 Scraping [175] (attempt 1): qulaqliq-apple-airpods-max-space-gray-mgyh3ru-a
+2025-10-29 19:03:38,088 - INFO - ✅ [175/251] Qulaqlıq Apple Airpods Max Space Gray MGYH3RU/A
+2025-10-29 19:03:44,956 - INFO - 🔍 Scraping [176] (attempt 1): qulaqliq-apple-airpods-max-usb-c-blue-mww63ze-a
+2025-10-29 19:03:44,957 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 19:03:45,929 - INFO - ✅ WebDriver created successfully
+2025-10-29 19:03:57,666 - INFO - ✅ [176/251] Qulaqlıq Apple Airpods Max MWW63ZE/A Blue
+2025-10-29 19:04:05,584 - INFO - 🔍 Scraping [177] (attempt 1): qulaqliq-apple-airpods-max-usb-c-midnight-mww43ze-
+2025-10-29 19:04:14,696 - INFO - ✅ [177/251] Qulaqlıq Apple Airpods Max MWW43ZE/A Midnight
+2025-10-29 19:04:22,297 - INFO - 🔍 Scraping [178] (attempt 1): qulaqliq-apple-airpods-max-usb-c-orange-mww73ze-a
+2025-10-29 19:04:30,696 - INFO - ✅ [178/251] Qulaqlıq Apple Airpods Max MWW73ZE/A Orange
+2025-10-29 19:04:34,869 - INFO - 🔍 Scraping [179] (attempt 1): qulaqliq-apple-airpods-max-usb-c-purple-mww83ze-a
+2025-10-29 19:04:42,380 - INFO - ✅ [179/251] Qulaqlıq Apple Airpods Max MWW83ZE/A Purple
+2025-10-29 19:04:49,549 - INFO - 🔍 Scraping [180] (attempt 1): qulaqliq-apple-airpods-max-usb-c-starlight-mww53ze
+2025-10-29 19:04:58,442 - INFO - ✅ [180/251] Qulaqlıq Apple Airpods Max MWW53ZE/A Starlight
+2025-10-29 19:05:04,726 - INFO - 🔍 Scraping [181] (attempt 1): qulaqliq-apple-airpods-pro-2nd-gen-w-magsafe-case-
+2025-10-29 19:05:14,949 - INFO - ✅ [181/251] Qulaqlıq Apple AirPods Pro 2 Gen MTJV3RU/A W/MagSa
+2025-10-29 19:05:21,911 - INFO - 🔍 Scraping [182] (attempt 1): qulaqliq-apple-airpods-pro-2nd-generation-mqd83ru-
+2025-10-29 19:05:27,498 - INFO - ✅ [182/251] Qulaqlıq Apple Airpods Pro 2nd Generation / MQD83R
+2025-10-29 19:05:33,214 - INFO - 🔍 Scraping [183] (attempt 1): qulaqliq-apple-airpods-pro-3-mfhp4ze-a
+2025-10-29 19:05:39,493 - INFO - ✅ [183/251] Qulaqlıq Apple AirPods Pro 3 MFHP4ZE/A
+2025-10-29 19:05:45,698 - INFO - 🔍 Scraping [184] (attempt 1): qulaqliq-apple-earpods-3-5-mm-mwu53zm-a
+2025-10-29 19:05:50,371 - INFO - ✅ [184/251] Qulaqlıq Apple Earpods MWU53ZM/A
+2025-10-29 19:05:56,319 - INFO - 🔍 Scraping [185] (attempt 1): qulaqliq-apple-earpods-lightning-connector-mwty3zm
+2025-10-29 19:06:07,344 - INFO - ✅ [185/251] Qulaqlıq Apple Earpods MWTY3ZM/A
+2025-10-29 19:06:12,840 - INFO - 🔍 Scraping [186] (attempt 1): qulaqliq-apple-earpods-lightning-mmtn2zm-a
+2025-10-29 19:06:24,502 - INFO - ✅ [186/251] Qulaqlıq Apple Earpods MMTN2ZM/A
+2025-10-29 19:06:31,607 - INFO - 🔍 Scraping [187] (attempt 1): qulaqliq-apple-earpods-usb-c-mtjy3zm-a
+2025-10-29 19:06:40,033 - INFO - ✅ [187/251] Qulaqlıq Apple MTJY3ZM/A
+2025-10-29 19:06:45,555 - INFO - 🔍 Scraping [188] (attempt 1): qulaqliq-apple-earpods-usb-c-myqy3zm-a
+2025-10-29 19:06:54,026 - INFO - ✅ [188/251] Qulaqlıq Apple MYQY3ZM/A
+2025-10-29 19:06:59,302 - INFO - 🔍 Scraping [189] (attempt 1): qulaqlliq-apple-earpods-3-5-mm-mnhf2zm-a
+2025-10-29 19:07:03,795 - INFO - ✅ [189/251] Qulaqlıq Apple Earpods MNHF2ZM/A
+2025-10-29 19:07:07,935 - INFO - 🔍 Scraping [190] (attempt 1): sbs-band-apple-watch-40-mm-black-tebandwatch40mk
+2025-10-29 19:07:21,474 - INFO - ✅ [190/251] Kəmər SBS Black TEBANDWATCH40MK
+2025-10-29 19:07:29,459 - INFO - 🔍 Scraping [191] (attempt 1): sbs-band-apple-watch-40-mm-blue-tebandwatch40mb
+2025-10-29 19:07:37,225 - INFO - ✅ [191/251] Kəmər SBS blue TEBANDWATCH40MB
+2025-10-29 19:07:45,008 - INFO - 🔍 Scraping [192] (attempt 1): sbs-band-apple-watch-44-mm-blue-tebandwatch44mb
+2025-10-29 19:07:53,356 - INFO - ✅ [192/251] Kəmər SBS Blue TEBANDWATCH44MB
+2025-10-29 19:08:00,814 - INFO - 🔍 Scraping [193] (attempt 1): sbs-band-apple-watch-44-mm-red-tebandwatch44mr
+2025-10-29 19:08:09,463 - INFO - ✅ [193/251] SBS Band Apple Watch 44 mm Red TEBANDWATCH44MR
+2025-10-29 19:08:13,539 - INFO - 🔍 Scraping [194] (attempt 1): sbs-band-apple-watch-44mm-black-tebandwatch44mk
+2025-10-29 19:08:24,054 - INFO - ✅ [194/251] SBS Band Apple Watch 44mm, Black / TEBANDWATCH44MK
+2025-10-29 19:08:28,774 - INFO - 🔍 Scraping [195] (attempt 1): simsiz-enerji-toplama-cihazi-apple-iphone-air-mags
+2025-10-29 19:08:34,301 - INFO - ✅ [195/251] Simsiz enerji toplama cihazı Apple iPhone Air MagS
+2025-10-29 19:08:42,157 - INFO - 🔍 Scraping [196] (attempt 1): sistem-bloku-apple-mac-mini-mcyt4ru-a
+2025-10-29 19:08:46,635 - INFO - ✅ [196/251] Sistem bloku Apple Mac Mini M4 MCYT4RU/A
+2025-10-29 19:08:50,934 - INFO - 🔍 Scraping [197] (attempt 1): sistem-bloku-apple-mac-mini-mmfj3ru-a
+2025-10-29 19:09:01,073 - INFO - ✅ [197/251] Sistem bloku Apple Mac Mini M2 MMFJ3RU/A
+2025-10-29 19:09:08,257 - INFO - 🔍 Scraping [198] (attempt 1): sistem-bloku-apple-mac-mini-mnh73ru-a
+2025-10-29 19:09:18,371 - INFO - ✅ [198/251] Sistem bloku Apple Mac Mini M2 MNH73RU/A
+2025-10-29 19:09:22,544 - INFO - 🔍 Scraping [199] (attempt 1): sistem-bloku-apple-mac-mini-mrtr2ru-a
+2025-10-29 19:09:31,632 - INFO - ✅ [199/251] Sistem bloku Apple Mac Mini MRTR2RU/A
+2025-10-29 19:09:38,001 - INFO - 🔍 Scraping [200] (attempt 1): sistem-bloku-apple-mac-mini-mrtt2ru-a
+2025-10-29 19:09:47,235 - INFO - ✅ [200/251] Sistem bloku Apple Mac Mini MRTT2RU/A
+2025-10-29 19:09:54,328 - INFO - 🔍 Scraping [201] (attempt 1): sistem-bloku-apple-mac-mini-mu9d3ru-a
+2025-10-29 19:09:54,329 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 19:09:54,931 - INFO - ✅ WebDriver created successfully
+2025-10-29 19:10:05,584 - INFO - ✅ [201/251] Sistem bloku Apple Mac Mini M4 MU9D3RU/A
+2025-10-29 19:10:13,416 - INFO - 🔍 Scraping [202] (attempt 1): sistem-bloku-apple-mac-mini-mu9e3ru-a
+2025-10-29 19:10:23,290 - INFO - ✅ [202/251] Sistem bloku Apple Mac Mini M4 MU9E3RU/A
+2025-10-29 19:10:31,220 - INFO - 🔍 Scraping [203] (attempt 1): sistem-bloku-apple-mac-mini-mxng2ua-a
+2025-10-29 19:10:39,564 - INFO - ✅ [203/251] Sistem bloku Apple Mac Mini MXNG2UA/A
+2025-10-29 19:10:45,602 - INFO - 🔍 Scraping [204] (attempt 1): smart-saat-apple-watch-se-3-40mm-meh54rk-a-starlig
+2025-10-29 19:10:51,816 - INFO - ✅ [204/251] Smart saat Apple Watch SE 3 40mm MEH54RK/A Starlig
+2025-10-29 19:10:57,625 - INFO - 🔍 Scraping [205] (attempt 1): smart-saat-apple-watch-se-3-40mm-meh94rk-a-midnigh
+2025-10-29 19:11:06,425 - INFO - ✅ [205/251] Smart saat Apple Watch SE 3 40mm MEH94RK/A Midnigh
+2025-10-29 19:11:13,395 - INFO - 🔍 Scraping [206] (attempt 1): smart-saat-apple-watch-se-3-40mm-mehc4rk-a-midnigh
+2025-10-29 19:11:26,072 - INFO - ✅ [206/251] Smart saat Apple Watch SE 3 40mm MEHC4RK/A Midnigh
+2025-10-29 19:11:30,482 - INFO - 🔍 Scraping [207] (attempt 1): smart-saat-apple-watch-se-3-44mm-mehj4rk-a-starlig
+2025-10-29 19:11:40,332 - INFO - ✅ [207/251] Smart saat Apple Watch SE 3 44mm MEHJ4RK/A Starlig
+2025-10-29 19:11:44,702 - INFO - 🔍 Scraping [208] (attempt 1): smart-saat-apple-watch-se-3-44mm-mehn4rk-a-midnigh
+2025-10-29 19:11:52,245 - INFO - ✅ [208/251] Smart saat Apple Watch SE 3 44mm MEHN4RK/A Midnigh
+2025-10-29 19:11:59,904 - INFO - 🔍 Scraping [209] (attempt 1): smart-saat-apple-watch-se-3-44mm-mehq4rk-a-midnigh
+2025-10-29 19:12:10,305 - INFO - ✅ [209/251] Smart saat Apple Watch SE 3 44mm MEHQ4RK/A Midnigh
+2025-10-29 19:12:15,782 - INFO - 🔍 Scraping [210] (attempt 1): smart-saat-apple-watch-se-3-meh34rk-a-starlight
+2025-10-29 19:12:25,465 - INFO - ✅ [210/251] Smart saat Apple SE 3 MEH34RK/A Starlight
+2025-10-29 19:12:30,166 - INFO - 🔍 Scraping [211] (attempt 1): smart-saat-apple-watch-series-11-42mm-meqt4rk-a-je
+2025-10-29 19:12:39,207 - INFO - ✅ [211/251] Smart saat Apple Watch Series 11 42mm MEQT4RK/A Je
+2025-10-29 19:12:45,200 - INFO - 🔍 Scraping [212] (attempt 1): smart-saat-apple-watch-series-11-42mm-mequ4rk-a-je
+2025-10-29 19:12:53,691 - INFO - ✅ [212/251] Smart saat Apple Watch Series 11 42mm MEQU4RK/A Je
+2025-10-29 19:12:58,219 - INFO - 🔍 Scraping [213] (attempt 1): smart-saat-apple-watch-series-11-42mm-meqw4rk-a-sp
+2025-10-29 19:13:08,289 - INFO - ✅ [213/251] Smart saat Apple Watch Series 11 42mm MEQW4RK/A Sp
+2025-10-29 19:13:15,369 - INFO - 🔍 Scraping [214] (attempt 1): smart-saat-apple-watch-series-11-42mm-meqx4rk-a-sp
+2025-10-29 19:13:22,125 - INFO - ✅ [214/251] Smart saat Apple Watch Series 11 42mm MEQX4RK/A Sp
+2025-10-29 19:13:28,414 - INFO - 🔍 Scraping [215] (attempt 1): smart-saat-apple-watch-series-11-42mm-meu04rk-a-ro
+2025-10-29 19:13:37,200 - INFO - ✅ [215/251] Smart saat Apple Series 11 42mm MEU04RK/A Rose Gol
+2025-10-29 19:13:42,415 - INFO - 🔍 Scraping [216] (attempt 1): smart-saat-apple-watch-series-11-42mm-meu64rk-a-si
+2025-10-29 19:13:50,964 - INFO - ✅ [216/251] Smart saat Apple Series 11 42mm MEU64RK/A Silver
+2025-10-29 19:13:57,032 - INFO - 🔍 Scraping [217] (attempt 1): smart-saat-apple-watch-series-11-46mm-meuw4rk-a-je
+2025-10-29 19:14:06,814 - INFO - ✅ [217/251] Smart saat Apple Series 11 46mm MEUW4RK/A Jet Blac
+2025-10-29 19:14:12,733 - INFO - 🔍 Scraping [218] (attempt 1): smart-saat-apple-watch-series-11-46mm-meux4rk-a-je
+2025-10-29 19:14:19,590 - INFO - ✅ [218/251] Smart saat Apple Series 11 46mm MEUX4RK/A Jet Blac
+2025-10-29 19:14:27,557 - INFO - 🔍 Scraping [219] (attempt 1): smart-saat-apple-watch-series-11-46mm-mev04rk-a-sp
+2025-10-29 19:14:33,807 - INFO - ✅ [219/251] Smart saat Apple Watch Series 11 46mm MEV04RK/A Sp
+2025-10-29 19:14:38,263 - INFO - 🔍 Scraping [220] (attempt 1): smart-saat-apple-watch-series-11-46mm-mev44rk-a-sp
+2025-10-29 19:14:43,751 - INFO - ✅ [220/251] Smart saat Apple Watch Series 11 46mm MEV44RK/A Sp
+2025-10-29 19:14:50,333 - INFO - 🔍 Scraping [221] (attempt 1): smart-saat-apple-watch-series-11-46mm-mev74rk-a-ro
+2025-10-29 19:14:58,690 - INFO - ✅ [221/251] Smart saat Apple Watch Series 11 46mm MEV74RK/A Ro
+2025-10-29 19:15:04,438 - INFO - 🔍 Scraping [222] (attempt 1): smart-saat-apple-watch-series-11-46mm-mev94rk-a-si
+2025-10-29 19:15:10,361 - INFO - ✅ [222/251] Smart saat Apple Watch Series 11 46mm MEV94RK/A Si
+2025-10-29 19:15:16,166 - INFO - 🔍 Scraping [223] (attempt 1): smart-saat-apple-watch-series-11-46mm-meva4rk-a-si
+2025-10-29 19:15:25,496 - INFO - ✅ [223/251] Smart saat Apple Watch Series 11 46mm MEVA4RK/A Si
+2025-10-29 19:15:31,622 - INFO - 🔍 Scraping [224] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mewh4
+2025-10-29 19:15:36,398 - INFO - ✅ [224/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MEWH4
+2025-10-29 19:15:44,202 - INFO - 🔍 Scraping [225] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mewm4
+2025-10-29 19:15:53,634 - INFO - ✅ [225/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MEWM4
+2025-10-29 19:15:58,922 - INFO - 🔍 Scraping [226] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mewp4
+2025-10-29 19:15:58,923 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 19:15:59,889 - INFO - ✅ WebDriver created successfully
+2025-10-29 19:16:11,639 - INFO - ✅ [226/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MEWP4
+2025-10-29 19:16:16,151 - INFO - 🔍 Scraping [227] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mewr4
+2025-10-29 19:16:25,501 - INFO - ✅ [227/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MEWR4
+2025-10-29 19:16:32,267 - INFO - 🔍 Scraping [228] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mewu4
+2025-10-29 19:16:40,325 - INFO - ✅ [228/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MEWU4
+2025-10-29 19:16:45,652 - INFO - 🔍 Scraping [229] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mf0j4
+2025-10-29 19:16:51,218 - INFO - ✅ [229/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MF0J4
+2025-10-29 19:16:56,807 - INFO - 🔍 Scraping [230] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mf0v4
+2025-10-29 19:17:03,861 - INFO - ✅ [230/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MF0V4
+2025-10-29 19:17:10,091 - INFO - 🔍 Scraping [231] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mf0x4
+2025-10-29 19:17:18,325 - INFO - ✅ [231/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MF0X4
+2025-10-29 19:17:26,194 - INFO - 🔍 Scraping [232] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mf1d4
+2025-10-29 19:17:35,627 - INFO - ✅ [232/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MF1D4
+2025-10-29 19:17:39,680 - INFO - 🔍 Scraping [233] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mf1h4
+2025-10-29 19:17:48,177 - INFO - ✅ [233/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MF1H4
+2025-10-29 19:17:53,039 - INFO - 🔍 Scraping [234] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mf1q4
+2025-10-29 19:18:01,045 - INFO - ✅ [234/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MF1Q4
+2025-10-29 19:18:08,629 - INFO - 🔍 Scraping [235] (attempt 1): smart-saat-apple-watch-ultra-3-cellular-49mm-mf1t4
+2025-10-29 19:18:14,943 - INFO - ✅ [235/251] Smart saat Apple Watch Ultra 3 Cellular 49mm MF1T4
+2025-10-29 19:18:21,061 - INFO - 🔍 Scraping [236] (attempt 1): smartfon-ucun-kemer-apple-crossbody-strap-mgge4zm-
+2025-10-29 19:18:29,964 - INFO - ✅ [236/251] Smartfon üçün kəmər Apple Crossbody Strap MGGE4ZM/
+2025-10-29 19:18:37,419 - INFO - 🔍 Scraping [237] (attempt 1): smartfon-ucun-kemer-apple-crossbody-strap-mggh4zm-
+2025-10-29 19:18:45,099 - INFO - ✅ [237/251] Smartfon üçün kəmər Apple Crossbody Strap MGGH4ZM/
+2025-10-29 19:18:49,764 - INFO - 🔍 Scraping [238] (attempt 1): smartfon-ucun-kemer-apple-crossbody-strap-mggk4zm-
+2025-10-29 19:18:58,293 - INFO - ✅ [238/251] Smartfon üçün kəmər Apple Crossbody Strap MGGK4ZM/
+2025-10-29 19:19:03,940 - INFO - 🔍 Scraping [239] (attempt 1): smartfon-ucun-kemer-apple-crossbody-strap-mggl4zm-
+2025-10-29 19:19:12,050 - INFO - ✅ [239/251] Smartfon üçün kəmər Apple Crossbody Strap MGGL4ZM/
+2025-10-29 19:19:19,429 - INFO - 🔍 Scraping [240] (attempt 1): smartfon-ucun-kemer-apple-crossbody-strap-mggm4zm-
+2025-10-29 19:19:26,667 - INFO - ✅ [240/251] Smartfon üçün kəmər Apple Crossbody Strap MGGM4ZM/
+2025-10-29 19:19:32,853 - INFO - 🔍 Scraping [241] (attempt 1): smartfon-ucun-kemer-apple-crossbody-strap-mggn4zm-
+2025-10-29 19:19:39,028 - INFO - ✅ [241/251] Smartfon üçün kəmər Apple Crossbody Strap MGGN4ZM/
+2025-10-29 19:19:45,627 - INFO - 🔍 Scraping [242] (attempt 1): stilus-apple-pencil-1st-gen-mk0c2
+2025-10-29 19:19:53,218 - INFO - ✅ [242/251] Stilus Apple Pencil 1St Gen MK0C2
+2025-10-29 19:20:00,461 - INFO - 🔍 Scraping [243] (attempt 1): stilus-apple-pencil-2nd-gen-mu8f2
+2025-10-29 19:20:08,140 - INFO - ✅ [243/251] Stilus Apple Pencil 2nd Gen MU8F2
+2025-10-29 19:20:15,551 - INFO - 🔍 Scraping [244] (attempt 1): stilus-apple-pencil-mxn43zm-a
+2025-10-29 19:20:20,696 - INFO - ✅ [244/251] Stilus Apple Pencil MXN43ZM/A
+2025-10-29 19:20:24,707 - INFO - 🔍 Scraping [245] (attempt 1): stilus-apple-pencil-usb-c-muwa3zm-a
+2025-10-29 19:20:30,414 - INFO - ✅ [245/251] Stilus Apple Pencil Usb-C MUWA3ZM/A
+2025-10-29 19:20:37,838 - INFO - 🔍 Scraping [246] (attempt 1): unisex-clive-christian-crab-apple-blossom-50-ml-65
+2025-10-29 19:20:47,624 - INFO - ✅ [246/251] Uniseks parfüm Clive Christian Crab Apple Blossom 
+2025-10-29 19:20:55,493 - INFO - 🔍 Scraping [247] (attempt 1): usaq-dis-mecunu-chicco-applebanana-8058664175567
+2025-10-29 19:21:03,091 - INFO - ✅ [247/251] Uşaq diş məcunu Chicco Applebanana 8058664175567
+2025-10-29 19:21:08,046 - INFO - 🔍 Scraping [248] (attempt 1): usb-c-to-apple-pencil-adapter-mqlu3zm-a
+2025-10-29 19:21:20,141 - INFO - ✅ [248/251] USB-C to Apple Pencil Adapter MQLU3ZM/A
+2025-10-29 19:21:24,751 - INFO - 🔍 Scraping [249] (attempt 1): utu-russell-hobbs-26481-56-light-easy-brights-appl
+2025-10-29 19:21:37,290 - INFO - ✅ [249/251] Ütü Russell Hobbs 26481-56 Light & Easy Brights Ap
+2025-10-29 19:21:43,278 - INFO - 🔍 Scraping [250] (attempt 1): winso-merssus-apple-cinnamon-18-ml-534390
+2025-10-29 19:21:53,264 - INFO - ✅ [250/251] Winso Merssus Apple Cinnamon 18 ml 534390
+2025-10-29 19:21:57,508 - INFO - 🔍 Scraping [251] (attempt 1): zaschitnyj-chehol-apple-smart-folio-for-ipad-air-5
+2025-10-29 19:21:57,509 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-29 19:21:58,308 - INFO - ✅ WebDriver created successfully
+2025-10-29 19:22:11,613 - INFO - ✅ [251/251] Qoruyucu örtük Apple Smart Folio For iPad Air (5th
