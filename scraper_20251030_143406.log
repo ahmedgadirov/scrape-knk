@@ -1,0 +1,1039 @@
+2025-10-30 14:34:17,419 - INFO - ✅ WebDriver created successfully
+2025-10-30 14:34:17,419 - INFO - 🔍 Scraping [1] (attempt 1): xiaomi-kredit
+2025-10-30 14:34:25,656 - INFO - ✅ [1/500] Xiaomi kredit
+2025-10-30 14:34:31,747 - INFO - 🔍 Scraping [2] (attempt 1): xiaomi-lampa
+2025-10-30 14:34:37,052 - INFO - ✅ [2/500] Xiaomi lampa
+2025-10-30 14:34:43,254 - INFO - 🔍 Scraping [3] (attempt 1): xiaomi-lcd-writing-tablet-13-5-mjxhb02wc
+2025-10-30 14:34:50,976 - INFO - ✅ [3/500] Xiaomi LCD Writing Tablet 13.5 MJXHB02WC
+2025-10-30 14:34:56,959 - INFO - 🔍 Scraping [4] (attempt 1): xiaomi-leather-quick-release-strap-coral-orange-bh
+2025-10-30 14:35:05,312 - INFO - ✅ [4/500] Kəmər Xiaomi Leather Quick Release Strap Coral Ora
+2025-10-30 14:35:11,367 - INFO - 🔍 Scraping [5] (attempt 1): xiaomi-leather-quick-release-strap-cream-white-bhr
+2025-10-30 14:35:24,590 - INFO - ✅ [5/500] Ремень Xiaomi Leather Quick Release Strap Cream Wh
+2025-10-30 14:35:31,308 - INFO - 🔍 Scraping [6] (attempt 1): xiaomi-mi-10t-5g-6-128-gb-lunar-silver
+2025-10-30 14:35:38,967 - INFO - ✅ [6/500] Xiaomi Mi 10T (5G) 6/128 GB Lunar Silver
+2025-10-30 14:35:46,216 - INFO - 🔍 Scraping [7] (attempt 1): xiaomi-mi-10t-8-128gb-silver
+2025-10-30 14:35:53,881 - INFO - ✅ [7/500] Xiaomi Mi 10T 8/128Gb Silver
+2025-10-30 14:36:01,560 - INFO - 🔍 Scraping [8] (attempt 1): xiaomi-mi-10t-pro-8-128gb
+2025-10-30 14:36:08,208 - INFO - ✅ [8/500] Xiaomi Mi 10T Pro 8/128Gb
+2025-10-30 14:36:14,523 - INFO - 🔍 Scraping [9] (attempt 1): xiaomi-mi-10t-pro-8-256gb-silver
+2025-10-30 14:36:22,006 - INFO - ✅ [9/500] Xiaomi Mi 10T Pro 8/256Gb Silver
+2025-10-30 14:36:27,023 - INFO - 🔍 Scraping [10] (attempt 1): xiaomi-mi-11-8-256gb-gray
+2025-10-30 14:36:30,875 - INFO - ✅ [10/500] Xiaomi Mi 11 8/256Gb Gray
+2025-10-30 14:36:38,476 - INFO - 🔍 Scraping [11] (attempt 1): xiaomi-mi-11-lite-5g-8-256gb-bubblegum-blue
+2025-10-30 14:36:45,183 - INFO - ✅ [11/500] XİAOMİ Mİ 11 LİTE 5G 8/256GB - BUBBLEGUM BLUE
+2025-10-30 14:36:49,734 - INFO - 🔍 Scraping [12] (attempt 1): xiaomi-mi-11-lite-5g-ne-8-128-gb-bubblegum-blue
+2025-10-30 14:36:56,746 - INFO - ✅ [12/500] Xiaomi Mi 11 Lite 5G NE 8/128 GB Bubblegum Blue
+2025-10-30 14:37:02,260 - INFO - 🔍 Scraping [13] (attempt 1): xiaomi-mi-11-lite-5g-ne-8-128-gb-truffle-black
+2025-10-30 14:37:09,389 - INFO - ✅ [13/500] Xiaomi Mi 11 Lite 5G NE 8/128 GB Truffle Black
+2025-10-30 14:37:14,669 - INFO - 🔍 Scraping [14] (attempt 1): xiaomi-mi-11-lite-5g-ne-8-256-gb-black
+2025-10-30 14:37:20,845 - INFO - ✅ [14/500] Xiaomi Mi 11 Lite 5G NE 8/256 GB Black
+2025-10-30 14:37:28,607 - INFO - 🔍 Scraping [15] (attempt 1): xiaomi-mi-11-lite-5g-ne-8-256-gb-pink
+2025-10-30 14:37:35,936 - INFO - ✅ [15/500] Xiaomi Mi 11 Lite 5G NE 8/256 GB Pink
+2025-10-30 14:37:40,483 - INFO - 🔍 Scraping [16] (attempt 1): xiaomi-mi-11t-8-256-gb-meteorite-gray
+2025-10-30 14:37:47,884 - INFO - ✅ [16/500] Xiaomi Mi 11T 8/256 GB Meteorite Gray
+2025-10-30 14:37:55,074 - INFO - 🔍 Scraping [17] (attempt 1): xiaomi-mi-14t-gift-box
+2025-10-30 14:38:02,067 - INFO - ✅ [17/500] Xiaomi Mi 14T gift box
+2025-10-30 14:38:06,162 - INFO - 🔍 Scraping [18] (attempt 1): xiaomi-mi-33w-type-c-charger-bhr4996gl
+2025-10-30 14:38:20,339 - INFO - ✅ [18/500] Xiaomi Mi 33W Type-C Charger BHR4996GL
+2025-10-30 14:38:25,517 - INFO - 🔍 Scraping [19] (attempt 1): xiaomi-mi-360-home-security-camera-2k-mjsxj09cm
+2025-10-30 14:38:34,954 - INFO - ✅ [19/500] Xiaomi Mi 360° Home Security Camera 2K (MJSXJ09CM)
+2025-10-30 14:38:41,753 - INFO - 🔍 Scraping [20] (attempt 1): xiaomi-mi-360-home-security-camera-2k-pro-mjsxj06c
+2025-10-30 14:38:52,602 - INFO - ✅ [20/500] Xiaomi MI 360° Home Security Camera 2K PRO (MJSXJ0
+2025-10-30 14:38:59,582 - INFO - 🔍 Scraping [21] (attempt 1): xiaomi-mi-37w-dual-port-car-charger-gds4147gl
+2025-10-30 14:39:10,315 - INFO - ✅ [21/500] Xiaomi Mi 37W Dual-Port Car Charger GDS4147GL
+2025-10-30 14:39:16,898 - INFO - 🔍 Scraping [22] (attempt 1): xiaomi-mi-65w-fast-gan-tech-type-c-bhr4499gl
+2025-10-30 14:39:25,405 - INFO - ✅ [22/500] Xiaomi Mi 65W Fast Gan Tech Type-C / Bhr4499Gl
+2025-10-30 14:39:31,469 - INFO - 🔍 Scraping [23] (attempt 1): xiaomi-mi-automatic-umbrella-jdv4002ty
+2025-10-30 14:39:38,257 - INFO - ✅ [23/500] Xiaomi Mi Automatic Umbrella / JDV4002TY
+2025-10-30 14:39:43,024 - INFO - 🔍 Scraping [24] (attempt 1): xiaomi-mi-bluetooth-speaker-blue
+2025-10-30 14:39:47,046 - INFO - ✅ [24/500] Xiaomi Mi Bluetooth Speaker Blue
+2025-10-30 14:39:52,584 - INFO - 🔍 Scraping [25] (attempt 1): xiaomi-mi-camera-2k
+2025-10-30 14:40:04,372 - INFO - ✅ [25/500] Xiaomi MI Camera 2K
+2025-10-30 14:40:11,958 - INFO - 🔍 Scraping [26] (attempt 1): xiaomi-mi-camera-c200-bhr6766gl
+2025-10-30 14:40:11,959 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 14:40:12,443 - INFO - ✅ WebDriver created successfully
+2025-10-30 14:40:22,771 - INFO - ✅ [26/500] Xiaomi Mi Camera C200 BHR6766GL
+2025-10-30 14:40:30,451 - INFO - 🔍 Scraping [27] (attempt 1): xiaomi-mi-camera-c300-bhr6540gl
+2025-10-30 14:40:37,712 - INFO - ✅ [27/500] Xiaomi Mi Camera C300 BHR6540GL
+2025-10-30 14:40:43,573 - INFO - 🔍 Scraping [28] (attempt 1): xiaomi-mi-camera-c301-bhr8683gl
+2025-10-30 14:40:51,874 - INFO - ✅ [28/500] Xiaomi Mi Camera C301/BHR8683GL
+2025-10-30 14:40:58,274 - INFO - 🔍 Scraping [29] (attempt 1): xiaomi-mi-camera-c400-bhr6619gl
+2025-10-30 14:41:07,622 - INFO - ✅ [29/500] Xiaomi Mi Camera C400 BHR6619GL
+2025-10-30 14:41:11,747 - INFO - 🔍 Scraping [30] (attempt 1): xiaomi-mi-camera-c500-pro
+2025-10-30 14:41:22,513 - INFO - ✅ [30/500] Xiaomi MI Camera C500 Pro
+2025-10-30 14:41:30,000 - INFO - 🔍 Scraping [31] (attempt 1): xiaomi-mi-camera-outdoor-aw200
+2025-10-30 14:41:40,281 - INFO - ✅ [31/500] Xiaomi MI Camera Outdoor AW200
+2025-10-30 14:41:44,420 - INFO - 🔍 Scraping [32] (attempt 1): xiaomi-mi-camera-outdoor-aw300-bhr6816eu
+2025-10-30 14:41:52,396 - INFO - ✅ [32/500] Xiaomi MI Camera Outdoor AW300 BHR6816EU
+2025-10-30 14:41:59,676 - INFO - 🔍 Scraping [33] (attempt 1): xiaomi-mi-computer-glasses-red
+2025-10-30 14:42:07,123 - INFO - ✅ [33/500] Xiaomi Mi Computer Glasses Red
+2025-10-30 14:42:12,372 - INFO - 🔍 Scraping [34] (attempt 1): xiaomi-mi-dash-cam-2-bhr4214tw
+2025-10-30 14:42:20,928 - INFO - ✅ [34/500] Xiaomi Mi Dash Cam 2 / BHR4214TW
+2025-10-30 14:42:28,565 - INFO - 🔍 Scraping [35] (attempt 1): xiaomi-mi-electroscooter-essential
+2025-10-30 14:42:36,516 - INFO - ✅ [35/500] Xiaomi Mi Electroscooter Essential
+2025-10-30 14:42:42,994 - INFO - 🔍 Scraping [36] (attempt 1): xiaomi-mi-home-security-camera
+2025-10-30 14:42:50,511 - INFO - ✅ [36/500] Xiaomi Mi Home Security Camera
+2025-10-30 14:42:58,156 - INFO - 🔍 Scraping [37] (attempt 1): xiaomi-mi-home-security-camera-1080p-magnetic-moun
+2025-10-30 14:43:06,121 - INFO - ✅ [37/500] Xiaomi Mi Home Security Camera 1080P(MAGNETIC MOUN
+2025-10-30 14:43:11,201 - INFO - 🔍 Scraping [38] (attempt 1): xiaomi-mi-lcd-writing-tablet-13-5-white
+2025-10-30 14:43:22,931 - INFO - ✅ [38/500] Xiaomi Mi Lcd Writing Tablet 13.5 White
+2025-10-30 14:43:30,568 - INFO - 🔍 Scraping [39] (attempt 1): xiaomi-mi-led-ceiling-light-mue4086gl
+2025-10-30 14:43:40,231 - INFO - ✅ [39/500] Xiaomi Mi LED Ceiling Light / MUE4086GL
+2025-10-30 14:43:47,623 - INFO - 🔍 Scraping [40] (attempt 1): xiaomi-mi-motion-activated-night-light-2
+2025-10-30 14:43:55,814 - INFO - ✅ [40/500] Xiaomi Mi Motion-Activated Night Light 2
+2025-10-30 14:44:00,912 - INFO - 🔍 Scraping [41] (attempt 1): xiaomi-mi-outdoor-camera-cw300-bhr8097eu
+2025-10-30 14:44:09,929 - INFO - ✅ [41/500] Xiaomi Mi Outdoor Camera CW300/BHR8097EU
+2025-10-30 14:44:16,245 - INFO - 🔍 Scraping [42] (attempt 1): xiaomi-mi-polarized-navigator-sunglasses
+2025-10-30 14:44:22,740 - INFO - ✅ [42/500] Günəş eynəyi Xiaomi Polarized Gray TYJ02TS
+2025-10-30 14:44:30,227 - INFO - 🔍 Scraping [43] (attempt 1): xiaomi-mi-portable-bt-speaker-bhr4802gl
+2025-10-30 14:44:37,093 - INFO - ✅ [43/500] Portativ akustika Xiaomi Mi BHR4802GL Dark Grey
+2025-10-30 14:44:45,056 - INFO - 🔍 Scraping [44] (attempt 1): xiaomi-mi-powerbank-3-pro-20000-mah-vxn4254gl
+2025-10-30 14:44:54,709 - INFO - ✅ [44/500] Xiaomi Mİ Powerbank 3 Pro 20000 mAh VXN4254GL
+2025-10-30 14:44:58,880 - INFO - 🔍 Scraping [45] (attempt 1): xiaomi-mi-robot-builder-bunny
+2025-10-30 14:45:07,177 - INFO - ✅ [45/500] Xiaomi Mi Robot Builder Bunny
+2025-10-30 14:45:13,146 - INFO - 🔍 Scraping [46] (attempt 1): xiaomi-mi-robot-builder-rover
+2025-10-30 14:45:22,472 - INFO - ✅ [46/500] Xiaomi Mi Robot Builder Rover
+2025-10-30 14:45:29,399 - INFO - 🔍 Scraping [47] (attempt 1): xiaomi-mi-smart-plug-zigbee
+2025-10-30 14:45:36,439 - INFO - ✅ [47/500] Xiaomi Mi Smart Plug (Zigbee)
+2025-10-30 14:45:41,356 - INFO - 🔍 Scraping [48] (attempt 1): xiaomi-mi-smart-projector-2
+2025-10-30 14:45:49,210 - INFO - ✅ [48/500] Xiaomi Mİ Smart Projector 2
+2025-10-30 14:45:56,463 - INFO - 🔍 Scraping [49] (attempt 1): xiaomi-mi-temp-hum-nun4019ty
+2025-10-30 14:46:04,099 - INFO - ✅ [49/500] Xiaomi Mi Temp & Hum / NUN4019TY
+2025-10-30 14:46:09,174 - INFO - 🔍 Scraping [50] (attempt 1): xiaomi-mi-temperatur-ve-rutubet-gostericisi-nun412
+2025-10-30 14:46:15,949 - INFO - ✅ [50/500] Xiaomi Mi temperatur və rütübət göstəricisi NUN412
+2025-10-30 14:46:21,136 - INFO - 🔍 Scraping [51] (attempt 1): xiaomi-mi-tv-stick
+2025-10-30 14:46:21,137 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 14:46:21,595 - INFO - ✅ WebDriver created successfully
+2025-10-30 14:46:34,241 - INFO - ✅ [51/500] Xiaomi Mi TV Stick
+2025-10-30 14:46:39,851 - INFO - 🔍 Scraping [52] (attempt 1): xiaomi-milanese-quick-release-strap-silver-bhr8012
+2025-10-30 14:46:51,797 - INFO - ✅ [52/500] Kəmər Xiaomi Milanese Quick Release Strap Silver B
+2025-10-30 14:46:59,470 - INFO - 🔍 Scraping [53] (attempt 1): xiaomi-mix-flip-12-512-gb-black
+2025-10-30 14:47:07,729 - INFO - ✅ [53/500] Xiaomi Mix Flip 12/512 GB Black
+2025-10-30 14:47:12,556 - INFO - 🔍 Scraping [54] (attempt 1): xiaomi-mix-flip-12-512-gb-purple
+2025-10-30 14:47:20,404 - INFO - ✅ [54/500] Xiaomi Mix Flip 12/512 GB Purple
+2025-10-30 14:47:28,232 - INFO - 🔍 Scraping [55] (attempt 1): xiaomi-modelleri
+2025-10-30 14:47:34,213 - INFO - ✅ [55/500] Xiaomi Modelleri
+2025-10-30 14:47:39,729 - INFO - 🔍 Scraping [56] (attempt 1): xiaomi-ninebot-s-mini-white-qbe4014rt
+2025-10-30 14:47:47,941 - INFO - ✅ [56/500] Xiaomi Ninebot S Mini White Qbe4014Rt
+2025-10-30 14:47:55,675 - INFO - 🔍 Scraping [57] (attempt 1): xiaomi-outdoor-camera-cw400
+2025-10-30 14:48:05,318 - INFO - ✅ [57/500] Xiaomi Outdoor Camera CW400
+2025-10-30 14:48:09,859 - INFO - 🔍 Scraping [58] (attempt 1): xiaomi-outdoor-camera-solar-panel-bw-series-mjsxj1
+2025-10-30 14:48:14,437 - INFO - ✅ [58/500] Kamera üçün günəş paneli Xiaomi BW Series MJSXJ10B
+2025-10-30 14:48:18,496 - INFO - 🔍 Scraping [59] (attempt 1): xiaomi-pad-5-6-128gb-grey
+2025-10-30 14:48:27,688 - INFO - ✅ [59/500] Xiaomi Pad 5  6/128GB Grey
+2025-10-30 14:48:34,536 - INFO - 🔍 Scraping [60] (attempt 1): xiaomi-pad-5-6-128gb-white
+2025-10-30 14:48:42,132 - INFO - ✅ [60/500] Xiaomi Pad 5  6/128GB White
+2025-10-30 14:48:48,534 - INFO - 🔍 Scraping [61] (attempt 1): xiaomi-pad-5-6-256gb-white
+2025-10-30 14:48:54,479 - INFO - ✅ [61/500] Xiaomi Pad 5  6/256GB White
+2025-10-30 14:48:59,779 - INFO - 🔍 Scraping [62] (attempt 1): xiaomi-pad-5-6gb-256gb-grey
+2025-10-30 14:49:08,275 - INFO - ✅ [62/500] Xiaomi Pad 5  6/256GB Grey
+2025-10-30 14:49:13,414 - INFO - 🔍 Scraping [63] (attempt 1): xiaomi-pad-6-8-256-gb-champagne
+2025-10-30 14:49:19,617 - INFO - ✅ [63/500] Xiaomi Pad 6 8/256 GB Champagne
+2025-10-30 14:49:26,095 - INFO - 🔍 Scraping [64] (attempt 1): xiaomi-pad-6-8-256-gb-gravity-gray
+2025-10-30 14:49:33,710 - INFO - ✅ [64/500] Xiaomi Pad 6 8/256 GB Gravity Gray
+2025-10-30 14:49:40,454 - INFO - 🔍 Scraping [65] (attempt 1): xiaomi-pad-6-8-256-gb-mist-blue
+2025-10-30 14:49:46,456 - INFO - ✅ [65/500] Xiaomi Pad 6 8/256 GB Mist Blue
+2025-10-30 14:49:53,906 - INFO - 🔍 Scraping [66] (attempt 1): xiaomi-pad-6s-pro-12-512gb-graphite-gray
+2025-10-30 14:50:01,273 - INFO - ✅ [66/500] Xiaomi PAD 6S PRO 12/512GB Graphite Gray
+2025-10-30 14:50:06,277 - INFO - 🔍 Scraping [67] (attempt 1): xiaomi-pad-6s-pro-8-256gb-graphite-gray
+2025-10-30 14:50:17,754 - INFO - ✅ [67/500] Xiaomi PAD 6S PRO 8/256GB Graphite Gray
+2025-10-30 14:50:25,223 - INFO - 🔍 Scraping [68] (attempt 1): xiaomi-pad-7-8-128-gb-blue
+2025-10-30 14:50:30,578 - INFO - ✅ [68/500] Xiaomi Pad 7 8/128 GB Blue
+2025-10-30 14:50:37,237 - INFO - 🔍 Scraping [69] (attempt 1): xiaomi-pad-7-8-128-gb-green
+2025-10-30 14:50:41,294 - INFO - ✅ [69/500] Xiaomi Pad 7 8/128 GB Green
+2025-10-30 14:50:45,422 - INFO - 🔍 Scraping [70] (attempt 1): xiaomi-pad-7-8-256-gb-gray
+2025-10-30 14:50:49,858 - INFO - ✅ [70/500] Xiaomi Pad 7 8/256 GB Gray
+2025-10-30 14:50:55,526 - INFO - 🔍 Scraping [71] (attempt 1): xiaomi-pad-7-pro-8-256-gb-gray
+2025-10-30 14:51:03,221 - INFO - ✅ [71/500] Xiaomi Pad 7 Pro 8/256 GB Gray
+2025-10-30 14:51:08,882 - INFO - 🔍 Scraping [72] (attempt 1): xiaomi-poco-c40-4-64gb-goral-green
+2025-10-30 14:51:22,858 - INFO - ✅ [72/500] Poco C40 4/64GB Goral Green
+2025-10-30 14:51:27,670 - INFO - 🔍 Scraping [73] (attempt 1): xiaomi-poco-c40-4-64gb-power-black
+2025-10-30 14:51:35,019 - INFO - ✅ [73/500] Poco C40 4/64GB Power Black
+2025-10-30 14:51:39,095 - INFO - 🔍 Scraping [74] (attempt 1): xiaomi-poco-c65-6-128-gb-black
+2025-10-30 14:51:45,542 - INFO - ✅ [74/500] Poco C65 6/128 GB Black
+2025-10-30 14:51:52,581 - INFO - 🔍 Scraping [75] (attempt 1): xiaomi-poco-c65-6-128-gb-blue
+2025-10-30 14:51:59,706 - INFO - ✅ [75/500] Poco C65 6/128 GB Blue
+2025-10-30 14:52:03,712 - INFO - 🔍 Scraping [76] (attempt 1): xiaomi-poco-c65-6-128-gb-purple
+2025-10-30 14:52:03,713 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 14:52:04,216 - INFO - ✅ WebDriver created successfully
+2025-10-30 14:52:21,369 - INFO - ✅ [76/500] Poco C65 6/128 GB Purple
+2025-10-30 14:52:29,342 - INFO - 🔍 Scraping [77] (attempt 1): xiaomi-poco-c75-6-128-gb-black
+2025-10-30 14:52:35,501 - INFO - ✅ [77/500] Poco C75 6/128 GB Black
+2025-10-30 14:52:40,371 - INFO - 🔍 Scraping [78] (attempt 1): xiaomi-poco-c75-6-128-gb-gold
+2025-10-30 14:52:47,869 - INFO - ✅ [78/500] Poco C75 6/128 GB Gold
+2025-10-30 14:52:52,172 - INFO - 🔍 Scraping [79] (attempt 1): xiaomi-poco-c75-6-128-gb-green
+2025-10-30 14:53:00,284 - INFO - ✅ [79/500] Poco C75 6/128 GB Green
+2025-10-30 14:53:05,000 - INFO - 🔍 Scraping [80] (attempt 1): xiaomi-poco-c75-8-256-gb-black
+2025-10-30 14:53:12,977 - INFO - ✅ [80/500] Poco C75 8/256 GB Black
+2025-10-30 14:53:19,089 - INFO - 🔍 Scraping [81] (attempt 1): xiaomi-poco-c75-8-256-gb-gold
+2025-10-30 14:53:25,649 - INFO - ✅ [81/500] Poco C75 8/256 GB Gold
+2025-10-30 14:53:32,962 - INFO - 🔍 Scraping [82] (attempt 1): xiaomi-poco-c75-8-256-gb-green
+2025-10-30 14:53:39,327 - INFO - ✅ [82/500] Poco C75 8/256 GB Green
+2025-10-30 14:53:43,868 - INFO - 🔍 Scraping [83] (attempt 1): xiaomi-poco-f2-pro-6-128gb-white
+2025-10-30 14:53:50,391 - INFO - ✅ [83/500] Xiaomi Poco F2 Pro 6/128GB White
+2025-10-30 14:53:56,632 - INFO - 🔍 Scraping [84] (attempt 1): xiaomi-poco-f3-6-128-gb-black
+2025-10-30 14:54:04,152 - INFO - ✅ [84/500] Poco F3 6/128 GB Black
+2025-10-30 14:54:08,511 - INFO - 🔍 Scraping [85] (attempt 1): xiaomi-poco-f3-6-128-gb-blue
+2025-10-30 14:54:12,316 - INFO - ✅ [85/500] Poco F3 6/128 GB Blue
+2025-10-30 14:54:16,513 - INFO - 🔍 Scraping [86] (attempt 1): xiaomi-poco-f3-8-256gb-black
+2025-10-30 14:54:26,100 - INFO - ✅ [86/500] Poco F3 8/256GB Black
+2025-10-30 14:54:30,851 - INFO - 🔍 Scraping [87] (attempt 1): xiaomi-poco-f5-12-256-gb-black
+2025-10-30 14:54:36,912 - INFO - ✅ [87/500] Poco F5 12/256 GB Black
+2025-10-30 14:54:42,018 - INFO - 🔍 Scraping [88] (attempt 1): xiaomi-poco-f5-12-256-gb-blue
+2025-10-30 14:54:48,885 - INFO - ✅ [88/500] Poco F5 12/256 GB Blue
+2025-10-30 14:54:53,330 - INFO - 🔍 Scraping [89] (attempt 1): xiaomi-poco-f5-12-256-gb-white
+2025-10-30 14:54:59,352 - INFO - ✅ [89/500] Poco F5 12/256 GB White
+2025-10-30 14:55:03,667 - INFO - 🔍 Scraping [90] (attempt 1): xiaomi-poco-f5-pro-12-256-gb-black
+2025-10-30 14:55:09,669 - INFO - ✅ [90/500] Poco F5 Pro 12/256 GB Black
+2025-10-30 14:55:15,382 - INFO - 🔍 Scraping [91] (attempt 1): xiaomi-poco-f5-pro-12-512-gb-black
+2025-10-30 14:55:25,772 - INFO - ✅ [91/500] Poco F5 Pro 12/512 GB Black
+2025-10-30 14:55:32,028 - INFO - 🔍 Scraping [92] (attempt 1): xiaomi-poco-f6-pro-12-256-gb-black
+2025-10-30 14:55:38,629 - INFO - ✅ [92/500] Poco F6 Pro 12/256 GB Black
+2025-10-30 14:55:44,997 - INFO - 🔍 Scraping [93] (attempt 1): xiaomi-poco-f6-pro-12-512-gb-black
+2025-10-30 14:55:50,427 - INFO - ✅ [93/500] Poco F6 Pro 12/512 GB Black
+2025-10-30 14:55:55,468 - INFO - 🔍 Scraping [94] (attempt 1): xiaomi-poco-m3-4-128-gb-black
+2025-10-30 14:56:02,766 - INFO - ✅ [94/500] Xiaomi Poco M3 4/128 GB Black
+2025-10-30 14:56:08,528 - INFO - 🔍 Scraping [95] (attempt 1): xiaomi-poco-m3-4-128-gb-yellow
+2025-10-30 14:56:14,766 - INFO - ✅ [95/500] Poco M3 4/128 GB Yellow
+2025-10-30 14:56:21,331 - INFO - 🔍 Scraping [96] (attempt 1): xiaomi-poco-m3-4-64-gb-blue
+2025-10-30 14:56:28,539 - INFO - ✅ [96/500] Poco M3 4/64 GB Blue
+2025-10-30 14:56:33,973 - INFO - 🔍 Scraping [97] (attempt 1): xiaomi-poco-m3-4-64-gb-yellow
+2025-10-30 14:56:40,277 - INFO - ✅ [97/500] Poco M3 4/64 GB Yellow
+2025-10-30 14:56:47,240 - INFO - 🔍 Scraping [98] (attempt 1): xiaomi-poco-m3-pro-5g-4gb-64gb-black
+2025-10-30 14:56:56,760 - INFO - ✅ [98/500] Poco M3 Pro 5G 4Gb/64Gb Black
+2025-10-30 14:57:04,146 - INFO - 🔍 Scraping [99] (attempt 1): xiaomi-poco-m3-pro-5g-6gb-128gb-black
+2025-10-30 14:57:16,069 - INFO - ✅ [99/500] Poco M3 Pro 5G 6Gb/128Gb Black
+2025-10-30 14:57:23,436 - INFO - 🔍 Scraping [100] (attempt 1): xiaomi-poco-m3-pro-5g-6gb-128gb-blue
+2025-10-30 14:57:30,927 - INFO - ✅ [100/500] Poco M3 Pro 5G 6Gb/128Gb Blue
+2025-10-30 14:57:35,190 - INFO - 🔍 Scraping [101] (attempt 1): xiaomi-poco-m4-pro-4-64-gb-black
+2025-10-30 14:57:35,191 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 14:57:35,733 - INFO - ✅ WebDriver created successfully
+2025-10-30 14:57:45,702 - INFO - ✅ [101/500] Poco M4 Pro 4/64 GB Black
+2025-10-30 14:57:52,152 - INFO - 🔍 Scraping [102] (attempt 1): xiaomi-poco-m4-pro-4-64-gb-blue
+2025-10-30 14:57:58,355 - INFO - ✅ [102/500] Poco M4 Pro 4/64 GB Blue
+2025-10-30 14:58:03,708 - INFO - 🔍 Scraping [103] (attempt 1): xiaomi-poco-m4-pro-4-64-gb-yellow
+2025-10-30 14:58:11,620 - INFO - ✅ [103/500] Poco M4 Pro 4/64 GB Yellow
+2025-10-30 14:58:19,100 - INFO - 🔍 Scraping [104] (attempt 1): xiaomi-poco-m4-pro-6-128-gb-black
+2025-10-30 14:58:27,100 - INFO - ✅ [104/500] Poco M4 Pro 6/128 GB Black
+2025-10-30 14:58:32,194 - INFO - 🔍 Scraping [105] (attempt 1): xiaomi-poco-m5-4-128-gb-black
+2025-10-30 14:58:38,308 - INFO - ✅ [105/500] Poco M5 4/128 GB Black
+2025-10-30 14:58:45,743 - INFO - 🔍 Scraping [106] (attempt 1): xiaomi-poco-m5-4-128gb-green
+2025-10-30 14:58:52,434 - INFO - ✅ [106/500] Poco M5 4/128GB Green
+2025-10-30 14:58:59,369 - INFO - 🔍 Scraping [107] (attempt 1): xiaomi-poco-m5-4-64-gb-black
+2025-10-30 14:59:07,630 - INFO - ✅ [107/500] Poco M5 4/64 GB Black
+2025-10-30 14:59:13,297 - INFO - 🔍 Scraping [108] (attempt 1): xiaomi-poco-m5-4-64-gb-green
+2025-10-30 14:59:19,858 - INFO - ✅ [108/500] Poco M5 4/64 GB Green
+2025-10-30 14:59:23,923 - INFO - 🔍 Scraping [109] (attempt 1): xiaomi-poco-m5-4-64-gb-yellow
+2025-10-30 14:59:30,093 - INFO - ✅ [109/500] Poco M5 4/64 GB Yellow
+2025-10-30 14:59:34,480 - INFO - 🔍 Scraping [110] (attempt 1): xiaomi-poco-m5-6-128-gb-black
+2025-10-30 14:59:39,281 - INFO - ✅ [110/500] Poco M5 6/128 GB - Black
+2025-10-30 14:59:45,809 - INFO - 🔍 Scraping [111] (attempt 1): xiaomi-poco-m5-6-128-gb-green
+2025-10-30 14:59:54,207 - INFO - ✅ [111/500] Poco M5 6/128 GB Green
+2025-10-30 14:59:59,099 - INFO - 🔍 Scraping [112] (attempt 1): xiaomi-poco-m6-6-128-gb-black
+2025-10-30 15:00:03,514 - INFO - ✅ [112/500] Poco M6 6/128 GB Black
+2025-10-30 15:00:09,572 - INFO - 🔍 Scraping [113] (attempt 1): xiaomi-poco-m6-6-128-gb-silver
+2025-10-30 15:00:15,966 - INFO - ✅ [113/500] Poco M6 6/128 GB Silver
+2025-10-30 15:00:23,819 - INFO - 🔍 Scraping [114] (attempt 1): xiaomi-poco-m6-8-256-gb-black
+2025-10-30 15:00:30,198 - INFO - ✅ [114/500] Poco M6 8/256 GB Black
+2025-10-30 15:00:35,150 - INFO - 🔍 Scraping [115] (attempt 1): xiaomi-poco-m6-pro-12-512-gb-black
+2025-10-30 15:00:39,954 - INFO - ✅ [115/500] Poco M6 Pro 12/512 GB Black
+2025-10-30 15:00:47,136 - INFO - 🔍 Scraping [116] (attempt 1): xiaomi-poco-m6-pro-12-512-gb-blue
+2025-10-30 15:00:53,325 - INFO - ✅ [116/500] Poco M6 Pro 12/512 GB Blue
+2025-10-30 15:00:58,669 - INFO - 🔍 Scraping [117] (attempt 1): xiaomi-poco-m6-pro-12-512-gb-purple
+2025-10-30 15:01:05,788 - INFO - ✅ [117/500] Poco M6 Pro 12/512 GB Purple
+2025-10-30 15:01:11,486 - INFO - 🔍 Scraping [118] (attempt 1): xiaomi-poco-pad-8-256-gb-blue
+2025-10-30 15:01:17,484 - INFO - ✅ [118/500] Xiaomi Poco Pad 8/256 GB Blue
+2025-10-30 15:01:22,081 - INFO - 🔍 Scraping [119] (attempt 1): xiaomi-poco-pad-8-256-gb-grey
+2025-10-30 15:01:28,918 - INFO - ✅ [119/500] Xiaomi Poco Pad 8/256 GB Grey
+2025-10-30 15:01:33,206 - INFO - 🔍 Scraping [120] (attempt 1): xiaomi-poco-x3-64-gb-blue
+2025-10-30 15:01:39,372 - INFO - ✅ [120/500] Poco X3 64 GB Blue
+2025-10-30 15:01:43,384 - INFO - 🔍 Scraping [121] (attempt 1): xiaomi-poco-x3-pro-6-128-gb-black
+2025-10-30 15:01:50,034 - INFO - ✅ [121/500] Poco X3 Pro 6/128 GB Black
+2025-10-30 15:01:56,202 - INFO - 🔍 Scraping [122] (attempt 1): xiaomi-poco-x3-pro-8-256-gb-black
+2025-10-30 15:02:02,749 - INFO - ✅ [122/500] Poco X3 Pro 8/256 GB Black
+2025-10-30 15:02:09,500 - INFO - 🔍 Scraping [123] (attempt 1): xiaomi-poco-x4-gt-8-256gb-black
+2025-10-30 15:02:18,636 - INFO - ✅ [123/500] Poco X4 GT 8/256GB Black
+2025-10-30 15:02:25,246 - INFO - 🔍 Scraping [124] (attempt 1): xiaomi-poco-x4-gt-8-256gb-silver
+2025-10-30 15:02:32,730 - INFO - ✅ [124/500] Poco X4 GT 8/256 GB Silver
+2025-10-30 15:02:39,179 - INFO - 🔍 Scraping [125] (attempt 1): xiaomi-poco-x4-pro-8-256-gb-laser-black
+2025-10-30 15:02:46,015 - INFO - ✅ [125/500] Poco X4 Pro 8/256 GB Laser Black
+2025-10-30 15:02:53,730 - INFO - 🔍 Scraping [126] (attempt 1): xiaomi-poco-x5-5g-6-128-gb-blue
+2025-10-30 15:02:53,731 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:02:54,190 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:03:05,327 - INFO - ✅ [126/500] Poco X5 5G 6/128 GB Blue
+2025-10-30 15:03:11,651 - INFO - 🔍 Scraping [127] (attempt 1): xiaomi-poco-x5-5g-6-128-gb-green
+2025-10-30 15:03:18,523 - INFO - ✅ [127/500] Poco X5 5G 6/128 GB Green
+2025-10-30 15:03:23,870 - INFO - 🔍 Scraping [128] (attempt 1): xiaomi-poco-x5-5g-8-256-gb-black
+2025-10-30 15:03:30,552 - INFO - ✅ [128/500] Poco X5 5G 8/256 GB Black
+2025-10-30 15:03:34,934 - INFO - 🔍 Scraping [129] (attempt 1): xiaomi-poco-x5-5g-8-256-gb-blue
+2025-10-30 15:03:41,215 - INFO - ✅ [129/500] Poco X5 5G 8/256 GB Blue
+2025-10-30 15:03:48,427 - INFO - 🔍 Scraping [130] (attempt 1): xiaomi-poco-x5-5g-8-256-gb-green
+2025-10-30 15:03:55,356 - INFO - ✅ [130/500] Poco X5 5G 8/256 GB Green
+2025-10-30 15:04:00,559 - INFO - 🔍 Scraping [131] (attempt 1): xiaomi-poco-x5-pro-5g-8-256-gb-black
+2025-10-30 15:04:08,139 - INFO - ✅ [131/500] Poco X5 Pro 5G 8/256 GB Black
+2025-10-30 15:04:15,411 - INFO - 🔍 Scraping [132] (attempt 1): xiaomi-poco-x5-pro-5g-8-256-gb-blue
+2025-10-30 15:04:21,535 - INFO - ✅ [132/500] Poco X5 Pro 5G 8/256 GB Blue
+2025-10-30 15:04:26,824 - INFO - 🔍 Scraping [133] (attempt 1): xiaomi-poco-x5-pro-5g-8-256-gb-yellow
+2025-10-30 15:04:34,212 - INFO - ✅ [133/500] Poco X5 Pro 5G 8/256 GB Yellow
+2025-10-30 15:04:39,864 - INFO - 🔍 Scraping [134] (attempt 1): xiaomi-poco-x6-5g-12-256gb-black
+2025-10-30 15:04:43,577 - INFO - ✅ [134/500] Poco X6 5G 12/256 GB Black
+2025-10-30 15:04:47,713 - INFO - 🔍 Scraping [135] (attempt 1): xiaomi-poco-x6-5g-12-256gb-blue
+2025-10-30 15:04:54,640 - INFO - ✅ [135/500] Poco X6 5G 12/256 GB Blue
+2025-10-30 15:05:01,448 - INFO - 🔍 Scraping [136] (attempt 1): xiaomi-poco-x6-5g-12-256gb-white
+2025-10-30 15:05:07,309 - INFO - ✅ [136/500] Poco X6 5G 12/256 GB White
+2025-10-30 15:05:14,064 - INFO - 🔍 Scraping [137] (attempt 1): xiaomi-poco-x6-pro-5g-12-512-gb-black
+2025-10-30 15:05:21,120 - INFO - ✅ [137/500] Poco X6 Pro 5G 12/512 GB Black
+2025-10-30 15:05:25,804 - INFO - 🔍 Scraping [138] (attempt 1): xiaomi-poco-x6-pro-5g-12-512-gb-grey
+2025-10-30 15:05:30,104 - INFO - ✅ [138/500] Poco X6 Pro 5G 12/512 GB Grey
+2025-10-30 15:05:34,599 - INFO - 🔍 Scraping [139] (attempt 1): xiaomi-polarized-square-sunglasses
+2025-10-30 15:05:44,831 - INFO - ✅ [139/500] Xiaomi Polarized Square Sunglasses
+2025-10-30 15:05:51,053 - INFO - 🔍 Scraping [140] (attempt 1): xiaomi-qiymeti
+2025-10-30 15:05:55,408 - INFO - ✅ [140/500] Xiaomi qiyməti
+2025-10-30 15:06:01,477 - INFO - 🔍 Scraping [141] (attempt 1): xiaomi-qiymeti-2
+2025-10-30 15:06:06,698 - INFO - ✅ [141/500] Xiaomi qiymeti
+2025-10-30 15:06:11,697 - INFO - 🔍 Scraping [142] (attempt 1): xiaomi-qiymetler
+2025-10-30 15:06:17,425 - INFO - ✅ [142/500] Xiaomi qiymetler
+2025-10-30 15:06:25,338 - INFO - 🔍 Scraping [143] (attempt 1): xiaomi-qiymetleri
+2025-10-30 15:06:31,677 - INFO - ✅ [143/500] Xiaomi qiymətləri
+2025-10-30 15:06:39,052 - INFO - 🔍 Scraping [144] (attempt 1): xiaomi-qiymetleri-2
+2025-10-30 15:06:45,709 - INFO - ✅ [144/500] Xiaomi qiymetleri
+2025-10-30 15:06:50,921 - INFO - 🔍 Scraping [145] (attempt 1): xiaomi-qulaqciq
+2025-10-30 15:06:55,820 - INFO - ✅ [145/500] Xiaomi qulaqciq
+2025-10-30 15:07:03,535 - INFO - 🔍 Scraping [146] (attempt 1): xiaomi-redmi-10-4-64-gb-sea-blue
+2025-10-30 15:07:09,805 - INFO - ✅ [146/500] Xiaomi Redmi 10 4/64 GB Sea Blue
+2025-10-30 15:07:16,239 - INFO - 🔍 Scraping [147] (attempt 1): xiaomi-redmi-10-6-128-gb-carbon-gray
+2025-10-30 15:07:22,429 - INFO - ✅ [147/500] Xiaomi Redmi 10 6/128 GB Carbon Gray
+2025-10-30 15:07:27,749 - INFO - 🔍 Scraping [148] (attempt 1): xiaomi-redmi-10a-2-32-gb-sky-blue
+2025-10-30 15:07:34,470 - INFO - ✅ [148/500] Xiaomi Redmi 10A 2/32 GB Sky Blue
+2025-10-30 15:07:40,653 - INFO - 🔍 Scraping [149] (attempt 1): xiaomi-redmi-10a-3-64-gb-gray
+2025-10-30 15:07:46,967 - INFO - ✅ [149/500] Xiaomi Redmi 10A 3/64 GB Gray
+2025-10-30 15:07:53,089 - INFO - 🔍 Scraping [150] (attempt 1): xiaomi-redmi-10a-3-64gb-blue
+2025-10-30 15:08:00,650 - INFO - ✅ [150/500] Xiaomi Redmi 10A 3/64GB Blue
+2025-10-30 15:08:05,978 - INFO - 🔍 Scraping [151] (attempt 1): xiaomi-redmi-10a-3-64gb-silver
+2025-10-30 15:08:05,979 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:08:06,492 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:08:17,202 - INFO - ✅ [151/500] Xiaomi Redmi 10A 3/64GB Silver
+2025-10-30 15:08:23,987 - INFO - 🔍 Scraping [152] (attempt 1): xiaomi-redmi-10a-4-128gb-blue
+2025-10-30 15:08:32,148 - INFO - ✅ [152/500] Xiaomi Redmi 10A 4/128 GB Blue
+2025-10-30 15:08:40,014 - INFO - 🔍 Scraping [153] (attempt 1): xiaomi-redmi-10a-4-128gb-grey
+2025-10-30 15:08:46,365 - INFO - ✅ [153/500] Xiaomi Redmi 10A 4/128GB Grey
+2025-10-30 15:08:52,297 - INFO - 🔍 Scraping [154] (attempt 1): xiaomi-redmi-10a-4-128gb-silver
+2025-10-30 15:08:59,615 - INFO - ✅ [154/500] Xiaomi Redmi 10A 4/128GB Silver
+2025-10-30 15:09:05,980 - INFO - 🔍 Scraping [155] (attempt 1): xiaomi-redmi-10c-3-64-gb-graphite-gray
+2025-10-30 15:09:13,079 - INFO - ✅ [155/500] Xiaomi Redmi 10C 3/64 GB Graphite Gray
+2025-10-30 15:09:18,501 - INFO - 🔍 Scraping [156] (attempt 1): xiaomi-redmi-10c-3-64-gb-mint-green
+2025-10-30 15:09:25,196 - INFO - ✅ [156/500] Xiaomi Redmi 10C 3/64 GB Mint Green
+2025-10-30 15:09:30,045 - INFO - 🔍 Scraping [157] (attempt 1): xiaomi-redmi-10c-3-64-gb-ocean-blue
+2025-10-30 15:09:37,316 - INFO - ✅ [157/500] Xiaomi Redmi 10C 3/64 GB Ocean Blue
+2025-10-30 15:09:44,503 - INFO - 🔍 Scraping [158] (attempt 1): xiaomi-redmi-10c-4-128-gb-graphite-gray
+2025-10-30 15:09:53,919 - INFO - ✅ [158/500] Xiaomi Redmi 10C 4/128 GB Graphite Gray
+2025-10-30 15:10:01,253 - INFO - 🔍 Scraping [159] (attempt 1): xiaomi-redmi-10c-4-128-gb-nfc-mint-green
+2025-10-30 15:10:08,365 - INFO - ✅ [159/500] Xiaomi Redmi 10C 4/128 GB NFC Mint Green
+2025-10-30 15:10:13,159 - INFO - 🔍 Scraping [160] (attempt 1): xiaomi-redmi-10c-4-128-gb-nfc-ocean-blue
+2025-10-30 15:10:19,823 - INFO - ✅ [160/500] Xiaomi Redmi 10C 4/128 GB NFC Ocean Blue
+2025-10-30 15:10:27,404 - INFO - 🔍 Scraping [161] (attempt 1): xiaomi-redmi-10c-4-128-gb-ocean-blue
+2025-10-30 15:10:33,751 - INFO - ✅ [161/500] Xiaomi Redmi 10C 4/128 GB Ocean Blue
+2025-10-30 15:10:40,329 - INFO - 🔍 Scraping [162] (attempt 1): xiaomi-redmi-10c-4-64-gb-graphite-gray
+2025-10-30 15:10:47,291 - INFO - ✅ [162/500] Xiaomi Redmi 10C 4/64 GB Graphite Gray
+2025-10-30 15:10:51,855 - INFO - 🔍 Scraping [163] (attempt 1): xiaomi-redmi-10c-4-64-gb-mint-green
+2025-10-30 15:10:59,041 - INFO - ✅ [163/500] Xiaomi Redmi 10C 4/64 GB Mint Green
+2025-10-30 15:11:05,999 - INFO - 🔍 Scraping [164] (attempt 1): xiaomi-redmi-10c-4-64-gb-ocean-blue
+2025-10-30 15:11:18,494 - INFO - ✅ [164/500] Xiaomi Redmi 10C 4/64 GB Ocean Blue
+2025-10-30 15:11:26,163 - INFO - 🔍 Scraping [165] (attempt 1): xiaomi-redmi-10c-4-gb-128-gb-mint-green
+2025-10-30 15:11:34,298 - INFO - ✅ [165/500] Xiaomi Redmi 10C 4 GB/128 GB Mint Green
+2025-10-30 15:11:39,826 - INFO - 🔍 Scraping [166] (attempt 1): xiaomi-redmi-12-4-128-gb-midnight-black
+2025-10-30 15:11:48,630 - INFO - ✅ [166/500] Xiaomi Redmi 12 4/128 GB Midnight Black
+2025-10-30 15:11:53,953 - INFO - 🔍 Scraping [167] (attempt 1): xiaomi-redmi-12-4-128-gb-midnight-black-tb
+2025-10-30 15:12:01,625 - INFO - ✅ [167/500] Xiaomi Redmi 12 4/128 GB Midnight Black - TB
+2025-10-30 15:12:08,614 - INFO - 🔍 Scraping [168] (attempt 1): xiaomi-redmi-12-4-128-gb-polar-silver
+2025-10-30 15:12:14,433 - INFO - ✅ [168/500] Xiaomi Redmi 12 4/128 GB Polar Silver
+2025-10-30 15:12:22,087 - INFO - 🔍 Scraping [169] (attempt 1): xiaomi-redmi-12-4-128-gb-polar-silver-tb
+2025-10-30 15:12:28,473 - INFO - ✅ [169/500] Xiaomi Redmi 12 4/128 GB Polar Silver TB
+2025-10-30 15:12:35,746 - INFO - 🔍 Scraping [170] (attempt 1): xiaomi-redmi-12-4-128-gb-sky-blue
+2025-10-30 15:12:42,902 - INFO - ✅ [170/500] Xiaomi Redmi 12 4/128 GB Sky Blue
+2025-10-30 15:12:49,713 - INFO - 🔍 Scraping [171] (attempt 1): xiaomi-redmi-12-4-128-gb-sky-blue-tb
+2025-10-30 15:12:57,759 - INFO - ✅ [171/500] Xiaomi Redmi 12 4/128 GB Sky Blue TB
+2025-10-30 15:13:05,045 - INFO - 🔍 Scraping [172] (attempt 1): xiaomi-redmi-12-8-256-gb-midnight-black
+2025-10-30 15:13:16,022 - INFO - ✅ [172/500] Xiaomi Redmi 12 8/256 GB Midnight Black
+2025-10-30 15:13:23,037 - INFO - 🔍 Scraping [173] (attempt 1): xiaomi-redmi-12-8-256-gb-polar-silver
+2025-10-30 15:13:29,968 - INFO - ✅ [173/500] Xiaomi Redmi 12 8/256 GB Polar Silver
+2025-10-30 15:13:35,968 - INFO - 🔍 Scraping [174] (attempt 1): xiaomi-redmi-12-8-256-gb-sky-blue
+2025-10-30 15:13:46,204 - INFO - ✅ [174/500] Xiaomi Redmi 12 8/256 GB Sky Blue
+2025-10-30 15:13:50,296 - INFO - 🔍 Scraping [175] (attempt 1): xiaomi-redmi-12c-3-64-gb-blue
+2025-10-30 15:13:59,163 - INFO - ✅ [175/500] Xiaomi Redmi 12C 3/64 GB Blue
+2025-10-30 15:14:04,376 - INFO - 🔍 Scraping [176] (attempt 1): xiaomi-redmi-12c-3-64-gb-graphite-gray
+2025-10-30 15:14:04,377 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:14:04,896 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:14:13,726 - INFO - ✅ [176/500] Xiaomi Redmi 12C 3/64 GB Graphite Gray
+2025-10-30 15:14:19,000 - INFO - 🔍 Scraping [177] (attempt 1): xiaomi-redmi-12c-4-128-gb-graphite-gray
+2025-10-30 15:14:26,842 - INFO - ✅ [177/500] Xiaomi Redmi 12C 4/128 GB Graphite Gray
+2025-10-30 15:14:32,650 - INFO - 🔍 Scraping [178] (attempt 1): xiaomi-redmi-12c-4-128-gb-nfc-ocean-blue
+2025-10-30 15:14:39,385 - INFO - ✅ [178/500] Xiaomi Redmi 12C 4/128 GB NFC Ocean  Blue
+2025-10-30 15:14:45,648 - INFO - 🔍 Scraping [179] (attempt 1): xiaomi-redmi-12c-4-128-gb-ocean-blue
+2025-10-30 15:14:50,273 - INFO - ✅ [179/500] Xiaomi Redmi 12C 4/128 GB Ocean Blue
+2025-10-30 15:14:57,300 - INFO - 🔍 Scraping [180] (attempt 1): xiaomi-redmi-12c-4-64-gb-blue
+2025-10-30 15:15:03,368 - INFO - ✅ [180/500] Xiaomi Redmi 12C 4/64 GB Blue
+2025-10-30 15:15:08,116 - INFO - 🔍 Scraping [181] (attempt 1): xiaomi-redmi-12c-4-64-gb-grey
+2025-10-30 15:15:14,535 - INFO - ✅ [181/500] Xiaomi Redmi 12C 4/64 GB Grey
+2025-10-30 15:15:21,173 - INFO - 🔍 Scraping [182] (attempt 1): xiaomi-redmi-12c-nfc-4-128-gb-graphite-gray
+2025-10-30 15:15:28,094 - INFO - ✅ [182/500] Xiaomi Redmi 12C NFC 4/128 GB Graphite Gray
+2025-10-30 15:15:34,266 - INFO - 🔍 Scraping [183] (attempt 1): xiaomi-redmi-13-6-128-gb-midnight-black
+2025-10-30 15:15:41,959 - INFO - ✅ [183/500] Xiaomi Redmi 13 6/128 GB Midnight Black
+2025-10-30 15:15:48,301 - INFO - 🔍 Scraping [184] (attempt 1): xiaomi-redmi-13-6-128-gb-ocean-blue
+2025-10-30 15:15:54,251 - INFO - ✅ [184/500] Xiaomi Redmi 13 6/128 GB Ocean Blue
+2025-10-30 15:16:00,925 - INFO - 🔍 Scraping [185] (attempt 1): xiaomi-redmi-13-6-128-gb-pearl-pink
+2025-10-30 15:16:08,535 - INFO - ✅ [185/500] Xiaomi Redmi 13 6/128 GB Pearl Pink
+2025-10-30 15:16:16,510 - INFO - 🔍 Scraping [186] (attempt 1): xiaomi-redmi-13-6-128-gb-sandy-gold
+2025-10-30 15:16:22,128 - INFO - ✅ [186/500] Xiaomi Redmi 13 6/128 GB Sandy Gold
+2025-10-30 15:16:28,595 - INFO - 🔍 Scraping [187] (attempt 1): xiaomi-redmi-13-8-256-gb-midnight-black
+2025-10-30 15:16:35,841 - INFO - ✅ [187/500] Xiaomi Redmi 13 8/256 GB Midnight Black
+2025-10-30 15:16:40,414 - INFO - 🔍 Scraping [188] (attempt 1): xiaomi-redmi-13-8-256-gb-ocean-blue
+2025-10-30 15:16:44,472 - INFO - ✅ [188/500] Xiaomi Redmi 13 8/256 GB Ocean Blue
+2025-10-30 15:16:49,434 - INFO - 🔍 Scraping [189] (attempt 1): xiaomi-redmi-13-8-256-gb-pearl-pink
+2025-10-30 15:16:53,824 - INFO - ✅ [189/500] Xiaomi Redmi 13 8/256 GB Pearl Pink
+2025-10-30 15:16:59,788 - INFO - 🔍 Scraping [190] (attempt 1): xiaomi-redmi-13-8-256-gb-sandy-gold
+2025-10-30 15:17:07,596 - INFO - ✅ [190/500] Xiaomi Redmi 13 8/256 GB Sandy Gold
+2025-10-30 15:17:13,751 - INFO - 🔍 Scraping [191] (attempt 1): xiaomi-redmi-13c-4-128-gb-midnight-black
+2025-10-30 15:17:19,649 - INFO - ✅ [191/500] Xiaomi Redmi 13C 4/128 GB NFC Midnight Black
+2025-10-30 15:17:24,955 - INFO - 🔍 Scraping [192] (attempt 1): xiaomi-redmi-13c-4-128-gb-navy-blue
+2025-10-30 15:17:32,085 - INFO - ✅ [192/500] Xiaomi Redmi 13C 4/128 GB NFC Navy Blue
+2025-10-30 15:17:38,060 - INFO - 🔍 Scraping [193] (attempt 1): xiaomi-redmi-13c-4-128-gb-nfc-glacier-white
+2025-10-30 15:17:47,679 - INFO - ✅ [193/500] Xiaomi Redmi 13C 4/128 GB NFC Glacier White
+2025-10-30 15:17:54,623 - INFO - 🔍 Scraping [194] (attempt 1): xiaomi-redmi-13c-8-256-gb-navy-blue
+2025-10-30 15:18:01,381 - INFO - ✅ [194/500] Xiaomi Redmi 13C 8/256 GB NFC Navy Blue
+2025-10-30 15:18:07,436 - INFO - 🔍 Scraping [195] (attempt 1): xiaomi-redmi-13c-8-256-gb-nfc-glacier-white
+2025-10-30 15:18:13,603 - INFO - ✅ [195/500] Xiaomi Redmi 13C 8/256 GB NFC Glacier White
+2025-10-30 15:18:19,661 - INFO - 🔍 Scraping [196] (attempt 1): xiaomi-redmi-13c-8-256gb-nfc-midnight-black
+2025-10-30 15:18:28,860 - INFO - ✅ [196/500] Xiaomi Redmi 13C 8/256 GB NFC Midnight Black
+2025-10-30 15:18:33,015 - INFO - 🔍 Scraping [197] (attempt 1): xiaomi-redmi-14c-4-128-gb-4g-dreame-purple
+2025-10-30 15:18:42,309 - INFO - ✅ [197/500] Xiaomi Redmi 14C 4/128 GB 4G Dreame Purple
+2025-10-30 15:18:49,167 - INFO - 🔍 Scraping [198] (attempt 1): xiaomi-redmi-14c-4-128-gb-4g-midnight-black
+2025-10-30 15:18:54,946 - INFO - ✅ [198/500] Xiaomi Redmi 14C 4/128 GB 4G Midnight Black
+2025-10-30 15:19:00,073 - INFO - 🔍 Scraping [199] (attempt 1): xiaomi-redmi-14c-4-128-gb-4g-sage-green
+2025-10-30 15:19:08,238 - INFO - ✅ [199/500] Xiaomi Redmi 14C 4/128 GB 4G Sage Green
+2025-10-30 15:19:15,070 - INFO - 🔍 Scraping [200] (attempt 1): xiaomi-redmi-14c-4-128-gb-4g-starry-blue
+2025-10-30 15:19:21,426 - INFO - ✅ [200/500] Xiaomi Redmi 14C 4/128 GB 4G Starry Blue
+2025-10-30 15:19:29,345 - INFO - 🔍 Scraping [201] (attempt 1): xiaomi-redmi-14c-4-128-gb-nfc-dreame-purple
+2025-10-30 15:19:29,346 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:19:29,903 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:19:40,267 - INFO - ✅ [201/500] Xiaomi Redmi 14C 4/128 GB NFC Dreame Purple
+2025-10-30 15:19:46,617 - INFO - 🔍 Scraping [202] (attempt 1): xiaomi-redmi-14c-4-128-gb-nfc-midnight-black
+2025-10-30 15:19:54,051 - INFO - ✅ [202/500] Xiaomi Redmi 14C 4/128 GB NFC Midnight Black
+2025-10-30 15:19:59,875 - INFO - 🔍 Scraping [203] (attempt 1): xiaomi-redmi-14c-4-128-gb-nfc-sage-green
+2025-10-30 15:20:08,532 - INFO - ✅ [203/500] Xiaomi Redmi 14C 4/128 GB NFC Sage Green
+2025-10-30 15:20:15,311 - INFO - 🔍 Scraping [204] (attempt 1): xiaomi-redmi-14c-4-128-gb-nfc-starry-blue
+2025-10-30 15:20:22,767 - INFO - ✅ [204/500] Xiaomi Redmi 14C 4/128 GB NFC Starry Blue
+2025-10-30 15:20:28,844 - INFO - 🔍 Scraping [205] (attempt 1): xiaomi-redmi-14c-4-128-gb-nfc-xiaomi-redmi-14c-4-1
+2025-10-30 15:20:34,829 - INFO - ✅ [205/500] Xiaomi Redmi 14C 4/128 GB NFC + Xiaomi Redmi 14C 4
+2025-10-30 15:20:40,275 - INFO - 🔍 Scraping [206] (attempt 1): xiaomi-redmi-14c-8-256-gb-4g-dreame-purple
+2025-10-30 15:20:47,994 - INFO - ✅ [206/500] Xiaomi Redmi 14C 8/256 GB 4G Dreame Purple
+2025-10-30 15:20:52,447 - INFO - 🔍 Scraping [207] (attempt 1): xiaomi-redmi-14c-8-256-gb-4g-midnight-black
+2025-10-30 15:20:57,951 - INFO - ✅ [207/500] Xiaomi Redmi 14C 8/256 GB 4G Midnight Black
+2025-10-30 15:21:02,843 - INFO - 🔍 Scraping [208] (attempt 1): xiaomi-redmi-14c-8-256-gb-4g-sage-green
+2025-10-30 15:21:10,153 - INFO - ✅ [208/500] Xiaomi Redmi 14C 8/256 GB 4G Sage Green
+2025-10-30 15:21:16,466 - INFO - 🔍 Scraping [209] (attempt 1): xiaomi-redmi-14c-8-256-gb-4g-starry-blue
+2025-10-30 15:21:22,205 - INFO - ✅ [209/500] Xiaomi Redmi 14C 8/256 GB 4G Starry Blue
+2025-10-30 15:21:30,176 - INFO - 🔍 Scraping [210] (attempt 1): xiaomi-redmi-14c-8-256-gb-nfc-dreame-purple
+2025-10-30 15:21:35,932 - INFO - ✅ [210/500] Xiaomi Redmi 14C 8/256 GB NFC Dreame Purple
+2025-10-30 15:21:40,664 - INFO - 🔍 Scraping [211] (attempt 1): xiaomi-redmi-14c-8-256-gb-nfc-midnight-black
+2025-10-30 15:21:44,454 - INFO - ✅ [211/500] Xiaomi Redmi 14C 8/256 GB NFC Midnight Black
+2025-10-30 15:21:51,960 - INFO - 🔍 Scraping [212] (attempt 1): xiaomi-redmi-14c-8-256-gb-nfc-sage-green
+2025-10-30 15:21:58,601 - INFO - ✅ [212/500] Xiaomi Redmi 14C 8/256 GB NFC Sage Green
+2025-10-30 15:22:04,817 - INFO - 🔍 Scraping [213] (attempt 1): xiaomi-redmi-14c-8-256-gb-nfc-starry-blue
+2025-10-30 15:22:15,338 - INFO - ✅ [213/500] Xiaomi Redmi 14C 8/256 GB NFC Starry Blue
+2025-10-30 15:22:22,646 - INFO - 🔍 Scraping [214] (attempt 1): xiaomi-redmi-15-6-128-gb-nfc-black
+2025-10-30 15:22:29,170 - INFO - ✅ [214/500] Xiaomi Redmi 15 6/128 GB NFC Black
+2025-10-30 15:22:36,543 - INFO - 🔍 Scraping [215] (attempt 1): xiaomi-redmi-15-6-128-gb-nfc-gray
+2025-10-30 15:22:41,031 - INFO - ✅ [215/500] Xiaomi Redmi 15 6/128 GB NFC Gray
+2025-10-30 15:22:45,155 - INFO - 🔍 Scraping [216] (attempt 1): xiaomi-redmi-15-6-128-gb-nfc-purple
+2025-10-30 15:22:50,408 - INFO - ✅ [216/500] Xiaomi Redmi 15 6/128 GB NFC Purple
+2025-10-30 15:22:56,037 - INFO - 🔍 Scraping [217] (attempt 1): xiaomi-redmi-15-8-256-gb-nfc-black
+2025-10-30 15:23:00,836 - INFO - ✅ [217/500] Xiaomi Redmi 15 8/256 GB NFC Black
+2025-10-30 15:23:08,778 - INFO - 🔍 Scraping [218] (attempt 1): xiaomi-redmi-15-8-256-gb-nfc-purple
+2025-10-30 15:23:13,338 - INFO - ✅ [218/500] Xiaomi Redmi 15 8/256 GB NFC Purple
+2025-10-30 15:23:21,177 - INFO - 🔍 Scraping [219] (attempt 1): xiaomi-redmi-15-8-256-gb-nfc-titan-gray
+2025-10-30 15:23:26,564 - INFO - ✅ [219/500] Xiaomi Redmi 15 8/256 GB NFC Titan Gray
+2025-10-30 15:23:30,624 - INFO - 🔍 Scraping [220] (attempt 1): xiaomi-redmi-15c-4-128-gb-green
+2025-10-30 15:23:41,005 - INFO - ✅ [220/500] Xiaomi Redmi 15C 4/128 GB Green
+2025-10-30 15:23:48,274 - INFO - 🔍 Scraping [221] (attempt 1): xiaomi-redmi-15c-4-128-gb-midnight-black
+2025-10-30 15:23:53,239 - INFO - ✅ [221/500] Xiaomi Redmi 15C 4/128 GB Midnight Black
+2025-10-30 15:23:59,907 - INFO - 🔍 Scraping [222] (attempt 1): xiaomi-redmi-15c-8-256-gb-green
+2025-10-30 15:24:03,975 - INFO - ✅ [222/500] Xiaomi Redmi 15C 8/256 GB Green
+2025-10-30 15:24:09,883 - INFO - 🔍 Scraping [223] (attempt 1): xiaomi-redmi-15c-8-256-gb-midnight-black
+2025-10-30 15:24:20,252 - INFO - ✅ [223/500] Xiaomi Redmi 15C 8/256 GB Midnight Black
+2025-10-30 15:24:25,979 - INFO - 🔍 Scraping [224] (attempt 1): xiaomi-redmi-15c-8-256-gb-orange
+2025-10-30 15:24:34,437 - INFO - ✅ [224/500] Xiaomi Redmi 15C 8/256 GB Orange
+2025-10-30 15:24:40,951 - INFO - 🔍 Scraping [225] (attempt 1): xiaomi-redmi-9-3-32-gb-green
+2025-10-30 15:24:47,322 - INFO - ✅ [225/500] Xiaomi Redmi 9 3/32 GB Green
+2025-10-30 15:24:54,340 - INFO - 🔍 Scraping [226] (attempt 1): xiaomi-redmi-9-3-32-gb-purple
+2025-10-30 15:24:54,340 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:24:54,850 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:25:09,749 - INFO - ✅ [226/500] Xiaomi Redmi 9 3/32 GB Purple
+2025-10-30 15:25:15,129 - INFO - 🔍 Scraping [227] (attempt 1): xiaomi-redmi-9-4-64-gb-green
+2025-10-30 15:25:22,606 - INFO - ✅ [227/500] Xiaomi Redmi 9 4/64 GB Green
+2025-10-30 15:25:28,863 - INFO - 🔍 Scraping [228] (attempt 1): xiaomi-redmi-9-4-64-gb-grey
+2025-10-30 15:25:37,869 - INFO - ✅ [228/500] Xiaomi Redmi 9 4/64 GB Grey
+2025-10-30 15:25:42,494 - INFO - 🔍 Scraping [229] (attempt 1): xiaomi-redmi-9-4-64-gb-purple
+2025-10-30 15:25:50,938 - INFO - ✅ [229/500] Xiaomi Redmi 9 4/64 GB Purple
+2025-10-30 15:25:57,701 - INFO - 🔍 Scraping [230] (attempt 1): xiaomi-redmi-9a-2-32gb-blue
+2025-10-30 15:26:06,085 - INFO - ✅ [230/500] Xiaomi Redmi 9A 2/32Gb - BLUE
+2025-10-30 15:26:13,039 - INFO - 🔍 Scraping [231] (attempt 1): xiaomi-redmi-9a-2-32gb-gray
+2025-10-30 15:26:22,150 - INFO - ✅ [231/500] Xiaomi Redmi 9A 2/32GB Gray
+2025-10-30 15:26:28,546 - INFO - 🔍 Scraping [232] (attempt 1): xiaomi-redmi-9c-3-64-gb-blue
+2025-10-30 15:26:35,986 - INFO - ✅ [232/500] Xiaomi Redmi 9C 3/64 GB Blue
+2025-10-30 15:26:40,829 - INFO - 🔍 Scraping [233] (attempt 1): xiaomi-redmi-9t-4-128-gb-gray
+2025-10-30 15:26:50,462 - INFO - ✅ [233/500] Xiaomi Redmi 9T 4/128 GB Gray
+2025-10-30 15:26:54,588 - INFO - 🔍 Scraping [234] (attempt 1): xiaomi-redmi-9t-4-128-gb-orange
+2025-10-30 15:27:01,624 - INFO - ✅ [234/500] Xiaomi Redmi 9T 4/128 GB Orange
+2025-10-30 15:27:08,386 - INFO - 🔍 Scraping [235] (attempt 1): xiaomi-redmi-9t-4-64-gb-blue
+2025-10-30 15:27:15,247 - INFO - ✅ [235/500] Xiaomi Redmi 9T 4/64 GB Blue
+2025-10-30 15:27:20,949 - INFO - 🔍 Scraping [236] (attempt 1): xiaomi-redmi-9t-4-64-gb-gray
+2025-10-30 15:27:29,174 - INFO - ✅ [236/500] Xiaomi Redmi 9T 4/64 GB Gray
+2025-10-30 15:27:33,282 - INFO - 🔍 Scraping [237] (attempt 1): xiaomi-redmi-9t-4-64-gb-green
+2025-10-30 15:27:39,288 - INFO - ✅ [237/500] Xiaomi Redmi 9T 4/64 GB Green
+2025-10-30 15:27:43,600 - INFO - 🔍 Scraping [238] (attempt 1): xiaomi-redmi-a1-2-32-gb-black
+2025-10-30 15:27:52,930 - INFO - ✅ [238/500] Xiaomi Redmi A1+ 2/32 GB Black
+2025-10-30 15:27:59,345 - INFO - 🔍 Scraping [239] (attempt 1): xiaomi-redmi-a1-2-32-gb-light-blue
+2025-10-30 15:28:08,037 - INFO - ✅ [239/500] Xiaomi Redmi A1+ 2/32 GB Light Blue
+2025-10-30 15:28:15,241 - INFO - 🔍 Scraping [240] (attempt 1): xiaomi-redmi-a1-2-32-light-green
+2025-10-30 15:28:22,384 - INFO - ✅ [240/500] Xiaomi Redmi  A1+ 2/32 Light Green
+2025-10-30 15:28:26,476 - INFO - 🔍 Scraping [241] (attempt 1): xiaomi-redmi-a2-3-64-gb-black
+2025-10-30 15:28:34,637 - INFO - ✅ [241/500] Xiaomi Redmi A2+ 3/64 GB Black
+2025-10-30 15:28:42,353 - INFO - 🔍 Scraping [242] (attempt 1): xiaomi-redmi-a2-3-64-gb-blue
+2025-10-30 15:28:48,425 - INFO - ✅ [242/500] Xiaomi Redmi A2+ 3/64 GB Blue
+2025-10-30 15:28:52,745 - INFO - 🔍 Scraping [243] (attempt 1): xiaomi-redmi-a2-3-64-gb-green
+2025-10-30 15:28:58,721 - INFO - ✅ [243/500] Xiaomi Redmi A2+ 3/64 GB Green
+2025-10-30 15:29:04,088 - INFO - 🔍 Scraping [244] (attempt 1): xiaomi-redmi-a3-4-128-gb-forest-green
+2025-10-30 15:29:08,176 - INFO - ✅ [244/500] Xiaomi Redmi A3 4/128 GB Forest green
+2025-10-30 15:29:14,172 - INFO - 🔍 Scraping [245] (attempt 1): xiaomi-redmi-a3-4-128-gb-midnight-black
+2025-10-30 15:29:21,861 - INFO - ✅ [245/500] Xiaomi Redmi A3 4/128 GB Midnight black
+2025-10-30 15:29:25,948 - INFO - 🔍 Scraping [246] (attempt 1): xiaomi-redmi-a3-4-128-gb-star-blue
+2025-10-30 15:29:34,208 - INFO - ✅ [246/500] Xiaomi Redmi A3 4/128 GB Star Blue
+2025-10-30 15:29:38,940 - INFO - 🔍 Scraping [247] (attempt 1): xiaomi-redmi-a3-4-128-gb-star-blue-4-lite-white
+2025-10-30 15:29:44,730 - INFO - ✅ [247/500] Xiaomi Redmi A3 4/128 GB Star Blue + 4 Lite White
+2025-10-30 15:29:49,839 - INFO - 🔍 Scraping [248] (attempt 1): xiaomi-redmi-a5-4-128-gb-lake-green
+2025-10-30 15:29:57,060 - INFO - ✅ [248/500] Xiaomi Redmi A5 4/128 GB Lake Green
+2025-10-30 15:30:01,683 - INFO - 🔍 Scraping [249] (attempt 1): xiaomi-redmi-a5-4-128-gb-midnight-black
+2025-10-30 15:30:06,240 - INFO - ✅ [249/500] Xiaomi Redmi A5 4/128 GB Midnight Black
+2025-10-30 15:30:12,357 - INFO - 🔍 Scraping [250] (attempt 1): xiaomi-redmi-a5-4-128-gb-ocean-blue
+2025-10-30 15:30:17,844 - INFO - ✅ [250/500] Xiaomi Redmi A5 4/128 GB Ocean Blue
+2025-10-30 15:30:24,767 - INFO - 🔍 Scraping [251] (attempt 1): xiaomi-redmi-a5-4-128-gb-sandy-gold
+2025-10-30 15:30:24,767 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:30:25,235 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:30:32,198 - INFO - ✅ [251/500] Xiaomi Redmi A5 4/128 GB Sandy Gold
+2025-10-30 15:30:37,109 - INFO - 🔍 Scraping [252] (attempt 1): xiaomi-redmi-buds-4-wathet-bhr5847gl
+2025-10-30 15:30:45,237 - INFO - ✅ [252/500] Xiaomi Redmi Buds 4 Wathet / BHR5847GL
+2025-10-30 15:30:51,718 - INFO - 🔍 Scraping [253] (attempt 1): xiaomi-redmi-buds-4-white-bhr5846gl
+2025-10-30 15:31:00,682 - INFO - ✅ [253/500] Qulaqlıq Xiaomi Redmi Buds 4 White / BHR5846GL
+2025-10-30 15:31:08,123 - INFO - 🔍 Scraping [254] (attempt 1): xiaomi-redmi-buds-5-pro-moonlight-white-bhr7662gl-
+2025-10-30 15:31:14,014 - INFO - ✅ [254/500] Xiaomi Redmi Buds 5 Pro Moonlight White BHR7662GL 
+2025-10-30 15:31:21,847 - INFO - 🔍 Scraping [255] (attempt 1): xiaomi-redmi-buds-6-lite-black-bhr8653gl-xiaomi-re
+2025-10-30 15:31:28,549 - INFO - ✅ [255/500] Xiaomi Redmi Buds 6 Lite Black BHR8653GL + Xiaomi 
+2025-10-30 15:31:32,925 - INFO - 🔍 Scraping [256] (attempt 1): xiaomi-redmi-note-10-4-128-gb-grey
+2025-10-30 15:31:40,676 - INFO - ✅ [256/500] Xiaomi Redmi Note 10 4/128 GB Grey
+2025-10-30 15:31:46,197 - INFO - 🔍 Scraping [257] (attempt 1): xiaomi-redmi-note-10-pro-8gb-128gb-grey
+2025-10-30 15:31:52,679 - INFO - ✅ [257/500] Xiaomi Redmi Note 10 Pro 8Gb/128Gb Grey
+2025-10-30 15:31:59,331 - INFO - 🔍 Scraping [258] (attempt 1): xiaomi-redmi-note-10s-6-128-gb-white
+2025-10-30 15:32:06,495 - INFO - ✅ [258/500] Xiaomi Redmi Note 10S 6/128 GB White
+2025-10-30 15:32:14,085 - INFO - 🔍 Scraping [259] (attempt 1): xiaomi-redmi-note-10s-6-64-gb-blue
+2025-10-30 15:32:20,394 - INFO - ✅ [259/500] Xiaomi Redmi Note 10S 6/64 GB Blue
+2025-10-30 15:32:27,853 - INFO - 🔍 Scraping [260] (attempt 1): xiaomi-redmi-note-10s-6-64-gb-grey
+2025-10-30 15:32:34,735 - INFO - ✅ [260/500] Xiaomi Redmi Note 10S 6/64 GB Grey
+2025-10-30 15:32:40,578 - INFO - 🔍 Scraping [261] (attempt 1): xiaomi-redmi-note-11-4-128-gb-graphite-gray
+2025-10-30 15:32:48,187 - INFO - ✅ [261/500] Xiaomi Redmi Note 11 4/128 GB Graphite Gray
+2025-10-30 15:32:54,483 - INFO - 🔍 Scraping [262] (attempt 1): xiaomi-redmi-note-11-4-128-gb-star-blue
+2025-10-30 15:33:00,370 - INFO - ✅ [262/500] Xiaomi Redmi Note 11 4/128 GB Star Blue
+2025-10-30 15:33:04,419 - INFO - 🔍 Scraping [263] (attempt 1): xiaomi-redmi-note-11-4-128-gb-twilight-blue
+2025-10-30 15:33:11,000 - INFO - ✅ [263/500] Xiaomi Redmi Note 11 4/128 GB Twilight Blue
+2025-10-30 15:33:18,963 - INFO - 🔍 Scraping [264] (attempt 1): xiaomi-redmi-note-11-4-64-gb-graphite-gray
+2025-10-30 15:33:26,174 - INFO - ✅ [264/500] Xiaomi Redmi Note 11 4/64 GB Graphite Gray
+2025-10-30 15:33:31,639 - INFO - 🔍 Scraping [265] (attempt 1): xiaomi-redmi-note-11-4-64-gb-star-blue
+2025-10-30 15:33:39,168 - INFO - ✅ [265/500] Xiaomi Redmi Note 11 4/64 GB Star Blue
+2025-10-30 15:33:46,820 - INFO - 🔍 Scraping [266] (attempt 1): xiaomi-redmi-note-11-6-128-gb-graphite-gray
+2025-10-30 15:33:53,055 - INFO - ✅ [266/500] Xiaomi Redmi Note 11 6/128 GB Graphite Gray
+2025-10-30 15:33:59,912 - INFO - 🔍 Scraping [267] (attempt 1): xiaomi-redmi-note-11-6-128-gb-twilight-blue
+2025-10-30 15:34:05,556 - INFO - ✅ [267/500] Xiaomi Redmi Note 11 6/128 GB Twilight Blue
+2025-10-30 15:34:11,282 - INFO - 🔍 Scraping [268] (attempt 1): xiaomi-redmi-note-11-pro-4g-8-128-gb-star-blue
+2025-10-30 15:34:17,803 - INFO - ✅ [268/500] Xiaomi Redmi Note 11 Pro 4G 8/128 GB Star Blue
+2025-10-30 15:34:25,783 - INFO - 🔍 Scraping [269] (attempt 1): xiaomi-redmi-note-11-pro-5g-6-64-gb-graphite-gray
+2025-10-30 15:34:32,699 - INFO - ✅ [269/500] Xiaomi Redmi Note 11 Pro 5G 6/64 GB Graphite Gray
+2025-10-30 15:34:37,121 - INFO - 🔍 Scraping [270] (attempt 1): xiaomi-redmi-note-11-pro-6-128-gb-star-blue
+2025-10-30 15:34:44,913 - INFO - ✅ [270/500] Xiaomi Redmi Note 11 Pro 6/128 GB Star Blue
+2025-10-30 15:34:49,938 - INFO - 🔍 Scraping [271] (attempt 1): xiaomi-redmi-note-11-pro-6-gb-64-gb-atlantic-blue
+2025-10-30 15:34:57,611 - INFO - ✅ [271/500] Xiaomi Redmi Note 11 Pro 5G 6/64 GB Atlantic Blue
+2025-10-30 15:35:05,304 - INFO - 🔍 Scraping [272] (attempt 1): xiaomi-redmi-note-11-pro-6gb-64gb-polar-white
+2025-10-30 15:35:13,062 - INFO - ✅ [272/500] Xiaomi Redmi Note 11 Pro 5G 6/64 GB Polar White
+2025-10-30 15:35:17,671 - INFO - 🔍 Scraping [273] (attempt 1): xiaomi-redmi-note-11s-6-128-gb-graphite-gray
+2025-10-30 15:35:25,807 - INFO - ✅ [273/500] Xiaomi Redmi Note 11S 6/128 GB Graphite Gray
+2025-10-30 15:35:33,682 - INFO - 🔍 Scraping [274] (attempt 1): xiaomi-redmi-note-11s-8-128-gb-graphite-grey
+2025-10-30 15:35:40,861 - INFO - ✅ [274/500] Xiaomi Redmi Note 11S 8/128 GB Graphite Grey
+2025-10-30 15:35:47,918 - INFO - 🔍 Scraping [275] (attempt 1): xiaomi-redmi-note-11s-8-128-gb-twilight-blue
+2025-10-30 15:35:54,891 - INFO - ✅ [275/500] Xiaomi Redmi Note 11S 8/128 GB Twilight Blue
+2025-10-30 15:36:00,959 - INFO - 🔍 Scraping [276] (attempt 1): xiaomi-redmi-note-12-4-128-gb-ice-blue
+2025-10-30 15:36:00,960 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:36:02,809 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:36:11,919 - INFO - ✅ [276/500] Xiaomi Redmi Note 12 4/128 GB Ice Blue
+2025-10-30 15:36:18,332 - INFO - 🔍 Scraping [277] (attempt 1): xiaomi-redmi-note-12-4-128-gb-mint-green
+2025-10-30 15:36:25,320 - INFO - ✅ [277/500] Xiaomi Redmi Note 12 4/128 GB Mint Green
+2025-10-30 15:36:30,976 - INFO - 🔍 Scraping [278] (attempt 1): xiaomi-redmi-note-12-4-128-gb-onyx-grey
+2025-10-30 15:36:38,521 - INFO - ✅ [278/500] Xiaomi Redmi Note 12 4/128 GB Onyx Grey
+2025-10-30 15:36:44,791 - INFO - 🔍 Scraping [279] (attempt 1): xiaomi-redmi-note-12-4-128-gb-w-o-nfc-ice-blue
+2025-10-30 15:36:51,664 - INFO - ✅ [279/500] Xiaomi Redmi Note 12 4/128 GB W/O NFC - Ice Blue
+2025-10-30 15:36:57,582 - INFO - 🔍 Scraping [280] (attempt 1): xiaomi-redmi-note-12-4-128-gb-w-o-nfc-mint-green
+2025-10-30 15:37:05,734 - INFO - ✅ [280/500] Xiaomi Redmi Note 12 4/128 GB W/O NFC Mint Green
+2025-10-30 15:37:13,269 - INFO - 🔍 Scraping [281] (attempt 1): xiaomi-redmi-note-12-4-128-gb-w-o-nfc-onyx-grey
+2025-10-30 15:37:21,633 - INFO - ✅ [281/500] Xiaomi Redmi Note 12 4/128 GB w/o NFC Onyx Grey
+2025-10-30 15:37:25,912 - INFO - 🔍 Scraping [282] (attempt 1): xiaomi-redmi-note-12-6-128-gb-ice-blue
+2025-10-30 15:37:32,041 - INFO - ✅ [282/500] Xiaomi Redmi Note 12 6/128 GB Ice Blue
+2025-10-30 15:37:36,100 - INFO - 🔍 Scraping [283] (attempt 1): xiaomi-redmi-note-12-6-128-gb-mint-green
+2025-10-30 15:37:42,695 - INFO - ✅ [283/500] Xiaomi Redmi Note 12 6/128 GB Mint Green
+2025-10-30 15:37:47,126 - INFO - 🔍 Scraping [284] (attempt 1): xiaomi-redmi-note-12-6-128-gb-onyx-gray
+2025-10-30 15:37:55,136 - INFO - ✅ [284/500] Xiaomi Redmi Note 12 6/128 GB Onyx Gray
+2025-10-30 15:38:01,223 - INFO - 🔍 Scraping [285] (attempt 1): xiaomi-redmi-note-12-6-128-gb-sunrise-gold
+2025-10-30 15:38:08,115 - INFO - ✅ [285/500] Xiaomi Redmi Note 12 6/128 GB Sunrise Gold
+2025-10-30 15:38:12,602 - INFO - 🔍 Scraping [286] (attempt 1): xiaomi-redmi-note-12-6-128-gb-w-o-nfc-ice-blue
+2025-10-30 15:38:21,092 - INFO - ✅ [286/500] Xiaomi Redmi Note 12 6/128 GB w/o NFC Ice Blue
+2025-10-30 15:38:26,550 - INFO - 🔍 Scraping [287] (attempt 1): xiaomi-redmi-note-12-6-128-gb-w-o-nfc-mint-green
+2025-10-30 15:38:34,126 - INFO - ✅ [287/500] Xiaomi Redmi Note 12 6/128 GB w/o NFC Mint Green
+2025-10-30 15:38:40,942 - INFO - 🔍 Scraping [288] (attempt 1): xiaomi-redmi-note-12-6-128-gb-w-o-nfc-onyx-grey
+2025-10-30 15:38:48,114 - INFO - ✅ [288/500] Xiaomi Redmi Note 12 6/128 GB w/o NFC Onyx Grey
+2025-10-30 15:38:53,110 - INFO - 🔍 Scraping [289] (attempt 1): xiaomi-redmi-note-12-8-128-gb-sunrise-gold
+2025-10-30 15:39:00,709 - INFO - ✅ [289/500] Xiaomi Redmi Note 12 8/128 GB Sunrise Gold
+2025-10-30 15:39:06,281 - INFO - 🔍 Scraping [290] (attempt 1): xiaomi-redmi-note-12-8-128-gb-w-o-nfc-ice-blue
+2025-10-30 15:39:17,397 - INFO - ✅ [290/500] Xiaomi Redmi Note 12 8/128 GB w/o NFC Ice Blue
+2025-10-30 15:39:25,247 - INFO - 🔍 Scraping [291] (attempt 1): xiaomi-redmi-note-12-8-128-gb-w-o-nfc-mint-green
+2025-10-30 15:39:31,514 - INFO - ✅ [291/500] Xiaomi Redmi Note 12 8/128 GB w/o NFC Mint Green
+2025-10-30 15:39:39,005 - INFO - 🔍 Scraping [292] (attempt 1): xiaomi-redmi-note-12-8-128-gb-w-o-nfc-onyx-gray
+2025-10-30 15:39:46,179 - INFO - ✅ [292/500] Xiaomi Redmi Note 12 8/128 GB w/o NFC Onyx Gray
+2025-10-30 15:39:53,228 - INFO - 🔍 Scraping [293] (attempt 1): xiaomi-redmi-note-12-8-256-gb-ice-blue
+2025-10-30 15:40:00,233 - INFO - ✅ [293/500] Xiaomi Redmi Note 12 8/256 GB Ice Blue
+2025-10-30 15:40:07,412 - INFO - 🔍 Scraping [294] (attempt 1): xiaomi-redmi-note-12-8-256-gb-mint-green
+2025-10-30 15:40:15,529 - INFO - ✅ [294/500] Xiaomi Redmi Note 12 8/256 GB  Mint Green
+2025-10-30 15:40:21,688 - INFO - 🔍 Scraping [295] (attempt 1): xiaomi-redmi-note-12-8-256-gb-onyx-gray
+2025-10-30 15:40:28,121 - INFO - ✅ [295/500] Xiaomi Redmi Note 12 8/256 GB Onyx Gray
+2025-10-30 15:40:35,421 - INFO - 🔍 Scraping [296] (attempt 1): xiaomi-redmi-note-12-pro-5g-8-256-gb-midnight-blac
+2025-10-30 15:40:41,607 - INFO - ✅ [296/500] Xiaomi Redmi Note 12 Pro + 5G 8/256 GB Midnight Bl
+2025-10-30 15:40:45,687 - INFO - 🔍 Scraping [297] (attempt 1): xiaomi-redmi-note-12-pro-5g-8-256-gb-polar-white
+2025-10-30 15:40:52,691 - INFO - ✅ [297/500] Xiaomi Redmi Note 12 Pro+ 5G 8/256 GB Polar White
+2025-10-30 15:40:57,224 - INFO - 🔍 Scraping [298] (attempt 1): xiaomi-redmi-note-12-pro-5g-8-256-gb-sky-blue
+2025-10-30 15:41:04,578 - INFO - ✅ [298/500] Xiaomi Redmi Note 12 Pro + 5G 8/256 GB Sky Blue
+2025-10-30 15:41:09,054 - INFO - 🔍 Scraping [299] (attempt 1): xiaomi-redmi-note-12-pro-8-256-gb-glacier-blue
+2025-10-30 15:41:16,486 - INFO - ✅ [299/500] Xiaomi Redmi Note 12 Pro 8/256 GB Glacier Blue
+2025-10-30 15:41:23,190 - INFO - 🔍 Scraping [300] (attempt 1): xiaomi-redmi-note-12-pro-8-256-gb-graphite-gray
+2025-10-30 15:41:30,189 - INFO - ✅ [300/500] Xiaomi Redmi Note 12 Pro 8/256 GB Graphite Gray
+2025-10-30 15:41:36,204 - INFO - 🔍 Scraping [301] (attempt 1): xiaomi-redmi-note-12-pro-8-256-gb-polar-white
+2025-10-30 15:41:36,206 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:41:36,781 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:41:47,933 - INFO - ✅ [301/500] Xiaomi Redmi Note 12 Pro  8/256 GB Polar White
+2025-10-30 15:41:54,663 - INFO - 🔍 Scraping [302] (attempt 1): xiaomi-redmi-note-12-pro-8-256-gb-sky-blue
+2025-10-30 15:42:00,017 - INFO - ✅ [302/500] Xiaomi Redmi Note 12 Pro 8/256 GB Sky Blue
+2025-10-30 15:42:05,740 - INFO - 🔍 Scraping [303] (attempt 1): xiaomi-redmi-note-12s-8-256-gb-ice-blue
+2025-10-30 15:42:13,904 - INFO - ✅ [303/500] Xiaomi Redmi Note 12S 8/256 GB Ice Blue
+2025-10-30 15:42:19,506 - INFO - 🔍 Scraping [304] (attempt 1): xiaomi-redmi-note-12s-8-256-gb-onyx-black
+2025-10-30 15:42:25,097 - INFO - ✅ [304/500] Xiaomi Redmi Note 12S 8/256 GB Onyx Black
+2025-10-30 15:42:30,732 - INFO - 🔍 Scraping [305] (attempt 1): xiaomi-redmi-note-12s-8-256-gb-pearl-green
+2025-10-30 15:42:36,428 - INFO - ✅ [305/500] Xiaomi Redmi Note 12S 8/256 GB Pearl Green
+2025-10-30 15:42:41,992 - INFO - 🔍 Scraping [306] (attempt 1): xiaomi-redmi-note-13-6-128-gb-ice-blue
+2025-10-30 15:42:49,731 - INFO - ✅ [306/500] Xiaomi Redmi Note 13 6/128 GB Ice Blue
+2025-10-30 15:42:56,238 - INFO - 🔍 Scraping [307] (attempt 1): xiaomi-redmi-note-13-6-128-gb-midnight-black
+2025-10-30 15:43:04,166 - INFO - ✅ [307/500] Xiaomi Redmi Note 13 6/128 GB Midnight Black
+2025-10-30 15:43:10,005 - INFO - 🔍 Scraping [308] (attempt 1): xiaomi-redmi-note-13-6-128-gb-midnight-black-witho
+2025-10-30 15:43:17,520 - INFO - ✅ [308/500] Xiaomi Redmi Note 13 6/128 GB Midnight Black Witho
+2025-10-30 15:43:22,598 - INFO - 🔍 Scraping [309] (attempt 1): xiaomi-redmi-note-13-6-128-gb-mint-green
+2025-10-30 15:43:30,125 - INFO - ✅ [309/500] Xiaomi Redmi Note 13 6/128 GB Mint Green
+2025-10-30 15:43:36,121 - INFO - 🔍 Scraping [310] (attempt 1): xiaomi-redmi-note-13-6-128-gb-mint-green-without-n
+2025-10-30 15:43:42,913 - INFO - ✅ [310/500] Xiaomi Redmi Note 13 6/128 GB Mint Green Without N
+2025-10-30 15:43:49,963 - INFO - 🔍 Scraping [311] (attempt 1): xiaomi-redmi-note-13-8-256-gb-ice-blue
+2025-10-30 15:43:57,423 - INFO - ✅ [311/500] Xiaomi Redmi Note 13 8/256 GB Ice Blue
+2025-10-30 15:44:04,409 - INFO - 🔍 Scraping [312] (attempt 1): xiaomi-redmi-note-13-8-256-gb-midnight-black
+2025-10-30 15:44:11,941 - INFO - ✅ [312/500] Xiaomi Redmi Note 13 8/256 GB Midnight Black
+2025-10-30 15:44:19,121 - INFO - 🔍 Scraping [313] (attempt 1): xiaomi-redmi-note-13-8-256-gb-midnight-black-nfc
+2025-10-30 15:44:24,987 - INFO - ✅ [313/500] Xiaomi Redmi Note 13 8/256 GB Midnight Black NFC
+2025-10-30 15:44:29,190 - INFO - 🔍 Scraping [314] (attempt 1): xiaomi-redmi-note-13-8-256-gb-mint-green
+2025-10-30 15:44:34,435 - INFO - ✅ [314/500] Xiaomi Redmi Note 13 8/256 GB Mint Green
+2025-10-30 15:44:41,080 - INFO - 🔍 Scraping [315] (attempt 1): xiaomi-redmi-note-13-pro-12-512-gb-5g-aurora-purpl
+2025-10-30 15:44:48,087 - INFO - ✅ [315/500] Xiaomi Redmi Note 13 Pro+ 12/512 GB 5G Aurora Purp
+2025-10-30 15:44:54,331 - INFO - 🔍 Scraping [316] (attempt 1): xiaomi-redmi-note-13-pro-12-512-gb-5g-midnight-bla
+2025-10-30 15:45:00,820 - INFO - ✅ [316/500] Xiaomi Redmi Note 13 Pro+ 12/512 GB 5G Midnight Bl
+2025-10-30 15:45:06,098 - INFO - 🔍 Scraping [317] (attempt 1): xiaomi-redmi-note-13-pro-12-512-gb-5g-moonlight-wh
+2025-10-30 15:45:14,797 - INFO - ✅ [317/500] Xiaomi Redmi Note 13 Pro+ 12/512 GB 5G Moonlight W
+2025-10-30 15:45:19,510 - INFO - 🔍 Scraping [318] (attempt 1): xiaomi-redmi-note-13-pro-12-512-gb-forest-green
+2025-10-30 15:45:26,892 - INFO - ✅ [318/500] Xiaomi Redmi Note 13 Pro 12/512 GB Forest Green
+2025-10-30 15:45:33,038 - INFO - 🔍 Scraping [319] (attempt 1): xiaomi-redmi-note-13-pro-12-512-gb-midnight-black
+2025-10-30 15:45:40,576 - INFO - ✅ [319/500] Xiaomi Redmi Note 13 Pro 12/512 GB Midnight Black
+2025-10-30 15:45:47,712 - INFO - 🔍 Scraping [320] (attempt 1): xiaomi-redmi-note-13-pro-12-512gb-lavender-purple
+2025-10-30 15:45:53,530 - INFO - ✅ [320/500] Xiaomi Redmi Note 13 Pro 12/512 GB Lavender Purple
+2025-10-30 15:46:00,314 - INFO - 🔍 Scraping [321] (attempt 1): xiaomi-redmi-note-13-pro-5g-12-512gb-mystic-silver
+2025-10-30 15:46:07,070 - INFO - ✅ [321/500] Xiaomi Redmi Note 13 Pro+ 5G 12/512GB Mystic Silve
+2025-10-30 15:46:12,561 - INFO - 🔍 Scraping [322] (attempt 1): xiaomi-redmi-note-13-pro-8-256-gb-5g-aurora-purple
+2025-10-30 15:46:19,690 - INFO - ✅ [322/500] Xiaomi Redmi Note 13 Pro+ 8/256 GB 5G Aurora Purpl
+2025-10-30 15:46:26,037 - INFO - 🔍 Scraping [323] (attempt 1): xiaomi-redmi-note-13-pro-8-256-gb-5g-midnight-blac
+2025-10-30 15:46:32,954 - INFO - ✅ [323/500] Xiaomi Redmi Note 13 Pro+ 8/256 GB 5G Midnight Bla
+2025-10-30 15:46:39,349 - INFO - 🔍 Scraping [324] (attempt 1): xiaomi-redmi-note-13-pro-8-256-gb-5g-moonlight-whi
+2025-10-30 15:46:46,059 - INFO - ✅ [324/500] Xiaomi Redmi Note 13 Pro+ 8/256 GB 5G Moonlight Wh
+2025-10-30 15:46:52,273 - INFO - 🔍 Scraping [325] (attempt 1): xiaomi-redmi-note-13-pro-8-256-gb-forest-green
+2025-10-30 15:46:59,524 - INFO - ✅ [325/500] Xiaomi Redmi Note 13 Pro 8/256 GB Forest Green
+2025-10-30 15:47:05,336 - INFO - 🔍 Scraping [326] (attempt 1): xiaomi-redmi-note-13-pro-8-256-gb-lavender-purple
+2025-10-30 15:47:05,337 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:47:05,826 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:47:18,209 - INFO - ✅ [326/500] Xiaomi Redmi Note 13 Pro 8/256 GB Lavender Purple
+2025-10-30 15:47:23,324 - INFO - 🔍 Scraping [327] (attempt 1): xiaomi-redmi-note-13-pro-8-256-gb-midnight-black
+2025-10-30 15:47:31,231 - INFO - ✅ [327/500] Xiaomi Redmi Note 13 Pro 8/256 GB Midnight Black
+2025-10-30 15:47:36,263 - INFO - 🔍 Scraping [328] (attempt 1): xiaomi-redmi-note-14
+2025-10-30 15:47:43,070 - INFO - ✅ [328/500] Xiaomi Redmi Note 14
+2025-10-30 15:47:49,779 - INFO - 🔍 Scraping [329] (attempt 1): xiaomi-redmi-note-14-6-128-gb-lime-green
+2025-10-30 15:47:54,090 - INFO - ✅ [329/500] Xiaomi Redmi Note 14 6/128 GB Lime Green
+2025-10-30 15:47:58,504 - INFO - 🔍 Scraping [330] (attempt 1): xiaomi-redmi-note-14-6-128-gb-midnight-black
+2025-10-30 15:48:02,352 - INFO - ✅ [330/500] Xiaomi Redmi Note 14 6/128 GB Midnight Black
+2025-10-30 15:48:08,479 - INFO - 🔍 Scraping [331] (attempt 1): xiaomi-redmi-note-14-6-128-gb-midnight-black-68f73
+2025-10-30 15:48:33,516 - ERROR - ❌ Unexpected error: 'NoneType' object is not subscriptable
+2025-10-30 15:48:33,516 - INFO - 🔍 Scraping [332] (attempt 1): xiaomi-redmi-note-14-6-128-gb-nfc-mist-purple
+2025-10-30 15:48:38,167 - INFO - ✅ [332/500] Xiaomi Redmi Note 14 6/128 GB NFC Mist Purple
+2025-10-30 15:48:43,669 - INFO - 🔍 Scraping [333] (attempt 1): xiaomi-redmi-note-14-6-128-gb-ocean-blue
+2025-10-30 15:48:49,061 - INFO - ✅ [333/500] Xiaomi Redmi Note 14 6/128 GB Ocean Blue
+2025-10-30 15:48:53,722 - INFO - 🔍 Scraping [334] (attempt 1): xiaomi-redmi-note-14-6-128-gb-xiaomi-redmi-note-14
+2025-10-30 15:48:58,107 - INFO - ✅ [334/500] Xiaomi Redmi Note 14 6/128 GB + Xiaomi Redmi Note 
+2025-10-30 15:49:02,901 - INFO - 🔍 Scraping [335] (attempt 1): xiaomi-redmi-note-14-8-256-gb-lime-green
+2025-10-30 15:49:12,788 - INFO - ✅ [335/500] Xiaomi Redmi Note 14 8/256 GB Lime Green
+2025-10-30 15:49:18,232 - INFO - 🔍 Scraping [336] (attempt 1): xiaomi-redmi-note-14-8-256-gb-midnight-black
+2025-10-30 15:49:25,483 - INFO - ✅ [336/500] Xiaomi Redmi Note 14 8/256 GB Midnight Black
+2025-10-30 15:49:31,367 - INFO - 🔍 Scraping [337] (attempt 1): xiaomi-redmi-note-14-8-256-gb-nfc-mist-purple
+2025-10-30 15:49:40,815 - INFO - ✅ [337/500] Xiaomi Redmi Note 14 8/256 GB NFC Mist Purple
+2025-10-30 15:49:48,787 - INFO - 🔍 Scraping [338] (attempt 1): xiaomi-redmi-note-14-8-256-gb-ocean-blue
+2025-10-30 15:49:56,449 - INFO - ✅ [338/500] Xiaomi Redmi Note 14 8/256 GB Ocean Blue
+2025-10-30 15:50:04,151 - INFO - 🔍 Scraping [339] (attempt 1): xiaomi-redmi-note-14-pro-12-512-gb-aurora-purple
+2025-10-30 15:50:08,822 - INFO - ✅ [339/500] Xiaomi Redmi Note 14 Pro 12/512 GB Aurora Purple
+2025-10-30 15:50:15,134 - INFO - 🔍 Scraping [340] (attempt 1): xiaomi-redmi-note-14-pro-12-512-gb-midnight-black
+2025-10-30 15:50:21,668 - INFO - ✅ [340/500] Xiaomi Redmi Note 14 Pro 12/512 GB Midnight Black
+2025-10-30 15:50:29,463 - INFO - 🔍 Scraping [341] (attempt 1): xiaomi-redmi-note-14-pro-12-512-gb-ocean-blue
+2025-10-30 15:50:33,214 - INFO - ✅ [341/500] Xiaomi Redmi Note 14 Pro 12/512 GB Ocean Blue
+2025-10-30 15:50:40,932 - INFO - 🔍 Scraping [342] (attempt 1): xiaomi-redmi-note-14-pro-5g
+2025-10-30 15:50:47,267 - INFO - ✅ [342/500] Xiaomi Redmi Note 14 Pro 5G
+2025-10-30 15:50:52,017 - INFO - 🔍 Scraping [343] (attempt 1): xiaomi-redmi-note-14-pro-5g-12-256-gb-coral-green
+2025-10-30 15:50:59,247 - INFO - ✅ [343/500] Xiaomi Redmi Note 14 Pro 5G 12/256 GB Coral Green
+2025-10-30 15:51:04,321 - INFO - 🔍 Scraping [344] (attempt 1): xiaomi-redmi-note-14-pro-5g-12-256-gb-midnight-bla
+2025-10-30 15:51:14,996 - INFO - ✅ [344/500] Xiaomi Redmi Note 14 Pro 5G 12/256 GB Midnight Bla
+2025-10-30 15:51:19,750 - INFO - 🔍 Scraping [345] (attempt 1): xiaomi-redmi-note-14-pro-5g-12-512-gb-frost-blue
+2025-10-30 15:51:25,587 - INFO - ✅ [345/500] Xiaomi Redmi Note 14 Pro+ 5G 12/512 GB Frost Blue
+2025-10-30 15:51:32,768 - INFO - 🔍 Scraping [346] (attempt 1): xiaomi-redmi-note-14-pro-5g-12-512-gb-lavender-pur
+2025-10-30 15:51:43,095 - INFO - ✅ [346/500] Xiaomi Redmi Note 14 Pro+ 5G 12/512 GB Lavender Pu
+2025-10-30 15:51:47,674 - INFO - 🔍 Scraping [347] (attempt 1): xiaomi-redmi-note-14-pro-5g-12-512-gb-midnight-bla
+2025-10-30 15:51:54,841 - INFO - ✅ [347/500] Xiaomi Redmi Note 14 Pro+ 5G 12/512 GB Midnight Bl
+2025-10-30 15:52:00,347 - INFO - 🔍 Scraping [348] (attempt 1): xiaomi-redmi-note-14-pro-5g-8-256-gb-frost-blue
+2025-10-30 15:52:09,650 - INFO - ✅ [348/500] Xiaomi Redmi Note 14 Pro+ 5G 8/256 GB Frost Blue
+2025-10-30 15:52:17,109 - INFO - 🔍 Scraping [349] (attempt 1): xiaomi-redmi-note-14-pro-5g-8-256-gb-lavender-purp
+2025-10-30 15:52:24,970 - INFO - ✅ [349/500] Xiaomi Redmi Note 14 Pro+ 5G 8/256 GB Lavender Pur
+2025-10-30 15:52:30,844 - INFO - 🔍 Scraping [350] (attempt 1): xiaomi-redmi-note-14-pro-5g-8-256-gb-midnight-blac
+2025-10-30 15:52:36,885 - INFO - ✅ [350/500] Xiaomi Redmi Note 14 Pro+ 5G 8/256 GB Midnight Bla
+2025-10-30 15:52:40,955 - INFO - 🔍 Scraping [351] (attempt 1): xiaomi-redmi-note-14-pro-8-256-gb-aurora-purple
+2025-10-30 15:52:40,956 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:52:41,501 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:52:50,834 - INFO - ✅ [351/500] Xiaomi Redmi Note 14 Pro 8/256 GB Aurora Purple
+2025-10-30 15:52:58,108 - INFO - 🔍 Scraping [352] (attempt 1): xiaomi-redmi-note-14-pro-8-256-gb-midnight-black
+2025-10-30 15:53:02,941 - INFO - ✅ [352/500] Xiaomi Redmi Note 14 Pro 8/256 GB Midnight Black
+2025-10-30 15:53:07,747 - INFO - 🔍 Scraping [353] (attempt 1): xiaomi-redmi-note-14-pro-8-256-gb-midnight-black-6
+2025-10-30 15:53:39,124 - ERROR - ❌ Unexpected error: 'NoneType' object is not subscriptable
+2025-10-30 15:53:39,124 - INFO - 🔍 Scraping [354] (attempt 1): xiaomi-redmi-note-14-pro-8-256-gb-ocean-blue
+2025-10-30 15:53:44,579 - INFO - ✅ [354/500] Xiaomi Redmi Note 14 Pro 8/256 GB Ocean Blue
+2025-10-30 15:53:50,790 - INFO - 🔍 Scraping [355] (attempt 1): xiaomi-redmi-note-14s-8-256-gb-aurora-purple
+2025-10-30 15:53:57,555 - INFO - ✅ [355/500] Xiaomi Redmi Note 14S 8/256 GB Aurora Purple
+2025-10-30 15:54:05,554 - INFO - 🔍 Scraping [356] (attempt 1): xiaomi-redmi-note-14s-8-256-gb-midnight-black
+2025-10-30 15:54:12,579 - INFO - ✅ [356/500] Xiaomi Redmi Note 14S 8/256 GB Midnight Black
+2025-10-30 15:54:17,262 - INFO - 🔍 Scraping [357] (attempt 1): xiaomi-redmi-note-14s-8-256-gb-ocean-blue
+2025-10-30 15:54:25,723 - INFO - ✅ [357/500] Xiaomi Redmi Note 14S 8/256 GB Ocean Blue
+2025-10-30 15:54:30,886 - INFO - 🔍 Scraping [358] (attempt 1): xiaomi-redmi-note-8-2021-4-64gb-blue
+2025-10-30 15:54:37,945 - INFO - ✅ [358/500] Xiaomi Redmi Note 8 (2021) 4/64Gb Blue
+2025-10-30 15:54:43,760 - INFO - 🔍 Scraping [359] (attempt 1): xiaomi-redmi-note-8-2021-4-64gb-white
+2025-10-30 15:54:50,827 - INFO - ✅ [359/500] Xiaomi Redmi Note 8 (2021) 4/64GB White
+2025-10-30 15:54:56,973 - INFO - 🔍 Scraping [360] (attempt 1): xiaomi-redmi-note-8-pro-6-128gb-blue
+2025-10-30 15:55:08,048 - INFO - ✅ [360/500] Xiaomi Redmi Note 8 Pro 6/128Gb Blue
+2025-10-30 15:55:14,412 - INFO - 🔍 Scraping [361] (attempt 1): xiaomi-redmi-note-9-3-64-gb-green
+2025-10-30 15:55:21,024 - INFO - ✅ [361/500] Xiaomi Redmi Note 9 3/64 GB Green
+2025-10-30 15:55:26,502 - INFO - 🔍 Scraping [362] (attempt 1): xiaomi-redmi-note-9-3-64gb-white
+2025-10-30 15:55:32,908 - INFO - ✅ [362/500] Xiaomi Redmi Note 9 3/64GB White
+2025-10-30 15:55:40,003 - INFO - 🔍 Scraping [363] (attempt 1): xiaomi-redmi-note-9-4gb-128gb-grey
+2025-10-30 15:55:46,368 - INFO - ✅ [363/500] Xiaomi Redmi Note 9 4Gb/128Gb Grey
+2025-10-30 15:55:51,023 - INFO - 🔍 Scraping [364] (attempt 1): xiaomi-redmi-note-9-pro-6-64gb-grey
+2025-10-30 15:55:58,425 - INFO - ✅ [364/500] Xiaomi Redmi Note 9 Pro 6/64Gb Grey
+2025-10-30 15:56:05,813 - INFO - 🔍 Scraping [365] (attempt 1): xiaomi-redmi-note-9s-6gb-128gb-blue
+2025-10-30 15:56:16,364 - INFO - ✅ [365/500] Xiaomi Redmi Note 9S 6Gb/128Gb Blue
+2025-10-30 15:56:21,706 - INFO - 🔍 Scraping [366] (attempt 1): xiaomi-redmi-note-9t-4-128-gb-black
+2025-10-30 15:56:28,102 - INFO - ✅ [366/500] Xiaomi Redmi Note 9T 4/128 GB Black
+2025-10-30 15:56:35,885 - INFO - 🔍 Scraping [367] (attempt 1): xiaomi-redmi-pad-2-4-128-gb-graphite-gray
+2025-10-30 15:56:40,470 - INFO - ✅ [367/500] Xiaomi Redmi Pad 2 4/128 GB Graphite Gray
+2025-10-30 15:56:44,981 - INFO - 🔍 Scraping [368] (attempt 1): xiaomi-redmi-pad-2-4-128-gb-lavender-purple
+2025-10-30 15:56:50,666 - INFO - ✅ [368/500] Xiaomi Redmi Pad 2 4/128 GB Lavender Purple
+2025-10-30 15:56:56,358 - INFO - 🔍 Scraping [369] (attempt 1): xiaomi-redmi-pad-2-4-128-gb-mint-green
+2025-10-30 15:57:01,265 - INFO - ✅ [369/500] Xiaomi Redmi Pad 2 4/128 GB Mint Green
+2025-10-30 15:57:07,417 - INFO - 🔍 Scraping [370] (attempt 1): xiaomi-redmi-pad-2-8-256-gb-graphite-gray
+2025-10-30 15:57:11,101 - INFO - ✅ [370/500] Xiaomi Redmi Pad 2 8/256 GB Graphite Gray
+2025-10-30 15:57:15,681 - INFO - 🔍 Scraping [371] (attempt 1): xiaomi-redmi-pad-2-8-256-gb-lavender-purple
+2025-10-30 15:57:21,113 - INFO - ✅ [371/500] Xiaomi Redmi Pad 2 8/256 GB Lavender Purple
+2025-10-30 15:57:26,731 - INFO - 🔍 Scraping [372] (attempt 1): xiaomi-redmi-pad-2-pro-8-256-gb-graphite-gray
+2025-10-30 15:57:30,567 - INFO - ✅ [372/500] Xiaomi Redmi Pad 2 Pro 8/256 GB Graphite Gray
+2025-10-30 15:57:37,295 - INFO - 🔍 Scraping [373] (attempt 1): xiaomi-redmi-pad-3-64-gb-graphite-grey
+2025-10-30 15:57:43,937 - INFO - ✅ [373/500] Xiaomi Redmi Pad 3/64 GB Graphite Grey
+2025-10-30 15:57:48,838 - INFO - 🔍 Scraping [374] (attempt 1): xiaomi-redmi-pad-3-64-gb-mint-green
+2025-10-30 15:57:55,287 - INFO - ✅ [374/500] Xiaomi Redmi Pad 3/64 GB Mint Green
+2025-10-30 15:58:02,526 - INFO - 🔍 Scraping [375] (attempt 1): xiaomi-redmi-pad-4-128-gb-graphite-gray
+2025-10-30 15:58:09,600 - INFO - ✅ [375/500] Xiaomi Redmi Pad 4/128 GB Graphite Gray
+2025-10-30 15:58:15,489 - INFO - 🔍 Scraping [376] (attempt 1): xiaomi-redmi-pad-4-128-gb-moonlight-silver
+2025-10-30 15:58:15,490 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 15:58:16,043 - INFO - ✅ WebDriver created successfully
+2025-10-30 15:58:26,600 - INFO - ✅ [376/500] Xiaomi Redmi Pad 4/128 GB Moonlight Silver
+2025-10-30 15:58:31,696 - INFO - 🔍 Scraping [377] (attempt 1): xiaomi-redmi-pad-6-128-gb-graphite-gray
+2025-10-30 15:58:38,360 - INFO - ✅ [377/500] Xiaomi Redmi Pad 6/128 GB  Graphite Gray
+2025-10-30 15:58:44,869 - INFO - 🔍 Scraping [378] (attempt 1): xiaomi-redmi-pad-6-128-gb-mint-green
+2025-10-30 15:58:51,639 - INFO - ✅ [378/500] Xiaomi Redmi Pad 6/128 GB  Mint Green
+2025-10-30 15:58:58,682 - INFO - 🔍 Scraping [379] (attempt 1): xiaomi-redmi-pad-6-128-gb-moonlight-silver
+2025-10-30 15:59:05,191 - INFO - ✅ [379/500] Xiaomi Redmi Pad 6/128 GB Moonlight Silver
+2025-10-30 15:59:09,892 - INFO - 🔍 Scraping [380] (attempt 1): xiaomi-redmi-pad-pro-5g-8-256-gb-graphite-gray
+2025-10-30 15:59:16,853 - INFO - ✅ [380/500] Xiaomi Redmi Pad Pro 5G 8/256 GB Graphite Gray
+2025-10-30 15:59:22,680 - INFO - 🔍 Scraping [381] (attempt 1): xiaomi-redmi-pad-pro-5g-8-256-gb-graphite-gray-wit
+2025-10-30 15:59:27,066 - INFO - ✅ [381/500] Xiaomi Redmi Pad Pro 5G 8/256 GB Graphite Gray Wit
+2025-10-30 15:59:34,687 - INFO - 🔍 Scraping [382] (attempt 1): xiaomi-redmi-pad-pro-6-128-gb-graphite-gray
+2025-10-30 15:59:39,150 - INFO - ✅ [382/500] Xiaomi Redmi Pad Pro 6/128 GB Graphite Gray
+2025-10-30 15:59:46,335 - INFO - 🔍 Scraping [383] (attempt 1): xiaomi-redmi-pad-pro-6-128-gb-mint-green
+2025-10-30 15:59:52,641 - INFO - ✅ [383/500] Xiaomi Redmi Pad Pro 6/128 GB Mint Green
+2025-10-30 15:59:56,784 - INFO - 🔍 Scraping [384] (attempt 1): xiaomi-redmi-pad-pro-6-128-gb-ocean-blue
+2025-10-30 16:00:02,907 - INFO - ✅ [384/500] Xiaomi Redmi Pad Pro 6/128 GB Ocean Blue
+2025-10-30 16:00:07,857 - INFO - 🔍 Scraping [385] (attempt 1): xiaomi-redmi-pad-pro-8-256-gb-gpaphite-gray
+2025-10-30 16:00:15,521 - INFO - ✅ [385/500] Xiaomi Redmi Pad Pro 8/256 GB Gpaphite Gray
+2025-10-30 16:00:23,083 - INFO - 🔍 Scraping [386] (attempt 1): xiaomi-redmi-pad-pro-8-256-gb-mint-green
+2025-10-30 16:00:29,235 - INFO - ✅ [386/500] Xiaomi Redmi Pad Pro 8/256 GB Mint Green
+2025-10-30 16:00:35,281 - INFO - 🔍 Scraping [387] (attempt 1): xiaomi-redmi-pad-pro-8-256-gb-ocean-blue
+2025-10-30 16:00:41,810 - INFO - ✅ [387/500] Xiaomi Redmi Pad Pro 8/256 GB Ocean Blue
+2025-10-30 16:00:48,436 - INFO - 🔍 Scraping [388] (attempt 1): xiaomi-redmi-pad-se-6-128-gb-graphite-gray
+2025-10-30 16:00:57,040 - INFO - ✅ [388/500] Xiaomi Redmi Pad SE 6/128 GB Graphite Gray
+2025-10-30 16:01:01,173 - INFO - 🔍 Scraping [389] (attempt 1): xiaomi-redmi-pad-se-6-128-gb-lavender-purple
+2025-10-30 16:01:08,287 - INFO - ✅ [389/500] Xiaomi Redmi Pad SE 6/128 GB Lavender Purple
+2025-10-30 16:01:15,115 - INFO - 🔍 Scraping [390] (attempt 1): xiaomi-redmi-pad-se-6-128-gb-mint-green
+2025-10-30 16:01:23,702 - INFO - ✅ [390/500] Xiaomi Redmi Pad SE 6/128 GB Mint Green
+2025-10-30 16:01:30,861 - INFO - 🔍 Scraping [391] (attempt 1): xiaomi-redmi-pad-se-8-256-gb-lavender-purple
+2025-10-30 16:01:38,309 - INFO - ✅ [391/500] Xiaomi Redmi Pad SE 8/256 GB Mint Green
+2025-10-30 16:01:43,269 - INFO - 🔍 Scraping [392] (attempt 1): xiaomi-redmi-pad-se-8-256-gb-mint-green
+2025-10-30 16:01:49,193 - INFO - ✅ [392/500] Xiaomi Redmi Pad SE 8/256 GB Lavender Purple
+2025-10-30 16:01:56,258 - INFO - 🔍 Scraping [393] (attempt 1): xiaomi-redmi-pad-se-8-256gb-graphite-gray
+2025-10-30 16:02:00,606 - INFO - ✅ [393/500] Xiaomi Redmi Pad SE 8/256GB Graphite Gray
+2025-10-30 16:02:06,256 - INFO - 🔍 Scraping [394] (attempt 1): xiaomi-redmi-pad-se-8-7-4-128-gb-4g-graphite-gray
+2025-10-30 16:02:17,856 - INFO - ✅ [394/500] Xiaomi Redmi Pad SE 8.7 4/128 GB 4G Graphite Gray
+2025-10-30 16:02:23,038 - INFO - 🔍 Scraping [395] (attempt 1): xiaomi-redmi-pad-se-8-7-4g-6-128-gb-graphite-gray
+2025-10-30 16:02:27,096 - INFO - ✅ [395/500] Xiaomi Redmi Pad SE 8.7 4G 6/128 GB Graphite Gray
+2025-10-30 16:02:33,460 - INFO - 🔍 Scraping [396] (attempt 1): xiaomi-redmi-power-bank-10000-mah-vxn4305gl
+2025-10-30 16:02:42,399 - INFO - ✅ [396/500] Xiaomi Redmi Power Bank 10000 mAh VXN4305GL
+2025-10-30 16:02:48,027 - INFO - 🔍 Scraping [397] (attempt 1): xiaomi-redmi-smart-band-pro-bhr5501gl
+2025-10-30 16:02:55,702 - INFO - ✅ [397/500] Xiaomi Redmi Smart Band Pro / BHR5501GL
+2025-10-30 16:03:00,106 - INFO - 🔍 Scraping [398] (attempt 1): xiaomi-redmi-watch-2-lite-bhr5436gl
+2025-10-30 16:03:09,035 - INFO - ✅ [398/500] Xiaomi Redmi Watch 2 Lite/BHR5436GL
+2025-10-30 16:03:16,177 - INFO - 🔍 Scraping [399] (attempt 1): xiaomi-redmi-watch-2-lite-blue-bhr5440gl
+2025-10-30 16:03:24,878 - INFO - ✅ [399/500] Xiaomi Redmi Watch 2 Lite Blue/BHR5440GL
+2025-10-30 16:03:29,182 - INFO - 🔍 Scraping [400] (attempt 1): xiaomi-redmi-watch-2-lite-ivory-bhr5439gl
+2025-10-30 16:03:38,344 - INFO - ✅ [400/500] Xiaomi Redmi Watch 2 Lite İvory/BHR5439GL
+2025-10-30 16:03:45,249 - INFO - 🔍 Scraping [401] (attempt 1): xiaomi-redmi-watch-2-lite-strap-brown-bhr5834gl
+2025-10-30 16:03:45,250 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 16:03:45,848 - INFO - ✅ WebDriver created successfully
+2025-10-30 16:03:56,701 - INFO - ✅ [401/500] Kəmər Xiaomi Strap Brown / BHR5834GL
+2025-10-30 16:04:01,348 - INFO - 🔍 Scraping [402] (attempt 1): xiaomi-redmi-watch-2-lite-strap-olive-bhr5438gl
+2025-10-30 16:04:10,702 - INFO - ✅ [402/500] Xiaomi Redmi Watch 2 Lite  Strap Olive / BHR5438GL
+2025-10-30 16:04:17,396 - INFO - 🔍 Scraping [403] (attempt 1): xiaomi-redmi-watch-2-lite-strap-pink-bhr5437gl
+2025-10-30 16:04:26,481 - INFO - ✅ [403/500] Kəmər Xiaomi Strap Pink / BHR5437GL
+2025-10-30 16:04:32,220 - INFO - 🔍 Scraping [404] (attempt 1): xiaomi-redmi-watch-3-active-black-bhr7266gl
+2025-10-30 16:04:41,750 - INFO - ✅ [404/500] Xiaomi Redmi Watch 3 Active Black / BHR7266GL
+2025-10-30 16:04:48,889 - INFO - 🔍 Scraping [405] (attempt 1): xiaomi-redmi-watch-3-active-black-bhr7267in
+2025-10-30 16:04:58,787 - INFO - ✅ [405/500] Xiaomi Redmi Watch 3 Active Black BHR7267IN
+2025-10-30 16:05:04,227 - INFO - 🔍 Scraping [406] (attempt 1): xiaomi-redmi-watch-3-active-gray-bhr7272gl
+2025-10-30 16:05:17,737 - INFO - ✅ [406/500] Xiaomi Redmi Watch 3 Active Gray / BHR7272GL
+2025-10-30 16:05:25,447 - INFO - 🔍 Scraping [407] (attempt 1): xiaomi-redmi-watch-3-black-bhr6851gl
+2025-10-30 16:05:33,949 - INFO - ✅ [407/500] Xiaomi Redmi Watch 3 Black / BHR6851GL
+2025-10-30 16:05:40,587 - INFO - 🔍 Scraping [408] (attempt 1): xiaomi-redmi-watch-3-ivory-bhr6854gl
+2025-10-30 16:05:47,713 - INFO - ✅ [408/500] Xiaomi Redmi Watch 3 Ivory / BHR6854GL
+2025-10-30 16:05:54,026 - INFO - 🔍 Scraping [409] (attempt 1): xiaomi-redmi-watch-4-obsidian-black-bhr7854gl
+2025-10-30 16:06:03,807 - INFO - ✅ [409/500] Xiaomi Redmi Watch 4 Obsidian black / BHR7854GL
+2025-10-30 16:06:10,474 - INFO - 🔍 Scraping [410] (attempt 1): xiaomi-redmi-watch-4-silver-gray-bhr7848gl
+2025-10-30 16:06:18,843 - INFO - ✅ [410/500] Xiaomi Redmi Watch 4 Silver Gray BHR7848GL
+2025-10-30 16:06:26,682 - INFO - 🔍 Scraping [411] (attempt 1): xiaomi-redmi-watch-5-active-matte-siver-bhr8790gl
+2025-10-30 16:06:34,246 - INFO - ✅ [411/500] Smart saat Xiaomi Redmi Watch 5 BHR8790GL Active M
+2025-10-30 16:06:40,634 - INFO - 🔍 Scraping [412] (attempt 1): xiaomi-redmi-watch-5-active-midnight-black-bhr8784
+2025-10-30 16:06:49,013 - INFO - ✅ [412/500] Smart saat Xiaomi Redmi Watch 5 BHR8784GL Active M
+2025-10-30 16:06:54,673 - INFO - 🔍 Scraping [413] (attempt 1): xiaomi-redmi-watch-5-lavender-purple-bhr9388gl
+2025-10-30 16:06:59,420 - INFO - ✅ [413/500] Smart saat Xiaomi Redmi Watch 5 BHR9388GL Lavender
+2025-10-30 16:07:06,970 - INFO - 🔍 Scraping [414] (attempt 1): xiaomi-redmi-watch-5-lite-light-gold-bhr8791gl
+2025-10-30 16:07:16,941 - INFO - ✅ [414/500] Smart saat Xiaomi Redmi Watch 5 Lite BHR8791GL Lig
+2025-10-30 16:07:21,486 - INFO - 🔍 Scraping [415] (attempt 1): xiaomi-redmi-watch-5-obsidian-black-bhr9389gl
+2025-10-30 16:07:30,288 - INFO - ✅ [415/500] Xiaomi Redmi Watch 5 Obsidian Black BHR9389GL
+2025-10-30 16:07:36,704 - INFO - 🔍 Scraping [416] (attempt 1): xiaomi-redmi-watch-5-silver-grey-bhr9381gl
+2025-10-30 16:07:41,115 - INFO - ✅ [416/500] Smart saat Xiaomi Redmi Watch 5 BHR9381GL Silver G
+2025-10-30 16:07:47,680 - INFO - 🔍 Scraping [417] (attempt 1): xiaomi-reusable-bag-bhr5995gl
+2025-10-30 16:07:54,030 - INFO - ✅ [417/500] Xiaomi Reusable Bag BHR5995GL
+2025-10-30 16:07:58,999 - INFO - 🔍 Scraping [418] (attempt 1): xiaomi-router-ax1500-rd12-dvb4449gl
+2025-10-30 16:08:06,804 - INFO - ✅ [418/500] Xiaomi Router AX1500 (RD12) / DVB4449GL
+2025-10-30 16:08:11,744 - INFO - 🔍 Scraping [419] (attempt 1): xiaomi-smart-band-10-ceramic-edition-pearl-white-b
+2025-10-30 16:08:21,971 - INFO - ✅ [419/500] Smart qolbaq Xiaomi Smart Band 10 Ceramic Edition 
+2025-10-30 16:08:27,385 - INFO - 🔍 Scraping [420] (attempt 1): xiaomi-smart-band-10-glasier-silver-bhr07psgl
+2025-10-30 16:08:36,501 - INFO - ✅ [420/500] Smart qolbaq Xiaomi Smart Band 10 BHR07PSGL Glasie
+2025-10-30 16:08:41,163 - INFO - 🔍 Scraping [421] (attempt 1): xiaomi-smart-band-10-midnight-black-bhr07pygl
+2025-10-30 16:08:49,184 - INFO - ✅ [421/500] Smart qolbaq Xiaomi Smart Band 10 BHR07PYGL Midnig
+2025-10-30 16:08:55,782 - INFO - 🔍 Scraping [422] (attempt 1): xiaomi-smart-band-10-mystic-rose-bhr9999gl
+2025-10-30 16:08:59,955 - INFO - ✅ [422/500] Smart qolbaq Xiaomi Smart Band 10 BHR9999GL Mystic
+2025-10-30 16:09:04,906 - INFO - 🔍 Scraping [423] (attempt 1): xiaomi-smart-band-6-bhr4951gl
+2025-10-30 16:09:22,129 - INFO - ✅ [423/500] Xiaomi Smart Band 6 / BHR4951GL
+2025-10-30 16:09:27,144 - INFO - 🔍 Scraping [424] (attempt 1): xiaomi-smart-band-7-black-bhr6008gl
+2025-10-30 16:09:34,082 - INFO - ✅ [424/500] Xiaomi Smart Band 7 Black BHR6008GL
+2025-10-30 16:09:42,053 - INFO - 🔍 Scraping [425] (attempt 1): xiaomi-smart-band-7-pro-black-bhr5970gl
+2025-10-30 16:09:49,433 - INFO - ✅ [425/500] Xiaomi Smart Band 7 Pro Black / BHR5970GL
+2025-10-30 16:09:54,300 - INFO - 🔍 Scraping [426] (attempt 1): xiaomi-smart-band-7-pro-ivory-bhr6076gl
+2025-10-30 16:09:54,300 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 16:09:54,800 - INFO - ✅ WebDriver created successfully
+2025-10-30 16:10:04,970 - INFO - ✅ [426/500] Xiaomi Smart Band 7 Pro Ivory / BHR6076GL
+2025-10-30 16:10:09,520 - INFO - 🔍 Scraping [427] (attempt 1): xiaomi-smart-band-8-active-black-bhr7422gl
+2025-10-30 16:10:19,091 - INFO - ✅ [427/500] Xiaomi Smart Band 8 Active Black / BHR7422GL
+2025-10-30 16:10:24,489 - INFO - 🔍 Scraping [428] (attempt 1): xiaomi-smart-band-8-active-pink-bhr7420gl
+2025-10-30 16:10:31,825 - INFO - ✅ [428/500] Xiaomi Smart Band 8 Active Pink / BHR7420GL
+2025-10-30 16:10:36,665 - INFO - 🔍 Scraping [429] (attempt 1): xiaomi-smart-band-8-braided-strap-green-bhr7306gl
+2025-10-30 16:10:45,747 - INFO - ✅ [429/500] Kəmər Xiaomi Braided Green BHR7306GL
+2025-10-30 16:10:53,685 - INFO - 🔍 Scraping [430] (attempt 1): xiaomi-smart-band-8-braided-strap-yellow-bhr7305gl
+2025-10-30 16:11:02,399 - INFO - ✅ [430/500] Kəmər Xiaomi Braided Yellow BHR7305GL
+2025-10-30 16:11:07,576 - INFO - 🔍 Scraping [431] (attempt 1): xiaomi-smart-band-8-chain-strap-black-bhr7303gl
+2025-10-30 16:11:25,624 - INFO - ✅ [431/500] Kəmər Xiaomi Black BHR7303GL
+2025-10-30 16:11:32,035 - INFO - 🔍 Scraping [432] (attempt 1): xiaomi-smart-band-8-chain-strap-white-bhr7313gl
+2025-10-30 16:11:40,402 - INFO - ✅ [432/500] Kəmər Xiaomi White BHR7313GL
+2025-10-30 16:11:48,015 - INFO - 🔍 Scraping [433] (attempt 1): xiaomi-smart-band-8-checkered-strap-green-bhr7308g
+2025-10-30 16:11:59,049 - INFO - ✅ [433/500] Kəmər Xiaomi Checkered Green BHR7308GL
+2025-10-30 16:12:03,156 - INFO - 🔍 Scraping [434] (attempt 1): xiaomi-smart-band-8-double-wrap-strap-black-and-wh
+2025-10-30 16:12:11,697 - INFO - ✅ [434/500] Kəmər Xiaomi Black and White BHR7311GL
+2025-10-30 16:12:17,436 - INFO - 🔍 Scraping [435] (attempt 1): xiaomi-smart-band-8-gold-bhr7166gl
+2025-10-30 16:12:28,884 - INFO - ✅ [435/500] Xiaomi Smart Band 8 Gold / BHR7166GL
+2025-10-30 16:12:33,567 - INFO - 🔍 Scraping [436] (attempt 1): xiaomi-smart-band-8-graphite-black-bhr7165gl
+2025-10-30 16:12:40,610 - INFO - ✅ [436/500] Xiaomi Smart Band 8 Graphite Black / BHR7165GL
+2025-10-30 16:12:45,991 - INFO - 🔍 Scraping [437] (attempt 1): xiaomi-smart-band-8-pendant-bhr7304gl
+2025-10-30 16:12:52,725 - INFO - ✅ [437/500] Asma kulon Xiaomi BHR7304GL
+2025-10-30 16:12:58,426 - INFO - 🔍 Scraping [438] (attempt 1): xiaomi-smart-band-8-pro-black-bhr8017gl
+2025-10-30 16:13:03,364 - INFO - ✅ [438/500] Smart qolbaq Xiaomi Smart Band 8 Pro BHR8017GL Bla
+2025-10-30 16:13:07,649 - INFO - 🔍 Scraping [439] (attempt 1): xiaomi-smart-band-8-pro-light-grey-bhr8007gl
+2025-10-30 16:13:11,960 - INFO - ✅ [439/500] Smart qolbaq Xiaomi Smart Band 8 Pro BHR8007GL Lig
+2025-10-30 16:13:18,637 - INFO - 🔍 Scraping [440] (attempt 1): xiaomi-smart-band-8-strap-aqua-blue-bhr7314gl
+2025-10-30 16:13:26,894 - INFO - ✅ [440/500] Kəmər Xiaomi Aqua Blue BHR7314GL
+2025-10-30 16:13:34,885 - INFO - 🔍 Scraping [441] (attempt 1): xiaomi-smart-band-8-strap-sunrise-orange-bhr7312gl
+2025-10-30 16:13:42,194 - INFO - ✅ [441/500] Kəmər Xiaomi Sunrise Orange BHR7312GL
+2025-10-30 16:13:49,836 - INFO - 🔍 Scraping [442] (attempt 1): xiaomi-smart-band-9-active-beige-white-bhr9441gl
+2025-10-30 16:13:55,440 - INFO - ✅ [442/500] Xiaomi Smart Band 9 Active Beige White BHR9441GL
+2025-10-30 16:14:00,816 - INFO - 🔍 Scraping [443] (attempt 1): xiaomi-smart-band-9-active-black-bhr9441gl
+2025-10-30 16:14:12,564 - INFO - ✅ [443/500] Xiaomi Smart Band 9 Active Black BHR9444GL
+2025-10-30 16:14:20,487 - INFO - 🔍 Scraping [444] (attempt 1): xiaomi-smart-band-9-active-pink-bhr9441gl
+2025-10-30 16:14:30,220 - INFO - ✅ [444/500] Xiaomi Smart Band 9 Active Pink BHR9441GL
+2025-10-30 16:14:35,882 - INFO - 🔍 Scraping [445] (attempt 1): xiaomi-smart-band-9-arctic-blue-bhr8346gl
+2025-10-30 16:14:44,295 - INFO - ✅ [445/500] Xiaomi Smart Band 9 Arctic Blue BHR8346GL
+2025-10-30 16:14:50,419 - INFO - 🔍 Scraping [446] (attempt 1): xiaomi-smart-band-9-glacier-silver-bhr8340gl
+2025-10-30 16:14:56,317 - INFO - ✅ [446/500] Xiaomi Smart Band 9 Glacier Silver BHR8340GL
+2025-10-30 16:15:03,642 - INFO - 🔍 Scraping [447] (attempt 1): xiaomi-smart-band-9-midnight-black-bhr8337gl
+2025-10-30 16:15:13,100 - INFO - ✅ [447/500] Xiaomi Smart Band 9 Midnight Black BHR8337GL
+2025-10-30 16:15:17,949 - INFO - 🔍 Scraping [448] (attempt 1): xiaomi-smart-band-9-mystic-rose-bhr8345gl
+2025-10-30 16:15:27,437 - INFO - ✅ [448/500] Smart qolbaq Xiaomi Smart Band 9 BHR8345GL Mystic 
+2025-10-30 16:15:32,745 - INFO - 🔍 Scraping [449] (attempt 1): xiaomi-smart-band-9-pro-moonlight-silver-bhr8715gl
+2025-10-30 16:15:46,662 - INFO - ✅ [449/500] Xiaomi Smart Band 9 Pro Moonlight Silver BHR8715GL
+2025-10-30 16:15:52,797 - INFO - 🔍 Scraping [450] (attempt 1): xiaomi-smart-band-9-pro-obsidian-black-bhr8710gl
+2025-10-30 16:16:00,659 - INFO - ✅ [450/500] Xiaomi Smart Band 9 Pro Obsidian Black BHR8710GL
+2025-10-30 16:16:08,623 - INFO - 🔍 Scraping [451] (attempt 1): xiaomi-smart-band-9-pro-obsidian-black-bhr8710gl-x
+2025-10-30 16:16:08,623 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 16:16:09,082 - INFO - ✅ WebDriver created successfully
+2025-10-30 16:16:23,523 - INFO - ✅ [451/500] Xiaomi Smart Band 9 Pro Obsidian Black BHR8710GL +
+2025-10-30 16:16:31,385 - INFO - 🔍 Scraping [452] (attempt 1): xiaomi-smart-band-9-pro-rose-gold-bhr8714gl
+2025-10-30 16:16:39,578 - INFO - ✅ [452/500] Xiaomi Smart Band 9 Pro Rose Gold BHR8714GL
+2025-10-30 16:16:45,922 - INFO - 🔍 Scraping [453] (attempt 1): xiaomi-smart-pen-2-bhr7237gl
+2025-10-30 16:16:54,053 - INFO - ✅ [453/500] Xiaomi Smart Pen 2 / BHR7237GL
+2025-10-30 16:16:58,947 - INFO - 🔍 Scraping [454] (attempt 1): xiaomi-smart-saat
+2025-10-30 16:17:04,515 - INFO - ✅ [454/500] Xiaomi smart saat
+2025-10-30 16:17:12,267 - INFO - 🔍 Scraping [455] (attempt 1): xiaomi-smartwatch
+2025-10-30 16:17:19,236 - INFO - ✅ [455/500] Xiaomi smartwatch
+2025-10-30 16:17:24,446 - INFO - 🔍 Scraping [456] (attempt 1): xiaomi-son-model-2020
+2025-10-30 16:17:31,178 - INFO - ✅ [456/500] Xiaomi son model 2020
+2025-10-30 16:17:35,951 - INFO - 🔍 Scraping [457] (attempt 1): xiaomi-son-model-2023
+2025-10-30 16:17:40,413 - INFO - ✅ [457/500] Xiaomi son model 2023
+2025-10-30 16:17:46,361 - INFO - 🔍 Scraping [458] (attempt 1): xiaomi-sound-outdoor-black-qbh4261gl
+2025-10-30 16:17:53,149 - INFO - ✅ [458/500] Portativ akustika Xiaomi Sound Outdoor QBH4261GL B
+2025-10-30 16:17:59,330 - INFO - 🔍 Scraping [459] (attempt 1): xiaomi-sports-fanny-pack-m8101614-bhr5226gl
+2025-10-30 16:18:08,348 - INFO - ✅ [459/500] Xiaomi Sports Fanny Pack M8101614 BHR5226GL
+2025-10-30 16:18:12,893 - INFO - 🔍 Scraping [460] (attempt 1): xiaomi-telefon
+2025-10-30 16:18:18,671 - INFO - ✅ [460/500] Xiaomi telefon
+2025-10-30 16:18:22,981 - INFO - 🔍 Scraping [461] (attempt 1): xiaomi-telefon-modelleri
+2025-10-30 16:18:31,058 - INFO - ✅ [461/500] Xiaomi telefon modelleri
+2025-10-30 16:18:38,095 - INFO - 🔍 Scraping [462] (attempt 1): xiaomi-telefon-qiymetleri-2020
+2025-10-30 16:18:43,669 - INFO - ✅ [462/500] Xiaomi telefon qiymetleri 2020
+2025-10-30 16:18:49,320 - INFO - 🔍 Scraping [463] (attempt 1): xiaomi-telefon-qiymetleri-2023
+2025-10-30 16:18:55,450 - INFO - ✅ [463/500] Xiaomi telefon qiymetleri 2023
+2025-10-30 16:19:01,066 - INFO - 🔍 Scraping [464] (attempt 1): xiaomi-telefonlar
+2025-10-30 16:19:06,381 - INFO - ✅ [464/500] Xiaomi telefonlar
+2025-10-30 16:19:13,477 - INFO - 🔍 Scraping [465] (attempt 1): xiaomi-tpu-quick-release-strap-glacier-blue-bhr800
+2025-10-30 16:19:22,060 - INFO - ✅ [465/500] Kəmər Xiaomi TPU Quick Release Strap Glacier Blue 
+2025-10-30 16:19:26,747 - INFO - 🔍 Scraping [466] (attempt 1): xiaomi-tpu-quick-release-strap-lemon-yellow-bhr801
+2025-10-30 16:19:36,279 - INFO - ✅ [466/500] Kəmər Xiaomi TPU Quick Release Strap Lemon Yellow 
+2025-10-30 16:19:41,965 - INFO - 🔍 Scraping [467] (attempt 1): xiaomi-tripod-black
+2025-10-30 16:19:51,886 - INFO - ✅ [467/500] Xiaomi Tripod Black
+2025-10-30 16:19:58,430 - INFO - 🔍 Scraping [468] (attempt 1): xiaomi-tv-baku
+2025-10-30 16:20:04,455 - INFO - ✅ [468/500] Xiaomi TV Baku
+2025-10-30 16:20:09,730 - INFO - 🔍 Scraping [469] (attempt 1): xiaomi-tv-box-s-2nd-gen-4k-mdz-28-aa
+2025-10-30 16:20:22,760 - INFO - ✅ [469/500] Xiaomi TV Box S 2nd Gen 4K MDZ-28-AA
+2025-10-30 16:20:28,347 - INFO - 🔍 Scraping [470] (attempt 1): xiaomi-tv-stick-4k-mdz-27-aa
+2025-10-30 16:20:32,218 - INFO - ✅ [470/500] TV Stick Xiaomi MI 4K MDZ-27-AA (MDZ-27-EU)
+2025-10-30 16:20:38,534 - INFO - 🔍 Scraping [471] (attempt 1): xiaomi-usb-3-0-4-ports-extender
+2025-10-30 16:20:42,425 - INFO - ✅ [471/500] Xiaomi USB 3.0 4 Ports Extender
+2025-10-30 16:20:48,581 - INFO - 🔍 Scraping [472] (attempt 1): xiaomi-walking-pad-x21
+2025-10-30 16:20:56,216 - INFO - ✅ [472/500] Xiaomi Walking Pad X21
+2025-10-30 16:21:01,538 - INFO - 🔍 Scraping [473] (attempt 1): xiaomi-walkingpad-a1pro-black-wpa1f-pro
+2025-10-30 16:21:12,562 - INFO - ✅ [473/500] Xiaomi Walkingpad A1PRO Black WPA1F Pro
+2025-10-30 16:21:18,032 - INFO - 🔍 Scraping [474] (attempt 1): xiaomi-watch-2-black-bhr8035gl
+2025-10-30 16:21:28,112 - INFO - ✅ [474/500] Smart saat Xiaomi Watch 2 BHR8035GL Black
+2025-10-30 16:21:33,426 - INFO - 🔍 Scraping [475] (attempt 1): xiaomi-watch-2-pro-black-w-fluororubber-bhr7211gl
+2025-10-30 16:21:40,925 - INFO - ✅ [475/500] Xiaomi Watch 2 Pro Black W/Fluororubber BHR7211GL
+2025-10-30 16:21:45,955 - INFO - 🔍 Scraping [476] (attempt 1): xiaomi-watch-2-pro-silver-w-brown-leather-bhr7216g
+2025-10-30 16:21:45,956 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 16:21:46,589 - INFO - ✅ WebDriver created successfully
+2025-10-30 16:21:59,790 - INFO - ✅ [476/500] Xiaomi Watch 2 Pro Silver W/ Brown Leather BHR7216
+2025-10-30 16:22:03,846 - INFO - 🔍 Scraping [477] (attempt 1): xiaomi-watch-2-silver-bhr8034gl
+2025-10-30 16:22:11,367 - INFO - ✅ [477/500] Xiaomi Watch 2 Silver BHR8034GL
+2025-10-30 16:22:16,002 - INFO - 🔍 Scraping [478] (attempt 1): xiaomi-watch-s1-active-moon-white-bhr5381gl
+2025-10-30 16:22:25,824 - INFO - ✅ [478/500] Xiaomi Watch S1 Active Moon White BHR5381GL
+2025-10-30 16:22:31,292 - INFO - 🔍 Scraping [479] (attempt 1): xiaomi-watch-s1-active-space-black-bhr5380gl
+2025-10-30 16:22:41,332 - INFO - ✅ [479/500] Xiaomi Watch S1 Active Space Black BHR5380GL
+2025-10-30 16:22:48,477 - INFO - 🔍 Scraping [480] (attempt 1): xiaomi-watch-s1-black-bhr5559gl
+2025-10-30 16:22:59,192 - INFO - ✅ [480/500] Xiaomi Watch S1 Black BHR5559GL
+2025-10-30 16:23:03,969 - INFO - 🔍 Scraping [481] (attempt 1): xiaomi-watch-s1-pro-bhr6013gl
+2025-10-30 16:23:13,754 - INFO - ✅ [481/500] Xiaomi Watch S1 Pro / BHR6013GL
+2025-10-30 16:23:21,566 - INFO - 🔍 Scraping [482] (attempt 1): xiaomi-watch-s1-pro-silver-bhr6417gl
+2025-10-30 16:23:30,376 - INFO - ✅ [482/500] Xiaomi Watch S1 Pro Silver / BHR6417GL
+2025-10-30 16:23:35,324 - INFO - 🔍 Scraping [483] (attempt 1): xiaomi-watch-s1-silver-bhr5560gl
+2025-10-30 16:23:43,391 - INFO - ✅ [483/500] Xiaomi Watch S1 Silver BHR5560GL
+2025-10-30 16:23:48,841 - INFO - 🔍 Scraping [484] (attempt 1): xiaomi-watch-s3-bhr7873gl-silver
+2025-10-30 16:23:52,940 - INFO - ✅ [484/500] Smart saat Xiaomi Watch S3 BHR7873GL Silver
+2025-10-30 16:23:58,941 - INFO - 🔍 Scraping [485] (attempt 1): xiaomi-watch-s3-black-bhr7874gl
+2025-10-30 16:24:06,595 - INFO - ✅ [485/500] Smart saat Xiaomi Watch S3 BHR7874GL Black
+2025-10-30 16:24:14,025 - INFO - 🔍 Scraping [486] (attempt 1): xiaomi-watch-s4-black-bhr9195gl
+2025-10-30 16:24:18,163 - INFO - ✅ [486/500] Smart saat Xiaomi Watch S4 BHR9195GL Black
+2025-10-30 16:24:23,419 - INFO - 🔍 Scraping [487] (attempt 1): xiaomi-watch-s4-rainbow-bhr9199gl
+2025-10-30 16:24:33,766 - INFO - ✅ [487/500] Smart saat Xiaomi Watch S4 BHR9199GL Rainbow
+2025-10-30 16:24:40,419 - INFO - 🔍 Scraping [488] (attempt 1): xiaomi-watch-s4-silver-bhr9197gl
+2025-10-30 16:24:46,084 - INFO - ✅ [488/500] Smart saat Xiaomi Watch S4 BHR9197GL Silver
+2025-10-30 16:24:51,739 - INFO - 🔍 Scraping [489] (attempt 1): xiaomi-wi-fi-range-extender-n300
+2025-10-30 16:24:56,465 - INFO - ✅ [489/500] Xiaomi WI-FI Range Extender N300
+2025-10-30 16:25:02,673 - INFO - 🔍 Scraping [490] (attempt 1): xiaomi-wicue-11-lcd-reqemsal-tablet-cehrayi-23-wic
+2025-10-30 16:25:13,500 - INFO - ✅ [490/500] Xiaomi Wicue 11 LCD Rəqəmsal Tablet Çəhrayi / 23.W
+2025-10-30 16:25:18,880 - INFO - 🔍 Scraping [491] (attempt 1): xiaomi-wicue-11-lcd-reqemsal-tablet-mavi-23-wicue-
+2025-10-30 16:25:29,078 - INFO - ✅ [491/500] Xiaomi Wicue 11 LCD Rəqəmsal Tablet Mavi / 23.WICU
+2025-10-30 16:25:35,390 - INFO - 🔍 Scraping [492] (attempt 1): xiaomi-yeni-model-2020
+2025-10-30 16:25:40,713 - INFO - ✅ [492/500] Xiaomi yeni model 2020
+2025-10-30 16:25:47,481 - INFO - 🔍 Scraping [493] (attempt 1): xiaomi-yeni-model-2023
+2025-10-30 16:25:53,197 - INFO - ✅ [493/500] Xiaomi yeni model 2023
+2025-10-30 16:25:59,879 - INFO - 🔍 Scraping [494] (attempt 1): xiaomi-yeni-telefon-2020
+2025-10-30 16:26:06,296 - INFO - ✅ [494/500] Xiaomi yeni telefon 2020
+2025-10-30 16:26:12,867 - INFO - 🔍 Scraping [495] (attempt 1): xiaomi-yeni-telefon-2023
+2025-10-30 16:26:18,211 - INFO - ✅ [495/500] Xiaomi yeni telefon 2023
+2025-10-30 16:26:26,022 - INFO - 🔍 Scraping [496] (attempt 1): yeni-xiaomi-telefonlar
+2025-10-30 16:26:31,378 - INFO - ✅ [496/500] Yeni Xiaomi telefonlar
+2025-10-30 16:26:38,812 - INFO - 🔍 Scraping [497] (attempt 1): yeni-xiaomiler
+2025-10-30 16:26:45,011 - INFO - ✅ [497/500] Yeni Xiaomilər
+2025-10-30 16:26:51,816 - INFO - 🔍 Scraping [498] (attempt 1): yuyucu-aparat-xiaomi-mijia-wireless-car-wash-machi
+2025-10-30 16:26:57,680 - INFO - ✅ [498/500] Yuyucu aparat Xiaomi Mijia Wireless Car Wash Machi
+2025-10-30 16:27:02,844 - INFO - 🔍 Scraping [499] (attempt 1): yuyucu-tozsoran-xiaomi-truclean-w20-wet-dry-vacuum
+2025-10-30 16:27:07,964 - INFO - ✅ [499/500] Yuyucu tozsoran Xiaomi Truclean W20 Wet Dry Vacuum
+2025-10-30 16:27:11,985 - INFO - 🔍 Scraping [500] (attempt 1): zeng-paneli-xiaomi-smart-doorbell-3-bhr5416gl
+2025-10-30 16:27:15,850 - INFO - ✅ [500/500] Zəng paneli Xiaomi Smart Doorbell 3 BHR5416GL

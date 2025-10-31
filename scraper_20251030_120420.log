@@ -1,0 +1,1050 @@
+2025-10-30 12:05:46,726 - INFO - ✅ WebDriver created successfully
+2025-10-30 12:05:46,726 - INFO - 🔍 Scraping [1] (attempt 1): 2020-xiaomi-telefonlar
+2025-10-30 12:06:05,525 - INFO - ✅ [1/501] 2020 xiaomi telefonlar
+2025-10-30 12:06:12,567 - INFO - 🔍 Scraping [2] (attempt 1): 2023-xiaomi-telefonlar
+2025-10-30 12:06:29,753 - INFO - ✅ [2/501] 2025 Xiaomi telefonlar
+2025-10-30 12:06:33,883 - INFO - 🔍 Scraping [3] (attempt 1): 4d-glass-full-black-xiaomi-mi-11-lite
+2025-10-30 12:06:57,308 - INFO - ✅ [3/501] Qoruyucu şüşə 4D Full Black Xiaomi Mi 11 lite
+2025-10-30 12:07:02,702 - INFO - 🔍 Scraping [4] (attempt 1): 4d-glass-full-black-xiaomi-redmi-10
+2025-10-30 12:07:22,752 - ERROR - ❌ Page load timeout: https://kontakt.az/4d-glass-full-black-xiaomi-redmi-10
+2025-10-30 12:07:25,981 - INFO - 🔍 Scraping [4] (attempt 2): 4d-glass-full-black-xiaomi-redmi-10
+2025-10-30 12:07:46,029 - ERROR - ❌ Page load timeout: https://kontakt.az/4d-glass-full-black-xiaomi-redmi-10
+2025-10-30 12:07:50,692 - INFO - 🔍 Scraping [4] (attempt 3): 4d-glass-full-black-xiaomi-redmi-10
+2025-10-30 12:08:10,733 - ERROR - ❌ Page load timeout: https://kontakt.az/4d-glass-full-black-xiaomi-redmi-10
+2025-10-30 12:08:10,734 - WARNING - ❌ [4/501] Failed: https://kontakt.az/4d-glass-full-black-xiaomi-redmi-10
+2025-10-30 12:08:21,500 - INFO - 🔍 Scraping [5] (attempt 1): 4d-glass-full-xiaomi-redmi-9-9t
+2025-10-30 12:08:41,556 - ERROR - ❌ Page load timeout: https://kontakt.az/4d-glass-full-xiaomi-redmi-9-9t
+2025-10-30 12:08:47,346 - INFO - 🔍 Scraping [5] (attempt 2): 4d-glass-full-xiaomi-redmi-9-9t
+2025-10-30 12:09:07,421 - ERROR - ❌ Page load timeout: https://kontakt.az/4d-glass-full-xiaomi-redmi-9-9t
+2025-10-30 12:09:10,983 - INFO - 🔍 Scraping [5] (attempt 3): 4d-glass-full-xiaomi-redmi-9-9t
+2025-10-30 12:09:16,463 - INFO - ✅ [5/501] Qoruyucu şüşə 4D Full Xiaomi Redmi 9/9T
+2025-10-30 12:09:21,444 - INFO - 🔍 Scraping [6] (attempt 1): 4d-glass-full-xiaomi-redmi-9a
+2025-10-30 12:09:29,594 - INFO - ✅ [6/501] 4D Glass Full Xiaomi Redmi 9A
+2025-10-30 12:09:35,712 - INFO - 🔍 Scraping [7] (attempt 1): 4d-glass-full-xiaomi-redmi-note-8-pro
+2025-10-30 12:09:43,484 - INFO - ✅ [7/501] 4D Glass Full Xiaomi Redmi Note 8 Pro
+2025-10-30 12:09:50,717 - INFO - 🔍 Scraping [8] (attempt 1): 4d-glass-full-xiaomi-redmi-note-9-pro
+2025-10-30 12:09:57,797 - INFO - ✅ [8/501] 4D Glass Full Xiaomi Redmi Note 9 Pro
+2025-10-30 12:10:03,690 - INFO - 🔍 Scraping [9] (attempt 1): 4d-glass-full-xiaomi-redmi-note-9s
+2025-10-30 12:10:21,861 - INFO - ✅ [9/501] 4D Glass Full Xiaomi Redmi Note 9S
+2025-10-30 12:10:28,826 - INFO - 🔍 Scraping [10] (attempt 1): adapter-xiaomi-mi-20w-wireless-charging-stand-gds4
+2025-10-30 12:10:38,409 - INFO - ✅ [10/501] Xiaomi Mi 20W Wireless Charging Stand GDS4145GL
+2025-10-30 12:10:45,149 - INFO - 🔍 Scraping [11] (attempt 1): adapter-xiaomi-mi-wireless-charging-stand-20w-gds4
+2025-10-30 12:10:53,008 - INFO - ✅ [11/501] Adapter Xiaomi Mi Wireless Charging Stand 20W Gds4
+2025-10-30 12:11:00,530 - INFO - 🔍 Scraping [12] (attempt 1): agilli-fonar-xiaomi-mijia-multi-function-flashligh
+2025-10-30 12:11:12,165 - INFO - ✅ [12/501] Ağıllı fonar Xiaomi Mijia Multi-Function Flashligh
+2025-10-30 12:11:18,730 - INFO - 🔍 Scraping [13] (attempt 1): agilli-fonar-xiaomi-mijia-split-camping-light-sand
+2025-10-30 12:11:28,159 - INFO - ✅ [13/501] Ağıllı fonar Xiaomi Mijia Split Camping Light Sand
+2025-10-30 12:11:34,784 - INFO - 🔍 Scraping [14] (attempt 1): agilli-isiqli-lent-xiaomi-smart-lightstrip-bhr6400
+2025-10-30 12:11:42,777 - INFO - ✅ [14/501] Ağıllı ışıqlı lent Xiaomi Smart Lightstrip BHR6400
+2025-10-30 12:11:50,345 - INFO - 🔍 Scraping [15] (attempt 1): agilli-isiqli-lent-xiaomi-smart-lightstrip-extensi
+2025-10-30 12:11:58,304 - INFO - ✅ [15/501] Ağıllı ışıqlı lent Xiaomi Smart Lightstrip Extensi
+2025-10-30 12:12:03,571 - INFO - 🔍 Scraping [16] (attempt 1): agilli-isiqli-lent-xiaomi-smart-lightstrip-pro-bhr
+2025-10-30 12:12:22,209 - INFO - ✅ [16/501] Ağıllı ışıqlı lent Xiaomi Smart Lightstrip Pro BHR
+2025-10-30 12:12:29,935 - INFO - 🔍 Scraping [17] (attempt 1): air-fryer-xiaomi-bhr8234eu
+2025-10-30 12:12:39,078 - INFO - ✅ [17/501] Air Fryer Xiaomi BHR8234EU
+2025-10-30 12:12:46,648 - INFO - 🔍 Scraping [18] (attempt 1): air-fryer-xiaomi-bhr8238eu
+2025-10-30 12:12:54,321 - INFO - ✅ [18/501] Air Fryer Xiaomi BHR8238EU
+2025-10-30 12:13:00,740 - INFO - 🔍 Scraping [19] (attempt 1): air-fryer-xiaomi-essential-bhr8588eu
+2025-10-30 12:13:11,052 - INFO - ✅ [19/501] Air Fryer Xiaomi Essential BHR8588EU
+2025-10-30 12:13:17,160 - INFO - 🔍 Scraping [20] (attempt 1): air-fryer-xiaomi-smart-air-fryer-6-5-lt-black
+2025-10-30 12:13:27,805 - INFO - ✅ [20/501] Air Fryer Xiaomi Smart Air Fryer 6.5 lt Qara
+2025-10-30 12:13:34,268 - INFO - 🔍 Scraping [21] (attempt 1): air-fryer-xiaomi-white-bhr7358eu
+2025-10-30 12:13:41,768 - INFO - ✅ [21/501] Air Fryer Xiaomi BHR7358EU
+2025-10-30 12:13:48,957 - INFO - 🔍 Scraping [22] (attempt 1): akami-jam-case-xiaomi-poco-m3-black
+2025-10-30 12:13:57,115 - INFO - ✅ [22/501] Qoruyucu örtük Akami Jam  Xiaomi Poco M3 Black
+2025-10-30 12:14:01,805 - INFO - 🔍 Scraping [23] (attempt 1): akami-jam-case-xiaomi-poco-m3-pro-black
+2025-10-30 12:14:15,096 - INFO - ✅ [23/501] Qoruyucu örtük Akami Jam  Xiaomi Poco M3 Pro Black
+2025-10-30 12:14:21,372 - INFO - 🔍 Scraping [24] (attempt 1): aksessuar-desti-xiaomi-s10
+2025-10-30 12:14:29,939 - INFO - ✅ [24/501] Aksessuar dəsti Xiaomi S10+
+2025-10-30 12:14:34,614 - INFO - 🔍 Scraping [25] (attempt 1): aksessuar-desti-xiaomi-x10-plus
+2025-10-30 12:14:42,056 - INFO - ✅ [25/501] Aksessuar dəsti Xiaomi X10 Plus
+2025-10-30 12:14:47,995 - INFO - 🔍 Scraping [26] (attempt 1): avtomatik-sabun-dispenseri-xiaomi-mjxsj03xw
+2025-10-30 12:14:55,700 - INFO - ✅ [26/501] Avtomatik Sabun Dispenseri Xiaomi MJXSJ03XW
+2025-10-30 12:15:01,543 - INFO - 🔍 Scraping [27] (attempt 1): backpack-xiaomi-urban-life-style
+2025-10-30 12:15:01,543 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 12:15:02,080 - INFO - ✅ WebDriver created successfully
+2025-10-30 12:15:16,459 - INFO - ✅ [27/501] Backpack Xiaomi Urban Life Style
+2025-10-30 12:15:20,755 - INFO - 🔍 Scraping [28] (attempt 1): blender-xiaomi-bhr9223gl
+2025-10-30 12:15:29,928 - INFO - ✅ [28/501] Blender Xiaomi BHR9223GL
+2025-10-30 12:15:36,527 - INFO - 🔍 Scraping [29] (attempt 1): blender-xiaomi-gl-bhr8936eu
+2025-10-30 12:15:45,274 - INFO - ✅ [29/501] Blender Xiaomi GL BHR8936EU
+2025-10-30 12:15:50,863 - INFO - 🔍 Scraping [30] (attempt 1): blender-xiaomi-smart
+2025-10-30 12:15:59,409 - INFO - ✅ [30/501] Blender Xiaomi Smart
+2025-10-30 12:16:03,711 - INFO - 🔍 Scraping [31] (attempt 1): buxarlandirici-xiaomi-standing-garment-steamer
+2025-10-30 12:16:13,578 - INFO - ✅ [31/501] Buxarlandırıcı Xiaomi Standing Garment Steamer
+2025-10-30 12:16:20,388 - INFO - 🔍 Scraping [32] (attempt 1): caydan-xiaomi-2-eu
+2025-10-30 12:16:28,978 - INFO - ✅ [32/501] Çaydan Xiaomi 2 EU
+2025-10-30 12:16:33,610 - INFO - 🔍 Scraping [33] (attempt 1): caydan-xiaomi-2-eu-bhr5927eu
+2025-10-30 12:16:42,672 - INFO - ✅ [33/501] Çaydan Xiaomi 2 EU BHR5927EU
+2025-10-30 12:16:46,905 - INFO - 🔍 Scraping [34] (attempt 1): caydan-xiaomi-2-lite-eu-bhr9036eu
+2025-10-30 12:16:55,260 - INFO - ✅ [34/501] Çaydan Xiaomi 2 Lite EU BHR9036EU
+2025-10-30 12:17:00,779 - INFO - 🔍 Scraping [35] (attempt 1): caydan-xiaomi-2-pro-bhr9107eu
+2025-10-30 12:17:11,900 - INFO - ✅ [35/501] Çaydan Xiaomi 2 Pro BHR9107EU
+2025-10-30 12:17:19,723 - INFO - 🔍 Scraping [36] (attempt 1): caydan-xiaomi-glass
+2025-10-30 12:17:27,661 - INFO - ✅ [36/501] Çaydan Xiaomi Glass
+2025-10-30 12:17:34,335 - INFO - 🔍 Scraping [37] (attempt 1): caydan-xiaomi-glass-bhr7490ru
+2025-10-30 12:17:38,750 - INFO - ✅ [37/501] Çaydan Xiaomi Glass BHR7490RU
+2025-10-30 12:17:43,482 - INFO - 🔍 Scraping [38] (attempt 1): caydan-xiaomi-mi-smart-pro-bhr4198gl
+2025-10-30 12:17:51,361 - INFO - ✅ [38/501] Çaydan Xiaomi Mi Smart Pro BHR4198GL
+2025-10-30 12:17:58,376 - INFO - 🔍 Scraping [39] (attempt 1): caydan-xiaomi-n1-eu-bhr9118eu
+2025-10-30 12:18:06,925 - INFO - ✅ [39/501] Çaydan Xiaomi N1 EU BHR9118EU
+2025-10-30 12:18:12,830 - INFO - 🔍 Scraping [40] (attempt 1): caydan-xiaomi-s1-eu-bhr9539eu
+2025-10-30 12:18:21,654 - INFO - ✅ [40/501] Çaydan Xiaomi S1 EU BHR9539EU
+2025-10-30 12:18:25,760 - INFO - 🔍 Scraping [41] (attempt 1): caydan-xiaomi-zhf4012gl
+2025-10-30 12:18:33,979 - INFO - ✅ [41/501] Çaydan Xiaomi ZHF4012GL
+2025-10-30 12:18:38,597 - INFO - 🔍 Scraping [42] (attempt 1): computer-glasses-xiaomi-mijia-black-hmj01ts
+2025-10-30 12:18:47,804 - INFO - ✅ [42/501] Computer Glasses Xiaomi Mijia Black / HMJ01TS
+2025-10-30 12:18:52,049 - INFO - 🔍 Scraping [43] (attempt 1): drel-xiaomi-12v-max-brushless-cordless-drill
+2025-10-30 12:19:01,061 - INFO - ✅ [43/501] Drel Xiaomi 12V Max Brushless Cordless Drill
+2025-10-30 12:19:07,954 - INFO - 🔍 Scraping [44] (attempt 1): duyu-bisiren-xiaomi-smart-rice-cooker-8516601090
+2025-10-30 12:19:14,892 - INFO - ✅ [44/501] Düyü bişirən Xiaomi Smart Rice Cooker 8516601090
+2025-10-30 12:19:19,144 - INFO - 🔍 Scraping [45] (attempt 1): el-buxarlandiricisi-xiaomi-handheld-steam-iron
+2025-10-30 12:19:27,838 - INFO - ✅ [45/501] Əl buxarlandırıcısı Xiaomi Handheld Steam Iron
+2025-10-30 12:19:32,178 - INFO - 🔍 Scraping [46] (attempt 1): electric-scooter-xiaomi-4-lite
+2025-10-30 12:19:41,058 - INFO - ✅ [46/501] Electric Scooter Xiaomi 4 Lite
+2025-10-30 12:19:46,577 - INFO - 🔍 Scraping [47] (attempt 1): electric-scooter-xiaomi-navee-n40-orange
+2025-10-30 12:19:53,829 - INFO - ✅ [47/501] Electric Scooter Navee N40 Orange
+2025-10-30 12:20:00,677 - INFO - 🔍 Scraping [48] (attempt 1): electric-scooter-xiaomi-navee-n65-orange
+2025-10-30 12:20:08,412 - INFO - ✅ [48/501] Electric Scooter Navee N65 Orange
+2025-10-30 12:20:13,238 - INFO - 🔍 Scraping [49] (attempt 1): electric-scooter-xiaomi-navee-s65-green
+2025-10-30 12:20:21,224 - INFO - ✅ [49/501] Electric Scooter Navee S65 Green
+2025-10-30 12:20:26,031 - INFO - 🔍 Scraping [50] (attempt 1): elektrik-dis-fircasi-xiaomi-nun4087gl
+2025-10-30 12:20:37,706 - INFO - ✅ [50/501] Elektrik diş fırçası Xiaomi NUN4087GL
+2025-10-30 12:20:44,654 - INFO - 🔍 Scraping [51] (attempt 1): elektrik-dis-fircasi-xiaomi-t501-dark-grey
+2025-10-30 12:20:56,368 - INFO - ✅ [51/501] Elektrik diş fırçası Xiaomi T501 Dark Grey
+2025-10-30 12:21:03,892 - INFO - 🔍 Scraping [52] (attempt 1): elektrik-dis-fircasi-xiaomi-t501-white
+2025-10-30 12:21:03,893 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 12:21:04,391 - INFO - ✅ WebDriver created successfully
+2025-10-30 12:21:17,835 - INFO - ✅ [52/501] Elektrik diş fırçası Xiaomi T501 White
+2025-10-30 12:21:25,765 - INFO - 🔍 Scraping [53] (attempt 1): elektrik-dis-fircasi-xiaomi-t700-mes604
+2025-10-30 12:21:35,349 - INFO - ✅ [53/501] Elektrik diş fırçası Xiaomi T700 MES604
+2025-10-30 12:21:40,338 - INFO - 🔍 Scraping [54] (attempt 1): elektrikli-dis-fircasi-xiaomi-oscillation-mes609-b
+2025-10-30 12:21:48,490 - INFO - ✅ [54/501] Elektrikli diş fırçası Xiaomi Oscillation MES609 /
+2025-10-30 12:21:53,936 - INFO - 🔍 Scraping [55] (attempt 1): elektrikli-dis-fircasi-xiaomi-oscillation-mes609-b
+2025-10-30 12:22:00,847 - INFO - ✅ [55/501] Elektrikli diş fırçası Xiaomi Oscillation MES609 /
+2025-10-30 12:22:07,964 - INFO - 🔍 Scraping [56] (attempt 1): elektrikli-dis-fircasi-xiaomi-t302-dark-blue-bhr76
+2025-10-30 12:22:15,050 - INFO - ✅ [56/501] Elektrikli diş fırçası Xiaomi T302 Dark Blue BHR76
+2025-10-30 12:22:19,429 - INFO - 🔍 Scraping [57] (attempt 1): elektrikli-dis-fircasi-xiaomi-t302-silver-gray-bhr
+2025-10-30 12:22:27,008 - INFO - ✅ [57/501] Elektrikli diş fırçası Xiaomi T302 Silver Gray BHR
+2025-10-30 12:22:32,251 - INFO - 🔍 Scraping [58] (attempt 1): elektrikli-vintburan-xiaomi-mi-cordless-precision-
+2025-10-30 12:22:42,656 - INFO - ✅ [58/501] Elektrikli vintburan Xiaomi Mi Cordless Precision 
+2025-10-30 12:22:47,025 - INFO - 🔍 Scraping [59] (attempt 1): elektrosamokat-ucun-oturacaq-xiaomi-hbcpj02lq-bhr0
+2025-10-30 12:22:56,767 - INFO - ✅ [59/501] Elektrosamokat üçün oturacaq Xiaomi HBCPJ02LQ / BH
+2025-10-30 12:23:02,159 - INFO - 🔍 Scraping [60] (attempt 1): elektrosamokat-xiaomi-4-pro
+2025-10-30 12:23:11,396 - INFO - ✅ [60/501] Elektrosamokat Xiaomi 4 Pro BHR5398GL
+2025-10-30 12:23:18,632 - INFO - 🔍 Scraping [61] (attempt 1): elektrosamokat-xiaomi-5-plus-ddhbc24lq-bhr0804gl
+2025-10-30 12:23:25,888 - INFO - ✅ [61/501] Elektrosamokat Xiaomi 5 Plus DDHBC24LQ / BHR0804GL
+2025-10-30 12:23:33,743 - INFO - 🔍 Scraping [62] (attempt 1): elektrosamokat-xiaomi-electric-scooter-4-bhr7128eu
+2025-10-30 12:23:41,552 - INFO - ✅ [62/501] Elektrosamokat Xiaomi Electric Scooter 4 BHR7128EU
+2025-10-30 12:23:46,303 - INFO - 🔍 Scraping [63] (attempt 1): elektrosamokat-xiaomi-electric-scooter-4-lite-2gen
+2025-10-30 12:23:50,588 - INFO - ✅ [63/501] Elektrosamokat Xiaomi Electric Scooter 4 Lite Gen2
+2025-10-30 12:23:54,892 - INFO - 🔍 Scraping [64] (attempt 1): elektrosamokat-xiaomi-electric-scooter-4-ultra-bhr
+2025-10-30 12:24:00,817 - INFO - ✅ [64/501] Elektrosamokat Xiaomi Electric Scooter 4 Ultra BHR
+2025-10-30 12:24:04,985 - INFO - 🔍 Scraping [65] (attempt 1): extender-xiaomi-wi-fi-range-ac1200-dvb4430gl
+2025-10-30 12:24:14,724 - INFO - ✅ [65/501] Extender Xiaomi Wi-Fi Range AC1200 DVB4430GL
+2025-10-30 12:24:18,800 - INFO - 🔍 Scraping [66] (attempt 1): extender-xiaomi-wifi-range-pro
+2025-10-30 12:24:28,912 - INFO - ✅ [66/501] Extender Xiaomi Wifi Range Pro
+2025-10-30 12:24:34,295 - INFO - 🔍 Scraping [67] (attempt 1): eynek-xiaomi-mi-polarized-explorer
+2025-10-30 12:24:42,333 - INFO - ✅ [67/501] Günəş eynəyi Xiaomi Mi Polarized Explorer TYJ01TS
+2025-10-30 12:24:47,566 - INFO - 🔍 Scraping [68] (attempt 1): fen-xiaomi-compact-h101-pink
+2025-10-30 12:24:56,700 - INFO - ✅ [68/501] Fen Xiaomi Compact H101 Pink
+2025-10-30 12:25:01,703 - INFO - 🔍 Scraping [69] (attempt 1): fen-xiaomi-compact-h101-white
+2025-10-30 12:25:12,226 - INFO - ✅ [69/501] Fen Xiaomi Compact H101 White
+2025-10-30 12:25:19,006 - INFO - 🔍 Scraping [70] (attempt 1): fen-xiaomi-ionic-h300
+2025-10-30 12:25:30,355 - INFO - ✅ [70/501] Fen Xiaomi Ionic H300
+2025-10-30 12:25:35,373 - INFO - 🔍 Scraping [71] (attempt 1): fen-xiaomi-ionic-h500
+2025-10-30 12:25:45,526 - INFO - ✅ [71/501] Fen Xiaomi Ionic H500
+2025-10-30 12:25:49,670 - INFO - 🔍 Scraping [72] (attempt 1): fen-xiaomi-ionic-nun4052gl
+2025-10-30 12:25:58,934 - INFO - ✅ [72/501] Fen Xiaomi Ionic NUN4052GL
+2025-10-30 12:26:03,244 - INFO - 🔍 Scraping [73] (attempt 1): fen-xiaomi-negative-ionic-speed-dryer
+2025-10-30 12:26:14,087 - INFO - ✅ [73/501] Fen Xiaomi Negative Ionic Speed Dryer
+2025-10-30 12:26:20,028 - INFO - 🔍 Scraping [74] (attempt 1): fotokagiz-xiaomi-instant-photo-paper-3-40-ed
+2025-10-30 12:26:27,586 - INFO - ✅ [74/501] Fotokağız Xiaomi Instant Photo Paper 3 40 əd
+2025-10-30 12:26:34,045 - INFO - 🔍 Scraping [75] (attempt 1): fotokagiz-xiaomi-instant-photo-paper-6-40-ed
+2025-10-30 12:26:41,419 - INFO - ✅ [75/501] Fotokağız Xiaomi Instant Photo Paper 6" 40 əd
+2025-10-30 12:26:47,331 - INFO - 🔍 Scraping [76] (attempt 1): fotoprinter-ucun-kagiz-xiaomi-mi-white-20-vereq-2x
+2025-10-30 12:26:55,239 - INFO - ✅ [76/501] Fotoprinter üçün kağız Xiaomi Mi White 20 vərəq 2x
+2025-10-30 12:27:01,406 - INFO - 🔍 Scraping [77] (attempt 1): fritoz-xiaomi-smart-6-lt
+2025-10-30 12:27:01,407 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 12:27:02,010 - INFO - ✅ WebDriver created successfully
+2025-10-30 12:27:14,465 - INFO - ✅ [77/501] Air Fryer Xiaomi Smart 6 lt
+2025-10-30 12:27:18,781 - INFO - 🔍 Scraping [78] (attempt 1): fritoz-xiaomi-smart-air-fryer-3-5-lt
+2025-10-30 12:27:26,994 - INFO - ✅ [78/501] Air Fryer Xiaomi Smart 3.5 lt
+2025-10-30 12:27:34,828 - INFO - 🔍 Scraping [79] (attempt 1): fritoz-xiaomi-smart-air-fryer-6-5l
+2025-10-30 12:27:42,480 - INFO - ✅ [79/501] Air Fryer Xiaomi Smart air fryer 6.5L Ağ
+2025-10-30 12:27:48,998 - INFO - 🔍 Scraping [80] (attempt 1): fritoz-xiaomi-smart-air-fryer-pro-4-lt
+2025-10-30 12:27:56,864 - INFO - ✅ [80/501] Air Fryer Xiaomi Smart Pro
+2025-10-30 12:28:02,068 - INFO - 🔍 Scraping [81] (attempt 1): gaming-mouse-xiaomi-lite-black-yxsb01ym
+2025-10-30 12:28:16,873 - INFO - ✅ [81/501] Gaming mouse Xiaomi Lite Black (YXSB01YM)
+2025-10-30 12:28:24,282 - INFO - 🔍 Scraping [82] (attempt 1): gunes-eyneyi-xiaomi-mi-luke-msg02gl
+2025-10-30 12:28:31,612 - INFO - ✅ [82/501] Günəş eynəyi Xiaomi Mi Luke MSG02GL
+2025-10-30 12:28:37,710 - INFO - 🔍 Scraping [83] (attempt 1): gunes-eyneyi-xiaomi-mi-mijia-uv400-msg05gl
+2025-10-30 12:28:45,211 - INFO - ✅ [83/501] Günəş eynəyi Xiaomi Mi Mijia UV400 MSG05GL
+2025-10-30 12:28:51,758 - INFO - 🔍 Scraping [84] (attempt 1): gunes-eyneyi-xiaomi-mi-polarized-pro-tyj04ts
+2025-10-30 12:28:57,424 - INFO - ✅ [84/501] Günəş eynəyi Xiaomi Mi Polarized Pro TYJ04TS
+2025-10-30 12:29:03,560 - INFO - 🔍 Scraping [85] (attempt 1): gunes-eyneyi-xiaomi-mi-polarized-sunglasses-xmtf01
+2025-10-30 12:29:09,753 - INFO - ✅ [85/501] Günəş eynəyi Xiaomi Mi Polarized sunglasses XMTF01
+2025-10-30 12:29:15,661 - INFO - 🔍 Scraping [86] (attempt 1): gunes-eyneyi-xiaomi-mi-ts-traveller-glasses-str004
+2025-10-30 12:29:22,816 - INFO - ✅ [86/501] Günəş eynəyi Xiaomi Mi TS Traveller Glasses STR004
+2025-10-30 12:29:29,030 - INFO - 🔍 Scraping [87] (attempt 1): gunes-eyneyi-xiaomi-mi-ts-turok-steinhardt-sm005-0
+2025-10-30 12:29:35,943 - INFO - ✅ [87/501] Günəş eynəyi Xiaomi Mi TS Turok Steinhardt SM005-0
+2025-10-30 12:29:43,230 - INFO - 🔍 Scraping [88] (attempt 1): hava-nemlendirici-xiaomi-2-lite-mjjsq06dy-bhr6605e
+2025-10-30 12:29:51,178 - INFO - ✅ [88/501] Hava nəmləndirici Xiaomi 2 Lite MJJSQ06DY (BHR6605
+2025-10-30 12:29:58,145 - INFO - 🔍 Scraping [89] (attempt 1): hava-nemlendirici-xiaomi-skv4140gl-znjsq01dem
+2025-10-30 12:30:06,129 - INFO - ✅ [89/501] Hava nəmləndirici Xiaomi SKV4140GL (ZNJSQ01DEM)
+2025-10-30 12:30:12,606 - INFO - 🔍 Scraping [90] (attempt 1): hava-nemlendirici-xiaomi-smart-2-bhr6026eu
+2025-10-30 12:30:20,675 - INFO - ✅ [90/501] Hava nəmləndirici Xiaomi Smart 2 BHR6026EU
+2025-10-30 12:30:27,222 - INFO - 🔍 Scraping [91] (attempt 1): hava-nemlendirici-xiaomi-smart-evaporative-humidif
+2025-10-30 12:30:35,172 - INFO - ✅ [91/501] Hava nəmləndirici Xiaomi Smart Evaporative Humidif
+2025-10-30 12:30:40,383 - INFO - 🔍 Scraping [92] (attempt 1): hava-quruducu-xiaomi-smart-dehumidifier-lite
+2025-10-30 12:30:46,108 - INFO - ✅ [92/501] Hava quruducu Xiaomi Smart Dehumidifier Lite
+2025-10-30 12:30:50,353 - INFO - 🔍 Scraping [93] (attempt 1): hava-temizleyici-ucun-filtr-xiaomi-antcibacterial
+2025-10-30 12:30:59,646 - INFO - ✅ [93/501] Hava təmizləyici üçün filtr Xiaomi (Antcibacterial
+2025-10-30 12:31:05,310 - INFO - 🔍 Scraping [94] (attempt 1): hava-temizleyici-ucun-filtr-xiaomi-smart-air-purif
+2025-10-30 12:31:20,046 - INFO - ✅ [94/501] Hava təmizləyici üçün filtr Xiaomi Smart Air Purif
+2025-10-30 12:31:26,289 - INFO - 🔍 Scraping [95] (attempt 1): hava-temizleyici-ucun-filtr-xiaomi-smart-air-purif
+2025-10-30 12:31:35,001 - INFO - ✅ [95/501] Hava təmizləyici üçün filtr Xiaomi Smart Air Purif
+2025-10-30 12:31:42,598 - INFO - 🔍 Scraping [96] (attempt 1): hava-temizleyici-xiaomi-2s
+2025-10-30 12:31:47,967 - INFO - ✅ [96/501] Hava təmizləyici Xiaomi 2s
+2025-10-30 12:31:55,205 - INFO - 🔍 Scraping [97] (attempt 1): hava-temizleyici-xiaomi-3c
+2025-10-30 12:32:01,259 - INFO - ✅ [97/501] Hava təmizləyici Xiaomi 3C
+2025-10-30 12:32:08,251 - INFO - 🔍 Scraping [98] (attempt 1): hava-temizleyici-xiaomi-3h
+2025-10-30 12:32:15,947 - INFO - ✅ [98/501] Hava təmizləyici Xiaomi 3H
+2025-10-30 12:32:21,294 - INFO - 🔍 Scraping [99] (attempt 1): hava-temizleyici-xiaomi-smart-4-bhr5096gl
+2025-10-30 12:32:28,313 - INFO - ✅ [99/501] Hava təmizləyici Xiaomi Smart 4 BHR5096GL
+2025-10-30 12:32:32,413 - INFO - 🔍 Scraping [100] (attempt 1): hava-temizleyici-xiaomi-smart-4-compact-bhr5860eu
+2025-10-30 12:32:39,374 - INFO - ✅ [100/501] Hava təmizləyici Xiaomi Smart 4 Compact BHR5860EU
+2025-10-30 12:32:46,887 - INFO - 🔍 Scraping [101] (attempt 1): hava-temizleyici-xiaomi-smart-4-lite-bhr5274gl
+2025-10-30 12:32:52,279 - INFO - ✅ [101/501] Hava təmizləyici Xiaomi Smart 4 Lite BHR5274GL
+2025-10-30 12:32:57,879 - INFO - 🔍 Scraping [102] (attempt 1): hava-temizleyici-xiaomi-smart-air-purifier-4-pro
+2025-10-30 12:32:57,879 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 12:32:58,356 - INFO - ✅ WebDriver created successfully
+2025-10-30 12:33:08,278 - INFO - ✅ [102/501] Hava təmizləyici Xiaomi Smart Air Purifier 4 Pro
+2025-10-30 12:33:15,363 - INFO - 🔍 Scraping [103] (attempt 1): hava-temizleyici-xiaomi-smart-air-purifier-elite
+2025-10-30 12:33:22,725 - INFO - ✅ [103/501] Hava təmizləyici Xiaomi Smart Air Purifier Elite
+2025-10-30 12:33:27,959 - INFO - 🔍 Scraping [104] (attempt 1): hava-temizleyicisi-ucun-filtr-xiaomi-smart-air-pur
+2025-10-30 12:33:35,385 - INFO - ✅ [104/501] Hava təmizləyicisi üçün filtr Xiaomi smart air pur
+2025-10-30 12:33:41,810 - INFO - 🔍 Scraping [105] (attempt 1): hava-teravetlendirici-xiaomi-smart-scent-diffuser-
+2025-10-30 12:33:49,077 - INFO - ✅ [105/501] Hava təravətləndirici Xiaomi Smart Scent Diffuser 
+2025-10-30 12:33:54,426 - INFO - 🔍 Scraping [106] (attempt 1): induksion-plite-xiaomi-zhf4020gl
+2025-10-30 12:34:02,820 - INFO - ✅ [106/501] İnduksion Plitə Xiaomi ZHF4020GL
+2025-10-30 12:34:07,433 - INFO - 🔍 Scraping [107] (attempt 1): isidici-xiaomi-desktop-heater-zmnfj01ymeu
+2025-10-30 12:34:18,759 - INFO - ✅ [107/501] İsidici Xiaomi Desktop Heater ZMNFJ01YMEU
+2025-10-30 12:34:23,933 - INFO - 🔍 Scraping [108] (attempt 1): isidici-xiaomi-fan-heater-lsnfj03zmeu
+2025-10-30 12:34:32,123 - INFO - ✅ [108/501] İsidici Xiaomi Fan Heater LSNFJ03ZMEU
+2025-10-30 12:34:36,413 - INFO - 🔍 Scraping [109] (attempt 1): isidici-xiaomi-fan-heater-lsnfj03zmeu-68f77d68a089
+2025-10-30 12:35:02,342 - ERROR - ❌ Unexpected error: 'NoneType' object is not subscriptable
+2025-10-30 12:35:02,343 - INFO - 🔍 Scraping [110] (attempt 1): isidici-xiaomi-smart-tower-heater-lite-eu-bhr6101e
+2025-10-30 12:35:13,269 - INFO - ✅ [110/501] İsidici Xiaomi Smart Tower Heater Lite EU (BHR6101
+2025-10-30 12:35:20,599 - INFO - 🔍 Scraping [111] (attempt 1): kabel-xiaomi-mi-usb-type-c-to-type-c-150-sm-sjx12z
+2025-10-30 12:35:30,357 - INFO - ✅ [111/501] Naqil Xiaomi MI USB Type-C / USB Type-C 1.5 m SJX1
+2025-10-30 12:35:35,427 - INFO - 🔍 Scraping [112] (attempt 1): kamera-xiaomi-bw300-mjsxj08by
+2025-10-30 12:35:44,367 - INFO - ✅ [112/501] Kamera Xiaomi BW300 MJSXJ08BY
+2025-10-30 12:35:48,754 - INFO - 🔍 Scraping [113] (attempt 1): kamera-xiaomi-bw500-mjsxj06by-bhr8301gl
+2025-10-30 12:35:56,452 - INFO - ✅ [113/501] Kamera Xiaomi BW500 MJSXJ06BY / BHR8301GL
+2025-10-30 12:36:03,121 - INFO - 🔍 Scraping [114] (attempt 1): kamera-xiaomi-c100-mjsxj25cm-bhr07vogl
+2025-10-30 12:36:13,374 - INFO - ✅ [114/501] Kamera Xiaomi C100 (MJSXJ25CM) BHR07VOGL
+2025-10-30 12:36:17,761 - INFO - 🔍 Scraping [115] (attempt 1): kamera-xiaomi-c300-dual-mjsxj22cm-bhr9166eu
+2025-10-30 12:36:27,600 - INFO - ✅ [115/501] Kamera Xiaomi C300 Dual MJSXJ22CM / BHR9166EU
+2025-10-30 12:36:35,572 - INFO - 🔍 Scraping [116] (attempt 1): kamera-xiaomi-cw100-dual-mjsxj26cm-bhr07uieu
+2025-10-30 12:36:44,492 - INFO - ✅ [116/501] Kamera Xiaomi CW100 Dual MJSXJ26CM / BHR07UIEU
+2025-10-30 12:36:52,153 - INFO - 🔍 Scraping [117] (attempt 1): kamera-xiaomi-cw500-mjsxj08hl-bhr9402eu
+2025-10-30 12:36:59,426 - INFO - ✅ [117/501] Kamera Xiaomi CW500 MJSXJ08HL / BHR9402EU
+2025-10-30 12:37:04,119 - INFO - 🔍 Scraping [118] (attempt 1): kamera-xiaomi-smart-c500-dual-mbc22-bhr8755eu
+2025-10-30 12:37:16,592 - INFO - ✅ [118/501] Kamera Xiaomi Smart C500 Dual MBC22 / BHR8755EU
+2025-10-30 12:37:20,890 - INFO - 🔍 Scraping [119] (attempt 1): kameralar-ucun-baza-stansiyasi-xiaomi-mjsxj07by-bh
+2025-10-30 12:37:28,002 - INFO - ✅ [119/501] Kameralar üçün baza stansiyası Xiaomi MJSXJ07BY / 
+2025-10-30 12:37:33,739 - INFO - 🔍 Scraping [120] (attempt 1): keyboard-xiaomi-combo-wireless-bhr6100gl
+2025-10-30 12:37:42,770 - INFO - ✅ [120/501] Klaviatura Xiaomi Combo BHR6100GL
+2025-10-30 12:37:50,256 - INFO - 🔍 Scraping [121] (attempt 1): komputer-eynekleri-xiaomi-mi-hmj06lm
+2025-10-30 12:37:57,598 - INFO - ✅ [121/501] Kompüter eynəkləri Xiaomi Mi HMJ06LM
+2025-10-30 12:38:03,164 - INFO - 🔍 Scraping [122] (attempt 1): komputer-eynekleri-xiaomi-mi-protective-hmj01ts
+2025-10-30 12:38:09,327 - INFO - ✅ [122/501] Kompüter eynəkləri Xiaomi Mi Protective HMJ01TS
+2025-10-30 12:38:14,438 - INFO - 🔍 Scraping [123] (attempt 1): komputer-eynekleri-xiaomi-mi-ts-kids-hmj03ts
+2025-10-30 12:38:21,419 - INFO - ✅ [123/501] Kompüter eynəkləri Xiaomi Mi TS kids HMJ03TS
+2025-10-30 12:38:27,963 - INFO - 🔍 Scraping [124] (attempt 1): komputer-eynekleri-xiaomi-mi-ts-turok-fu009
+2025-10-30 12:38:34,850 - INFO - ✅ [124/501] Kompüter eynəkləri Xiaomi Mi TS TUROK FU009
+2025-10-30 12:38:39,088 - INFO - 🔍 Scraping [125] (attempt 1): komputer-eyneyi-xiaomi-mi-black-bhr6467cn
+2025-10-30 12:38:44,955 - INFO - ✅ [125/501] Kompüter eynəyi Xiaomi Mi Black / BHR6467CN
+2025-10-30 12:38:49,021 - INFO - 🔍 Scraping [126] (attempt 1): konvektor-xiaomi-mijia-smart-electric-heater
+2025-10-30 12:38:58,249 - INFO - ✅ [126/501] Konvektor Xiaomi Mijia Smart Electric Heater
+2025-10-30 12:39:06,077 - INFO - 🔍 Scraping [127] (attempt 1): konvektor-xiaomi-s-bhr4037gl
+2025-10-30 12:39:06,078 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 12:39:06,533 - INFO - ✅ WebDriver created successfully
+2025-10-30 12:39:20,893 - INFO - ✅ [127/501] Konvektor Xiaomi S BHR4037GL
+2025-10-30 12:39:25,301 - INFO - 🔍 Scraping [128] (attempt 1): kopuklu-el-sabunu-xiaomi-bhr4559gl
+2025-10-30 12:39:34,182 - INFO - ✅ [128/501] Köpüklü əl sabunu Xiaomi BHR4559GL
+2025-10-30 12:39:38,922 - INFO - 🔍 Scraping [129] (attempt 1): kredit-xiaomi
+2025-10-30 12:39:44,222 - INFO - ✅ [129/501] Kredit Xiaomi
+2025-10-30 12:39:49,168 - INFO - 🔍 Scraping [130] (attempt 1): lazer-mesafeolcen-xiaomi-smart-laser-measure
+2025-10-30 12:39:56,415 - INFO - ✅ [130/501] Lazer məsafəölçən Xiaomi Smart Laser Measure
+2025-10-30 12:40:01,156 - INFO - 🔍 Scraping [131] (attempt 1): manikur-desti-xiaomi
+2025-10-30 12:40:09,476 - INFO - ✅ [131/501] Manikür dəsti Xiaomi
+2025-10-30 12:40:14,905 - INFO - 🔍 Scraping [132] (attempt 1): masajor-xiaomi-gun-2-xmfg-m451-bhr9471gl
+2025-10-30 12:40:23,085 - INFO - ✅ [132/501] Masajor Xiaomi Gun 2 XMFG-M451 (BHR9471GL)
+2025-10-30 12:40:30,694 - INFO - 🔍 Scraping [133] (attempt 1): masajor-xiaomi-gun-mini
+2025-10-30 12:40:38,148 - INFO - ✅ [133/501] Masajor Xiaomi Gun Mini
+2025-10-30 12:40:45,356 - INFO - 🔍 Scraping [134] (attempt 1): masajor-xiaomi-gun-mini-2-xmfg-m353-bhr9484gl
+2025-10-30 12:40:53,445 - INFO - ✅ [134/501] Masajor Xiaomi Gun Mini 2 XMFG-M353 (BHR9484GL)
+2025-10-30 12:40:57,826 - INFO - 🔍 Scraping [135] (attempt 1): masajor-xiaomi-gun-yesido-mg01
+2025-10-30 12:41:05,930 - INFO - ✅ [135/501] Masajor Xiaomi Gun Yesido MG01
+2025-10-30 12:41:11,270 - INFO - 🔍 Scraping [136] (attempt 1): metbex-robotu-xiaomi-bhr5930eu
+2025-10-30 12:41:19,897 - INFO - ✅ [136/501] Mətbəx robotu Xiaomi BHR5930EU
+2025-10-30 12:41:24,285 - INFO - 🔍 Scraping [137] (attempt 1): microphone-karaoke-xiaomi-bhr6752gl
+2025-10-30 12:41:31,888 - INFO - ✅ [137/501] Microphone Karaoke Xiaomi BHR6752GL
+2025-10-30 12:41:39,016 - INFO - 🔍 Scraping [138] (attempt 1): mikrodalgali-soba-xiaomi-bhr7990eu
+2025-10-30 12:41:48,038 - INFO - ✅ [138/501] Mikrodalğalı soba Xiaomi BHR7990EU
+2025-10-30 12:41:52,529 - INFO - 🔍 Scraping [139] (attempt 1): mikrodalgali-soba-xiaomi-mijia-mwblxe1acm
+2025-10-30 12:41:59,781 - INFO - ✅ [139/501] Mikrodalğalı soba Xiaomi Mijia MWBLXE1ACM
+2025-10-30 12:42:07,225 - INFO - 🔍 Scraping [140] (attempt 1): monitor-xiaomi-g-pro-27i-ela5585eu
+2025-10-30 12:42:16,834 - INFO - ✅ [140/501] Monitor Xiaomi G Pro 27I ELA5585EU
+2025-10-30 12:42:23,263 - INFO - 🔍 Scraping [141] (attempt 1): monitor-xiaomi-g24i-ela5625eu
+2025-10-30 12:42:31,696 - INFO - ✅ [141/501] Monitor Xiaomi G24i (ELA5625EU)
+2025-10-30 12:42:37,541 - INFO - 🔍 Scraping [142] (attempt 1): monitor-xiaomi-g24i-ela6364eu
+2025-10-30 12:42:50,593 - INFO - ✅ [142/501] Monitor Xiaomi G24I ELA6364EU
+2025-10-30 12:42:54,792 - INFO - 🔍 Scraping [143] (attempt 1): monitor-xiaomi-g27i-ela6370eu
+2025-10-30 12:42:59,644 - INFO - ✅ [143/501] Monitor Xiaomi G27I ELA6370EU
+2025-10-30 12:43:07,125 - INFO - 🔍 Scraping [144] (attempt 1): monitor-xiaomi-g34wqi-me3l-ela5454eu
+2025-10-30 12:43:19,522 - INFO - ✅ [144/501] Monitor Xiaomi G34WQi ME3L (ELA5454EU)
+2025-10-30 12:43:26,338 - INFO - 🔍 Scraping [145] (attempt 1): monitor-xiaomi-mi-23-8-bhr4510gl
+2025-10-30 12:43:37,499 - INFO - ✅ [145/501] Monitor Xiaomi Mi 23.8 (BHR4510GL)
+2025-10-30 12:43:43,691 - INFO - 🔍 Scraping [146] (attempt 1): monitor-xiaomi-mi-23-8-bhr4511hk
+2025-10-30 12:43:52,895 - INFO - ✅ [146/501] Monitor Xiaomi MI 23.8 (BHR4511HK)
+2025-10-30 12:43:59,723 - INFO - 🔍 Scraping [147] (attempt 1): monitor-xiaomi-mi-27-bhr4975eu
+2025-10-30 12:44:07,232 - INFO - ✅ [147/501] Monitor Xiaomi MI 27 (BHR4975EU)
+2025-10-30 12:44:15,145 - INFO - 🔍 Scraping [148] (attempt 1): monitor-xiaomi-mi-27-bhr4976tw
+2025-10-30 12:44:26,088 - INFO - ✅ [148/501] Monitor Xiaomi Mi 27 (BHR4976TW)
+2025-10-30 12:44:31,521 - INFO - 🔍 Scraping [149] (attempt 1): monitor-xiaomi-mi-27-ela5347uk
+2025-10-30 12:44:40,937 - INFO - ✅ [149/501] Monitor Xiaomi MI 27 (ELA5347UK)
+2025-10-30 12:44:46,880 - INFO - 🔍 Scraping [150] (attempt 1): monitor-xiaomi-mi-30-bhr5116gl
+2025-10-30 12:44:55,531 - INFO - ✅ [150/501] Monitor Xiaomi MI 30 (BHR5116GL)
+2025-10-30 12:45:01,830 - INFO - 🔍 Scraping [151] (attempt 1): monitor-xiaomi-mi-30-bhr5117hk
+2025-10-30 12:45:09,232 - INFO - ✅ [151/501] Monitor Xiaomi MI 30 (BHR5117HK)
+2025-10-30 12:45:13,394 - INFO - 🔍 Scraping [152] (attempt 1): monitor-xiaomi-mi-34-bhr5133gl
+2025-10-30 12:45:13,395 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 12:45:13,884 - INFO - ✅ WebDriver created successfully
+2025-10-30 12:45:27,017 - INFO - ✅ [152/501] Monitor Xiaomi Mi 34 (BHR5133GL)
+2025-10-30 12:45:33,444 - INFO - 🔍 Scraping [153] (attempt 1): mouse-xiaomi-miiiw-m15c-portable-lite-black-mwpm01
+2025-10-30 12:45:41,337 - INFO - ✅ [153/501] Mouse Xiaomi MIIIW M15C Portable Lite Black / MWPM
+2025-10-30 12:45:47,596 - INFO - 🔍 Scraping [154] (attempt 1): mouse-xiaomi-miiiw-m15c-portable-lite-white-mwpm01
+2025-10-30 12:45:55,840 - INFO - ✅ [154/501] Mouse Xiaomi MIIIW M15C Portable Lite White / MWPM
+2025-10-30 12:45:59,877 - INFO - 🔍 Scraping [155] (attempt 1): mouse-xiaomi-wireless-3-black
+2025-10-30 12:46:07,829 - INFO - ✅ [155/501] Mouse Xiaomi Wireless 3 Black
+2025-10-30 12:46:15,295 - INFO - 🔍 Scraping [156] (attempt 1): mouse-xiaomi-wireless-3-black-bhr8913gl
+2025-10-30 12:46:25,749 - INFO - ✅ [156/501] Mouse Xiaomi Wireless 3 Black BHR8913GL
+2025-10-30 12:46:32,244 - INFO - 🔍 Scraping [157] (attempt 1): mouse-xiaomi-wireless-3-blue
+2025-10-30 12:46:40,653 - INFO - ✅ [157/501] Mouse Xiaomi Wireless 3 Blue
+2025-10-30 12:46:46,143 - INFO - 🔍 Scraping [158] (attempt 1): mouse-xiaomi-wireless-3-pink-xmwxsb03ym
+2025-10-30 12:46:54,567 - INFO - ✅ [158/501] Mouse Xiaomi Wireless 3 Pink (XMWXSB03YM)
+2025-10-30 12:46:59,332 - INFO - 🔍 Scraping [159] (attempt 1): mouse-xiaomi-wireless-3-white
+2025-10-30 12:47:09,390 - INFO - ✅ [159/501] Mouse Xiaomi Wireless 3 White
+2025-10-30 12:47:16,201 - INFO - 🔍 Scraping [160] (attempt 1): mouse-xiaomi-wireless-lite-2-black
+2025-10-30 12:47:24,016 - INFO - ✅ [160/501] Mouse Xiaomi Wireless Lite 2 Black
+2025-10-30 12:47:28,055 - INFO - 🔍 Scraping [161] (attempt 1): mouse-xiaomi-wireless-lite-2-black-bhr8916gl
+2025-10-30 12:47:37,187 - INFO - ✅ [161/501] Mouse Xiaomi Wireless Lite 2 Black BHR8916GL
+2025-10-30 12:47:43,765 - INFO - 🔍 Scraping [162] (attempt 1): mouse-xiaomi-wireless-lite-2-white
+2025-10-30 12:47:52,407 - INFO - ✅ [162/501] Mouse Xiaomi Wireless Lite 2 White
+2025-10-30 12:48:00,355 - INFO - 🔍 Scraping [163] (attempt 1): naqilsiz-tozsoran-xiaomi-g10-plus
+2025-10-30 12:48:09,567 - INFO - ✅ [163/501] Naqilsiz tozsoran Xiaomi G10 Plus
+2025-10-30 12:48:17,035 - INFO - 🔍 Scraping [164] (attempt 1): naqilsiz-tozsoran-xiaomi-g11
+2025-10-30 12:48:25,042 - INFO - ✅ [164/501] Naqilsiz tozsoran Xiaomi G11
+2025-10-30 12:48:29,110 - INFO - 🔍 Scraping [165] (attempt 1): naqilsiz-tozsoran-xiaomi-g20-lite-eu
+2025-10-30 12:48:37,909 - INFO - ✅ [165/501] Naqilsiz tozsoran Xiaomi G20 Lite EU
+2025-10-30 12:48:45,885 - INFO - 🔍 Scraping [166] (attempt 1): naqilsiz-tozsoran-xiaomi-g20-max
+2025-10-30 12:48:53,696 - INFO - ✅ [166/501] Naqilsiz tozsoran Xiaomi G20 Max
+2025-10-30 12:48:58,676 - INFO - 🔍 Scraping [167] (attempt 1): naqilsiz-tozsoran-xiaomi-mi-handheld-vacuum-cleane
+2025-10-30 12:49:07,365 - INFO - ✅ [167/501] Naqilsiz tozsoran Xiaomi Mi Handheld Vacuum Cleane
+2025-10-30 12:49:13,240 - INFO - 🔍 Scraping [168] (attempt 1): naqilsiz-tozsoran-xiaomi-mi-handheld-vacuum-cleane
+2025-10-30 12:49:21,713 - INFO - ✅ [168/501] Naqilsiz tozsoran Xiaomi Mi Handheld Vacuum Cleane
+2025-10-30 12:49:27,172 - INFO - 🔍 Scraping [169] (attempt 1): oral-irriqator-xiaomi-2-meo705-bhr9235gl
+2025-10-30 12:49:36,845 - INFO - ✅ [169/501] Oral İrriqator Xiaomi 2 MEO705 (BHR9235GL)
+2025-10-30 12:49:42,151 - INFO - 🔍 Scraping [170] (attempt 1): ozunu-temizleme-stansiyasi-xiaomi-mop-2-ultra-auto
+2025-10-30 12:49:50,716 - INFO - ✅ [170/501] Özünü təmizləmə stansiyası Xiaomi Mop 2 Ultra Auto
+2025-10-30 12:49:56,834 - INFO - 🔍 Scraping [171] (attempt 1): piko-full-glass-black-xiaomi-mi8-lite
+2025-10-30 12:50:02,330 - INFO - ✅ [171/501] Piko Full Glass black Xiaomi Mİ8 lite
+2025-10-30 12:50:09,825 - INFO - 🔍 Scraping [172] (attempt 1): piko-full-glass-xiaomi-redmi-note-10-pro
+2025-10-30 12:50:18,452 - INFO - ✅ [172/501] Qoruyucu şüşə Piko Xiaomi Redmi Note 10 Pro
+2025-10-30 12:50:25,010 - INFO - 🔍 Scraping [173] (attempt 1): portativ-akustika-xiaomi-sound-outdoor-blue-qbh426
+2025-10-30 12:50:34,054 - INFO - ✅ [173/501] Portativ akustika Xiaomi Sound Outdoor Blue QBH426
+2025-10-30 12:50:41,607 - INFO - 🔍 Scraping [174] (attempt 1): portativ-caydan-termos-xiaomi-mijia-mjdrb01pl
+2025-10-30 12:50:50,054 - INFO - ✅ [174/501] Portativ çaydan-termos Xiaomi Mijia MJDRB01PL
+2025-10-30 12:50:57,811 - INFO - 🔍 Scraping [175] (attempt 1): power-bank-xiaomi-10000-mah-integrated-cable-ice-b
+2025-10-30 12:51:06,757 - INFO - ✅ [175/501] Power Bank Xiaomi 10000 mAh Integrated Cable Ice B
+2025-10-30 12:51:12,992 - INFO - 🔍 Scraping [176] (attempt 1): power-bank-xiaomi-10000-mah-integrated-cable-tan-p
+2025-10-30 12:51:21,263 - INFO - ✅ [176/501] Power Bank Xiaomi 10000 mAh Integrated Cable Tan P
+2025-10-30 12:51:28,945 - INFO - 🔍 Scraping [177] (attempt 1): power-bank-xiaomi-165w-10000-mah-integrated-cable-
+2025-10-30 12:51:28,945 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 12:51:29,407 - INFO - ✅ WebDriver created successfully
+2025-10-30 12:51:40,795 - INFO - ✅ [177/501] Power Bank Xiaomi 165W 10000 mAh İntegrated Cable 
+2025-10-30 12:51:46,067 - INFO - 🔍 Scraping [178] (attempt 1): power-bank-xiaomi-212w-hypercharge-25000-mah-black
+2025-10-30 12:51:53,277 - INFO - ✅ [178/501] Power Bank Xiaomi 212W Hypercharge 25000 mAh Black
+2025-10-30 12:51:57,701 - INFO - 🔍 Scraping [179] (attempt 1): power-bank-xiaomi-22-5w-10000-mah-black
+2025-10-30 12:52:05,641 - INFO - ✅ [179/501] Power Bank Xiaomi 22.5W 10000 mAh Black
+2025-10-30 12:52:13,536 - INFO - 🔍 Scraping [180] (attempt 1): power-bank-xiaomi-33w-10000-mah-gray-wpb1007mi
+2025-10-30 12:52:20,735 - INFO - ✅ [180/501] Power Bank Xiaomi 33W 10000 mAh Gray WPB1007MI
+2025-10-30 12:52:27,302 - INFO - 🔍 Scraping [181] (attempt 1): power-bank-xiaomi-33w-10000-mah-pocket-edition-pro
+2025-10-30 12:52:34,142 - INFO - ✅ [181/501] Power Bank Xiaomi 33W 10000 mAh Pocket Edition Pro
+2025-10-30 12:52:40,061 - INFO - 🔍 Scraping [182] (attempt 1): power-bank-xiaomi-33w-10000-mah-pocket-edition-pro
+2025-10-30 12:52:47,211 - INFO - ✅ [182/501] Power Bank Xiaomi 33W 10000 mAh Pocket Edition Pro
+2025-10-30 12:52:53,891 - INFO - 🔍 Scraping [183] (attempt 1): power-bank-xiaomi-33w-10000-mah-white-wpb1007mi
+2025-10-30 12:53:01,324 - INFO - ✅ [183/501] Power Bank Xiaomi 33W 10000 mAh White WPB1007MI
+2025-10-30 12:53:06,893 - INFO - 🔍 Scraping [184] (attempt 1): power-bank-xiaomi-33w-20000-mah-integrated-cable-b
+2025-10-30 12:53:16,189 - INFO - ✅ [184/501] Power Bank Xiaomi 33W 20000 mAh Integrated Cable B
+2025-10-30 12:53:20,907 - INFO - 🔍 Scraping [185] (attempt 1): power-bank-xiaomi-33w-20000-mah-integrated-cable-t
+2025-10-30 12:53:29,008 - INFO - ✅ [185/501] Power Bank Xiaomi 33W 20000 mAh Integrated Cable T
+2025-10-30 12:53:33,314 - INFO - 🔍 Scraping [186] (attempt 1): power-bank-xiaomi-magnetic-5000-mah-wpb0507-bhr930
+2025-10-30 12:53:40,696 - INFO - ✅ [186/501] Power Bank Xiaomi Magnetic 5000 mAh WPB0507 / BHR9
+2025-10-30 12:53:45,899 - INFO - 🔍 Scraping [187] (attempt 1): power-bank-xiaomi-mi-3-10000-mah-22-5w-black-bhr50
+2025-10-30 12:53:54,038 - INFO - ✅ [187/501] Power Bank Xiaomi Mi 3 10000 mAh 22.5W Blue BHR507
+2025-10-30 12:54:00,653 - INFO - 🔍 Scraping [188] (attempt 1): power-bank-xiaomi-mi-3-10000-mah-black-vxn4260cn
+2025-10-30 12:54:08,878 - INFO - ✅ [188/501] Power Bank Xiaomi Mi 3 10000 Mah Black / Vxn4260Cn
+2025-10-30 12:54:14,304 - INFO - 🔍 Scraping [189] (attempt 1): power-bank-xiaomi-mi-3-10000-mah-black-vxn4274gl
+2025-10-30 12:54:22,499 - INFO - ✅ [189/501] Power Bank Xiaomi Mi 3 10000 mAh Black / VXN4274GL
+2025-10-30 12:54:27,428 - INFO - 🔍 Scraping [190] (attempt 1): power-bank-xiaomi-mi-3-10000-mah-silver-vxn4273gl
+2025-10-30 12:54:34,960 - INFO - ✅ [190/501] Power Bank Xiaomi Mi 3 10000 mAh Silver / VXN4273G
+2025-10-30 12:54:40,763 - INFO - 🔍 Scraping [191] (attempt 1): power-bank-xiaomi-mi-50w-20000-black
+2025-10-30 12:54:49,868 - INFO - ✅ [191/501] Power Bank Xiaomi Mi 50W 20000 Black
+2025-10-30 12:54:56,826 - INFO - 🔍 Scraping [192] (attempt 1): powerbank-xiaomi-10w-wireless-10000-mah-bhr5460gl
+2025-10-30 12:55:05,456 - INFO - ✅ [192/501] Powerbank Xiaomi 10W Wireless 10000 mAh / BHR5460G
+2025-10-30 12:55:10,643 - INFO - 🔍 Scraping [193] (attempt 1): powerbank-xiaomi-22-5w-10000-mah-bhr5884gl
+2025-10-30 12:55:18,430 - INFO - ✅ [193/501] Powerbank Xiaomi 22.5W 10000 mAh / BHR5884GL
+2025-10-30 12:55:24,947 - INFO - 🔍 Scraping [194] (attempt 1): powerbank-xiaomi-33w-pocket-edition-pro-10000-mah-
+2025-10-30 12:55:33,233 - INFO - ✅ [194/501] Powerbank Xiaomi 33W Pocket Edition Pro 10000 mAh 
+2025-10-30 12:55:38,470 - INFO - 🔍 Scraping [195] (attempt 1): powerbank-xiaomi-33w-pocket-edition-pro-10000-mah-
+2025-10-30 12:55:47,161 - INFO - ✅ [195/501] Powerbank Xiaomi 33W Pocket Edition Pro 10000 mAh 
+2025-10-30 12:55:54,897 - INFO - 🔍 Scraping [196] (attempt 1): powerbank-xiaomi-mi-3-1000-mah-22-5w-bhr5078cn
+2025-10-30 12:56:01,868 - INFO - ✅ [196/501] Power Bank Xiaomi MI 3 10000 mAh 22.5W BHR5078CN
+2025-10-30 12:56:07,638 - INFO - 🔍 Scraping [197] (attempt 1): printer-xiaomi-mi-instant-photo-1s-set
+2025-10-30 12:56:15,264 - INFO - ✅ [197/501] Printer Xiaomi MI Instant Photo 1S Set
+2025-10-30 12:56:20,189 - INFO - 🔍 Scraping [198] (attempt 1): proyektor-xiaomi-smart-2-xmtyy02fmgl
+2025-10-30 12:56:27,962 - INFO - ✅ [198/501] Proyektor Xiaomi Smart 2 XMTYY02FMGL
+2025-10-30 12:56:32,537 - INFO - 🔍 Scraping [199] (attempt 1): proyektor-xiaomi-wanbo-t2-max
+2025-10-30 12:56:39,349 - INFO - ✅ [199/501] Proyektor Wanbo T2 Max
+2025-10-30 12:56:45,449 - INFO - 🔍 Scraping [200] (attempt 1): proyektor-xiaomi-wanbo-t4
+2025-10-30 12:56:52,349 - INFO - ✅ [200/501] Proyektor Xiaomi Wanbo T4
+2025-10-30 12:56:58,430 - INFO - 🔍 Scraping [201] (attempt 1): proyektor-xiaomi-wanbo-t6-max
+2025-10-30 12:57:05,957 - INFO - ✅ [201/501] Proyektor Xiaomi Wanbo T6 Max
+2025-10-30 12:57:13,856 - INFO - 🔍 Scraping [202] (attempt 1): proyektor-xiaomi-wanbo-tt
+2025-10-30 12:57:13,857 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 12:57:14,438 - INFO - ✅ WebDriver created successfully
+2025-10-30 12:57:25,330 - INFO - ✅ [202/501] Proyektor Wanbo TT
+2025-10-30 12:57:32,906 - INFO - 🔍 Scraping [203] (attempt 1): proyektor-xiaomi-wanbo-x1-mini-xs01
+2025-10-30 12:57:39,721 - INFO - ✅ [203/501] Proyektor Wanbo X1 Mini (XS01)
+2025-10-30 12:57:45,331 - INFO - 🔍 Scraping [204] (attempt 1): qacis-trenajoru-xiaomi-king-smith-walkingpad-tread
+2025-10-30 12:57:53,146 - INFO - ✅ [204/501] Qaçış trenajoru Xiaomi King Smith WalkingPad Tread
+2025-10-30 12:57:58,466 - INFO - 🔍 Scraping [205] (attempt 1): qacis-ucun-trenajor-xiaomi-walking-pad-r1-pro
+2025-10-30 12:58:03,845 - INFO - ✅ [205/501] Qaçış üçün trenajor King Smith WalkingPad R1 Pro
+2025-10-30 12:58:08,189 - INFO - 🔍 Scraping [206] (attempt 1): qoruyucu-ortuk-akami-jam-xiaomi-mi-11-black
+2025-10-30 12:58:20,826 - INFO - ✅ [206/501] Qoruyucu örtük  Akami Jam Xiaomi Mi 11 Black
+2025-10-30 12:58:25,990 - INFO - 🔍 Scraping [207] (attempt 1): qoruyucu-ortuk-akami-jam-xiaomi-mi-11-blue
+2025-10-30 12:58:34,052 - INFO - ✅ [207/501] Qoruyucu örtük Akami Jam Xiaomi Mi 11 Blue
+2025-10-30 12:58:39,216 - INFO - 🔍 Scraping [208] (attempt 1): qoruyucu-ortuk-akami-jam-xiaomi-mi-11-lite-blue
+2025-10-30 12:58:47,662 - INFO - ✅ [208/501] Qoruyucu örtük Akami Jam Xiaomi Mi 11 Lite Blue
+2025-10-30 12:58:52,365 - INFO - 🔍 Scraping [209] (attempt 1): qoruyucu-ortuk-akami-jam-xiaomi-poco-m4-pro-black
+2025-10-30 12:58:59,634 - INFO - ✅ [209/501] Qoruyucu örtük  Akami Jam Xiaomi Poco M4 Pro Black
+2025-10-30 12:59:06,117 - INFO - 🔍 Scraping [210] (attempt 1): qoruyucu-ortuk-akami-jam-xiaomi-poco-m4-pro-blue
+2025-10-30 12:59:18,440 - INFO - ✅ [210/501] Qoruyucu örtük  Akami Jam Xiaomi Poco M4 Pro Blue
+2025-10-30 12:59:23,424 - INFO - 🔍 Scraping [211] (attempt 1): qoruyucu-ortuk-akami-jam-xiaomi-poco-m4-pro-pink
+2025-10-30 12:59:31,437 - INFO - ✅ [211/501] Qoruyucu örtük Akami Jam Xiaomi Poco M4 Pro Pink
+2025-10-30 12:59:36,317 - INFO - 🔍 Scraping [212] (attempt 1): qoruyucu-ortuk-xiaomi-redmi-pad-se-8-7-black
+2025-10-30 12:59:43,993 - INFO - ✅ [212/501] Qoruyucu örtük Xiaomi Redmi Pad SE 8.7 Black
+2025-10-30 12:59:50,451 - INFO - 🔍 Scraping [213] (attempt 1): qulaqliq-xiaomi-buds-4-active-air-white-bhr7045in
+2025-10-30 12:59:57,622 - INFO - ✅ [213/501] Qulaqlıq Xiaomi Buds 4 Active Air White BHR7045IN
+2025-10-30 13:00:01,729 - INFO - 🔍 Scraping [214] (attempt 1): qulaqliq-xiaomi-buds-5-ceramic-white-bhr8117gl
+2025-10-30 13:00:09,789 - INFO - ✅ [214/501] Qulaqlıq Xiaomi Buds 5 BHR8117GL Ceramic White
+2025-10-30 13:00:15,856 - INFO - 🔍 Scraping [215] (attempt 1): qulaqliq-xiaomi-buds-5-graphite-black-bhr8118gl
+2025-10-30 13:00:24,626 - INFO - ✅ [215/501] Qulaqlıq Xiaomi Buds 5 BHR8118GL Graphite Black
+2025-10-30 13:00:30,297 - INFO - 🔍 Scraping [216] (attempt 1): qulaqliq-xiaomi-buds-5-titan-gray-bhr8116gl
+2025-10-30 13:00:38,057 - INFO - ✅ [216/501] Qulaqlıq Xiaomi Buds 5 Titan Gray BHR8116GL
+2025-10-30 13:00:44,110 - INFO - 🔍 Scraping [217] (attempt 1): qulaqliq-xiaomi-buds-6-play-blue-bhr9283gl
+2025-10-30 13:00:51,851 - INFO - ✅ [217/501] Qulaqlıq Xiaomi Buds 6 Play BHR9283GL Blue
+2025-10-30 13:00:56,937 - INFO - 🔍 Scraping [218] (attempt 1): qulaqliq-xiaomi-buds-6-play-pink-bhr8775gl
+2025-10-30 13:01:05,086 - INFO - ✅ [218/501] Qulaqlıq Xiaomi Buds 6 Play BHR8775GL Pink
+2025-10-30 13:01:10,671 - INFO - 🔍 Scraping [219] (attempt 1): qulaqliq-xiaomi-haylou-earbuds-gt1-white
+2025-10-30 13:01:18,792 - INFO - ✅ [219/501] Qulaqliq Xiaomi Haylou Earbuds Gt1 White
+2025-10-30 13:01:22,824 - INFO - 🔍 Scraping [220] (attempt 1): qulaqliq-xiaomi-mi-basic-headphones-red
+2025-10-30 13:01:30,597 - INFO - ✅ [220/501] Qulaqliq Xiaomi Mi Basic Headphones Red
+2025-10-30 13:01:38,293 - INFO - 🔍 Scraping [221] (attempt 1): qulaqliq-xiaomi-mi-bluetooth-headphone-black-zbw44
+2025-10-30 13:01:47,390 - INFO - ✅ [221/501] Qulaqliq Xiaomi Mi Bluetooth Headphone Black Zbw44
+2025-10-30 13:01:52,274 - INFO - 🔍 Scraping [222] (attempt 1): qulaqliq-xiaomi-mi-bluetooth-headset-basic-black
+2025-10-30 13:02:00,063 - INFO - ✅ [222/501] Qulaqliq Xiaomi Mi Bluetooth Headset Basic Black
+2025-10-30 13:02:04,809 - INFO - 🔍 Scraping [223] (attempt 1): qulaqliq-xiaomi-mi-dual-driver-earphone-black
+2025-10-30 13:02:11,776 - INFO - ✅ [223/501] Qulaqliq Xiaomi Mi Dual Driver Earphone Black
+2025-10-30 13:02:17,602 - INFO - 🔍 Scraping [224] (attempt 1): qulaqliq-xiaomi-mi-dual-driver-type-c-white
+2025-10-30 13:02:24,999 - INFO - ✅ [224/501] Qulaqlıq Xiaomi Mi Dual Driver Type C White
+2025-10-30 13:02:29,627 - INFO - 🔍 Scraping [225] (attempt 1): qulaqliq-xiaomi-mi-dual-type-c-black-zbw4435ty
+2025-10-30 13:02:35,651 - INFO - ✅ [225/501] Qulaqlıq Xiaomi Mi Dual Type C Black / ZBW4435TY
+2025-10-30 13:02:41,616 - INFO - 🔍 Scraping [226] (attempt 1): qulaqliq-xiaomi-open-wear-stereo-cosmic-gray-bhr84
+2025-10-30 13:02:49,145 - INFO - ✅ [226/501] Qulaqlıq Xiaomi Open Wear Stereo Cosmic BHR8474GL 
+2025-10-30 13:02:56,652 - INFO - 🔍 Scraping [227] (attempt 1): qulaqliq-xiaomi-open-wear-stereo-sandstone-beige-b
+2025-10-30 13:02:56,652 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 13:02:57,180 - INFO - ✅ WebDriver created successfully
+2025-10-30 13:03:07,675 - INFO - ✅ [227/501] Qulaqlıq Xiaomi Open Wear Stereo Sandstone BHR8473
+2025-10-30 13:03:15,014 - INFO - 🔍 Scraping [228] (attempt 1): qulaqliq-xiaomi-redmi-airdots-2-white-bhr5230cn
+2025-10-30 13:03:23,453 - INFO - ✅ [228/501] Qulaqlıq Xiaomi Redmi AirDots 2 White / BHR5230CN
+2025-10-30 13:03:29,197 - INFO - 🔍 Scraping [229] (attempt 1): qulaqliq-xiaomi-redmi-buds-3-lite-white-bhr5490gl
+2025-10-30 13:03:38,774 - INFO - ✅ [229/501] Qulaqlıq Xiaomi Redmi Buds 3 Lite White / BHR5490G
+2025-10-30 13:03:45,438 - INFO - 🔍 Scraping [230] (attempt 1): qulaqliq-xiaomi-redmi-buds-3-white-bhr5173cn
+2025-10-30 13:03:54,638 - INFO - ✅ [230/501] Qulaqlıq Xiaomi Redmi Buds 3 White / BHR5173CN
+2025-10-30 13:03:59,334 - INFO - 🔍 Scraping [231] (attempt 1): qulaqliq-xiaomi-redmi-buds-4-active-bhr6992gl
+2025-10-30 13:04:07,760 - INFO - ✅ [231/501] Qulaqlıq Xiaomi Redmi Buds 4 Active BHR6992GL
+2025-10-30 13:04:14,586 - INFO - 🔍 Scraping [232] (attempt 1): qulaqliq-xiaomi-redmi-buds-4-active-black-bhr6993i
+2025-10-30 13:04:21,566 - INFO - ✅ [232/501] Qulaqlıq Xiaomi Redmi Buds 4 Active Black / BHR699
+2025-10-30 13:04:29,513 - INFO - 🔍 Scraping [233] (attempt 1): qulaqliq-xiaomi-redmi-buds-4-active-white-bhr8000g
+2025-10-30 13:04:37,148 - INFO - ✅ [233/501] Qulaqlıq Xiaomi Redmi Buds 4 Active White BHR8000G
+2025-10-30 13:04:44,532 - INFO - 🔍 Scraping [234] (attempt 1): qulaqliq-xiaomi-redmi-buds-4-black-bhr7335gl
+2025-10-30 13:04:51,638 - INFO - ✅ [234/501] Qulaqlıq Xiaomi Redmi Buds 4 Black / BHR7335GL
+2025-10-30 13:04:59,258 - INFO - 🔍 Scraping [235] (attempt 1): qulaqliq-xiaomi-redmi-buds-4-lite-black-bhr7118gl
+2025-10-30 13:05:05,105 - INFO - ✅ [235/501] Qulaqlıq Xiaomi Redmi Buds 4 Lite Black BHR7118GL
+2025-10-30 13:05:12,634 - INFO - 🔍 Scraping [236] (attempt 1): qulaqliq-xiaomi-redmi-buds-4-lite-white-bhr6919gl
+2025-10-30 13:05:21,952 - INFO - ✅ [236/501] Qulaqlıq Xiaomi Redmi Buds 4 Lite White BHR6919GL
+2025-10-30 13:05:27,366 - INFO - 🔍 Scraping [237] (attempt 1): qulaqliq-xiaomi-redmi-buds-5-black-bhr7627gl
+2025-10-30 13:05:35,679 - INFO - ✅ [237/501] Qulaqlıq Xiaomi Redmi Buds 5 Black BHR7627GL
+2025-10-30 13:05:40,930 - INFO - 🔍 Scraping [238] (attempt 1): qulaqliq-xiaomi-redmi-buds-5-pro-aurora-purple-bhr
+2025-10-30 13:05:45,751 - INFO - ✅ [238/501] Qulaqlıq Xiaomi Redmi Buds 5 Pro BHR7799GL Aurora 
+2025-10-30 13:05:53,047 - INFO - 🔍 Scraping [239] (attempt 1): qulaqliq-xiaomi-redmi-buds-5-pro-black-bhr7660gl
+2025-10-30 13:06:00,547 - INFO - ✅ [239/501] Qulaqlıq Xiaomi Redmi Buds 5 Pro Black BHR7660GL
+2025-10-30 13:06:08,401 - INFO - 🔍 Scraping [240] (attempt 1): qulaqliq-xiaomi-redmi-buds-5-pro-black-bhr7660gl-1
+2025-10-30 13:06:21,546 - INFO - ✅ [240/501] Qulaqlıq Xiaomi Redmi Buds 5 Pro BHR7660GL Black
+2025-10-30 13:06:28,204 - INFO - 🔍 Scraping [241] (attempt 1): qulaqliq-xiaomi-redmi-buds-5-pro-moonlight-white-b
+2025-10-30 13:06:37,640 - INFO - ✅ [241/501] Qulaqlıq Xiaomi Redmi Buds 5 Pro Moonlight White B
+2025-10-30 13:06:42,905 - INFO - 🔍 Scraping [242] (attempt 1): qulaqliq-xiaomi-redmi-buds-5-sky-blue-bhr7631gl
+2025-10-30 13:06:52,168 - INFO - ✅ [242/501] Qulaqlıq Xiaomi Redmi Buds 5 Sky Blue BHR7631GL
+2025-10-30 13:07:00,102 - INFO - 🔍 Scraping [243] (attempt 1): qulaqliq-xiaomi-redmi-buds-5-white-bhr7628gl
+2025-10-30 13:07:04,691 - INFO - ✅ [243/501] Qulaqlıq Xiaomi Redmi Buds 5 White BHR7628GL
+2025-10-30 13:07:12,446 - INFO - 🔍 Scraping [244] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-active-black-bhr8396g
+2025-10-30 13:07:16,663 - INFO - ✅ [244/501] Qulaqlıq Xiaomi Redmi Buds 6 Active BHR8396GL Blac
+2025-10-30 13:07:22,633 - INFO - 🔍 Scraping [245] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-active-blue-bhr8394gl
+2025-10-30 13:07:30,415 - INFO - ✅ [245/501] Qulaqlıq Xiaomi Redmi Buds 6 Active Blue BHR8394GL
+2025-10-30 13:07:37,181 - INFO - 🔍 Scraping [246] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-active-pink-bhr8395gl
+2025-10-30 13:07:45,606 - INFO - ✅ [246/501] Qulaqlıq Xiaomi Redmi Buds 6 Active BHR8395GL Pink
+2025-10-30 13:07:50,610 - INFO - 🔍 Scraping [247] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-active-white-bhr8391g
+2025-10-30 13:07:59,564 - INFO - ✅ [247/501] Qulaqlıq Xiaomi Redmi Buds 6 Active BHR8391GL Whit
+2025-10-30 13:08:06,445 - INFO - 🔍 Scraping [248] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-cloud-white-bhr9250gl
+2025-10-30 13:08:10,468 - INFO - ✅ [248/501] Qulaqlıq Xiaomi Redmi Buds 6 BHR9250GL Cloud White
+2025-10-30 13:08:15,539 - INFO - 🔍 Scraping [249] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-coral-green-bhr9245gl
+2025-10-30 13:08:19,981 - INFO - ✅ [249/501] Qulaqlıq Xiaomi Redmi Buds 6 BHR9245GL Coral Green
+2025-10-30 13:08:25,277 - INFO - 🔍 Scraping [250] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-lite-black-bhr8653gl
+2025-10-30 13:08:30,962 - INFO - ✅ [250/501] Qulaqlıq Xiaomi Redmi Buds 6 Lite BHR8653GL Black
+2025-10-30 13:08:38,575 - INFO - 🔍 Scraping [251] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-lite-blue-bhr8660gl
+2025-10-30 13:08:42,396 - INFO - ✅ [251/501] Qulaqlıq Xiaomi Redmi Buds 6 Lite BHR8660GL Blue
+2025-10-30 13:08:46,572 - INFO - 🔍 Scraping [252] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-lite-white-bhr8655gl
+2025-10-30 13:08:46,573 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 13:08:49,564 - INFO - ✅ WebDriver created successfully
+2025-10-30 13:08:56,276 - INFO - ✅ [252/501] Qulaqlıq Xiaomi Redmi Buds 6 Lite BHR8655GL White
+2025-10-30 13:09:03,120 - INFO - 🔍 Scraping [253] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-night-black-bhr9251gl
+2025-10-30 13:09:16,346 - INFO - ✅ [253/501] Qulaqlıq Xiaomi Redmi Buds 6 BHR9251GL Night Black
+2025-10-30 13:09:22,448 - INFO - 🔍 Scraping [254] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-play-black-bhr8773gl
+2025-10-30 13:09:30,706 - INFO - ✅ [254/501] Qulaqlıq Xiaomi Redmi Buds 6 Play BHR8773GL White
+2025-10-30 13:09:34,959 - INFO - 🔍 Scraping [255] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-play-black-bhr8776gl
+2025-10-30 13:09:42,760 - INFO - ✅ [255/501] Qulaqlıq Xiaomi Redmi Buds 6 Play BHR8776GL Black
+2025-10-30 13:09:49,877 - INFO - 🔍 Scraping [256] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-pro-glacier-white-bhr
+2025-10-30 13:09:59,137 - INFO - ✅ [256/501] Qulaqlıq Xiaomi Redmi Buds 6 Pro BHR9310GL Glacier
+2025-10-30 13:10:05,010 - INFO - 🔍 Scraping [257] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-pro-lavender-purple-b
+2025-10-30 13:10:14,289 - INFO - ✅ [257/501] Qulaqlıq Xiaomi Redmi Buds 6 Pro BHR9317GL Lavende
+2025-10-30 13:10:20,707 - INFO - 🔍 Scraping [258] (attempt 1): qulaqliq-xiaomi-redmi-buds-6-pro-space-black-bhr93
+2025-10-30 13:10:29,854 - INFO - ✅ [258/501] Qulaqlıq Xiaomi Redmi Buds 6 Pro BHR9307GL Space B
+2025-10-30 13:10:35,908 - INFO - 🔍 Scraping [259] (attempt 1): qulaqliq-xiaomi-type-c-earphones-black-bhr8930gl
+2025-10-30 13:10:43,299 - INFO - ✅ [259/501] Qulaqlıq Xiaomi BHR8930GL Black
+2025-10-30 13:10:47,902 - INFO - 🔍 Scraping [260] (attempt 1): qulaqliq-xiaomi-type-c-earphones-white-bhr8931gl
+2025-10-30 13:10:57,894 - INFO - ✅ [260/501] Qulaqlıq Xiaomi BHR8931GL White
+2025-10-30 13:11:02,005 - INFO - 🔍 Scraping [261] (attempt 1): robot-tozsoran-ucun-torba-xiaomi
+2025-10-30 13:11:08,264 - INFO - ✅ [261/501] Robot tozsoran üçün torba Xiaomi
+2025-10-30 13:11:14,566 - INFO - 🔍 Scraping [262] (attempt 1): robot-tozsoran-ucun-torba-xiaomi-bhr6560gl
+2025-10-30 13:11:22,587 - INFO - ✅ [262/501] Robot tozsoran üçün torba Xiaomi BHR6560GL
+2025-10-30 13:11:30,303 - INFO - 🔍 Scraping [263] (attempt 1): robot-tozsoran-xiaomi-5-ov31gl
+2025-10-30 13:11:35,451 - INFO - ✅ [263/501] Robot tozsoran Xiaomi 5 OV31GL
+2025-10-30 13:11:43,179 - INFO - 🔍 Scraping [264] (attempt 1): robot-tozsoran-xiaomi-5-pro-ov21gl
+2025-10-30 13:11:48,732 - INFO - ✅ [264/501] Robot tozsoran Xiaomi 5 Pro OV21GL
+2025-10-30 13:11:53,963 - INFO - 🔍 Scraping [265] (attempt 1): robot-tozsoran-xiaomi-e10
+2025-10-30 13:12:03,766 - INFO - ✅ [265/501] Robot tozsoran Xiaomi E10
+2025-10-30 13:12:10,716 - INFO - 🔍 Scraping [266] (attempt 1): robot-tozsoran-xiaomi-e5
+2025-10-30 13:12:15,960 - INFO - ✅ [266/501] Robot tozsoran Xiaomi E5 White
+2025-10-30 13:12:23,873 - INFO - 🔍 Scraping [267] (attempt 1): robot-tozsoran-xiaomi-e5-black
+2025-10-30 13:12:32,530 - INFO - ✅ [267/501] Robot tozsoran Xiaomi E5 Black
+2025-10-30 13:12:37,207 - INFO - 🔍 Scraping [268] (attempt 1): robot-tozsoran-xiaomi-h40
+2025-10-30 13:12:41,580 - INFO - ✅ [268/501] Robot tozsoran Xiaomi H40
+2025-10-30 13:12:48,670 - INFO - 🔍 Scraping [269] (attempt 1): robot-tozsoran-xiaomi-mop-2
+2025-10-30 13:12:56,252 - INFO - ✅ [269/501] Robot tozsoran Xiaomi Mop 2
+2025-10-30 13:13:00,661 - INFO - 🔍 Scraping [270] (attempt 1): robot-tozsoran-xiaomi-mop-2-lite
+2025-10-30 13:13:08,381 - INFO - ✅ [270/501] Robot tozsoran Xiaomi Mop 2 Lite
+2025-10-30 13:13:12,859 - INFO - 🔍 Scraping [271] (attempt 1): robot-tozsoran-xiaomi-mop-2-pro-black
+2025-10-30 13:13:22,576 - INFO - ✅ [271/501] Robot tozsoran Xiaomi Mop 2 Pro Black
+2025-10-30 13:13:27,473 - INFO - 🔍 Scraping [272] (attempt 1): robot-tozsoran-xiaomi-mop-2-pro-plus-black-bhr4707
+2025-10-30 13:13:35,839 - INFO - ✅ [272/501] Robot tozsoran Xiaomi MOP 2 Pro Plus Black BHR4707
+2025-10-30 13:13:42,595 - INFO - 🔍 Scraping [273] (attempt 1): robot-tozsoran-xiaomi-mop-2-pro-white
+2025-10-30 13:13:49,423 - INFO - ✅ [273/501] Robot tozsoran Xiaomi Mop 2 Pro White
+2025-10-30 13:13:57,047 - INFO - 🔍 Scraping [274] (attempt 1): robot-tozsoran-xiaomi-mop-2-ultra-bhr5195
+2025-10-30 13:14:05,134 - INFO - ✅ [274/501] Robot tozsoran Xiaomi Mop 2 Ultra BHR5195
+2025-10-30 13:14:12,771 - INFO - 🔍 Scraping [275] (attempt 1): robot-tozsoran-xiaomi-roborock-q7-max-black
+2025-10-30 13:14:20,545 - INFO - ✅ [275/501] Robot tozsoran Xiaomi Roborock Q7 Max+ Black
+2025-10-30 13:14:27,140 - INFO - 🔍 Scraping [276] (attempt 1): robot-tozsoran-xiaomi-roborock-q7-max-white
+2025-10-30 13:14:36,584 - INFO - ✅ [276/501] Robot tozsoran Xiaomi Roborock Q7 Max + White
+2025-10-30 13:14:42,072 - INFO - 🔍 Scraping [277] (attempt 1): robot-tozsoran-xiaomi-roborock-s5-max-black
+2025-10-30 13:14:42,073 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 13:14:42,662 - INFO - ✅ WebDriver created successfully
+2025-10-30 13:14:54,717 - INFO - ✅ [277/501] Robot tozsoran Xiaomi Roborock S5 Max Black
+2025-10-30 13:15:02,465 - INFO - 🔍 Scraping [278] (attempt 1): robot-tozsoran-xiaomi-roborock-s5-max-white
+2025-10-30 13:15:13,875 - INFO - ✅ [278/501] Robot tozsoran Xiaomi Roborock S5 Max White
+2025-10-30 13:15:20,388 - INFO - 🔍 Scraping [279] (attempt 1): robot-tozsoran-xiaomi-roborock-s6-max-v-black
+2025-10-30 13:15:28,998 - INFO - ✅ [279/501] Robot tozsoran Xiaomi Roborock S6 Max V Black
+2025-10-30 13:15:35,265 - INFO - 🔍 Scraping [280] (attempt 1): robot-tozsoran-xiaomi-roborock-s6-pure-white
+2025-10-30 13:15:44,237 - INFO - ✅ [280/501] Robot tozsoran Xiaomi Roborock S6 Pure White
+2025-10-30 13:15:48,587 - INFO - 🔍 Scraping [281] (attempt 1): robot-tozsoran-xiaomi-roborock-s7-black
+2025-10-30 13:15:57,340 - INFO - ✅ [281/501] Robot tozsoran Xiaomi Roborock S7 Black
+2025-10-30 13:16:02,467 - INFO - 🔍 Scraping [282] (attempt 1): robot-tozsoran-xiaomi-roborock-s7-max-ultra-black
+2025-10-30 13:16:11,600 - INFO - ✅ [282/501] Robot tozsoran Xiaomi Roborock S7 Max Ultra Black
+2025-10-30 13:16:16,299 - INFO - 🔍 Scraping [283] (attempt 1): robot-tozsoran-xiaomi-roborock-s7-max-ultra-white
+2025-10-30 13:16:26,061 - INFO - ✅ [283/501] Robot tozsoran Xiaomi Roborock S7 Max Ultra White
+2025-10-30 13:16:31,702 - INFO - 🔍 Scraping [284] (attempt 1): robot-tozsoran-xiaomi-roborock-s7-max-v-black
+2025-10-30 13:16:41,038 - INFO - ✅ [284/501] Robot tozsoran Xiaomi Roborock  S7 Max V+ Black
+2025-10-30 13:16:48,101 - INFO - 🔍 Scraping [285] (attempt 1): robot-tozsoran-xiaomi-roborock-s7-max-v-ultra-max
+2025-10-30 13:16:55,699 - INFO - ✅ [285/501] Robot tozsoran Xiaomi Roborock S7 MAX V Ultra Max
+2025-10-30 13:17:02,608 - INFO - 🔍 Scraping [286] (attempt 1): robot-tozsoran-xiaomi-roborock-s7-white
+2025-10-30 13:17:13,876 - INFO - ✅ [286/501] Robot tozsoran Xiaomi Roborock S7 White
+2025-10-30 13:17:17,923 - INFO - 🔍 Scraping [287] (attempt 1): robot-tozsoran-xiaomi-roborock-s8-black-3
+2025-10-30 13:17:28,417 - INFO - ✅ [287/501] Robot tozsoran Xiaomi Roborock S8 Black
+2025-10-30 13:17:33,978 - INFO - 🔍 Scraping [288] (attempt 1): robot-tozsoran-xiaomi-roborock-s8-plus-black
+2025-10-30 13:17:41,982 - INFO - ✅ [288/501] Robot tozsoran Xiaomi Roborock S8 Plus Black
+2025-10-30 13:17:47,087 - INFO - 🔍 Scraping [289] (attempt 1): robot-tozsoran-xiaomi-roborock-s8-plus-white
+2025-10-30 13:17:54,991 - INFO - ✅ [289/501] Robot tozsoran Xiaomi Roborock S8 Plus White
+2025-10-30 13:17:59,337 - INFO - 🔍 Scraping [290] (attempt 1): robot-tozsoran-xiaomi-roborock-s8-pro-ultra-black
+2025-10-30 13:18:08,055 - INFO - ✅ [290/501] Robot tozsoran Xiaomi Roborock S8 Pro Ultra Black
+2025-10-30 13:18:15,997 - INFO - 🔍 Scraping [291] (attempt 1): robot-tozsoran-xiaomi-roborock-s8-pro-ultra-white
+2025-10-30 13:18:25,412 - INFO - ✅ [291/501] Robot tozsoran Roborock S8 Pro Ultra White
+2025-10-30 13:18:31,196 - INFO - 🔍 Scraping [292] (attempt 1): robot-tozsoran-xiaomi-roborock-s8-white-4
+2025-10-30 13:18:38,693 - INFO - ✅ [292/501] Robot tozsoran Xiaomi Roborock S8 White
+2025-10-30 13:18:46,365 - INFO - 🔍 Scraping [293] (attempt 1): robot-tozsoran-xiaomi-s10
+2025-10-30 13:18:54,891 - INFO - ✅ [293/501] Robot tozsoran Xiaomi S10
+2025-10-30 13:19:01,715 - INFO - 🔍 Scraping [294] (attempt 1): robot-tozsoran-xiaomi-s10-plus
+2025-10-30 13:19:10,061 - INFO - ✅ [294/501] Robot tozsoran Xiaomi S10 Plus
+2025-10-30 13:19:14,394 - INFO - 🔍 Scraping [295] (attempt 1): robot-tozsoran-xiaomi-s10t
+2025-10-30 13:19:22,503 - INFO - ✅ [295/501] Robot Tozsoran Xiaomi S10T
+2025-10-30 13:19:27,977 - INFO - 🔍 Scraping [296] (attempt 1): robot-tozsoran-xiaomi-s20-black
+2025-10-30 13:19:35,455 - INFO - ✅ [296/501] Robot tozsoran Xiaomi S20 Black
+2025-10-30 13:19:41,733 - INFO - 🔍 Scraping [297] (attempt 1): robot-tozsoran-xiaomi-s20-plus-black
+2025-10-30 13:19:47,645 - INFO - ✅ [297/501] Robot tozsoran Xiaomi S20 Plus Black
+2025-10-30 13:19:54,840 - INFO - 🔍 Scraping [298] (attempt 1): robot-tozsoran-xiaomi-s20-plus-white
+2025-10-30 13:20:01,905 - INFO - ✅ [298/501] Robot tozsoran Xiaomi S20 Plus White
+2025-10-30 13:20:08,578 - INFO - 🔍 Scraping [299] (attempt 1): robot-tozsoran-xiaomi-s20-white
+2025-10-30 13:20:21,298 - INFO - ✅ [299/501] Robot tozsoran Xiaomi S20 White
+2025-10-30 13:20:27,407 - INFO - 🔍 Scraping [300] (attempt 1): robot-tozsoran-xiaomi-s40
+2025-10-30 13:20:35,497 - INFO - ✅ [300/501] Robot tozsoran Xiaomi S40
+2025-10-30 13:20:43,301 - INFO - 🔍 Scraping [301] (attempt 1): robot-tozsoran-xiaomi-s40c
+2025-10-30 13:20:47,172 - INFO - ✅ [301/501] Robot tozsoran Xiaomi S40C
+2025-10-30 13:20:53,220 - INFO - 🔍 Scraping [302] (attempt 1): robot-tozsoran-xiaomi-skv4093gl
+2025-10-30 13:20:53,220 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 13:20:53,678 - INFO - ✅ WebDriver created successfully
+2025-10-30 13:21:05,687 - INFO - ✅ [302/501] Robot tozsoran Xiaomi SKV4093GL
+2025-10-30 13:21:13,225 - INFO - 🔍 Scraping [303] (attempt 1): robot-tozsoran-xiaomi-skv4109gl
+2025-10-30 13:21:22,793 - INFO - ✅ [303/501] Robot tozsoran Xiaomi SKV4109GL
+2025-10-30 13:21:27,682 - INFO - 🔍 Scraping [304] (attempt 1): robot-tozsoran-xiaomi-skv4110gl
+2025-10-30 13:21:35,222 - INFO - ✅ [304/501] Robot tozsoran Xiaomi SKV4110GL
+2025-10-30 13:21:42,916 - INFO - 🔍 Scraping [305] (attempt 1): robot-tozsoran-xiaomi-skv4136gl
+2025-10-30 13:21:50,472 - INFO - ✅ [305/501] Robot tozsoran Xiaomi SKV4136GL
+2025-10-30 13:21:56,658 - INFO - 🔍 Scraping [306] (attempt 1): robot-tozsoran-xiaomi-x10
+2025-10-30 13:22:05,241 - INFO - ✅ [306/501] Robot tozsoran Xiaomi X10
+2025-10-30 13:22:12,561 - INFO - 🔍 Scraping [307] (attempt 1): robot-tozsoran-xiaomi-x10-plus
+2025-10-30 13:22:23,144 - INFO - ✅ [307/501] Robot tozsoran Xiaomi X10 Plus
+2025-10-30 13:22:30,741 - INFO - 🔍 Scraping [308] (attempt 1): robot-tozsoran-xiaomi-x20-max
+2025-10-30 13:22:38,885 - INFO - ✅ [308/501] Robot tozsoran Xiaomi X20 Max
+2025-10-30 13:22:44,399 - INFO - 🔍 Scraping [309] (attempt 1): robot-tozsoran-xiaomi-x20-plus
+2025-10-30 13:22:52,178 - INFO - ✅ [309/501] Robot tozsoran Xiaomi X20 Plus
+2025-10-30 13:22:56,853 - INFO - 🔍 Scraping [310] (attempt 1): robot-tozsoran-xiaomi-x20-pro
+2025-10-30 13:23:01,010 - INFO - ✅ [310/501] Robot tozsoran Xiaomi X20 Pro
+2025-10-30 13:23:05,095 - INFO - 🔍 Scraping [311] (attempt 1): router-xiaomi-mi-ac1200
+2025-10-30 13:23:15,117 - INFO - ✅ [311/501] Xiaomi MI AC1200
+2025-10-30 13:23:21,188 - INFO - 🔍 Scraping [312] (attempt 1): router-xiaomi-mi-mesh-system-ax3000-1-pack-dvb4315
+2025-10-30 13:23:30,260 - INFO - ✅ [312/501] Xiaomi Mi Mesh System AX3000 (1-PACK) DVB4315GL
+2025-10-30 13:23:34,623 - INFO - 🔍 Scraping [313] (attempt 1): router-xiaomi-mi-mesh-system-ax3000-2-pack-dvb4287
+2025-10-30 13:23:42,923 - INFO - ✅ [313/501] Xiaomi Mi Mesh System AX3000 (2-PACK) DVB4287GL
+2025-10-30 13:23:49,494 - INFO - 🔍 Scraping [314] (attempt 1): router-xiaomi-mi-router-ax3000t-rd23-dvb4441gl
+2025-10-30 13:23:58,167 - INFO - ✅ [314/501] Router Xiaomi Mi AX3000T (RD23) / DVB4441GL
+2025-10-30 13:24:02,574 - INFO - 🔍 Scraping [315] (attempt 1): router-xiaomi-wi-fi-range-ac1200
+2025-10-30 13:24:12,594 - INFO - ✅ [315/501] Router Xiaomi WI-FI Range AC1200
+2025-10-30 13:24:17,287 - INFO - 🔍 Scraping [316] (attempt 1): sacqirxan-xiaomi-2-mjghhc2lf-bhr8999gl
+2025-10-30 13:24:26,982 - INFO - ✅ [316/501] Saçqırxan Xiaomi 2 MJGHHC2LF / BHR8999GL
+2025-10-30 13:24:33,412 - INFO - 🔍 Scraping [317] (attempt 1): smart-caydan-xiaomi-skv4035gl
+2025-10-30 13:24:42,430 - INFO - ✅ [317/501] Smart Çaydan Xiaomi SKV4035GL
+2025-10-30 13:24:48,739 - INFO - 🔍 Scraping [318] (attempt 1): smart-qolbaq-xiaomi-smart-band-10-glimmer-edition-
+2025-10-30 13:24:57,134 - INFO - ✅ [318/501] Smart qolbaq Xiaomi Smart Band 10 Glimmer Edition 
+2025-10-30 13:25:04,106 - INFO - 🔍 Scraping [319] (attempt 1): smart-saat-xiaomi-redmi-watch-5-lite-black-bhr8789
+2025-10-30 13:25:09,044 - INFO - ✅ [319/501] Xiaomi Redmi Watch 5 Lite Black BHR8789GL
+2025-10-30 13:25:13,874 - INFO - 🔍 Scraping [320] (attempt 1): smart-saat-xiaomi-watch-s4-bhr07vrgl-black
+2025-10-30 13:25:18,662 - INFO - ✅ [320/501] Smart saat Xiaomi Watch S4 BHR07VRGL Black
+2025-10-30 13:25:24,968 - INFO - 🔍 Scraping [321] (attempt 1): smart-saat-xiaomi-watch-s4-bhr07vugl-white
+2025-10-30 13:25:30,339 - INFO - ✅ [321/501] Smart saat Xiaomi Watch S4 BHR07VUGL White
+2025-10-30 13:25:34,375 - INFO - 🔍 Scraping [322] (attempt 1): smart-saat-xiaomi-watch-s4-bhr07vwgl-sunset-gold
+2025-10-30 13:25:44,975 - INFO - ✅ [322/501] Smart saat Xiaomi Watch S4 BHR07VWGL Sunset Gold
+2025-10-30 13:25:50,455 - INFO - 🔍 Scraping [323] (attempt 1): smart-saat-xiaomi-watch-s4-bhr080cgl-mint-green
+2025-10-30 13:26:00,192 - INFO - ✅ [323/501] Smart saat Xiaomi Watch S4 BHR080CGL Mint Green
+2025-10-30 13:26:06,562 - INFO - 🔍 Scraping [324] (attempt 1): smartfon-xiaomi
+2025-10-30 13:26:13,321 - INFO - ✅ [324/501] Smartfon Xiaomi
+2025-10-30 13:26:20,345 - INFO - 🔍 Scraping [325] (attempt 1): su-pompasi-xiaomi-tds-automatic-water-supply-hd-zd
+2025-10-30 13:26:29,921 - INFO - ✅ [325/501] Su pompası Xiaomi TDS Automatic Water Supply (HD-Z
+2025-10-30 13:26:35,353 - INFO - 🔍 Scraping [326] (attempt 1): suse-4d-glass-full-xiaomi-poco-m3
+2025-10-30 13:26:41,824 - INFO - ✅ [326/501] Şüşə 4D Glass Full Xiaomi Poco M3
+2025-10-30 13:26:47,434 - INFO - 🔍 Scraping [327] (attempt 1): suse-4d-glass-full-xiaomi-poco-x3
+2025-10-30 13:26:47,435 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 13:26:47,934 - INFO - ✅ WebDriver created successfully
+2025-10-30 13:26:57,719 - INFO - ✅ [327/501] Şüşə 4D Glass Full Xiaomi Poco X3
+2025-10-30 13:27:05,604 - INFO - 🔍 Scraping [328] (attempt 1): suse-4d-glass-full-xiaomi-redmi-8
+2025-10-30 13:27:14,508 - INFO - ✅ [328/501] Şüşə 4D Glass Full Xiaomi Redmi 8
+2025-10-30 13:27:22,173 - INFO - 🔍 Scraping [329] (attempt 1): suse-4d-glass-full-xiaomi-redmi-note-10
+2025-10-30 13:27:29,305 - INFO - ✅ [329/501] Qoruyucu şüşə 4D Xiaomi Redmi Note 10
+2025-10-30 13:27:36,623 - INFO - 🔍 Scraping [330] (attempt 1): suse-4d-glass-full-xiaomi-redmi-note-8
+2025-10-30 13:27:42,795 - INFO - ✅ [330/501] 4D Glass Full Xiaomi Redmi Note 8
+2025-10-30 13:27:46,828 - INFO - 🔍 Scraping [331] (attempt 1): suse-4d-glass-full-xiaomi-redmi-note-9
+2025-10-30 13:27:52,167 - INFO - ✅ [331/501] Şüşə 4D Glass Full Xiaomi Redmi Note 9
+2025-10-30 13:27:58,500 - INFO - 🔍 Scraping [332] (attempt 1): telefon-xiaomi
+2025-10-30 13:28:06,341 - INFO - ✅ [332/501] Telefon Xiaomi
+2025-10-30 13:28:12,699 - INFO - 🔍 Scraping [333] (attempt 1): telefon-xiaomi-redmi
+2025-10-30 13:28:23,452 - INFO - ✅ [333/501] Telefon Xiaomi Redmi
+2025-10-30 13:28:29,492 - INFO - 🔍 Scraping [334] (attempt 1): televizor-xiaomi-mi-led-32-4a-global
+2025-10-30 13:28:40,180 - INFO - ✅ [334/501] Televizor Xiaomi Mi LED 32 4A Global
+2025-10-30 13:28:48,100 - INFO - 🔍 Scraping [335] (attempt 1): televizor-xiaomi-mi-led-50-4s-global
+2025-10-30 13:29:02,667 - INFO - ✅ [335/501] Televizor Xiaomi Mi LED 50 4S Global
+2025-10-30 13:29:08,748 - INFO - 🔍 Scraping [336] (attempt 1): televizor-xiaomi-mi-led-55-4s-global
+2025-10-30 13:29:20,644 - INFO - ✅ [336/501] Televizor Xiaomi Mi LED 55 4S Global
+2025-10-30 13:29:26,559 - INFO - 🔍 Scraping [337] (attempt 1): televizor-xiaomi-mi-led-65-4s-global
+2025-10-30 13:29:36,363 - INFO - ✅ [337/501] Televizor Xiaomi Mi LED 65 4S Global
+2025-10-30 13:29:41,373 - INFO - 🔍 Scraping [338] (attempt 1): televizor-xiaomi-mi-tv-p1-43
+2025-10-30 13:29:52,389 - INFO - ✅ [338/501] Televizor Xiaomi Mi TV P1 43
+2025-10-30 13:29:59,029 - INFO - 🔍 Scraping [339] (attempt 1): televizor-xiaomi-mi-tv-p1-55
+2025-10-30 13:30:10,618 - INFO - ✅ [339/501] Televizor Xiaomi Mi TV P1 55
+2025-10-30 13:30:15,657 - INFO - 🔍 Scraping [340] (attempt 1): televizor-xiaomi-tv-86-ela4749gl
+2025-10-30 13:30:26,901 - INFO - ✅ [340/501] Televizor Xiaomi TV 86 (ELA4749GL)
+2025-10-30 13:30:30,964 - INFO - 🔍 Scraping [341] (attempt 1): televizor-xiaomi-tv-a-32-l32m8-a2ru
+2025-10-30 13:30:35,685 - INFO - ✅ [341/501] Televizor Xiaomi TV A 32 L32M8-A2RU
+2025-10-30 13:30:43,314 - INFO - 🔍 Scraping [342] (attempt 1): televizor-xiaomi-tv-a-43-l43mb-aume
+2025-10-30 13:30:48,675 - INFO - ✅ [342/501] Televizor Xiaomi TV A 43 L43MB-AUME
+2025-10-30 13:30:54,878 - INFO - 🔍 Scraping [343] (attempt 1): televizor-xiaomi-tv-a-pro-32
+2025-10-30 13:31:10,975 - INFO - ✅ [343/501] Televizor Xiaomi TV A Pro 32
+2025-10-30 13:31:16,638 - INFO - 🔍 Scraping [344] (attempt 1): televizor-xiaomi-tv-a-pro-55-l55mb-apme
+2025-10-30 13:31:21,568 - INFO - ✅ [344/501] Televizor Xiaomi TV A Pro 55 L55MB-APME
+2025-10-30 13:31:27,182 - INFO - 🔍 Scraping [345] (attempt 1): televizor-xiaomi-tv-a-pro-65-l65mb-apme
+2025-10-30 13:31:32,244 - INFO - ✅ [345/501] Televizor Xiaomi TV A Pro 65 L65MB-APME
+2025-10-30 13:31:37,280 - INFO - 🔍 Scraping [346] (attempt 1): televizor-xiaomi-tv-a-pro-l55m8-a2me
+2025-10-30 13:31:52,808 - INFO - ✅ [346/501] Televizor Xiaomi TV A Pro L55M8-A2ME
+2025-10-30 13:31:59,388 - INFO - 🔍 Scraping [347] (attempt 1): televizor-xiaomi-tv-a2-gl-32
+2025-10-30 13:32:05,321 - INFO - ✅ [347/501] Televizor Xiaomi TV A2 GL 32
+2025-10-30 13:32:11,705 - INFO - 🔍 Scraping [348] (attempt 1): televizor-xiaomi-tv-a2-gl-43
+2025-10-30 13:32:25,242 - INFO - ✅ [348/501] Televizor Xiaomi TV A2 GL 43
+2025-10-30 13:32:29,689 - INFO - 🔍 Scraping [349] (attempt 1): televizor-xiaomi-tv-a2-gl-55
+2025-10-30 13:32:39,066 - INFO - ✅ [349/501] Televizor Xiaomi TV A2 GL 55
+2025-10-30 13:32:46,225 - INFO - 🔍 Scraping [350] (attempt 1): televizor-xiaomi-tv-max-100-l100ma-spru
+2025-10-30 13:32:55,810 - INFO - ✅ [350/501] Televizor Xiaomi TV Max 100 L100MA-SPRU
+2025-10-30 13:33:02,924 - INFO - 🔍 Scraping [351] (attempt 1): televizor-xiaomi-tv-max-85-l85ma-maxru
+2025-10-30 13:33:14,014 - INFO - ✅ [351/501] Televizor Xiaomi TV Max 85 L85MA-MAXRU
+2025-10-30 13:33:19,890 - INFO - 🔍 Scraping [352] (attempt 1): televizor-xiaomi-tv-q2-l55m7-q2ru
+2025-10-30 13:33:19,891 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 13:33:20,394 - INFO - ✅ WebDriver created successfully
+2025-10-30 13:33:31,960 - INFO - ✅ [352/501] Televizor Xiaomi TV Q2 L55M7-Q2RU
+2025-10-30 13:33:37,633 - INFO - 🔍 Scraping [353] (attempt 1): televizor-xiaomi-tv-q2-l65m7-q2ru
+2025-10-30 13:33:48,089 - INFO - ✅ [353/501] Televizor Xiaomi TV Q2 L65M7-Q2RU
+2025-10-30 13:33:55,875 - INFO - 🔍 Scraping [354] (attempt 1): televizor-xiaomi-tv-s-mini-55-l55ma-splru
+2025-10-30 13:34:04,699 - INFO - ✅ [354/501] Televizor Xiaomi TV S Mini 55 L55MA-SPLRU
+2025-10-30 13:34:09,646 - INFO - 🔍 Scraping [355] (attempt 1): televizor-xiaomi-tv-s-mini-65-l65ma-splru
+2025-10-30 13:34:14,493 - INFO - ✅ [355/501] Televizor Xiaomi TV S Mini 65 L65MA-SPLRU
+2025-10-30 13:34:21,966 - INFO - 🔍 Scraping [356] (attempt 1): televizor-xiaomi-tv-s-mini-75-l75ma-splru
+2025-10-30 13:34:31,269 - INFO - ✅ [356/501] Televizor Xiaomi TV S Mini 75 L75MA-SPLRU
+2025-10-30 13:34:37,069 - INFO - 🔍 Scraping [357] (attempt 1): teravetlendirici-yag-xiaomi-smart-scent-diffuser
+2025-10-30 13:34:46,604 - INFO - ✅ [357/501] Təravətləndirici yağ Xiaomi Smart Scent Diffuser
+2025-10-30 13:34:53,996 - INFO - 🔍 Scraping [358] (attempt 1): terezi-xiaomi-mi-body-composition-scale-2
+2025-10-30 13:35:01,050 - INFO - ✅ [358/501] Tərəzi Xiaomi Mi Body Composition Scale 2
+2025-10-30 13:35:05,616 - INFO - 🔍 Scraping [359] (attempt 1): terezi-xiaomi-mi-body-composition-scale-s400
+2025-10-30 13:35:10,962 - INFO - ✅ [359/501] Tərəzi Xiaomi MI Body Composition Scale S400
+2025-10-30 13:35:17,724 - INFO - 🔍 Scraping [360] (attempt 1): terezi-xiaomi-mi-smart-scale-2-white
+2025-10-30 13:35:23,207 - INFO - ✅ [360/501] Tərəzi Xiaomi Mi Smart Scale 2 White
+2025-10-30 13:35:27,516 - INFO - 🔍 Scraping [361] (attempt 1): terezi-xiaomi-s200-bhr9230gl
+2025-10-30 13:35:34,943 - INFO - ✅ [361/501] Tərəzi Xiaomi S200 BHR9230GL
+2025-10-30 13:35:39,702 - INFO - 🔍 Scraping [362] (attempt 1): terezi-xiaomi-s200-bhr9239gl
+2025-10-30 13:35:48,805 - INFO - ✅ [362/501] Tərəzi Xiaomi S200 BHR9239GL
+2025-10-30 13:35:55,584 - INFO - 🔍 Scraping [363] (attempt 1): termopot-xiaomi-instant-hot-bhr9018eu
+2025-10-30 13:36:05,560 - INFO - ✅ [363/501] Termopot Xiaomi Instant Hot BHR9018EU
+2025-10-30 13:36:10,407 - INFO - 🔍 Scraping [364] (attempt 1): termopot-xiaomi-smart-bhr8992eu
+2025-10-30 13:36:15,927 - INFO - ✅ [364/501] Termopot Xiaomi Smart BHR8992EU
+2025-10-30 13:36:22,720 - INFO - 🔍 Scraping [365] (attempt 1): termopot-xiaomi-smart-electric-hot-bhr8993eu
+2025-10-30 13:36:27,492 - INFO - ✅ [365/501] Termopot Xiaomi Smart Electric Hot BHR8993EU
+2025-10-30 13:36:32,987 - INFO - 🔍 Scraping [366] (attempt 1): termopot-xiaomi-smart-pro-eu-bhr8175eu
+2025-10-30 13:36:38,369 - INFO - ✅ [366/501] Termopot Xiaomi Smart Pro EU BHR8175EU
+2025-10-30 13:36:43,349 - INFO - 🔍 Scraping [367] (attempt 1): termoqiqrometr-xiaomi-mi-2-nun4126gl
+2025-10-30 13:36:50,202 - INFO - ✅ [367/501] Termoqiqrometr Xiaomi Mi 2 NUN4126GL
+2025-10-30 13:36:55,753 - INFO - 🔍 Scraping [368] (attempt 1): tiftiktemizleyen-xiaomi-gl
+2025-10-30 13:37:01,050 - INFO - ✅ [368/501] Tiftiktəmizləyən Xiaomi GL
+2025-10-30 13:37:06,103 - INFO - 🔍 Scraping [369] (attempt 1): tozsoran-xiaomi-dust-mite-2
+2025-10-30 13:37:23,998 - INFO - ✅ [369/501] Tozsoran Xiaomi Dust Mite 2
+2025-10-30 13:37:31,608 - INFO - 🔍 Scraping [370] (attempt 1): tozsoran-xiaomi-dust-mite-pro
+2025-10-30 13:37:46,087 - INFO - ✅ [370/501] Tozsoran Xiaomi Dust Mite Pro
+2025-10-30 13:37:51,633 - INFO - 🔍 Scraping [371] (attempt 1): tozsoran-xiaomi-mi-mini-bhr4562gl
+2025-10-30 13:38:10,653 - INFO - ✅ [371/501] Tozsoran Xiaomi Mi Mini Bhr4562Gl
+2025-10-30 13:38:14,969 - INFO - 🔍 Scraping [372] (attempt 1): tozsoran-xiaomi-mi-mini-bhr4916gl
+2025-10-30 13:38:24,462 - INFO - ✅ [372/501] Tozsoran Xiaomi Mi Mini BHR4916GL
+2025-10-30 13:38:31,098 - INFO - 🔍 Scraping [373] (attempt 1): tozsoran-xiaomi-mi-mini-gl
+2025-10-30 13:38:39,840 - INFO - ✅ [373/501] Tozsoran Xiaomi Mi Mini GL
+2025-10-30 13:38:46,826 - INFO - 🔍 Scraping [374] (attempt 1): trimmer-xiaomi-grooming-kit
+2025-10-30 13:38:57,025 - INFO - ✅ [374/501] Trimmer Xiaomi Grooming Kit
+2025-10-30 13:39:01,307 - INFO - 🔍 Scraping [375] (attempt 1): trimmer-xiaomi-grooming-kit-pro
+2025-10-30 13:39:09,424 - INFO - ✅ [375/501] Trimmer Xiaomi Grooming Kit Pro
+2025-10-30 13:39:13,837 - INFO - 🔍 Scraping [376] (attempt 1): trimmer-xiaomi-mjghb1lf-bhr8997gl
+2025-10-30 13:39:21,554 - INFO - ✅ [376/501] Trimmer Xiaomi MJGHB1LF (BHR8997GL)
+2025-10-30 13:39:27,887 - INFO - 🔍 Scraping [377] (attempt 1): trimmer-xiaomi-uniblade
+2025-10-30 13:39:27,888 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 13:39:28,404 - INFO - ✅ WebDriver created successfully
+2025-10-30 13:39:39,507 - INFO - ✅ [377/501] Trimmer Xiaomi Uniblade
+2025-10-30 13:39:46,734 - INFO - 🔍 Scraping [378] (attempt 1): tv-box-xiaomi-mi-s-3nd-gen-4k
+2025-10-30 13:39:54,459 - INFO - ✅ [378/501] TV Box Xiaomi Mi S 3rd Gen 4K (MDZ-32-AA)
+2025-10-30 13:39:59,705 - INFO - 🔍 Scraping [379] (attempt 1): tv-box-xiaomi-mi-s-3rd-gen-4k-kontakt-tv-6-ay-abun
+2025-10-30 13:40:03,516 - INFO - ✅ [379/501] TV Box Xiaomi Mi S 3rd Gen 4K + Kontakt TV 6 ay ab
+2025-10-30 13:40:10,281 - INFO - 🔍 Scraping [380] (attempt 1): tv-stick-xiaomi-4k-mdz-33-aa-pfj4197eu
+2025-10-30 13:40:14,156 - INFO - ✅ [380/501] TV Stick Xiaomi 4K (MDZ-33-AA) PFJ4197EU
+2025-10-30 13:40:18,776 - INFO - 🔍 Scraping [381] (attempt 1): utu-xiaomi-handheld-garment-steamer
+2025-10-30 13:40:23,353 - INFO - ✅ [381/501] Əl buxarlandırıcısı Xiaomi Handheld Garment Steame
+2025-10-30 13:40:30,568 - INFO - 🔍 Scraping [382] (attempt 1): uzguculuk-eynekleri-xiaomi-mi-ts-adult-ypc001-2020
+2025-10-30 13:40:37,705 - INFO - ✅ [382/501] Üzgüçülük eynəkləri Xiaomi Mi TS adult YPC001-2020
+2025-10-30 13:40:43,001 - INFO - 🔍 Scraping [383] (attempt 1): uzqirxan-ucun-basliq-xiaomi-s700
+2025-10-30 13:40:49,151 - INFO - ✅ [383/501] Üzqırxan üçün başlıq Xiaomi S700
+2025-10-30 13:40:55,619 - INFO - 🔍 Scraping [384] (attempt 1): uzqirxan-xiaomi-mi-5-blade
+2025-10-30 13:41:00,523 - INFO - ✅ [384/501] Üzqırxan Xiaomi Mİ-5 BLADE
+2025-10-30 13:41:07,494 - INFO - 🔍 Scraping [385] (attempt 1): uzqirxan-xiaomi-s101-eu
+2025-10-30 13:41:12,481 - INFO - ✅ [385/501] Üzqırxan Xiaomi S101 EU
+2025-10-30 13:41:17,456 - INFO - 🔍 Scraping [386] (attempt 1): uzqirxan-xiaomi-s200-bhr9523gl
+2025-10-30 13:41:27,488 - INFO - ✅ [386/501] Üzqırxan Xiaomi S200 BHR9523GL
+2025-10-30 13:41:31,888 - INFO - 🔍 Scraping [387] (attempt 1): uzqirxan-xiaomi-s200-bhr9529gl
+2025-10-30 13:41:40,025 - INFO - ✅ [387/501] Üzqırxan Xiaomi S200 BHR9529GL
+2025-10-30 13:41:47,533 - INFO - 🔍 Scraping [388] (attempt 1): uzqirxan-xiaomi-s301-eu
+2025-10-30 13:41:52,421 - INFO - ✅ [388/501] Üzqırxan Xiaomi S301 EU
+2025-10-30 13:42:00,293 - INFO - 🔍 Scraping [389] (attempt 1): uzqirxan-xiaomi-s500
+2025-10-30 13:42:07,485 - INFO - ✅ [389/501] Üzqırxan Xiaomi S500
+2025-10-30 13:42:12,890 - INFO - 🔍 Scraping [390] (attempt 1): uzqirxan-xiaomi-s700
+2025-10-30 13:42:17,302 - INFO - ✅ [390/501] Üzqırxan Xiaomi S700
+2025-10-30 13:42:25,113 - INFO - 🔍 Scraping [391] (attempt 1): ventilyator-xiaomi-fan-3-zlbplds05zm-pnp6005eu
+2025-10-30 13:42:35,236 - INFO - ✅ [391/501] Ventilyator Xiaomi Fan 3 ZLBPLDS05ZM (PNP6005EU)
+2025-10-30 13:42:40,400 - INFO - 🔍 Scraping [392] (attempt 1): ventilyator-xiaomi-mi-smart-standing-fan-2-lite-jl
+2025-10-30 13:42:46,087 - INFO - ✅ [392/501] Ventilyator Xiaomi MI Smart Standing Fan 2 Lite JL
+2025-10-30 13:42:51,843 - INFO - 🔍 Scraping [393] (attempt 1): ventilyator-xiaomi-rechargeable-mini-fan
+2025-10-30 13:42:59,257 - INFO - ✅ [393/501] Ventilyator Xiaomi Rechargeable Mini Fan
+2025-10-30 13:43:05,126 - INFO - 🔍 Scraping [394] (attempt 1): ventilyator-xiaomi-smart-standing-fan-2
+2025-10-30 13:43:20,063 - INFO - ✅ [394/501] Ventilyator Xiaomi Smart Standing Fan 2
+2025-10-30 13:43:26,809 - INFO - 🔍 Scraping [395] (attempt 1): ventilyator-xiaomi-smart-standing-fan-2-pro-eu-bpl
+2025-10-30 13:43:34,409 - INFO - ✅ [395/501] Ventilyator Xiaomi Smart Standing Fan 2 Pro EU (BP
+2025-10-30 13:43:39,679 - INFO - 🔍 Scraping [396] (attempt 1): ventilyator-xiaomi-smart-tower-fan-2-bpts02dmu
+2025-10-30 13:43:48,330 - INFO - ✅ [396/501] Ventilyator Xiaomi Smart Tower Fan 2 (BPTS02DMU)
+2025-10-30 13:43:53,080 - INFO - 🔍 Scraping [397] (attempt 1): vintburan-desti-xiaomi-mi-16-ed-ratchet-screwdrive
+2025-10-30 13:44:02,743 - INFO - ✅ [397/501] Vintburan dəsti Xiaomi Mi 16 əd Ratchet Screwdrive
+2025-10-30 13:44:07,268 - INFO - 🔍 Scraping [398] (attempt 1): vintburan-desti-xiaomi-mi-bhr4680gl
+2025-10-30 13:44:22,973 - INFO - ✅ [398/501] Vintburan dəsti Xiaomi Mi BHR4680GL
+2025-10-30 13:44:28,723 - INFO - 🔍 Scraping [399] (attempt 1): vintburan-xiaomi-mijia-electric-screwdriver-dzn401
+2025-10-30 13:44:36,021 - INFO - ✅ [399/501] Vintburan Xiaomi Mijia Electric Screwdriver /Dzn40
+2025-10-30 13:44:40,167 - INFO - 🔍 Scraping [400] (attempt 1): wi-fi-siqnal-guclendirici-xiaomi-ax1500-dvb4515gl
+2025-10-30 13:44:46,686 - INFO - ✅ [400/501] Wi-Fi siqnal gücləndirici Xiaomi AX1500 DVB4515GL
+2025-10-30 13:44:53,014 - INFO - 🔍 Scraping [401] (attempt 1): xiaomi-11-t-8-128-gb-moonlight-white
+2025-10-30 13:45:00,879 - INFO - ✅ [401/501] Xiaomi 11T 8/128 GB Moonlight White
+2025-10-30 13:45:07,669 - INFO - 🔍 Scraping [402] (attempt 1): xiaomi-11t-8-128-gb-meteorite-gray
+2025-10-30 13:45:07,669 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 13:45:08,142 - INFO - ✅ WebDriver created successfully
+2025-10-30 13:45:19,750 - INFO - ✅ [402/501] Xiaomi 11T 8/128 GB Meteorite Gray
+2025-10-30 13:45:24,300 - INFO - 🔍 Scraping [403] (attempt 1): xiaomi-11t-8-256-gb-celestial-blue
+2025-10-30 13:45:30,673 - INFO - ✅ [403/501] Xiaomi 11T 8/256 GB Celestial Blue
+2025-10-30 13:45:35,325 - INFO - 🔍 Scraping [404] (attempt 1): xiaomi-11t-pro-8-128-gb-moonlight-white
+2025-10-30 13:45:42,125 - INFO - ✅ [404/501] Xiaomi 11T Pro 8/128 GB Moonlight White
+2025-10-30 13:45:47,014 - INFO - 🔍 Scraping [405] (attempt 1): xiaomi-12-8-256-gb-blue
+2025-10-30 13:45:52,939 - INFO - ✅ [405/501] Xiaomi 12 8/256 GB Blue
+2025-10-30 13:45:59,112 - INFO - 🔍 Scraping [406] (attempt 1): xiaomi-12-8-256-gb-grey
+2025-10-30 13:46:07,479 - INFO - ✅ [406/501] Xiaomi 12 8/256 GB Grey
+2025-10-30 13:46:13,028 - INFO - 🔍 Scraping [407] (attempt 1): xiaomi-12-8-256-gb-purple
+2025-10-30 13:46:19,934 - INFO - ✅ [407/501] Xiaomi 12 8/256 GB Purple
+2025-10-30 13:46:24,736 - INFO - 🔍 Scraping [408] (attempt 1): xiaomi-12-lite-6-128-gb-lite-pink
+2025-10-30 13:46:31,754 - INFO - ✅ [408/501] Xiaomi 12 Lite 6/128 GB Lite Pink
+2025-10-30 13:46:37,598 - INFO - 🔍 Scraping [409] (attempt 1): xiaomi-12-lite-8-128-gb-black
+2025-10-30 13:46:42,750 - INFO - ✅ [409/501] Xiaomi 12 Lite 8/128 GB Black
+2025-10-30 13:46:49,636 - INFO - 🔍 Scraping [410] (attempt 1): xiaomi-12-lite-8-128-gb-pink
+2025-10-30 13:46:55,631 - INFO - ✅ [410/501] Xiaomi 12 Lite 8/128 GB Pink
+2025-10-30 13:47:00,598 - INFO - 🔍 Scraping [411] (attempt 1): xiaomi-12-lite-8-256-gb-black
+2025-10-30 13:47:07,510 - INFO - ✅ [411/501] Xiaomi 12 Lite 8/256 GB Black
+2025-10-30 13:47:11,862 - INFO - 🔍 Scraping [412] (attempt 1): xiaomi-12-lite-8-256-gb-green
+2025-10-30 13:47:19,249 - INFO - ✅ [412/501] Xiaomi 12 Lite 8/256 GB Green
+2025-10-30 13:47:24,919 - INFO - 🔍 Scraping [413] (attempt 1): xiaomi-12-lite-8-256-gb-pink
+2025-10-30 13:47:31,601 - INFO - ✅ [413/501] Xiaomi 12 Lite 8/256 GB Pink
+2025-10-30 13:47:37,815 - INFO - 🔍 Scraping [414] (attempt 1): xiaomi-120w-combo-charger-bhr6034eu
+2025-10-30 13:47:45,104 - INFO - ✅ [414/501] Xiaomi 120W Combo Charger  BHR6034EU
+2025-10-30 13:47:50,723 - INFO - 🔍 Scraping [415] (attempt 1): xiaomi-12t-8-128-gb-blue
+2025-10-30 13:47:58,470 - INFO - ✅ [415/501] Xiaomi 12T 8/128 GB Blue
+2025-10-30 13:48:02,894 - INFO - 🔍 Scraping [416] (attempt 1): xiaomi-12t-8-128-gb-silver
+2025-10-30 13:48:12,489 - INFO - ✅ [416/501] Xiaomi 12T 8/128 GB Silver
+2025-10-30 13:48:17,585 - INFO - 🔍 Scraping [417] (attempt 1): xiaomi-12t-8-256-gb-black
+2025-10-30 13:48:23,393 - INFO - ✅ [417/501] Xiaomi 12T 8/256 GB Black
+2025-10-30 13:48:28,358 - INFO - 🔍 Scraping [418] (attempt 1): xiaomi-12t-8-256-gb-blue
+2025-10-30 13:48:36,302 - INFO - ✅ [418/501] Xiaomi  12T 8/256 GB  Blue
+2025-10-30 13:48:42,908 - INFO - 🔍 Scraping [419] (attempt 1): xiaomi-12t-8-256-gb-silver
+2025-10-30 13:48:49,198 - INFO - ✅ [419/501] Xiaomi 12T 8/256 GB Silver
+2025-10-30 13:48:57,160 - INFO - 🔍 Scraping [420] (attempt 1): xiaomi-12t-pro-8-256-gb-blue
+2025-10-30 13:49:03,349 - INFO - ✅ [420/501] Xiaomi 12T Pro 8/256 GB Blue
+2025-10-30 13:49:07,727 - INFO - 🔍 Scraping [421] (attempt 1): xiaomi-12x-8-128-gb-gray
+2025-10-30 13:49:11,767 - INFO - ✅ [421/501] Xiaomi 12X 8/128 GB Gray
+2025-10-30 13:49:18,327 - INFO - 🔍 Scraping [422] (attempt 1): xiaomi-12x-8-128-gb-purple
+2025-10-30 13:49:26,663 - INFO - ✅ [422/501] Xiaomi 12X 8/128 GB Purple
+2025-10-30 13:49:31,176 - INFO - 🔍 Scraping [423] (attempt 1): xiaomi-13-12-256-gb-black
+2025-10-30 13:49:38,944 - INFO - ✅ [423/501] Xiaomi 13 12/256 GB Black
+2025-10-30 13:49:44,640 - INFO - 🔍 Scraping [424] (attempt 1): xiaomi-13-12-256-gb-flora-green
+2025-10-30 13:49:51,851 - INFO - ✅ [424/501] Xiaomi 13 12/256 GB Flora Green
+2025-10-30 13:49:58,172 - INFO - 🔍 Scraping [425] (attempt 1): xiaomi-13-8-256-gb-black
+2025-10-30 13:50:04,202 - INFO - ✅ [425/501] Xiaomi 13 8/256 GB Black
+2025-10-30 13:50:11,287 - INFO - 🔍 Scraping [426] (attempt 1): xiaomi-13-8-256-gb-flora-green
+2025-10-30 13:50:18,231 - INFO - ✅ [426/501] Xiaomi 13 8/256 GB Flora Green
+2025-10-30 13:50:23,175 - INFO - 🔍 Scraping [427] (attempt 1): xiaomi-13-lite-8-128-gb-black
+2025-10-30 13:50:23,176 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 13:50:23,687 - INFO - ✅ WebDriver created successfully
+2025-10-30 13:50:35,869 - INFO - ✅ [427/501] Xiaomi 13 Lite 8/128 GB Black
+2025-10-30 13:50:43,317 - INFO - 🔍 Scraping [428] (attempt 1): xiaomi-13-lite-8-128-gb-lite-pink
+2025-10-30 13:50:51,761 - INFO - ✅ [428/501] Xiaomi 13 Lite 8/128 GB Lite Pink
+2025-10-30 13:50:58,987 - INFO - 🔍 Scraping [429] (attempt 1): xiaomi-13-lite-8-256-gb-black
+2025-10-30 13:51:06,499 - INFO - ✅ [429/501] Xiaomi 13 Lite 8/256 GB Black
+2025-10-30 13:51:13,441 - INFO - 🔍 Scraping [430] (attempt 1): xiaomi-13-lite-8-256-gb-light-blue
+2025-10-30 13:51:20,777 - INFO - ✅ [430/501] Xiaomi 13 Lite 8/256 GB Light Blue
+2025-10-30 13:51:27,299 - INFO - 🔍 Scraping [431] (attempt 1): xiaomi-13-lite-8-256-gb-light-pink
+2025-10-30 13:51:35,620 - INFO - ✅ [431/501] Xiaomi 13 Lite 8/256 GB Light Pink
+2025-10-30 13:51:43,038 - INFO - 🔍 Scraping [432] (attempt 1): xiaomi-13t-12-256-gb-alpine-blue
+2025-10-30 13:51:49,064 - INFO - ✅ [432/501] Xiaomi 13T 12/256 GB Alpine Blue
+2025-10-30 13:51:55,593 - INFO - 🔍 Scraping [433] (attempt 1): xiaomi-13t-12-256-gb-black
+2025-10-30 13:52:00,733 - INFO - ✅ [433/501] Xiaomi 13T 12/256 GB Black
+2025-10-30 13:52:06,971 - INFO - 🔍 Scraping [434] (attempt 1): xiaomi-13t-12-256-gb-meadow-green
+2025-10-30 13:52:18,211 - INFO - ✅ [434/501] Xiaomi 13T 12/256 GB Meadow Green
+2025-10-30 13:52:23,115 - INFO - 🔍 Scraping [435] (attempt 1): xiaomi-13t-pro-12-512-gb-alpine-blue
+2025-10-30 13:52:28,214 - INFO - ✅ [435/501] Xiaomi 13T Pro 12/512 GB Alpine Blue
+2025-10-30 13:52:35,826 - INFO - 🔍 Scraping [436] (attempt 1): xiaomi-13t-pro-12-512-gb-black
+2025-10-30 13:52:42,221 - INFO - ✅ [436/501] Xiaomi 13T Pro 12/512 GB Black
+2025-10-30 13:52:49,934 - INFO - 🔍 Scraping [437] (attempt 1): xiaomi-13t-pro-12-512-gb-meadow-green
+2025-10-30 13:52:58,061 - INFO - ✅ [437/501] Xiaomi 13T Pro 12/512 GB Meadow Green
+2025-10-30 13:53:05,181 - INFO - 🔍 Scraping [438] (attempt 1): xiaomi-14-12-512-gb-black
+2025-10-30 13:53:17,653 - INFO - ✅ [438/501] Xiaomi 14 12/512 GB Black
+2025-10-30 13:53:22,482 - INFO - 🔍 Scraping [439] (attempt 1): xiaomi-14-12-512-gb-jade-green
+2025-10-30 13:53:29,489 - INFO - ✅ [439/501] Xiaomi 14 12/512 GB Jade Green
+2025-10-30 13:53:35,718 - INFO - 🔍 Scraping [440] (attempt 1): xiaomi-14-12-512-gb-white
+2025-10-30 13:53:45,751 - INFO - ✅ [440/501] Xiaomi 14 12/512 GB White
+2025-10-30 13:53:50,968 - INFO - 🔍 Scraping [441] (attempt 1): xiaomi-14-ultra-16-512gb-black
+2025-10-30 13:53:59,439 - INFO - ✅ [441/501] Xiaomi 14 Ultra 16/512GB Black
+2025-10-30 13:54:03,840 - INFO - 🔍 Scraping [442] (attempt 1): xiaomi-14-ultra-16-512gb-white
+2025-10-30 13:54:14,943 - INFO - ✅ [442/501] Xiaomi 14 Ultra 16/512GB White
+2025-10-30 13:54:22,500 - INFO - 🔍 Scraping [443] (attempt 1): xiaomi-14t-12-256-gb-lemon-green
+2025-10-30 13:54:28,868 - INFO - ✅ [443/501] Xiaomi 14T 12/256 GB Lemon Green
+2025-10-30 13:54:35,988 - INFO - 🔍 Scraping [444] (attempt 1): xiaomi-14t-12-256-gb-titan-black
+2025-10-30 13:54:42,325 - INFO - ✅ [444/501] Xiaomi 14T 12/256 GB Titan Black
+2025-10-30 13:54:49,033 - INFO - 🔍 Scraping [445] (attempt 1): xiaomi-14t-12-256-gb-titan-gray
+2025-10-30 13:54:55,945 - INFO - ✅ [445/501] Xiaomi 14T 12/256 GB Titan Gray
+2025-10-30 13:55:03,857 - INFO - 🔍 Scraping [446] (attempt 1): xiaomi-14t-pro-12-512-gb-titan-black
+2025-10-30 13:55:10,619 - INFO - ✅ [446/501] Xiaomi 14T Pro 12/512 GB Titan Black
+2025-10-30 13:55:17,705 - INFO - 🔍 Scraping [447] (attempt 1): xiaomi-14t-pro-12-512-gb-titan-gray
+2025-10-30 13:55:24,892 - INFO - ✅ [447/501] Xiaomi 14T Pro 12/512 GB Titan Gray
+2025-10-30 13:55:29,636 - INFO - 🔍 Scraping [448] (attempt 1): xiaomi-15-12-512-gb-black
+2025-10-30 13:55:37,339 - INFO - ✅ [448/501] Xiaomi 15 12/512 GB Black
+2025-10-30 13:55:44,597 - INFO - 🔍 Scraping [449] (attempt 1): xiaomi-15-12-512-gb-green
+2025-10-30 13:55:50,695 - INFO - ✅ [449/501] Xiaomi 15 12/512 GB Green
+2025-10-30 13:55:54,704 - INFO - 🔍 Scraping [450] (attempt 1): xiaomi-15-12-512-gb-white
+2025-10-30 13:56:01,503 - INFO - ✅ [450/501] Xiaomi 15 12/512 GB White
+2025-10-30 13:56:05,651 - INFO - 🔍 Scraping [451] (attempt 1): xiaomi-15-ultra-16-512-gb-black
+2025-10-30 13:56:11,818 - INFO - ✅ [451/501] Xiaomi 15 Ultra 16/512 GB Black
+2025-10-30 13:56:17,389 - INFO - 🔍 Scraping [452] (attempt 1): xiaomi-15-ultra-16-512-gb-white
+2025-10-30 13:56:17,389 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 13:56:17,850 - INFO - ✅ WebDriver created successfully
+2025-10-30 13:56:24,974 - INFO - ✅ [452/501] Xiaomi 15 Ultra 16/512 GB White
+2025-10-30 13:56:32,526 - INFO - 🔍 Scraping [453] (attempt 1): xiaomi-15t-12-512-gb-black
+2025-10-30 13:56:37,078 - INFO - ✅ [453/501] Xiaomi 15T 12/512 GB Black
+2025-10-30 13:56:42,302 - INFO - 🔍 Scraping [454] (attempt 1): xiaomi-15t-12-512-gb-gray
+2025-10-30 13:56:46,030 - INFO - ✅ [454/501] Xiaomi 15T 12/512 GB Gray
+2025-10-30 13:56:51,857 - INFO - 🔍 Scraping [455] (attempt 1): xiaomi-15t-12-512-gb-rose-gold
+2025-10-30 13:56:56,837 - INFO - ✅ [455/501] Xiaomi 15T 12/512 GB Rose Gold
+2025-10-30 13:57:04,358 - INFO - 🔍 Scraping [456] (attempt 1): xiaomi-15t-pro-12-512-gb-black
+2025-10-30 13:57:09,719 - INFO - ✅ [456/501] Xiaomi 15T Pro 12/512 GB Black
+2025-10-30 13:57:15,258 - INFO - 🔍 Scraping [457] (attempt 1): xiaomi-15t-pro-12-512-gb-gray
+2025-10-30 13:57:19,529 - INFO - ✅ [457/501] Xiaomi 15T Pro 12/512 GB Gray
+2025-10-30 13:57:25,257 - INFO - 🔍 Scraping [458] (attempt 1): xiaomi-15t-pro-12-512-gb-mocha-gold
+2025-10-30 13:57:32,801 - INFO - ✅ [458/501] Xiaomi 15T Pro 12/512 GB Mocha Gold
+2025-10-30 13:57:38,313 - INFO - 🔍 Scraping [459] (attempt 1): xiaomi-15t-pro-12-gb-1-tb-gray
+2025-10-30 13:57:43,717 - INFO - ✅ [459/501] Xiaomi 15T Pro 12 GB / 1 TB Gray
+2025-10-30 13:57:51,700 - INFO - 🔍 Scraping [460] (attempt 1): xiaomi-15t-pro-12-gb-1-tb-mocha-gold
+2025-10-30 13:57:57,084 - INFO - ✅ [460/501] Xiaomi 15T Pro 12 GB / 1 TB Mocha Gold
+2025-10-30 13:58:05,058 - INFO - 🔍 Scraping [461] (attempt 1): xiaomi-2020-modelleri
+2025-10-30 13:58:17,125 - INFO - ✅ [461/501] Xiaomi 2020 modelleri
+2025-10-30 13:58:24,932 - INFO - 🔍 Scraping [462] (attempt 1): xiaomi-2020-qiymeti
+2025-10-30 13:58:30,054 - INFO - ✅ [462/501] Xiaomi 2020 qiymeti
+2025-10-30 13:58:37,481 - INFO - 🔍 Scraping [463] (attempt 1): xiaomi-2020-telefon-modelleri
+2025-10-30 13:58:43,911 - INFO - ✅ [463/501] Xiaomi 2020 telefon modelleri
+2025-10-30 13:58:49,837 - INFO - 🔍 Scraping [464] (attempt 1): xiaomi-2023-telefon-modelleri
+2025-10-30 13:58:54,853 - INFO - ✅ [464/501] Xiaomi 2023 telefon modelleri
+2025-10-30 13:58:59,085 - INFO - 🔍 Scraping [465] (attempt 1): xiaomi-67w-gan-charger-bhr7493eu
+2025-10-30 13:59:06,427 - INFO - ✅ [465/501] Xiaomi 67W Gan Charger BHR7493EU
+2025-10-30 13:59:12,678 - INFO - 🔍 Scraping [466] (attempt 1): xiaomi-amazfit-3-pro-infinite-black
+2025-10-30 13:59:21,729 - INFO - ✅ [466/501] Xiaomi Amazfit 3 PRO Infinite Black
+2025-10-30 13:59:27,319 - INFO - 🔍 Scraping [467] (attempt 1): xiaomi-amazfit-gtr-42-mm-black
+2025-10-30 13:59:34,697 - INFO - ✅ [467/501] Amazfit GTR 42 mm Black
+2025-10-30 13:59:41,575 - INFO - 🔍 Scraping [468] (attempt 1): xiaomi-amazfit-gts-2-grey
+2025-10-30 13:59:51,186 - INFO - ✅ [468/501] Amazfit GTS 2 Grey
+2025-10-30 13:59:57,474 - INFO - 🔍 Scraping [469] (attempt 1): xiaomi-amazfit-gts-2-midnight-black
+2025-10-30 14:00:06,431 - INFO - ✅ [469/501] Xiaomi Amazfit GTS 2 Midnight Black
+2025-10-30 14:00:12,799 - INFO - 🔍 Scraping [470] (attempt 1): xiaomi-amazfit-verge-grey
+2025-10-30 14:00:20,681 - INFO - ✅ [470/501] Amazfit Verge Grey
+2025-10-30 14:00:26,968 - INFO - 🔍 Scraping [471] (attempt 1): xiaomi-azerbaijan
+2025-10-30 14:00:32,210 - INFO - ✅ [471/501] Xiaomi Azerbaijan
+2025-10-30 14:00:38,599 - INFO - 🔍 Scraping [472] (attempt 1): xiaomi-black-shark-4-12-128-gb-black
+2025-10-30 14:00:46,064 - INFO - ✅ [472/501] Xiaomi Black Shark 4 12/128 GB Black
+2025-10-30 14:00:52,884 - INFO - 🔍 Scraping [473] (attempt 1): xiaomi-black-shark-4-12gb-256gb-black
+2025-10-30 14:01:00,385 - INFO - ✅ [473/501] Xiaomi Black Shark 4 12/256 GB Black
+2025-10-30 14:01:08,333 - INFO - 🔍 Scraping [474] (attempt 1): xiaomi-black-shark-4-8-128-gb-black
+2025-10-30 14:01:19,145 - INFO - ✅ [474/501] Xiaomi Black Shark 4 8/128 GB Black
+2025-10-30 14:01:26,289 - INFO - 🔍 Scraping [475] (attempt 1): xiaomi-black-shark-5-12-256-gb-black
+2025-10-30 14:01:32,426 - INFO - ✅ [475/501] Xiaomi Black Shark 5 12/256 GB Black
+2025-10-30 14:01:39,217 - INFO - 🔍 Scraping [476] (attempt 1): xiaomi-black-shark-5-12-256-gb-gray
+2025-10-30 14:01:45,489 - INFO - ✅ [476/501] Xiaomi Black Shark 5 12/256 GB Gray
+2025-10-30 14:01:50,073 - INFO - 🔍 Scraping [477] (attempt 1): xiaomi-black-shark-5-8-128-gb-black
+2025-10-30 14:01:50,073 - INFO - 🔄 Restarting driver after 25 uses
+2025-10-30 14:01:50,557 - INFO - ✅ WebDriver created successfully
+2025-10-30 14:02:00,114 - INFO - ✅ [477/501] Xiaomi Black Shark 5 8/128 GB Black
+2025-10-30 14:02:04,961 - INFO - 🔍 Scraping [478] (attempt 1): xiaomi-black-shark-5-8gb-128-gray
+2025-10-30 14:02:15,635 - INFO - ✅ [478/501] Xiaomi Black Shark 5 8GB/128 - Gray
+2025-10-30 14:02:20,695 - INFO - 🔍 Scraping [479] (attempt 1): xiaomi-black-shark-5-pro-12gb-256gb-black
+2025-10-30 14:02:27,796 - INFO - ✅ [479/501] Xiaomi Black Shark 5 Pro 12GB/256GB - Black
+2025-10-30 14:02:33,238 - INFO - 🔍 Scraping [480] (attempt 1): xiaomi-blue-lllight-blocking-glasses-black-bhr8794
+2025-10-30 14:02:42,348 - INFO - ✅ [480/501] Xiaomi Blue Light Blocking Glasses Black BHR8794GL
+2025-10-30 14:02:46,449 - INFO - 🔍 Scraping [481] (attempt 1): xiaomi-bluetooth-speaekr-40w-black-qbh4275gl
+2025-10-30 14:02:55,341 - INFO - ✅ [481/501] Portativ akustika Xiaomi QBH4275GL Black
+2025-10-30 14:03:00,382 - INFO - 🔍 Scraping [482] (attempt 1): xiaomi-bluetooth-speaekr-mini-6w-black-qbh4274gl
+2025-10-30 14:03:04,295 - INFO - ✅ [482/501] Xiaomi Bluetooth Speaker Mini 6W Black QBH4274GL
+2025-10-30 14:03:08,967 - INFO - 🔍 Scraping [483] (attempt 1): xiaomi-braided-quick-release-strap-olive-green-bhr
+2025-10-30 14:03:19,755 - INFO - ✅ [483/501] Kəmər Xiaomi Braided Quick Release Strap Olive Gre
+2025-10-30 14:03:24,211 - INFO - 🔍 Scraping [484] (attempt 1): xiaomi-braided-quick-release-strap-rose-purple-bhr
+2025-10-30 14:03:31,882 - INFO - ✅ [484/501] Kəmər Xiaomi Braided Quick Release Strap Rose Purp
+2025-10-30 14:03:36,818 - INFO - 🔍 Scraping [485] (attempt 1): xiaomi-brend-sehifesi
+2025-10-30 14:03:53,717 - INFO - ✅ [485/501] Xiaomi
+2025-10-30 14:03:58,190 - INFO - 🔍 Scraping [486] (attempt 1): xiaomi-bundle
+2025-10-30 14:04:02,420 - INFO - ✅ [486/501] Xiaomi Bundle
+2025-10-30 14:04:09,780 - INFO - 🔍 Scraping [487] (attempt 1): xiaomi-car-charger-67w-bhr6814gl
+2025-10-30 14:04:17,840 - INFO - ✅ [487/501] Xiaomi Car Charger 67W BHR6814GL
+2025-10-30 14:04:25,660 - INFO - 🔍 Scraping [488] (attempt 1): xiaomi-commuter-backpack-blue-bhr4905gl
+2025-10-30 14:04:34,428 - INFO - ✅ [488/501] Xiaomi Commuter Backpack Blue / BHR4905GL
+2025-10-30 14:04:39,788 - INFO - 🔍 Scraping [489] (attempt 1): xiaomi-commuter-helmet
+2025-10-30 14:04:47,807 - INFO - ✅ [489/501] Xiaomi Commuter Helmet
+2025-10-30 14:04:51,942 - INFO - 🔍 Scraping [490] (attempt 1): xiaomi-conference-tapcast
+2025-10-30 14:05:00,441 - INFO - ✅ [490/501] Xiaomi Conference Tapcast
+2025-10-30 14:05:07,214 - INFO - 🔍 Scraping [491] (attempt 1): xiaomi-destkop-speaker-qbh4276gl
+2025-10-30 14:05:20,972 - INFO - ✅ [491/501] Soundbar Xiaomi Desktop Speaker QBH4276GL
+2025-10-30 14:05:25,267 - INFO - 🔍 Scraping [492] (attempt 1): xiaomi-electric-scooter-5-ddhbc35zm-bhr9618gl
+2025-10-30 14:05:30,791 - INFO - ✅ [492/501] Elektrosamokat Xiaomi Electric Scooter 5 DDHBC35ZM
+2025-10-30 14:05:36,574 - INFO - 🔍 Scraping [493] (attempt 1): xiaomi-electric-scooter-5-max-ddhbc40zm-bhr9615gl
+2025-10-30 14:05:41,779 - INFO - ✅ [493/501] Xiaomi Electric Scooter 5 Max DDHBC40ZM / BHR9615G
+2025-10-30 14:05:48,174 - INFO - 🔍 Scraping [494] (attempt 1): xiaomi-electric-scooter-5-pro-ddhbc45zm-bhr9611gl
+2025-10-30 14:05:52,179 - INFO - ✅ [494/501] Elektrosamokat Xiaomi Electric Scooter 5 Pro DDHBC
+2025-10-30 14:05:59,600 - INFO - 🔍 Scraping [495] (attempt 1): xiaomi-electric-scooter-5-pro-ddhbc45zm-bhr9611gl-
+2025-10-30 14:06:24,895 - ERROR - ❌ Unexpected error: 'NoneType' object is not subscriptable
+2025-10-30 14:06:24,895 - INFO - 🔍 Scraping [496] (attempt 1): xiaomi-en-son-modeli-2020
+2025-10-30 14:06:31,557 - INFO - ✅ [496/501] Xiaomi en son modeli 2020
+2025-10-30 14:06:37,798 - INFO - 🔍 Scraping [497] (attempt 1): xiaomi-en-son-modeli-2023
+2025-10-30 14:06:43,862 - INFO - ✅ [497/501] Xiaomi en son modeli 2023
+2025-10-30 14:06:50,250 - INFO - 🔍 Scraping [498] (attempt 1): xiaomi-en-yeni-modeli-2020
+2025-10-30 14:06:56,587 - INFO - ✅ [498/501] Xiaomi en yeni modeli 2020
+2025-10-30 14:07:02,854 - INFO - 🔍 Scraping [499] (attempt 1): xiaomi-en-yeni-modeli-2023
+2025-10-30 14:07:08,460 - INFO - ✅ [499/501] Xiaomi en yeni modeli 2023
+2025-10-30 14:07:13,485 - INFO - 🔍 Scraping [500] (attempt 1): xiaomi-haylou-gt1-plus
+2025-10-30 14:07:23,160 - INFO - ✅ [500/501] Xiaomi Haylou Gt1 Plus
+2025-10-30 14:07:31,060 - INFO - 🔍 Scraping [501] (attempt 1): xiaomi-home-temperatyre-and-humidity-monitor-pro-b
+2025-10-30 14:07:40,132 - INFO - ✅ [501/501] Xiaomi Termoqiqrometr BHR5435GL
